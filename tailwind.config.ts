@@ -24,11 +24,13 @@ const config: Config = {
       },
       fontFamily: {
         'space-mono': ['"Space Mono"', 'monospace'],
+        'tomorrow': ['"Tomorrow"', 'monospace'],
       },
       fontWeight: {
         'space-mono-light': '300',
         'space-mono-regular': '400',
         'space-mono-bold': '700',
+        'tomorrow-bold': '700',
       },
     },
   },
