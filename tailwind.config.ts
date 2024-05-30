@@ -21,6 +21,7 @@ const config: Config = {
         border: '#484848',
         textPrimary: '#FFFFFF',
         textSecondary: '#A0A0A0',
+        discordPurple: '#5865F2',
       },
       fontFamily: {
         'space-mono': ['"Space Mono"', 'monospace'],

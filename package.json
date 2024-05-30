@@ -14,7 +14,12 @@
     "react": "^18",
     "react-dom": "^18",
     "react-icons": "^5.2.1",
-    "styled-components": "^6.1.11"
+    "styled-components": "^6.1.11",
+    "framer-motion": "^11.2.9",
+    "iconoir-react": "^7.7.0",
+    "next": "14.2.3",
+    "react": "^18",
+    "react-dom": "^18"
   },
   "devDependencies": {
     "@types/node": "^20",
