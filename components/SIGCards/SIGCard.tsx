@@ -1,6 +1,7 @@
 import { SIG } from '@/types/SIG'
 import { prefix } from '@/utils/prefix'
 import { ArrowUpRight } from 'iconoir-react'
+import Image from 'next/image'
 import { useState } from 'react'
 
 const SIGCard = ({ sig }: { sig: SIG }) => {
@@ -23,7 +24,7 @@ const SIGCard = ({ sig }: { sig: SIG }) => {
       )}
       <a href={sig.websiteURL} target="_blank" rel="noreferrer">
         <div className="flex flex-col justify-between h-full">
-          <img
+          <Image
             src={`${prefix}${sig.icon.src}`}
             alt={sig.icon.alt}
             className={`w-24 h-24 mb-12 ${
