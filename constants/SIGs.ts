@@ -7,7 +7,7 @@ export const SIGs: SIG[] = [
       'A SIG for sharing projects Dolor id do mollit. Excepteur adipisicing velit consectetur veniam aliqua laboris et quis est minim sit in. Deserunt Lorem veniam veniam',
     websiteURL: 'https://projectshare.comp-soc.com/',
     icon: {
-      src: '/SIGs/projectshare.png',
+      src: 'SIGs/projectshare.png',
       alt: 'SIGINT logo',
       rounded: false,
     },
@@ -20,7 +20,7 @@ export const SIGs: SIG[] = [
       'A SIG for sharing projects Dolor id do mollit. Excepteur adipisicing velit consectetur veniam aliqua laboris et quis est minim sit in. Deserunt Lorem veniam veniam',
     websiteURL: 'https://sigint.mx/',
     icon: {
-      src: '/SIGs/sigint.webp',
+      src: 'SIGs/sigint.webp',
       alt: 'SIGINT logo',
       rounded: false,
     },
@@ -31,7 +31,7 @@ export const SIGs: SIG[] = [
     name: 'CCSIG',
     description: 'A SIG for sharing projects',
     icon: {
-      src: '/SIGs/ccsig.webp',
+      src: 'SIGs/ccsig.webp',
       alt: 'SIGINT logo',
       rounded: false,
     },
@@ -44,7 +44,7 @@ export const SIGs: SIG[] = [
       'A SIG for sharing projects Dolor id do mollit. Excepteur adipisicing velit consectetur veniam aliqua laboris et quis est minim sit in. Deserunt Lorem veniam veniam',
     websiteURL: 'https://edinburghai.org/',
     icon: {
-      src: '/SIGs/edinburghai.webp',
+      src: 'SIGs/edinburghai.webp',
       alt: 'Edinburgh AI logo',
       rounded: false,
     },
@@ -56,7 +56,7 @@ export const SIGs: SIG[] = [
     description: 'A SIG for sharing projects',
     websiteURL: 'https://typesig.comp-soc.com/',
     icon: {
-      src: '/SIGs/typesig.webp',
+      src: 'SIGs/typesig.webp',
       alt: 'TypeSIG logo',
       rounded: true,
     },
@@ -68,7 +68,7 @@ export const SIGs: SIG[] = [
     description: 'A SIG for sharing projects',
     websiteURL: 'https://tardisproject.uk/',
     icon: {
-      src: '/SIGs/tardis.webp',
+      src: 'SIGs/tardis.webp',
       alt: 'SIGINT logo',
       rounded: false,
     },
@@ -79,7 +79,7 @@ export const SIGs: SIG[] = [
     name: 'QuantSIG',
     description: 'A SIG for sharing projects',
     icon: {
-      src: '/SIGs/quantsig.webp',
+      src: 'SIGs/quantsig.webp',
       alt: 'SIGINT logo',
       rounded: false,
     },
@@ -90,7 +90,7 @@ export const SIGs: SIG[] = [
     name: 'GameDevSIG',
     description: 'A SIG for sharing projects',
     icon: {
-      src: '/SIGs/gamedevsig.webp',
+      src: 'SIGs/gamedevsig.webp',
       alt: 'SIGINT logo',
       rounded: false,
     },
@@ -104,7 +104,7 @@ export const SIGs: SIG[] = [
     websiteURL:
       'https://www.meetup.com/aws-cloud-club-the-university-of-edinburgh/',
     icon: {
-      src: '/SIGs/cloudsig.webp',
+      src: 'SIGs/cloudsig.webp',
       alt: 'SIGINT logo',
       rounded: false,
     },
