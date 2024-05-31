@@ -1,6 +1,7 @@
 import { SIG } from '@/types/SIG'
 import { prefix } from '@/utils/prefix'
 import { ArrowUpRight } from 'iconoir-react'
+import Image from 'next/image'
 import { useState } from 'react'
 
 const SIGCard = ({ sig }: { sig: SIG }) => {
