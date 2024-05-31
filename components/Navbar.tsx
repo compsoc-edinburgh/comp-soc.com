@@ -4,15 +4,15 @@ import Image from 'next/image'
 
 const NavBar = () => {
   return (
-    <nav className="sticky top-0 z-50 container mx-auto max-w-screen-xl py-4">
+    <nav className="sticky top-0 z-50 container mx-auto py-4 max-w-screen-lg">
       <div className="container bg-foreground mx-auto flex justify-between items-center p-4 border-border border-2 rounded-sm">
         <div className="text-white font-bold">
           <Link href="/">
             <Image
               src={`${prefix}/compsoc-short.png`}
               alt="Wide CompSoc logo"
-              width={64}
-              height={64}
+              width={48}
+              height={48}
               priority
             />
           </Link>

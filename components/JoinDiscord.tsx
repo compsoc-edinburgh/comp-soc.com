@@ -86,6 +86,13 @@ const MemberCount: FC = () => {
   const [memberCount, setMemberCount] = useState<number | null>(null)
   const [onlineCount, setOnlineCount] = useState<number | null>(null)
 
+  const formatMemberCount = (count: number) => {
+    // return number with K, M, B, T, etc.
+    if (count < 1000) return count
+    const exp = Math.floor(Math.log(count) / Math.log(1000))
+    return (count / Math.pow(1000, exp)).toFixed(1) + 'kMGTPEZY'[exp - 1]
+  }
+
   useEffect(() => {
     const fetchMemberCount = async () => {
       const INVITE_CODE = DISCORD_INVITE_URL.split('/').pop()
@@ -110,7 +117,9 @@ const MemberCount: FC = () => {
       title={`There are ${onlineCount} members online`}>
       <p>Join our Discord!</p>
       {memberCount !== null && (
-        <p className="text-xs text-left text-gray-300">{memberCount} members</p>
+        <p className="text-xs text-left text-gray-300">
+          {formatMemberCount(memberCount)} members
+        </p>
       )}
     </div>
   )

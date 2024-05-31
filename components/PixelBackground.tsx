@@ -44,7 +44,7 @@ const PixelGrid = () => {
 
   return (
     <div
-      className="fixed pointer-events-none z-[-1] grid"
+      className="fixed pointer-events-none z-[100] grid"
       style={{ gridTemplateColumns: `repeat(${numPixels.x}, ${pixelSize}px)` }}>
       {pixels.map((delay, index) => (
         <div
@@ -55,7 +55,7 @@ const PixelGrid = () => {
             transitionDelay: `${delay * 750}ms`,
           }}
           className={`transition-colors ${
-            isActive ? 'bg-csred' : 'bg-background'
+            isActive ? 'bg-csred' : 'transparent'
           }`}
         />
       ))}
