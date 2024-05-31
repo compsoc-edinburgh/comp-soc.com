@@ -44,3 +44,9 @@ export interface Event {
     sequence: number;
     eventType: string;
 }
+
+export interface Sponsor {
+    name: string
+    img: string
+  
+  }

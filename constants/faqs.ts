@@ -1,8 +1,4 @@
-// src/FAQ.tsx
-import FAQItem from './FAQItem'
-
-const FAQList: React.FC = () => {
-  const faqs = [
+export const faqs = [
     {
       question: 'What sort of events does CompSoc run?',
       answer: 'CompSoc runs a variety of events throughout the year, ranging from talks by academics, technical workshops, and a yearly hackathon. We also host plenty of social events, including hikes, barbecues, board game nights, and even a yearly Informatics Ball with a ceilidh.',
@@ -25,14 +21,3 @@ const FAQList: React.FC = () => {
     },
  
   ];
-
-  return (
-    <div className="w-full mx-auto">
-      {faqs.map((faq, index) => (
-        <FAQItem key={index} question={faq.question} answer={faq.answer} />
-      ))}
-    </div>
-  );
-};
-
-export default FAQList;

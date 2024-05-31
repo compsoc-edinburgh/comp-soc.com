@@ -40,7 +40,7 @@ const PixelGrid = () => {
     return () => {
       window.removeEventListener('resize', handleResize)
     }
-  }, [])
+  }, [pixelSize])
 
   return (
     <div

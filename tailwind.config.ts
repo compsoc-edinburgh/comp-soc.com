@@ -16,6 +16,7 @@ const config: Config = {
       colors: {
         csred: '#CE3234',
         csgrey: '#222222',
+        cslightgrey: '#484848',
         background: '#222222',
         foreground: '#353535',
         border: '#484848',

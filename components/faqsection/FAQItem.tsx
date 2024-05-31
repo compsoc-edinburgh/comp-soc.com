@@ -22,7 +22,7 @@ const FAQItem: React.FC<{ question: string; answer: string }> = ({ question, ans
         className={`overflow-hidden transition-all duration-500 ease-in-out`}
         style={{ maxHeight: isOpen ? `${contentRef.current?.scrollHeight}px` : '0' }}
       >
-        <div ref={contentRef} className="p-4 bg-lightgrey text-white border border-t-0">
+        <div ref={contentRef} className="p-4 bg-cslightgrey text-white border-white border-l-2">
           {answer}
         </div>
       </div>
