@@ -25,7 +25,7 @@ const SIGCard = ({ sig }: { sig: SIG }) => {
       <a href={sig.websiteURL} target="_blank" rel="noreferrer">
         <div className="flex flex-col justify-between h-full">
           <Image
-            src={`${prefix}/${sig.icon.src}`}
+            src={`${prefix}/SIGs/${sig.icon.src}`}
             alt={sig.icon.alt}
             className={`w-24 h-24 mb-12 ${
               sig.icon.rounded ? 'rounded-full' : 'rounded-lg'
