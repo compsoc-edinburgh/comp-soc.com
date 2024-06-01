@@ -6,6 +6,7 @@ import { useState } from 'react'
 
 const SIGCard = ({ sig }: { sig: SIG }) => {
   const [hovered, setHovered] = useState(false)
+  
   return (
     <div
       className="p-4 bg-white rounded shadow-md hover:shadow-lg transition duration-300 border-4 w-64 h-96 hover:z-50 transform hover:scale-105"
@@ -24,7 +25,7 @@ const SIGCard = ({ sig }: { sig: SIG }) => {
       )}
       <a href={sig.websiteURL} target="_blank" rel="noreferrer">
         <div className="flex flex-col justify-between h-full">
-          <Image
+          <Image width={100} height={100}
             src={`${prefix}/SIGs/${sig.icon.src}`}
             alt={sig.icon.alt}
             className={`w-24 h-24 mb-12 ${

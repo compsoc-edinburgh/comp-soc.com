@@ -8,7 +8,7 @@ export const SIGs: SIG[] = [
     websiteURL: 'https://projectshare.comp-soc.com/',
     icon: {
       src: 'projectshare.png',
-      alt: 'SIGINT logo',
+      alt: 'ProjectShare logo',
       rounded: false,
     },
     backgroundColor: '#7816F4',
@@ -32,7 +32,7 @@ export const SIGs: SIG[] = [
     description: 'A SIG for sharing projects',
     icon: {
       src: 'ccsig.webp',
-      alt: 'SIGINT logo',
+      alt: 'CCSig logo',
       rounded: false,
     },
     backgroundColor: '#143D59',
@@ -69,7 +69,7 @@ export const SIGs: SIG[] = [
     websiteURL: 'https://tardisproject.uk/',
     icon: {
       src: 'tardis.webp',
-      alt: 'SIGINT logo',
+      alt: 'Tardis logo',
       rounded: false,
     },
     backgroundColor: '#295085',
@@ -80,7 +80,7 @@ export const SIGs: SIG[] = [
     description: 'A SIG for sharing projects',
     icon: {
       src: 'quantsig.webp',
-      alt: 'SIGINT logo',
+      alt: 'QuantSig logo',
       rounded: false,
     },
     backgroundColor: '#4B3E4F',
@@ -91,7 +91,7 @@ export const SIGs: SIG[] = [
     description: 'A SIG for sharing projects',
     icon: {
       src: 'gamedevsig.webp',
-      alt: 'SIGINT logo',
+      alt: 'GamedevSig logo',
       rounded: false,
     },
     backgroundColor: '#000000',
@@ -105,7 +105,7 @@ export const SIGs: SIG[] = [
       'https://www.meetup.com/aws-cloud-club-the-university-of-edinburgh/',
     icon: {
       src: 'cloudsig.webp',
-      alt: 'SIGINT logo',
+      alt: 'CloudSig logo',
       rounded: false,
     },
     backgroundColor: '#aaa',
