@@ -94,7 +94,7 @@ const SIGSpreadView = () => {
 
   return (
     <div
-      className="relative w-full my-12"
+      className="relative w-full my-24"
       ref={ref}
       style={{
         height: Math.ceil(SIGs.length / columns) * (cardHeight + margin),

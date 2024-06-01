@@ -13,7 +13,7 @@ import SIGCards from '@/components/SIGCards/SIGCards'
 export default function Home() {
   const { toggleBackground } = useAnimatedBackground()
   return (
-    <main className="bg-background flex items-center justify-center min-h-screen flex-col p-24">
+    <main className="bg-background flex items-center justify-center min-h-screen flex-col p-4 md:p-24">
       <div className="w-full">
         <div className="flex flex-col justify-between items-center">
           <Image
@@ -34,12 +34,6 @@ export default function Home() {
             TEST: Toggle background
           </button>
         </div>
-        {/* <div className="w-1/3">
-        <TruncateText text={"s for our annual 24-hour hackathon, complete with food, sponsor merch, and many prizes up for grabs. s for our annual 24-hour hackathon, complete with food, sponsor merch, and many prizes up for grabs."} 
-        maxHeight={100} />
-
-        </div>
-        */}
 
         <SIGCards />
 

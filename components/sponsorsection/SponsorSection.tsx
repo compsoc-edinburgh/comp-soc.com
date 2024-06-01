@@ -15,7 +15,7 @@ const SponsorSection = () => {
           <HoverGif></HoverGif>
         </div>
       </div>
-      <div className="w-4/5 mt-6 font-space-mono">
+      <div className="w-full lg:w-4/5 mt-6 font-space-mono">
         <p>
           CompSoc is always looking for new sponsors to support us in all that we
           do for our members. We would be happy to discuss your company&apos;s needs,

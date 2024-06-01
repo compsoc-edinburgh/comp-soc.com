@@ -24,6 +24,13 @@ function transformEvents(events: CalendarEvent[]): Event[] {
 export const events = [
     {
 
+    title: 'Freshers Week 2024',
+    description: "Join us for Freshers Week 2024, packed with exciting events, including a hike up Arthur's Seat!",
+    location: 'Main Campus',
+    date: '12-17.09.2024'
+    },
+    {
+
       title: 'Infball 2024',
       description: 'Yearly ball in mid-March for all informatics students and lorem ipsum. Soemthing else',
       location: 'The Caves',
@@ -43,11 +50,5 @@ export const events = [
       location: 'Informatics Forum',
       date: '21.11.2024'
     },
-    {
-
-      title: 'Freshers Week 2024',
-      description: "Join us for Freshers Week 2024, packed with exciting events, including a hike up Arthur's Seat!",
-      location: 'Main Campus',
-      date: '12-17.09.2024'
-    }
+    
   ];
