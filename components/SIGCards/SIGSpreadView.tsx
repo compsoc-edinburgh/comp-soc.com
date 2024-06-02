@@ -7,8 +7,8 @@ import SIGSwipeView from './SIGSwipeView'
 
 const SIGSpreadView = () => {
   // Constants could be changed for different vibes and looks
-  const cardWidth = 230 
-  const cardHeight = 300
+  const cardWidth = 150 
+  const cardHeight = 200
   const margin = 32
   const positionRandomness = 32
   const ref = useRef<HTMLDivElement>(null)

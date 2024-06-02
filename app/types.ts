@@ -5,6 +5,7 @@ export interface Event {
     location: string
     date: string
     icon?: string
+    upcoming?: boolean
   }
 
   export interface CalendarEvent {
@@ -27,10 +28,12 @@ export interface Event {
         self: boolean;
     };
     start: {
+        date: string;
         dateTime: string;
         timeZone: string;
     };
     end: {
+        date: string;
         dateTime: string;
         timeZone: string;
     };

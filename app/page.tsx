@@ -7,8 +7,8 @@ import Image from 'next/image'
 import EventSection from '@/components/eventsection/EventSection'
 import FAQSection from '../components/faqsection/FAQSection'
 import SponsorSection from '@/components/sponsorsection/SponsorSection'
-import TruncateText from '@/components/truncatetext/truncatetext'
 import SIGCards from '@/components/SIGCards/SIGCards'
+import SigSection from '@/components/SIGCards/SigSection'
 
 export default function Home() {
   const { toggleBackground } = useAnimatedBackground()
@@ -35,7 +35,7 @@ export default function Home() {
           </button>
         </div>
 
-        <SIGCards />
+        <SigSection></SigSection>
 
         <EventSection></EventSection>
 

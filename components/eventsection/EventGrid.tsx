@@ -10,6 +10,7 @@ interface EventListProps {
 }
 
 const EventGrid: FC<EventListProps> = ({ events }) => {
+ 
   return (
     <div>
       {/* Desktop view */}

@@ -4,7 +4,7 @@ export const SIGs: SIG[] = [
   {
     name: 'Project Share',
     description:
-      'A SIG for sharing projects Dolor id do mollit. Excepteur adipisicing velit consectetur veniam aliqua laboris et quis est minim sit in. Deserunt Lorem veniam veniam',
+      'Share what you are building with others!',
     websiteURL: 'https://projectshare.comp-soc.com/',
     icon: {
       src: 'projectshare.png',
@@ -17,7 +17,7 @@ export const SIGs: SIG[] = [
   {
     name: 'SIGINT',
     description:
-      'A SIG for sharing projects Dolor id do mollit. Excepteur adipisicing velit consectetur veniam aliqua laboris et quis est minim sit in. Deserunt Lorem veniam veniam',
+      'Cyber Security',
     websiteURL: 'https://sigint.mx/',
     icon: {
       src: 'sigint.webp',
@@ -29,7 +29,7 @@ export const SIGs: SIG[] = [
   },
   {
     name: 'CCSIG',
-    description: 'A SIG for sharing projects',
+    description: 'Competitve Programming',
     icon: {
       src: 'ccsig.webp',
       alt: 'CCSig logo',
@@ -41,7 +41,7 @@ export const SIGs: SIG[] = [
   {
     name: 'Edinburgh AI',
     description:
-      'A SIG for sharing projects Dolor id do mollit. Excepteur adipisicing velit consectetur veniam aliqua laboris et quis est minim sit in. Deserunt Lorem veniam veniam',
+      'Artificial Intelligence',
     websiteURL: 'https://edinburghai.org/',
     icon: {
       src: 'edinburghai.webp',
@@ -53,7 +53,7 @@ export const SIGs: SIG[] = [
   },
   {
     name: 'TypeSIG',
-    description: 'A SIG for sharing projects',
+    description: 'Type theory and related fields',
     websiteURL: 'https://typesig.comp-soc.com/',
     icon: {
       src: 'typesig.webp',
@@ -65,7 +65,7 @@ export const SIGs: SIG[] = [
   },
   {
     name: 'Tardis',
-    description: 'A SIG for sharing projects',
+    description: 'Hosting and server maintenance',
     websiteURL: 'https://tardisproject.uk/',
     icon: {
       src: 'tardis.webp',
@@ -77,7 +77,7 @@ export const SIGs: SIG[] = [
   },
   {
     name: 'QuantSIG',
-    description: 'A SIG for sharing projects',
+    description: 'Quantitative Finance and Algorithmic Trading',
     icon: {
       src: 'quantsig.webp',
       alt: 'QuantSig logo',
@@ -88,7 +88,7 @@ export const SIGs: SIG[] = [
   },
   {
     name: 'GameDevSIG',
-    description: 'A SIG for sharing projects',
+    description: 'Game Development',
     icon: {
       src: 'gamedevsig.webp',
       alt: 'GamedevSig logo',
@@ -100,7 +100,7 @@ export const SIGs: SIG[] = [
   {
     name: 'CloudSIG',
     description:
-      'Cloud Clubs are student-led, student-driven user groups focused on learning about the Cloud via AWS technologies.',
+      'Cloud Computing and AWS',
     websiteURL:
       'https://www.meetup.com/aws-cloud-club-the-university-of-edinburgh/',
     icon: {

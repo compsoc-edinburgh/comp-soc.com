@@ -1,10 +1,20 @@
 import { CalendarEvent, Event } from '@/app/types';
 import { MdArrowForward } from 'react-icons/md';
 import EventGrid from './EventGrid';
-import { events } from '@/constants/events'
+import { useEvents } from '@/constants/events'
 import Heading from '@/components/heading'
 
 const EventSection = () => {
+  const { events, loading, error } = useEvents();
+
+  if (loading) {
+    return <div>Loading events...</div>;
+  }
+
+  if (error) {
+    return <div>{error}</div>;
+  }
+
     
     
   return (
