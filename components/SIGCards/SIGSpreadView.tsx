@@ -7,7 +7,7 @@ import SIGSwipeView from './SIGSwipeView'
 
 const SIGSpreadView = () => {
   // Constants could be changed for different vibes and looks
-  const cardWidth = 150 
+  const cardWidth = 150
   const cardHeight = 200
   const margin = 32
   const positionRandomness = 32
@@ -34,11 +34,12 @@ const SIGSpreadView = () => {
           (i % columns) * (cardWidth + margin) +
           Math.random() * positionRandomness -
           positionRandomness / 2 +
-          (isLastRow ? lastRowOffset : 0) + (divDimensions.width - columns * (cardWidth + margin)) / 2
+          (isLastRow ? lastRowOffset : 0) +
+          (divDimensions.width - columns * (cardWidth + margin)) / 2
         const y =
           Math.floor(i / columns) * (cardHeight + margin) +
           Math.random() * positionRandomness -
-          positionRandomness / 2
+          positionRandomness / 2  - cardHeight / 4
         const rotate = columns == 1 ? 0 : Math.random() * 8 - 4
 
         return { x, y, rotate, SIG }

@@ -15,7 +15,7 @@ export default function Home() {
   return (
     <main className="bg-background flex items-center justify-center min-h-screen flex-col p-4 md:p-24">
       <div className="w-full">
-        <div className="flex flex-col justify-between items-center">
+        <div className="flex flex-col justify-between items-center h-96">
           <Image
             src={`${prefix}/compsoc-long.png`}
             alt="Wide CompSoc logo"
@@ -28,11 +28,7 @@ export default function Home() {
             }}
           />
           <JoinDiscord />
-          <button
-            onClick={toggleBackground}
-            className="px-4 py-2 text-white bg-blue-500 rounded-lg shadow-lg">
-            TEST: Toggle background
-          </button>
+        
         </div>
 
         <SigSection></SigSection>
