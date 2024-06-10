@@ -1,7 +1,8 @@
-import { motion } from 'framer-motion'
+import { AnimatePresence, motion } from 'framer-motion'
 import { useState } from 'react'
 import SIGCard from './SIGCard' // Assume SIGCard is a component you have
 import { SIGs } from '@/constants/SIGs'
+import { Refresh } from 'iconoir-react'
 
 const SIGSwipeView = () => {
   const [index, setIndex] = useState(0)
@@ -68,14 +69,27 @@ const SIGSwipeView = () => {
             <SIGCard sig={sig} />
           </motion.div>
         ))}
+        <AnimatePresence>
+          {index === SIGs.length && (
+            <motion.div
+              className="m-6 p-4 rounded-sm shadow-md flex flex-col items-center space-y-4 bg-foreground z-10 font-space-mono"
+              initial={{ opacity: 0, y: 5, scale: 0.9 }}
+              animate={{ opacity: 1, y: 0, scale: 1 }}
+              exit={{ opacity: 0, y: 5, scale: 0.9 }}
+              transition={{ duration: 0.3 }}>
+              <h1 className="font-tomorrow text-xl">Found your match?</h1>
+              <p>Join any of those SIG's events and try it out!</p>
+              <p>If not, consider creating your own SIG</p>
+              <button
+                className="p-4 rounded-lg shadow-md flex items-center space-x-2 gap-2 bg-csgrey text-white"
+                onClick={resetStack}>
+                <Refresh />
+                Reset Stack
+              </button>
+            </motion.div>
+          )}
+        </AnimatePresence>
       </div>
-      {index === SIGs.length && (
-        <button
-          className="absolute bottom-0 left-1/2 transform -translate-x-1/2 p-4 bg-blue-500 text-white rounded"
-          onClick={resetStack}>
-          Reset Stack
-        </button>
-      )}
     </div>
   )
 }
