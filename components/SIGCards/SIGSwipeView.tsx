@@ -78,7 +78,7 @@ const SIGSwipeView = () => {
               exit={{ opacity: 0, y: 5, scale: 0.9 }}
               transition={{ duration: 0.3 }}>
               <h1 className="font-tomorrow text-xl">Found your match?</h1>
-              <p>Join any of those SIG's events and try it out!</p>
+              <p>Join any of those SIG&apos;s events and try it out!</p>
               <p>If not, consider creating your own SIG</p>
               <button
                 className="p-4 rounded-lg shadow-md flex items-center space-x-2 gap-2 bg-csgrey text-white"
