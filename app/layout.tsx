@@ -24,7 +24,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className="relative">
+      <body className="relative overflow-x-clip w-screen mx-auto">
         <PixelBackground>
           <Navbar />
           <div className="container mx-auto max-w-screen-xl p-4">

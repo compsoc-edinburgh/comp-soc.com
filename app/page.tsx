@@ -17,18 +17,28 @@ export default function Home() {
       <div className="w-full">
         <div className="flex flex-col justify-between items-center h-96">
           <Image
-            src={`${prefix}/compsoc-long.png`}
-            alt="Wide CompSoc logo"
-            width={512}
-            height={126}
-            className="filter drop-shadow-white"
+            src={`${prefix}/compsoc-short.png`}
+            alt="CompSoc logo"
+            width={256}
+            height={256}
+            draggable={false}
+            className="block md:hidden"
             style={{
-              filter:
-                'drop-shadow(0px 0px 50px rgba(255, 255, 255, 0.1)) drop-shadow(0px 0px 197.8px rgba(255, 255, 255, 0.1))',
+              filter: 'drop-shadow(0px 0px 16px rgba(255, 255, 255, 0.438))',
+            }}
+          />
+          <Image
+            src={`${prefix}/compsoc-long.png`}
+            alt="CompSoc logo"
+            width={516}
+            height={256}
+            draggable={false}
+            className="hidden md:block"
+            style={{
+              filter: 'drop-shadow(0px 0px 16px rgba(255, 255, 255, 0.438))',
             }}
           />
           <JoinDiscord />
-        
         </div>
 
         <SigSection></SigSection>
