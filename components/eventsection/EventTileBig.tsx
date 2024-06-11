@@ -1,5 +1,5 @@
-import { Event } from "@/app/types";
-import { useState, useEffect, useRef } from "react";
+import { Event } from '@/app/types';
+import { useState, useEffect, useRef } from 'react';
 
 const EventTileBig = ({
   title,
@@ -7,9 +7,8 @@ const EventTileBig = ({
   eventURL,
   location,
   date,
-  upcoming
+  upcoming,
 }: Event) => {
-  
   const nonDescriptionRef = useRef<HTMLDivElement>(null);
   const [nonDescriptionHeight, setNonDescriptionHeight] = useState(0);
 
@@ -81,34 +80,40 @@ const EventTileBig = ({
       onMouseEnter={handleMouseEnter}
       onMouseLeave={handleMouseLeave}
       onClick={handleClick}
-      style={{marginTop: '0px'}}
+      style={{ marginTop: '0px' }}
     >
       {showDescription ? (
-        <p className="text-white flex pl-2 pr-2"
-        style={{ height: `${nonDescriptionHeight}px` }}>{description}</p>
-      ) : ( 
+        <p
+          className="text-white flex pl-2 pr-2"
+          style={{ height: `${nonDescriptionHeight}px` }}
+        >
+          {description}
+        </p>
+      ) : (
         <>
-        <div ref={nonDescriptionRef}>
-          <h1 className="text-csred mb-2">{upcoming ? 'Upcoming event' : 'Past event'}</h1>
+          <div ref={nonDescriptionRef}>
+            <h1 className="text-csred mb-2">
+              {upcoming ? 'Upcoming event' : 'Past event'}
+            </h1>
 
-          <div className="flex flex-col justify-between h-full">
             <div className="flex flex-col justify-between h-full">
-              <h1
-                style={{
-                  maxHeight: "80px",
-                  overflow: "hidden",
-                  textOverflow: "ellipsis",
-                }}
-                className="text-2xl w-3/4"
-              >
-                {title.toUpperCase()}{" "}
-              </h1>
-              
-              <p className="mb-2 pt-4">
-                {date}, {location}
-              </p>
+              <div className="flex flex-col justify-between h-full">
+                <h1
+                  style={{
+                    maxHeight: '80px',
+                    overflow: 'hidden',
+                    textOverflow: 'ellipsis',
+                  }}
+                  className="text-2xl w-3/4"
+                >
+                  {title.toUpperCase()}{' '}
+                </h1>
+
+                <p className="mb-2 pt-4">
+                  {date}, {location}
+                </p>
+              </div>
             </div>
-          </div>
           </div>
         </>
       )}

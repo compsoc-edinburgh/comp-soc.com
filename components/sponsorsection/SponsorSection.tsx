@@ -1,8 +1,8 @@
-import Heading from '@/components/heading'
-import { SponsorBanner } from './SponsorBanner'
-import './banner.css'
-import { sponsors } from '@/constants/sponsors'
-import HoverGif from './HoverGif'
+import Heading from '@/components/heading';
+import { SponsorBanner } from './SponsorBanner';
+import './banner.css';
+import { sponsors } from '@/constants/sponsors';
+import HoverGif from './HoverGif';
 
 const SponsorSection = () => {
   return (
@@ -22,17 +22,17 @@ const SponsorSection = () => {
       <div className="mt-8">
         <SponsorBanner
           sponsorsList={sponsors}
-          speed={60000}
+          speed={window.innerWidth <= 768 ? 30000 : 60000}
           direction="normal"
         />
         <SponsorBanner
           sponsorsList={sponsors}
-          speed={60000}
+          speed={window.innerWidth <= 768 ? 30000 : 60000}
           direction="reverse"
         />
       </div>
     </div>
-  )
-}
+  );
+};
 
-export default SponsorSection
+export default SponsorSection;
