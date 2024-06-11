@@ -1,11 +1,12 @@
-import { SIG } from '@/types/SIG'
+import { SIG } from '@/types/SIG';
 
 export const SIGs: SIG[] = [
   {
     name: 'Project Share',
-    description:
-      'Share what you are building with others!',
+    description: 'Share what you are building with others!',
     websiteURL: 'https://projectshare.comp-soc.com/',
+    calendarURL:
+      'c_78e0084b4542572dfbd710bce8243f0e7721a211db4b5567b795d94fce574d18@group.calendar.google.com',
     icon: {
       src: 'projectshare.png',
       alt: 'ProjectShare logo',
@@ -16,8 +17,7 @@ export const SIGs: SIG[] = [
   },
   {
     name: 'SIGINT',
-    description:
-      'Cyber Security',
+    description: 'Cyber Security',
     websiteURL: 'https://sigint.mx/',
     icon: {
       src: 'sigint.webp',
@@ -40,8 +40,7 @@ export const SIGs: SIG[] = [
   },
   {
     name: 'Edinburgh AI',
-    description:
-      'Artificial Intelligence',
+    description: 'Artificial Intelligence',
     websiteURL: 'https://edinburghai.org/',
     icon: {
       src: 'edinburghai.webp',
@@ -99,8 +98,7 @@ export const SIGs: SIG[] = [
   },
   {
     name: 'CloudSIG',
-    description:
-      'Cloud Computing and AWS',
+    description: 'Cloud Computing and AWS',
     websiteURL:
       'https://www.meetup.com/aws-cloud-club-the-university-of-edinburgh/',
     icon: {
@@ -111,4 +109,4 @@ export const SIGs: SIG[] = [
     backgroundColor: '#aaa',
     borderColor: '#eee',
   },
-].sort(() => Math.random() - 0.5)
+].sort(() => Math.random() - 0.5);

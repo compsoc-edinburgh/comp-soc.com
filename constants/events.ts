@@ -1,15 +1,23 @@
-import { Event, CalendarEvent } from "@/app/types";
-import { useEffect, useState } from "react";
-import { flagships } from "./flagships";
-
+import { Event, GoogleCalendarEvent } from '@/app/types';
+import { useEffect, useState } from 'react';
+import { flagships } from './flagships';
 
 // Fetches calendar events from the Google Calendar API
-async function fetchCalendarEvents(): Promise<CalendarEvent[]> {
-  const url = 'https://www.googleapis.com/calendar/v3/calendars/c_d9ed90437b85f9f70111ed1576450106ba39ca8e46e94051bf53c9aa2c8a3735@group.calendar.google.com/events';
+async function fetchCalendarEvents(): Promise<GoogleCalendarEvent[]> {
+  const url =
+    'https://www.googleapis.com/calendar/v3/calendars/c_d9ed90437b85f9f70111ed1576450106ba39ca8e46e94051bf53c9aa2c8a3735@group.calendar.google.com/events';
 
   const currentDate = new Date();
-  const oneYearAgo = new Date(currentDate.getFullYear() - 1, currentDate.getMonth(), currentDate.getDate());
-  const sixMonthsLater = new Date(currentDate.getFullYear(), currentDate.getMonth() + 6, currentDate.getDate());
+  const oneYearAgo = new Date(
+    currentDate.getFullYear() - 1,
+    currentDate.getMonth(),
+    currentDate.getDate()
+  );
+  const sixMonthsLater = new Date(
+    currentDate.getFullYear(),
+    currentDate.getMonth() + 6,
+    currentDate.getDate()
+  );
   const params = new URLSearchParams({
     key: 'AIzaSyAnUQX9d7j3_d5wlJF_PvM02eHOMFbDedw',
     timeMin: oneYearAgo.toISOString(),
@@ -24,14 +32,14 @@ async function fetchCalendarEvents(): Promise<CalendarEvent[]> {
       throw new Error(`Error: ${response.status} ${response.statusText}`);
     }
     const data = await response.json();
-    const items: CalendarEvent[] = data.items;
+    const items: GoogleCalendarEvent[] = data.items;
 
     const currentDate = new Date();
     const twoMonthsLater = new Date(currentDate);
     twoMonthsLater.setMonth(currentDate.getMonth() + 2);
 
     // Helper function to get the date of an event
-    const getEventDate = (item: CalendarEvent): Date | null => {
+    const getEventDate = (item: GoogleCalendarEvent): Date | null => {
       if (item.start.dateTime) {
         return new Date(item.start.dateTime);
       } else if (item.start.date) {
@@ -42,23 +50,33 @@ async function fetchCalendarEvents(): Promise<CalendarEvent[]> {
     };
 
     // Filter upcoming events within the next two months
-    let upcomingItems = items.filter(item => {
+    let upcomingItems = items.filter((item) => {
       const eventDate = getEventDate(item);
-      return eventDate !== null && eventDate > currentDate && eventDate <= twoMonthsLater;
+      return (
+        eventDate !== null &&
+        eventDate > currentDate &&
+        eventDate <= twoMonthsLater
+      );
     });
 
     // Filter past events
-    let pastItems = items.filter(item => {
+    let pastItems = items.filter((item) => {
       const eventDate = getEventDate(item);
       return eventDate !== null && eventDate <= currentDate;
     });
 
     // If no upcoming events in 2 months, find the nearest upcoming event
     if (upcomingItems.length === 0) {
-      const nearestUpcomingEvent = items.filter(item => {
-        const eventDate = getEventDate(item);
-        return eventDate !== null && eventDate > currentDate;
-      }).sort((a, b) => (getEventDate(a)?.getTime() || 0) - (getEventDate(b)?.getTime() || 0))[0];
+      const nearestUpcomingEvent = items
+        .filter((item) => {
+          const eventDate = getEventDate(item);
+          return eventDate !== null && eventDate > currentDate;
+        })
+        .sort(
+          (a, b) =>
+            (getEventDate(a)?.getTime() || 0) -
+            (getEventDate(b)?.getTime() || 0)
+        )[0];
 
       if (nearestUpcomingEvent) {
         upcomingItems = [nearestUpcomingEvent];
@@ -67,7 +85,7 @@ async function fetchCalendarEvents(): Promise<CalendarEvent[]> {
 
     // Ensure STMU does not appear more than once
     const seenSTMU = new Set<string>();
-    const filteredUpcomingItems = upcomingItems.filter(item => {
+    const filteredUpcomingItems = upcomingItems.filter((item) => {
       const isSTMU = item.summary.includes('STMU');
       if (isSTMU) {
         if (seenSTMU.has('STMU')) {
@@ -80,7 +98,7 @@ async function fetchCalendarEvents(): Promise<CalendarEvent[]> {
       return true;
     });
 
-    const filteredPastItems = pastItems.filter(item => {
+    const filteredPastItems = pastItems.filter((item) => {
       const isSTMU = item.summary.includes('STMU');
       if (isSTMU) {
         if (seenSTMU.has('STMU')) {
@@ -94,12 +112,21 @@ async function fetchCalendarEvents(): Promise<CalendarEvent[]> {
     });
 
     // Sort upcoming and past events by date
-    filteredUpcomingItems.sort((a, b) => (getEventDate(a)?.getTime() || 0) - (getEventDate(b)?.getTime() || 0));
-    filteredPastItems.sort((a, b) => (getEventDate(b)?.getTime() || 0) - (getEventDate(a)?.getTime() || 0));
+    filteredUpcomingItems.sort(
+      (a, b) =>
+        (getEventDate(a)?.getTime() || 0) - (getEventDate(b)?.getTime() || 0)
+    );
+    filteredPastItems.sort(
+      (a, b) =>
+        (getEventDate(b)?.getTime() || 0) - (getEventDate(a)?.getTime() || 0)
+    );
 
     // Return a combination of upcoming and past events
     if (filteredUpcomingItems.length >= 2) {
-      return [...filteredUpcomingItems.slice(0, 2), ...filteredPastItems.slice(0, 2)];
+      return [
+        ...filteredUpcomingItems.slice(0, 2),
+        ...filteredPastItems.slice(0, 2),
+      ];
     } else if (filteredUpcomingItems.length === 1) {
       return [...filteredUpcomingItems, ...filteredPastItems.slice(0, 3)];
     } else {
@@ -142,8 +169,8 @@ const formatDateRange = (startDate: string, endDate: string): string => {
 };
 
 // Transforms calendar events into custom event objects
-function transformEvents(events: CalendarEvent[]): Event[] {
-  return events.map(event => {
+function transformEvents(events: GoogleCalendarEvent[]): Event[] {
+  return events.map((event) => {
     let newTitle = event.summary;
 
     // Replace specific event titles with better names(STMU -> Student Tech Meetup, Infball -> Infball <year>)
@@ -163,7 +190,9 @@ function transformEvents(events: CalendarEvent[]): Event[] {
       description: newDescription || 'More details to be announced soon!',
       eventURL: event.htmlLink,
       location: location,
-      date: event.start.dateTime ? formatDate(event.start.dateTime) : formatDateRange(event.start.date!, event.end.date!),
+      date: event.start.dateTime
+        ? formatDate(event.start.dateTime)
+        : formatDateRange(event.start.date!, event.end.date!),
       upcoming: new Date(event.start.dateTime || event.end.date!) > new Date(),
     };
   });
@@ -227,12 +256,12 @@ export const useEvents = () => {
 //       upcoming: false
 //     },
 //     {
-   
+
 //       title: 'Student-Tech Meetup',
 //       description: 'Engage with insightful talks from academics and industry experts, and enjoy free pizza!',
 //       location: 'Informatics Forum',
 //       date: '21.11.2024',
 //       upcoming: false
 //     },
-    
+
 //   ];
