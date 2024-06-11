@@ -43,8 +43,8 @@ const SIGSwipeView = () => {
                 swipedDirections[i] === 'left'
                   ? -1000
                   : swipedDirections[i] === 'right'
-                  ? 1000
-                  : 0,
+                    ? 1000
+                    : 0,
               y: -5 * i,
               scale: 1 - i * 0.01,
               rotate: swipedDirections[i] ? Math.random() * 50 - 25 : 0,
@@ -65,7 +65,8 @@ const SIGSwipeView = () => {
                 handleSwipe('left', i)
               }
             }}
-            style={{ zIndex: SIGs.length - i }}>
+            style={{ zIndex: SIGs.length - i }}
+          >
             <SIGCard sig={sig} />
           </motion.div>
         ))}
@@ -76,13 +77,15 @@ const SIGSwipeView = () => {
               initial={{ opacity: 0, y: 5, scale: 0.9 }}
               animate={{ opacity: 1, y: 0, scale: 1 }}
               exit={{ opacity: 0, y: 5, scale: 0.9 }}
-              transition={{ duration: 0.3 }}>
+              transition={{ duration: 0.3 }}
+            >
               <h1 className="font-tomorrow text-xl">Found your match?</h1>
               <p>Join any of those SIG&apos;s events and try it out!</p>
               <p>If not, consider creating your own SIG</p>
               <button
                 className="p-4 rounded-lg shadow-md flex items-center space-x-2 gap-2 bg-csgrey text-white"
-                onClick={resetStack}>
+                onClick={resetStack}
+              >
                 <Refresh />
                 Reset Stack
               </button>

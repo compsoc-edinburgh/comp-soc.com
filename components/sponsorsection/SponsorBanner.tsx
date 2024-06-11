@@ -1,12 +1,12 @@
-import { Sponsor } from "@/app/types";
-import { FC } from "react";
-import { prefix } from "@/utils/prefix";
-import Image from "next/image";
+import { Sponsor } from '@/app/types'
+import { FC } from 'react'
+import { prefix } from '@/utils/prefix'
+import Image from 'next/image'
 
 interface SponsorListProps {
-  sponsorsList: Sponsor[];
-  speed: number;
-  direction: string;
+  sponsorsList: Sponsor[]
+  speed: number
+  direction: string
 }
 
 const SponsorBanner: FC<SponsorListProps> = ({
@@ -14,17 +14,22 @@ const SponsorBanner: FC<SponsorListProps> = ({
   speed,
   direction,
 }) => {
-  const shuffledSponsors = sponsorsList.sort(() => Math.random() - 0.5);
+  const shuffledSponsors = sponsorsList.sort(() => Math.random() - 0.5)
   const images = shuffledSponsors.map((sponsor) => ({
     id: sponsor.name,
     img: sponsor.img,
-  }));
+  }))
 
   return (
     <div className="inner">
       <div className="wrapper">
         <section
-          style={{ "--speed": `${speed}ms`, "--direction": `${direction}` } as React.CSSProperties}
+          style={
+            {
+              '--speed': `${speed}ms`,
+              '--direction': `${direction}`,
+            } as React.CSSProperties
+          }
         >
           {images.map(({ id, img }) => (
             <div className="image" key={id}>
@@ -39,7 +44,12 @@ const SponsorBanner: FC<SponsorListProps> = ({
           ))}
         </section>
         <section
-          style={{ "--speed": `${speed}ms`, "--direction": `${direction}` } as React.CSSProperties}
+          style={
+            {
+              '--speed': `${speed}ms`,
+              '--direction': `${direction}`,
+            } as React.CSSProperties
+          }
         >
           {images.map(({ id, img }) => (
             <div className="image" key={id}>
@@ -54,7 +64,12 @@ const SponsorBanner: FC<SponsorListProps> = ({
           ))}
         </section>
         <section
-          style={{ "--speed": `${speed}ms`, "--direction": `${direction}` } as React.CSSProperties}
+          style={
+            {
+              '--speed': `${speed}ms`,
+              '--direction': `${direction}`,
+            } as React.CSSProperties
+          }
         >
           {images.map(({ id, img }) => (
             <div className="image" key={id}>
@@ -70,7 +85,7 @@ const SponsorBanner: FC<SponsorListProps> = ({
         </section>
       </div>
     </div>
-  );
-};
+  )
+}
 
-export { SponsorBanner };
+export { SponsorBanner }

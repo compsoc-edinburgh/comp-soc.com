@@ -45,7 +45,8 @@ const PixelGrid = () => {
   return (
     <div
       className="fixed pointer-events-none z-[100] grid"
-      style={{ gridTemplateColumns: `repeat(${numPixels.x}, ${pixelSize}px)` }}>
+      style={{ gridTemplateColumns: `repeat(${numPixels.x}, ${pixelSize}px)` }}
+    >
       {pixels.map((delay, index) => (
         <div
           key={index}

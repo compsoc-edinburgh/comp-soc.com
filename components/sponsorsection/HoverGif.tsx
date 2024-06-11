@@ -9,7 +9,8 @@ const HoverGif = () => {
     <div
       className="relative inline-block w-10 h-10"
       onMouseEnter={() => setIsHovered(true)}
-      onMouseLeave={() => setIsHovered(false)}>
+      onMouseLeave={() => setIsHovered(false)}
+    >
       <Image
         src={`${prefix}/heart-static.png`}
         alt="Static Icon"

@@ -26,7 +26,7 @@ const config: Config = {
       },
       fontFamily: {
         'space-mono': ['"Space Mono"', 'monospace'],
-        'tomorrow': ['"Tomorrow"', 'monospace'],
+        tomorrow: ['"Tomorrow"', 'monospace'],
       },
       fontWeight: {
         'space-mono-light': '300',

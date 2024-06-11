@@ -1,5 +1,5 @@
-import Heading from "@/components/heading";
-import SIGCards from "./SIGCards";
+import Heading from '@/components/heading'
+import SIGCards from './SIGCards'
 
 const SigSection = () => {
   return (
@@ -8,12 +8,13 @@ const SigSection = () => {
       <div className="w-full lg:w-4/5 mt-6 font-space-mono">
         <p>
           Within CompSoc we have several mini-societies known as Special
-          Interest Groups, each focusing on different topics in Computer Science.
+          Interest Groups, each focusing on different topics in Computer
+          Science.
         </p>
       </div>
       <SIGCards />
     </div>
-  );
-};
+  )
+}
 
-export default SigSection;
+export default SigSection

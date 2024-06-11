@@ -1,19 +1,19 @@
-import React, { useEffect, useState } from 'react';
-import Heading from '@/components/heading';
-import { SponsorBanner } from './SponsorBanner';
-import './banner.css';
-import { sponsors } from '@/constants/sponsors';
-import HoverGif from './HoverGif';
+import React, { useEffect, useState } from 'react'
+import Heading from '@/components/heading'
+import { SponsorBanner } from './SponsorBanner'
+import './banner.css'
+import { sponsors } from '@/constants/sponsors'
+import HoverGif from './HoverGif'
 
 const SponsorSection = () => {
-  const [speed, setSpeed] = useState(60000);
+  const [speed, setSpeed] = useState(60000)
 
   useEffect(() => {
     // Check if window is defined (it will be during client-side rendering)
     if (typeof window !== 'undefined') {
-      setSpeed(window.innerWidth <= 768 ? 30000 : 60000);
+      setSpeed(window.innerWidth <= 768 ? 30000 : 60000)
     }
-  }, []);
+  }, [])
 
   return (
     <div className="mt-20">
@@ -42,7 +42,7 @@ const SponsorSection = () => {
         />
       </div>
     </div>
-  );
-};
+  )
+}
 
-export default SponsorSection;
+export default SponsorSection

@@ -1,11 +1,12 @@
-import React, { useState, useRef } from 'react';
-import { MdExpandMore, MdExpandLess } from "react-icons/md";
+import React, { useState, useRef } from 'react'
+import { MdExpandMore, MdExpandLess } from 'react-icons/md'
 
-const FAQItem: React.FC<{ question: string; answer: string }> = ({ question, answer }) => {
-  const [isOpen, setIsOpen] = useState(false);
-  const contentRef = useRef<HTMLDivElement>(null);
-  
-  
+const FAQItem: React.FC<{ question: string; answer: string }> = ({
+  question,
+  answer,
+}) => {
+  const [isOpen, setIsOpen] = useState(false)
+  const contentRef = useRef<HTMLDivElement>(null)
 
   return (
     <div className="mb-4 w-full font-space-mono">
@@ -20,14 +21,18 @@ const FAQItem: React.FC<{ question: string; answer: string }> = ({ question, ans
       </button>
       <div
         className={`overflow-hidden transition-all duration-500 ease-in-out`}
-        style={{ maxHeight: isOpen ? `${contentRef.current?.scrollHeight}px` : '0' }}
+        style={{
+          maxHeight: isOpen ? `${contentRef.current?.scrollHeight}px` : '0',
+        }}
       >
-        <div ref={contentRef} className="p-4 bg-cslightgrey text-white border-white border-l-2">
+        <div
+          ref={contentRef}
+          className="p-4 bg-cslightgrey text-white border-white border-l-2"
+        >
           {answer}
         </div>
       </div>
     </div>
-  );
-};
-export default FAQItem;
-
+  )
+}
+export default FAQItem

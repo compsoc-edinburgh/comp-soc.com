@@ -1,5 +1,5 @@
-import { Event } from '@/app/types';
-import { useState, useEffect, useRef } from 'react';
+import { Event } from '@/app/types'
+import { useState, useEffect, useRef } from 'react'
 
 const EventTileBig = ({
   title,
@@ -9,68 +9,68 @@ const EventTileBig = ({
   date,
   upcoming,
 }: Event) => {
-  const nonDescriptionRef = useRef<HTMLDivElement>(null);
-  const [nonDescriptionHeight, setNonDescriptionHeight] = useState(0);
+  const nonDescriptionRef = useRef<HTMLDivElement>(null)
+  const [nonDescriptionHeight, setNonDescriptionHeight] = useState(0)
 
-  const [isClicked, setIsClicked] = useState(false);
-  const [showDescription, setShowDescription] = useState(false);
-  const [isMobile, setIsMobile] = useState(false);
+  const [isClicked, setIsClicked] = useState(false)
+  const [showDescription, setShowDescription] = useState(false)
+  const [isMobile, setIsMobile] = useState(false)
 
   useEffect(() => {
     const updateNonDescriptionHeight = () => {
       if (nonDescriptionRef.current) {
-        setNonDescriptionHeight(nonDescriptionRef.current.offsetHeight);
+        setNonDescriptionHeight(nonDescriptionRef.current.offsetHeight)
       }
-    };
+    }
 
     // Initial update
-    updateNonDescriptionHeight();
+    updateNonDescriptionHeight()
 
     // Add event listener for window resize
-    window.addEventListener('resize', updateNonDescriptionHeight);
+    window.addEventListener('resize', updateNonDescriptionHeight)
 
     // Cleanup event listener on component unmount
     return () => {
-      window.removeEventListener('resize', updateNonDescriptionHeight);
-    };
-  }, [showDescription]);
+      window.removeEventListener('resize', updateNonDescriptionHeight)
+    }
+  }, [showDescription])
 
   useEffect(() => {
     const checkIfMobile = () => {
-      setIsMobile(window.matchMedia('(max-width: 1023px)').matches);
-    };
+      setIsMobile(window.matchMedia('(max-width: 1023px)').matches)
+    }
 
     // Initial check
-    checkIfMobile();
+    checkIfMobile()
 
     // Add event listener for window resize
-    window.addEventListener('resize', checkIfMobile);
+    window.addEventListener('resize', checkIfMobile)
 
     // Cleanup event listener on component unmount
     return () => {
-      window.removeEventListener('resize', checkIfMobile);
-    };
-  }, []);
+      window.removeEventListener('resize', checkIfMobile)
+    }
+  }, [])
 
   const handleClick = () => {
     if (isMobile) {
-      setIsClicked(!isClicked);
-      console.log(nonDescriptionHeight);
-      setShowDescription(!showDescription);
+      setIsClicked(!isClicked)
+      console.log(nonDescriptionHeight)
+      setShowDescription(!showDescription)
     }
-  };
+  }
 
   const handleMouseEnter = () => {
     if (!isMobile) {
-      setShowDescription(true);
+      setShowDescription(true)
     }
-  };
+  }
 
   const handleMouseLeave = () => {
     if (!isMobile) {
-      setShowDescription(false);
+      setShowDescription(false)
     }
-  };
+  }
 
   return (
     <div
@@ -118,7 +118,7 @@ const EventTileBig = ({
         </>
       )}
     </div>
-  );
-};
+  )
+}
 
-export default EventTileBig;
+export default EventTileBig

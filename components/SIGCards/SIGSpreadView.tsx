@@ -39,7 +39,8 @@ const SIGSpreadView = () => {
         const y =
           Math.floor(i / columns) * (cardHeight + margin) +
           Math.random() * positionRandomness -
-          positionRandomness / 2  - cardHeight / 4
+          positionRandomness / 2 -
+          cardHeight / 4
         const rotate = columns == 1 ? 0 : Math.random() * 8 - 4
 
         return { x, y, rotate, SIG }
@@ -99,7 +100,8 @@ const SIGSpreadView = () => {
       ref={ref}
       style={{
         height: Math.ceil(SIGs.length / columns) * (cardHeight + margin),
-      }}>
+      }}
+    >
       {SIGsAndPositions.map((sig, i) => (
         <motion.div
           key={sig.SIG.name}
@@ -113,7 +115,8 @@ const SIGSpreadView = () => {
             rotate: sig.rotate,
           }}
           transition={{ duration: 0.5, delay: i * 0.05 }}
-          className="absolute hover:z-50">
+          className="absolute hover:z-50"
+        >
           <SIGCard sig={sig.SIG} />
         </motion.div>
       ))}

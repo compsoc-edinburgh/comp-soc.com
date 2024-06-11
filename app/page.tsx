@@ -1,16 +1,16 @@
-'use client';
+'use client'
 
-import JoinDiscord from '@/components/JoinDiscord';
-import { useAnimatedBackground } from '@/context/AnimatedBackgroundContext';
-import { prefix } from '@/utils/prefix';
-import Image from 'next/image';
-import EventSection from '@/components/eventsection/EventSection';
-import FAQSection from '../components/faqsection/FAQSection';
-import SponsorSection from '@/components/sponsorsection/SponsorSection';
-import SigSection from '@/components/SIGCards/SigSection';
+import JoinDiscord from '@/components/JoinDiscord'
+import { useAnimatedBackground } from '@/context/AnimatedBackgroundContext'
+import { prefix } from '@/utils/prefix'
+import Image from 'next/image'
+import EventSection from '@/components/eventsection/EventSection'
+import FAQSection from '../components/faqsection/FAQSection'
+import SponsorSection from '@/components/sponsorsection/SponsorSection'
+import SigSection from '@/components/SIGCards/SigSection'
 
 export default function Home() {
-  const { toggleBackground } = useAnimatedBackground();
+  const { toggleBackground } = useAnimatedBackground()
   return (
     <main className="bg-background flex items-center justify-center min-h-screen flex-col p-4 md:p-24">
       <div className="w-full">
@@ -38,5 +38,5 @@ export default function Home() {
         <SponsorSection></SponsorSection>
       </div>
     </main>
-  );
+  )
 }

@@ -1,29 +1,29 @@
-import React, { useRef, useEffect } from 'react';
-import FullCalendar from '@fullcalendar/react';
-import timeGridPlugin from '@fullcalendar/timegrid';
-import dayGridPlugin from '@fullcalendar/daygrid';
-import interactionPlugin from '@fullcalendar/interaction';
-import { CalendarEvent, GoogleCalendarEvent } from '@/app/types';
-import { useCalendarEvents } from '@/constants/calendarevents';
-import Modal from '@mui/material/Modal';
-import Box from '@mui/material/Box';
-import { color } from 'framer-motion';
+import React, { useRef, useEffect } from 'react'
+import FullCalendar from '@fullcalendar/react'
+import timeGridPlugin from '@fullcalendar/timegrid'
+import dayGridPlugin from '@fullcalendar/daygrid'
+import interactionPlugin from '@fullcalendar/interaction'
+import { CalendarEvent, GoogleCalendarEvent } from '@/app/types'
+import { useCalendarEvents } from '@/constants/calendarevents'
+import Modal from '@mui/material/Modal'
+import Box from '@mui/material/Box'
+import { color } from 'framer-motion'
 
 const EventsCalendar: React.FC = () => {
-  const { events, loading, error } = useCalendarEvents();
-  console.log('Fetched calendar events:', events);
+  const { events, loading, error } = useCalendarEvents()
+  console.log('Fetched calendar events:', events)
 
-  const [open, setOpen] = React.useState(false);
-  const [event, setEvent] = React.useState<CalendarEvent | null>(null);
+  const [open, setOpen] = React.useState(false)
+  const [event, setEvent] = React.useState<CalendarEvent | null>(null)
 
   const handleEventClick = (eventInfo: any) => {
-    setOpen(true);
-    setEvent(eventInfo);
-  };
+    setOpen(true)
+    setEvent(eventInfo)
+  }
 
   const handleClose = () => {
-    setOpen(false);
-  };
+    setOpen(false)
+  }
 
   const style = {
     position: 'absolute',
@@ -34,7 +34,7 @@ const EventsCalendar: React.FC = () => {
     boxShadow: 24,
     p: 4,
     color: 'black',
-  };
+  }
 
   return (
     <>
@@ -53,7 +53,7 @@ const EventsCalendar: React.FC = () => {
         events={events}
         displayEventTime={false}
         eventClick={function (info) {
-          handleEventClick(info.event);
+          handleEventClick(info.event)
         }}
       />
 
@@ -80,7 +80,7 @@ const EventsCalendar: React.FC = () => {
         </Box>
       </Modal>
     </>
-  );
-};
+  )
+}
 
-export default EventsCalendar;
+export default EventsCalendar

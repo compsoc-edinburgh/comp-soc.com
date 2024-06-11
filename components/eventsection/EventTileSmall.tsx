@@ -1,7 +1,7 @@
-import styled from 'styled-components';
-import { Event } from '@/app/types';
-import { useState, useRef, useEffect } from 'react';
-import TruncateText from '../truncatetext/truncatetext';
+import styled from 'styled-components'
+import { Event } from '@/app/types'
+import { useState, useRef, useEffect } from 'react'
+import TruncateText from '../truncatetext/truncatetext'
 
 const EventTileSmall = ({
   title,
@@ -11,23 +11,23 @@ const EventTileSmall = ({
   date,
   upcoming,
 }: Event) => {
-  const [showDescription, setShowDescription] = useState(false);
-  const nonDescriptionRef = useRef<HTMLDivElement>(null);
-  const [nonDescriptionHeight, setNonDescriptionHeight] = useState(0);
+  const [showDescription, setShowDescription] = useState(false)
+  const nonDescriptionRef = useRef<HTMLDivElement>(null)
+  const [nonDescriptionHeight, setNonDescriptionHeight] = useState(0)
 
   useEffect(() => {
     if (nonDescriptionRef.current) {
-      setNonDescriptionHeight(nonDescriptionRef.current.offsetHeight);
+      setNonDescriptionHeight(nonDescriptionRef.current.offsetHeight)
     }
-  }, [showDescription]);
+  }, [showDescription])
 
   const handleMouseEnter = () => {
-    setShowDescription(true);
-  };
+    setShowDescription(true)
+  }
 
   const handleMouseLeave = () => {
-    setShowDescription(false);
-  };
+    setShowDescription(false)
+  }
 
   return (
     <div
@@ -64,7 +64,7 @@ const EventTileSmall = ({
         </div>
       )}
     </div>
-  );
-};
+  )
+}
 
-export default EventTileSmall;
+export default EventTileSmall

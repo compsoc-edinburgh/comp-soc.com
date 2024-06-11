@@ -114,7 +114,8 @@ const MemberCount: FC = () => {
   return (
     <div
       className="text-white text-center"
-      title={`There are ${onlineCount} members online`}>
+      title={`There are ${onlineCount} members online`}
+    >
       <p>Join our Discord!</p>
       {memberCount !== null && (
         <p className="text-xs text-left text-gray-300">
@@ -137,7 +138,8 @@ const JoinDiscord: FC = () => {
         className="px-4 py-2 text-white bg-discordPurple rounded-lg z-10 shadow-lg flex items-center gap-2"
         whileHover={{ scale: 1.1 }}
         onHoverStart={() => setIsHovered(true)}
-        onHoverEnd={() => setIsHovered(false)}>
+        onHoverEnd={() => setIsHovered(false)}
+      >
         {/* 
           I would use this icon... but its the ugliest thing I've ever seen
           <Discord width={48} height={48} /> 

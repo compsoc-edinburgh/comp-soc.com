@@ -1,4 +1,4 @@
-import { SIG } from '@/types/SIG';
+import { SIG } from '@/types/SIG'
 
 export const SIGs: SIG[] = [
   {
@@ -109,4 +109,4 @@ export const SIGs: SIG[] = [
     backgroundColor: '#aaa',
     borderColor: '#eee',
   },
-].sort(() => Math.random() - 0.5);
+].sort(() => Math.random() - 0.5)

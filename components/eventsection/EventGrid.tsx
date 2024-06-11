@@ -1,16 +1,15 @@
-import { Event } from "@/app/types";
-import { FC } from "react";
-import EventTileBig from "./EventTileBig";
-import EventTileSmall from "./EventTileSmall";
-import { prefix } from "@/utils/prefix";
-import Image from "next/image";
+import { Event } from '@/app/types'
+import { FC } from 'react'
+import EventTileBig from './EventTileBig'
+import EventTileSmall from './EventTileSmall'
+import { prefix } from '@/utils/prefix'
+import Image from 'next/image'
 
 interface EventListProps {
-  events: Event[];
+  events: Event[]
 }
 
 const EventGrid: FC<EventListProps> = ({ events }) => {
- 
   return (
     <div>
       {/* Desktop view */}
@@ -47,15 +46,14 @@ const EventGrid: FC<EventListProps> = ({ events }) => {
           src={`${prefix}/infball.webp`}
           alt="Wide CompSoc logo"
           className="w-full h-full object-cover border-white border-2 border-b-0"
-          style={{marginTop: '0px'}}
+          style={{ marginTop: '0px' }}
         />
         <EventTileBig {...events[1]} />
         <EventTileBig {...events[2]} />
         <EventTileBig {...events[3]} />
-        
       </div>
     </div>
-  );
-};
+  )
+}
 
-export default EventGrid;
+export default EventGrid

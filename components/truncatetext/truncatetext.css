@@ -1,20 +1,19 @@
 .truncate-text {
-    overflow: hidden;
-    display: -webkit-box;
-    -webkit-box-orient: vertical;
-    position: relative;
-    line-height: 1.5; /* Adjust this based on your design */
-    white-space: pre-wrap; /* Ensure text wraps properly */
-    word-break: break-word; /* Ensure long words break properly */
-  }
-  
-  .truncate {
-    display: -webkit-box;
-    -webkit-line-clamp: var(--line-clamp);
-    -webkit-box-orient: vertical;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    position: relative;
-    max-height: 100%;
-  }
-  
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  position: relative;
+  line-height: 1.5; /* Adjust this based on your design */
+  white-space: pre-wrap; /* Ensure text wraps properly */
+  word-break: break-word; /* Ensure long words break properly */
+}
+
+.truncate {
+  display: -webkit-box;
+  -webkit-line-clamp: var(--line-clamp);
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  position: relative;
+  max-height: 100%;
+}
