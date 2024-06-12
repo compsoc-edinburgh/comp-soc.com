@@ -14,7 +14,7 @@ export const metadata: Metadata = {
 }
 
 export const viewport: Viewport = {
-  themeColor: '#222222', // TODO: Should be fed from tailwind.config.ts
+  themeColor: '#353535', // TODO: Should be fed from tailwind.config.ts
 }
 
 export default function RootLayout({
