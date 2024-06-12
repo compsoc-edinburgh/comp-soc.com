@@ -15,9 +15,14 @@ async function fetchCalendarEvents(
     currentDate.getMonth(),
     currentDate.getDate()
   )
+  const oneYearEarlier = new Date(
+    currentDate.getFullYear() - 1,
+    currentDate.getMonth(),
+    currentDate.getDate()
+  )
   const params = new URLSearchParams({
     key: 'AIzaSyAnUQX9d7j3_d5wlJF_PvM02eHOMFbDedw',
-    timeMin: currentDate.toISOString(),
+    timeMin: oneYearEarlier.toISOString(),
     timeMax: oneYearLater.toISOString(),
     singleEvents: 'true',
     maxResults: '9999',
@@ -39,20 +44,41 @@ async function fetchCalendarEvents(
   }
 }
 
+const formatDate = (dateStr: string): string => {
+  const dateObj = new Date(dateStr)
+  const day = String(dateObj.getDate()).padStart(2, '0')
+  const month = String(dateObj.getMonth() + 1).padStart(2, '0')
+  const year = dateObj.getFullYear()
+  return `${day}.${month}.${year}`
+}
+
 // Transforms Google Calendar events to CalendarEvent objects
 function transformEvents(
   sig: SIG,
   events: GoogleCalendarEvent[]
 ): CalendarEvent[] {
-  return events.flat().map((event) => ({
-    title: event.summary,
-    start: event.start.dateTime || event.start.date,
-    end: event.end.dateTime || event.end.date,
-    color: sig.backgroundColor,
-    sig: sig.name,
-    description: event.description,
-    location: event.location,
-  }))
+  return events.flat().map((event) => {
+    const startDate = formatDate(event.start.dateTime || event.start.date)
+    const endDate = formatDate(event.end.dateTime || event.end.date)
+    const startTime = event.start.dateTime
+      ? event.start.dateTime.slice(11, 16)
+      : ''
+    const endTime = event.end.dateTime ? event.end.dateTime.slice(11, 16) : ''
+    const formattedDate =
+      startDate === endDate
+        ? `${startDate}, ${startTime} - ${endTime}`
+        : `${startDate}, ${startTime} - ${endDate}, ${endTime}`
+    return {
+      title: event.summary,
+      start: event.start.dateTime || event.start.date,
+      end: event.end.dateTime || event.end.date,
+      color: sig.backgroundColor,
+      sig: sig,
+      description: event.description,
+      location: event.location,
+      formattedDate: formattedDate,
+    }
+  })
 }
 
 export const useCalendarEvents = () => {

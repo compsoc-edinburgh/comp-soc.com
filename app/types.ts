@@ -1,3 +1,5 @@
+import { SIG } from '@/types/SIG'
+
 export interface Event {
   title: string
   description: string
@@ -55,7 +57,8 @@ export interface CalendarEvent {
   color: string
   description: string
   location: string
-  sig: string
+  sig: SIG
+  formattedDate: string
 }
 
 export interface Sponsor {

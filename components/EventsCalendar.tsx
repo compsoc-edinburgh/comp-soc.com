@@ -1,4 +1,4 @@
-import React, { useRef, useEffect } from 'react'
+import React, { useMemo } from 'react'
 import FullCalendar from '@fullcalendar/react'
 import timeGridPlugin from '@fullcalendar/timegrid'
 import dayGridPlugin from '@fullcalendar/daygrid'
@@ -7,18 +7,21 @@ import { CalendarEvent, GoogleCalendarEvent } from '@/app/types'
 import { useCalendarEvents } from '@/constants/calendarevents'
 import Modal from '@mui/material/Modal'
 import Box from '@mui/material/Box'
-import { color } from 'framer-motion'
+import { EventInfo } from 'framer-motion'
+import { prefix } from '@/utils/prefix'
+import Image from 'next/image'
 
 const EventsCalendar: React.FC = () => {
   const { events, loading, error } = useCalendarEvents()
   console.log('Fetched calendar events:', events)
 
   const [open, setOpen] = React.useState(false)
-  const [event, setEvent] = React.useState<CalendarEvent | null>(null)
+  const [event, setEvent] = React.useState<any>(null)
 
   const handleEventClick = (eventInfo: any) => {
     setOpen(true)
     setEvent(eventInfo)
+    console.log('Event clicked:', eventInfo)
   }
 
   const handleClose = () => {
@@ -30,10 +33,17 @@ const EventsCalendar: React.FC = () => {
     top: '50%',
     left: '50%',
     transform: 'translate(-50%, -50%)',
-    bgcolor: 'background.paper',
+    bgcolor: '#222222',
     boxShadow: 24,
     p: 4,
-    color: 'black',
+    color: 'white',
+  }
+
+  const createMarkup = (html: string) => {
+    if (!html) {
+      return { __html: '' }
+    }
+    return { __html: html.replace(/<a /g, '<a style="color: #1198E7;" ') }
   }
 
   return (
@@ -45,6 +55,7 @@ const EventsCalendar: React.FC = () => {
           center: 'title',
           right: 'timeGridDay,timeGridWeek,dayGridMonth',
         }}
+        firstDay={1}
         initialView="timeGridWeek"
         selectMirror={true}
         dayMaxEvents={true}
@@ -64,16 +75,51 @@ const EventsCalendar: React.FC = () => {
         aria-describedby="modal-modal-description"
       >
         <Box sx={style} className="rounded-md">
-          <div className="p-4">
+          <div className="p-4 flex items-center">
             {event && (
               <>
-                <div>{event.title}</div>
-                <div>{event.description}</div>
-                <div>{event.location}</div>
                 <div>
-                  {event.start?.toLocaleString()} -{' '}
-                  {event.end?.toLocaleString()}
+                  <div className="font-bold flex items-center">
+                    <Image
+                      width={40}
+                      height={40}
+                      src={`${prefix}/SIGs/${event.extendedProps.sig.icon.src}`}
+                      alt={event.extendedProps.sig.icon.alt}
+                      className={`h-full ${
+                        event.extendedProps.sig.icon.rounded
+                          ? 'rounded-full'
+                          : 'rounded-lg'
+                      } mr-2`}
+                    />
+                    <div className="text-xl">{event.title}</div>
+                  </div>
+                  <div className="mt-2">
+                    {' '}
+                    {event.extendedProps.formattedDate}
+                  </div>
+
+                  <div
+                    className="mt-2"
+                    dangerouslySetInnerHTML={
+                      createMarkup(event.extendedProps.description) || {
+                        __html: '',
+                      }
+                    }
+                  />
+                  <div>{event.location}</div>
+
+                  {/* {event.extendedProps.formattedDate.split('\n').map((line, index) => (
+              <React.Fragment key={index}>
+                {line}
+                {index < event.extendedProps.formattedDate.split('\n').length - 1 && <br />}
+              </React.Fragment>
+            ))} */}
                 </div>
+                <style jsx>{`
+                  .description a {
+                    color: blue;
+                  }
+                `}</style>
               </>
             )}
           </div>
