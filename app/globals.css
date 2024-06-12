@@ -26,5 +26,4 @@
 
 body {
   @apply text-textPrimary;
-  @apply bg-background;
 }

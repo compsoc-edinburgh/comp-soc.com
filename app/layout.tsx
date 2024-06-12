@@ -3,6 +3,8 @@ import './globals.css'
 import Navbar from '@/components/Navbar'
 import { prefix } from '@/utils/prefix'
 import PixelBackground from '@/components/PixelBackground'
+import VariableBackground from '@/components/VariableBackground'
+import { BackgroundProvider } from '@/components/BackgroundContext'
 
 export const metadata: Metadata = {
   title: 'CompSoc',
@@ -25,12 +27,14 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className="relative overflow-x-clip w-screen mx-auto">
-        <PixelBackground>
-          <Navbar />
-          <div className="container mx-auto max-w-screen-xl p-4">
-            {children}
-          </div>
-        </PixelBackground>
+        <VariableBackground>
+          <PixelBackground>
+            <Navbar />
+            <div className="container mx-auto max-w-screen-xl p-4">
+              {children}
+            </div>
+          </PixelBackground>
+        </VariableBackground>
       </body>
     </html>
   )
