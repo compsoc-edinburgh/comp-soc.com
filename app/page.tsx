@@ -8,6 +8,7 @@ import EventSection from '@/components/eventsection/EventSection'
 import FAQSection from '../components/faqsection/FAQSection'
 import SponsorSection from '@/components/sponsorsection/SponsorSection'
 import SigSection from '@/components/SIGCards/SigSection'
+import PresidentQuoteSection from '@/components/introSection/PresidentQuoteSection'
 
 export default function Home() {
   const { toggleBackground } = useAnimatedBackground()
@@ -28,6 +29,8 @@ export default function Home() {
           />
           <JoinDiscord />
         </div>
+
+        <PresidentQuoteSection />
 
         <SigSection></SigSection>
 
