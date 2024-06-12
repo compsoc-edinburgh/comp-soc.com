@@ -12,8 +12,7 @@ const CompSocTitle = () => {
         draggable={false}
         className="block md:hidden"
         style={{
-          filter:
-            'drop-shadow(0px 0px 50px rgba(255, 255, 255, 0.1)) drop-shadow(0px 0px 197.8px rgba(255, 255, 255, 0.1))',
+          filter: 'drop-shadow(0px 0px 50px rgba(255, 255, 255, 0.2))',
         }}
       />
       <Image
@@ -24,8 +23,7 @@ const CompSocTitle = () => {
         draggable={false}
         className="hidden md:block"
         style={{
-          filter:
-            'drop-shadow(0px 0px 50px rgba(255, 255, 255, 0.1)) drop-shadow(0px 0px 197.8px rgba(255, 255, 255, 0.1))',
+          filter: 'drop-shadow(0px 0px 50px rgba(255, 255, 255, 0.1))',
         }}
       />
       <p className="text-gray-400 text-sm md:text-lg text-center mt-4">
