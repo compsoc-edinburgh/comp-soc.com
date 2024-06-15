@@ -10,11 +10,12 @@ const Logo = () => (
   <div className="text-white font-bold">
     <Link href={`${prefix}/`}>
       <Image
-        src={`${prefix}/compsoc-short.png`}
+        src={`${prefix}/compsoc-mini.png`}
         alt="Wide CompSoc logo"
-        width={48}
-        height={48}
+        width={24}
+        height={24}
         priority
+        className="transform scale-125"
       />
     </Link>
   </div>

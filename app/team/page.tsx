@@ -1,4 +1,20 @@
 import TeamList from '@/components/teamList/TeamList'
+import { MultiplePages } from 'iconoir-react'
+import Link from 'next/link'
+
+const BigLink = () => {
+  return (
+    <Link href="/minutes">
+      <div className="bg-foreground border-border border-2 p-4 rounded-sm text-center text-white cursor-pointer flex w-fit gap-4 items-center">
+        <MultiplePages width={32} height={32} />
+        <div className="flex flex-col text-left font-tomorrow">
+          <h1 className="text-lg">Meeting Minutes</h1>
+          <p className="text-sm opacity-70">120 meetings</p>
+        </div>
+      </div>
+    </Link>
+  )
+}
 
 export default function Team() {
   return (
@@ -9,6 +25,7 @@ export default function Team() {
         the society. The committee holds weekly meetings in Appleton Tower.
         Elections foc committee roles happen during AGMs. Consider running!{' '}
       </p>
+      <BigLink />
 
       <TeamList />
     </div>
