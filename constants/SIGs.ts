@@ -35,7 +35,7 @@ export const SIGs: SIG[] = [
     icon: {
       src: 'ccsig.webp',
       alt: 'CCSig logo',
-      rounded: false,
+      rounded: true,
     },
     backgroundColor: '#143D59',
     borderColor: '#3B6D8F',
@@ -90,7 +90,7 @@ export const SIGs: SIG[] = [
     icon: {
       src: 'quantsig.webp',
       alt: 'QuantSig logo',
-      rounded: false,
+      rounded: true,
     },
     backgroundColor: '#4B3E4F',
     borderColor: '#807184',
@@ -103,7 +103,7 @@ export const SIGs: SIG[] = [
     icon: {
       src: 'gamedevsig.webp',
       alt: 'GamedevSig logo',
-      rounded: false,
+      rounded: true,
     },
     backgroundColor: '#000000',
     borderColor: '#3CAB98',
@@ -125,4 +125,4 @@ export const SIGs: SIG[] = [
     calendarURL:
       'c_8251e2c2a6bdc88406401f582ca996f087aea223665091d56b822bf99779e5a4@group.calendar.google.com',
   },
-].sort(() => Math.random() - 0.5)
+]

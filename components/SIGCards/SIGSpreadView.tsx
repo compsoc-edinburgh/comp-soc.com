@@ -18,6 +18,11 @@ const SIGSpreadView = () => {
     { x: number; y: number; rotate: number; SIG: SIG }[]
   >([])
   const [inView, setInView] = useState(false)
+  // Shuffling needs to be done on the client side due to rehydration issues with static gen
+  const [shuffledSIGs, setShuffledSIGs] = useState<SIG[]>([])
+  useEffect(() => {
+    setShuffledSIGs(SIGs.sort(() => Math.random() - 0.5))
+  }, [])
 
   const calculatePositions = () => {
     // Calculate the positions of the SIG cards. Messy but it works.
@@ -27,7 +32,7 @@ const SIGSpreadView = () => {
       const lastRowOffset =
         ((columns - lastRowItemCount) * (cardWidth + margin)) / 2
 
-      return SIGs.map((SIG, i) => {
+      return shuffledSIGs.map((SIG, i) => {
         const currentRow = Math.floor(i / columns)
         const isLastRow = currentRow === numRows - 1
         const x =

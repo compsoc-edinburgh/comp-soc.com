@@ -5,6 +5,7 @@ import { prefix } from '@/utils/prefix'
 import PixelBackground from '@/components/PixelBackground'
 import VariableBackground from '@/components/VariableBackground'
 import { BackgroundProvider } from '@/components/BackgroundContext'
+import Footer from '@/components/footer/Footer'
 
 export const metadata: Metadata = {
   title: 'CompSoc',
@@ -35,6 +36,7 @@ export default function RootLayout({
             </div>
           </PixelBackground>
         </VariableBackground>
+        <Footer />
       </body>
     </html>
   )

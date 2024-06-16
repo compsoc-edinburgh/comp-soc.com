@@ -1,14 +1,21 @@
 import { AnimatePresence, motion } from 'framer-motion'
-import { useState } from 'react'
+import { useEffect, useState } from 'react'
 import SIGCard from './SIGCard' // Assume SIGCard is a component you have
 import { SIGs } from '@/constants/SIGs'
 import { Refresh } from 'iconoir-react'
+import { SIG } from '@/types/SIG'
 
 const SIGSwipeView = () => {
   const [index, setIndex] = useState(0)
   const [swipedDirections, setSwipedDirections] = useState(
     Array(SIGs.length).fill(null)
   )
+
+  // Shuffling needs to be done on the client side due to rehydration issues with static gen
+  const [shuffledSIGs, setShuffledSIGs] = useState<SIG[]>([])
+  useEffect(() => {
+    setShuffledSIGs(SIGs.sort(() => Math.random() - 0.5))
+  }, [])
 
   const handleSwipe = (direction: 'left' | 'right', i: number) => {
     if (i < SIGs.length) {
@@ -29,7 +36,7 @@ const SIGSwipeView = () => {
   return (
     <div className="relative w-full my-12 h-96">
       <div className="absolute w-full h-full flex justify-center items-center">
-        {SIGs.map((sig, i) => (
+        {shuffledSIGs.map((sig, i) => (
           <motion.div
             key={i}
             className={`absolute`}
