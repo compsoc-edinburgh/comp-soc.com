@@ -1,6 +1,5 @@
 import React, { useRef } from 'react'
 import FadeInBox from './FadeInBox'
-import 'tailwindcss/tailwind.css'
 
 const FadeInBoxRow: React.FC = () => {
   const boxes = [

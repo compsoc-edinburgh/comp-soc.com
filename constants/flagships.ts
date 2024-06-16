@@ -6,7 +6,7 @@ export const flagships = [
     image: 'image6.jpg',
   },
   {
-    name: 'Hack the Burgh',
+    name: 'Hack The Burgh',
     description:
       'Join us for our annual 24-hour hackathon, complete with food, sponsor merch, and many prizes up for grabs.',
     image: 'image5.jpg',

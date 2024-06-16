@@ -1,5 +1,4 @@
 import React, { useRef, useEffect, useState } from 'react'
-import 'tailwindcss/tailwind.css'
 import useScrollTriggeredCountUp from './useScrollTriggeredCountUp'
 
 interface FadeInBoxProps {

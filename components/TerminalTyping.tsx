@@ -53,7 +53,7 @@ const TerminalTyping: React.FC<TerminalTypingProps> = ({ text }) => {
       <span
         ref={elementRef}
         id="AboutDevTypeText"
-        className="typeing text-white text-4xl font-space-mono"
+        className="typeing text-red-500 text-4xl font-space-mono"
       ></span>
 
       <style>
