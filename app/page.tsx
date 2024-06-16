@@ -9,6 +9,7 @@ import PresidentQuoteSection from '@/components/introSection/PresidentQuoteSecti
 import CompSocTitle from '@/components/CompSocTitle'
 import { useBackground } from '@/components/BackgroundContext'
 import VariableBackground from '@/components/VariableBackground'
+import IntroSection from '@/components/introSection/IntroSection'
 
 export default function Home() {
   const { setBackgroundColor } = useBackground()
@@ -22,7 +23,7 @@ export default function Home() {
           <JoinDiscord />
         </div>
 
-        <PresidentQuoteSection />
+        <IntroSection></IntroSection>
 
         <SigSection></SigSection>
 

@@ -1,22 +1,22 @@
-import React, { useMemo } from 'react'
+import React, { useEffect, useState } from 'react'
 import FullCalendar from '@fullcalendar/react'
 import timeGridPlugin from '@fullcalendar/timegrid'
 import dayGridPlugin from '@fullcalendar/daygrid'
 import interactionPlugin from '@fullcalendar/interaction'
-import { CalendarEvent, GoogleCalendarEvent } from '@/app/types'
 import { useCalendarEvents } from '@/constants/calendarevents'
 import Modal from '@mui/material/Modal'
 import Box from '@mui/material/Box'
-import { EventInfo } from 'framer-motion'
 import { prefix } from '@/utils/prefix'
 import Image from 'next/image'
 
 const EventsCalendar: React.FC = () => {
   const { events, loading, error } = useCalendarEvents()
   console.log('Fetched calendar events:', events)
+  const isMobile = typeof window !== 'undefined' && window.innerWidth <= 768
 
   const [open, setOpen] = React.useState(false)
   const [event, setEvent] = React.useState<any>(null)
+  const [calendarView, setCalendarView] = useState('timeGridWeek')
 
   const handleEventClick = (eventInfo: any) => {
     setOpen(true)
@@ -46,17 +46,49 @@ const EventsCalendar: React.FC = () => {
     return { __html: html.replace(/<a /g, '<a style="color: #1198E7;" ') }
   }
 
+  useEffect(() => {
+    const updateView = () => {
+      const isMobile = window.innerWidth <= 768
+      setCalendarView(isMobile ? 'timeGridThreeDay' : 'timeGridWeek')
+    }
+
+    updateView()
+    window.addEventListener('resize', updateView)
+
+    return () => {
+      window.removeEventListener('resize', updateView)
+    }
+  }, [])
+
   return (
-    <>
+    <div className="lg:w-7/8 mx-auto mt-10">
+      <style>
+        {`
+          .fc .fc-timegrid-slot-minor {
+            border-top: none; !important;
+          }
+        `}
+      </style>
       <FullCalendar
+        key={calendarView} // Add key to force re-render
         plugins={[dayGridPlugin, timeGridPlugin, interactionPlugin]}
         headerToolbar={{
           left: 'prev,next today',
           center: 'title',
-          right: 'timeGridDay,timeGridWeek,dayGridMonth',
+          right: isMobile
+            ? 'timeGridDay,timeGridThreeDay,dayGridMonth'
+            : 'timeGridDay,timeGridWeek,dayGridMonth',
         }}
         firstDay={1}
-        initialView="timeGridWeek"
+        contentHeight={800}
+        initialView={calendarView}
+        views={{
+          timeGridThreeDay: {
+            type: 'timeGrid',
+            duration: { days: 3 },
+            buttonText: '3 day',
+          },
+        }}
         selectMirror={true}
         dayMaxEvents={true}
         slotMinTime={'08:00:00'}
@@ -107,13 +139,6 @@ const EventsCalendar: React.FC = () => {
                     }
                   />
                   <div>{event.location}</div>
-
-                  {/* {event.extendedProps.formattedDate.split('\n').map((line, index) => (
-              <React.Fragment key={index}>
-                {line}
-                {index < event.extendedProps.formattedDate.split('\n').length - 1 && <br />}
-              </React.Fragment>
-            ))} */}
                 </div>
                 <style jsx>{`
                   .description a {
@@ -125,7 +150,7 @@ const EventsCalendar: React.FC = () => {
           </div>
         </Box>
       </Modal>
-    </>
+    </div>
   )
 }
 

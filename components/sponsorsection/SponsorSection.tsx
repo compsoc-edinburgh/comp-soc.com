@@ -5,6 +5,7 @@ import './banner.css'
 import { sponsors } from '@/constants/sponsors'
 import HoverGif from './HoverGif'
 import VariableBackgroundSwitcher from '../VariableBackgroundSwitcher'
+import { MdArrowForward } from 'react-icons/md'
 
 const SponsorSection = () => {
   const [speed, setSpeed] = useState(60000)
@@ -42,6 +43,12 @@ const SponsorSection = () => {
             speed={speed}
             direction="reverse"
           />
+        </div>
+        {/* <button className="bg-csred font-space-mono rounded-lg py-2 px-4 text-white">Get in touch</button> */}
+        <div className="flex items-center">
+          <button className="bg-red-600 font-space-mono rounded-lg py-2 px-4 text-white inline-flex items-center mt-2">
+            Get in Touch <MdArrowForward className="ml-2" />
+          </button>
         </div>
       </VariableBackgroundSwitcher>
     </div>

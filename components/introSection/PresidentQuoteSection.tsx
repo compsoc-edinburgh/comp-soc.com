@@ -11,8 +11,8 @@ const PresidentQuoteSection = () => {
   )
   if (!president) return null
   return (
-    <VariableBackgroundSwitcher activeColor="bg-[#471819]">
-      <div className="h-screen flex flex-col justify-center items-center">
+    <>
+      <div className="flex flex-col justify-center items-center">
         <div className="grid grid-cols-1 sm:grid-cols-4 gap-2 lg:gap-16">
           <div className="sm:col-span-1 flex flex-col sm:items-end items-start justify-center">
             <div className="flex flex-col items-left">
@@ -39,7 +39,7 @@ const PresidentQuoteSection = () => {
           </div>
         </div>
       </div>
-    </VariableBackgroundSwitcher>
+    </>
   )
 }
 
