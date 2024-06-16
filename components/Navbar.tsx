@@ -42,8 +42,8 @@ const NavBar = () => {
   const pathname = usePathname()
 
   return (
-    <nav className="sticky top-0 z-50 container mx-auto p-0 md:p-4 max-w-screen-lg">
-      <div className="container bg-foreground mx-auto flex justify-between items-center p-4 border-border border-b-2 rounded-sm sm:border-2">
+    <nav className="sticky top-0 z-[100]  p-0 w-screen bg-foreground border-b-border border-b-2">
+      <div className="container max-w-5xl mx-auto flex justify-between items-center py-4">
         <Logo />
         <div className="flex space-x-8 px-2">
           {NAV_LINKS.map((link) => (
