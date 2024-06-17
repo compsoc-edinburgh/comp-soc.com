@@ -31,6 +31,7 @@ const Footer = () => {
       options: {
         width: scene.current.offsetWidth,
         height: scene.current.offsetHeight,
+        pixelRatio: window.devicePixelRatio,
         wireframes: false,
         background: 'transparent',
       },
@@ -77,14 +78,12 @@ const Footer = () => {
     )
 
     const images = [
-      `${prefix}/compsoc-short.png`,
       `${prefix}/footerIcons/AT-lifts.png`,
       `${prefix}/footerIcons/AT.png`,
       `${prefix}/footerIcons/CompMug.png`,
       `${prefix}/footerIcons/CompSoc-laptop.png`,
       `${prefix}/footerIcons/CompSock-pride.png`,
       `${prefix}/footerIcons/CompSock.png`,
-      `${prefix}/compsoc-short.png`,
       `${prefix}/footerIcons/AT-lifts.png`,
       `${prefix}/footerIcons/AT.png`,
       `${prefix}/footerIcons/CompMug.png`,
@@ -151,7 +150,7 @@ const Footer = () => {
         const maxDistance = 400 // Distance threshold for interaction
 
         if (distance < maxDistance) {
-          const forceMagnitude = (maxDistance - distance) * 0.005 // Adjust force magnitude as needed
+          const forceMagnitude = (maxDistance - distance) * 0.0015 // Adjust force magnitude as needed
           const force = Matter.Vector.mult(
             Matter.Vector.normalise(mouseVelocity),
             forceMagnitude

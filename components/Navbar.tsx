@@ -43,7 +43,7 @@ const NavBar = () => {
 
   return (
     <nav className="sticky top-0 z-[100]  p-0 w-screen bg-foreground border-b-border border-b-2">
-      <div className="container max-w-5xl mx-auto flex justify-between items-center py-4">
+      <div className="container max-w-5xl mx-auto flex justify-between items-center py-4 px-4 sm:px-0">
         <Logo />
         <div className="flex space-x-8 px-2">
           {NAV_LINKS.map((link) => (

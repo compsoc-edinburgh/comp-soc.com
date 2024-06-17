@@ -7,7 +7,7 @@ const TeamList = () => {
     .reverse()
     .map((year: string) => (
       <>
-        <h1 className="font-space-mono text-3xl mb-10">{year}</h1>
+        <h1 className="font-space-mono text-3xl my-10">{year}</h1>
         <div
           key={year}
           className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-5 gap-4 "

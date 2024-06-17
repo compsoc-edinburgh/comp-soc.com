@@ -31,7 +31,7 @@ export default function RootLayout({
         <VariableBackground>
           <PixelBackground>
             <Navbar />
-            <div className="container mx-auto max-w-screen-xl p-4">
+            <div className="container mx-auto max-w-screen-xl p-4 pb-32">
               {children}
             </div>
           </PixelBackground>
