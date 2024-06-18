@@ -6,8 +6,10 @@ export async function getPostsContent() {
 
   const fileNames = fs.readdirSync(postsDirectory)
 
-  return fileNames.map((post) => ({
-    slug: post.replace(/\.md$/, ''),
-    content: fs.readFileSync(path.join(postsDirectory, post), 'utf-8'),
-  }))
+  return fileNames
+    .map((post) => ({
+      slug: post.replace(/\.md$/, ''),
+      content: fs.readFileSync(path.join(postsDirectory, post), 'utf-8'),
+    }))
+    .sort((a, b) => (a.slug < b.slug ? 1 : -1))
 }
