@@ -1,0 +1,71 @@
+3:I[39275,[],""]
+5:I[61343,[],""]
+6:I[84269,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","231","static/chunks/231-d9549b433032eeef.js","173","static/chunks/173-381dfe0b598c8022.js","185","static/chunks/app/layout-795adfd9f0e91106.js"],"default"]
+7:I[35719,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","231","static/chunks/231-d9549b433032eeef.js","173","static/chunks/173-381dfe0b598c8022.js","185","static/chunks/app/layout-795adfd9f0e91106.js"],"default"]
+8:I[42452,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","231","static/chunks/231-d9549b433032eeef.js","173","static/chunks/173-381dfe0b598c8022.js","185","static/chunks/app/layout-795adfd9f0e91106.js"],"default"]
+9:I[80519,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","231","static/chunks/231-d9549b433032eeef.js","173","static/chunks/173-381dfe0b598c8022.js","185","static/chunks/app/layout-795adfd9f0e91106.js"],"default"]
+4:["slug","2022-11-17","d"]
+0:["wxQCsVrf7mMjXIWktkBOo",[[["",{"children":["minutes",{"children":[["slug","2022-11-17","d"],{"children":["__PAGE__?{\"slug\":\"2022-11-17\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["minutes",{"children":[["slug","2022-11-17","d"],{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","minutes","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":[["$","link","0",{"rel":"stylesheet","href":"./_next/static/css/54f9ddd098fa72b3.css","precedence":"next","crossOrigin":"$undefined"}]]}],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","minutes","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},[["$","html",null,{"lang":"en","children":["$","body",null,{"className":"relative overflow-x-clip w-screen mx-auto","children":[["$","$L6",null,{"children":["$","$L7",null,{"children":[["$","$L8",null,{}],["$","div",null,{"className":"container mx-auto max-w-screen-xl p-4 pb-32","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}]}]]}]}],["$","$L9",null,{}]]}]}],null],null],[[["$","link","0",{"rel":"stylesheet","href":"./_next/static/css/fb8581701600257b.css","precedence":"next","crossOrigin":"$undefined"}]],"$La"]]]]
+b:I[231,["231","static/chunks/231-d9549b433032eeef.js","820","static/chunks/app/minutes/%5Bslug%5D/page-e298acbbe84ebbee.js"],""]
+c:T88a,<h1>Call to Order</h1>
+<p>This meeting took place at 17:00 on the 17th of November, lead by
+President Ben McConville.</p>
+<h1>Sederunt</h1>
+<h2>Banking update</h2>
+<p>All reimbursements have been made, access to the bank account has been
+done. Bank transfer is recommended for future reimbursements. Ben and
+Sophie are looking to speak to the morningside Santander.</p>
+<h2>Sponsorship update</h2>
+<p>Waiting to hear back from Sainsbury's Bank, they're willing to sponsor
+HTB. A meeting is being setup for sponsors contacted within the last
+week. Edinburgh innovations are looking for help with advertising on
+both ends, with us being able to use the innovations room.</p>
+<h2>Meeting with SIGINT</h2>
+<p>Updated SIGINT on the changes being made within. They've been informed
+that we have the bank account. Add a section in the form that will let
+CompSoc know which SIG is being paid in/out and how much. We've asked
+SIGINT to keep a note of how much has been paid in, just for simple
+tracking reasons. CompSoc are streamlining the handover process, SIGINT
+are hoping for less middleman-y things in the future. A wiki is being
+setup, but the transparency is needed to increasing, having a wiki to
+let future committees know what to do in the future, to improving
+handovers. SIGINT are requesting CompSoc's help for a SIGINT conference
+next semester, especially as it is planned to be much bigger than the
+yearly PwnED event.</p>
+<h2>Upcoming Social Events</h2>
+<p><strong>Event 1:</strong> November 30th STMU -- changes needed\</p>
+<p><strong>Event 2:</strong> Promoting Royal Halloway CompSoc Events<br>
+<strong>Event 3:</strong> Movie night this week\</p>
+<p><strong>Event 4:</strong> Christmas market walk\</p>
+<h2>Potential Events</h2>
+<ul>
+<li>
+<p>Sporting events in Semester 2.</p>
+</li>
+<li>
+<p>Browser/Editor Wars (Week beginning 7th November)</p>
+</li>
+<li>
+<p>Coding/Gaming Workshops</p>
+</li>
+<li>
+<p>Hack Week</p>
+</li>
+<li>
+<p>CV/Interview workshop</p>
+</li>
+<li>
+<p>Obscure language workshops</p>
+</li>
+<li>
+<p>Movie night</p>
+</li>
+<li>
+<p>Board Game Night</p>
+</li>
+</ul>
+<h1>Adjournment</h1>
+<p>Ben adjourns the meeting at 18:20.<br>
+Minutes taken by: Maya Copeland</p>2:["$","div",null,{"className":"max-w-5xl mx-auto pt-32","children":[["$","$Lb",null,{"href":"https://compsoc-edinburgh.github.io/comp-soc.com/minutes","children":"Back"}],["$","h1",null,{"className":"text-3xl","children":"17/11/2022"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$c"},"className":"minutes"}]]}]
+a:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#353535"}],["$","meta","2",{"charSet":"utf-8"}],["$","title","3",{"children":"CompSoc"}],["$","meta","4",{"name":"description","content":"CompSoc is Edinburgh University's technology society! We're Scotland's best and largest of its kind, and form one of the largest societies within the university."}],["$","link","5",{"rel":"icon","href":"https://compsoc-edinburgh.github.io/comp-soc.com/compsoc-mini.png"}]]
+1:null

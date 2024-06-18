@@ -1,0 +1,64 @@
+3:I[39275,[],""]
+5:I[61343,[],""]
+6:I[84269,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","231","static/chunks/231-d9549b433032eeef.js","173","static/chunks/173-381dfe0b598c8022.js","185","static/chunks/app/layout-795adfd9f0e91106.js"],"default"]
+7:I[35719,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","231","static/chunks/231-d9549b433032eeef.js","173","static/chunks/173-381dfe0b598c8022.js","185","static/chunks/app/layout-795adfd9f0e91106.js"],"default"]
+8:I[42452,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","231","static/chunks/231-d9549b433032eeef.js","173","static/chunks/173-381dfe0b598c8022.js","185","static/chunks/app/layout-795adfd9f0e91106.js"],"default"]
+9:I[80519,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","231","static/chunks/231-d9549b433032eeef.js","173","static/chunks/173-381dfe0b598c8022.js","185","static/chunks/app/layout-795adfd9f0e91106.js"],"default"]
+4:["slug","2020-02-13","d"]
+0:["wxQCsVrf7mMjXIWktkBOo",[[["",{"children":["minutes",{"children":[["slug","2020-02-13","d"],{"children":["__PAGE__?{\"slug\":\"2020-02-13\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["minutes",{"children":[["slug","2020-02-13","d"],{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","minutes","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":[["$","link","0",{"rel":"stylesheet","href":"./_next/static/css/54f9ddd098fa72b3.css","precedence":"next","crossOrigin":"$undefined"}]]}],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","minutes","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},[["$","html",null,{"lang":"en","children":["$","body",null,{"className":"relative overflow-x-clip w-screen mx-auto","children":[["$","$L6",null,{"children":["$","$L7",null,{"children":[["$","$L8",null,{}],["$","div",null,{"className":"container mx-auto max-w-screen-xl p-4 pb-32","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}]}]]}]}],["$","$L9",null,{}]]}]}],null],null],[[["$","link","0",{"rel":"stylesheet","href":"./_next/static/css/fb8581701600257b.css","precedence":"next","crossOrigin":"$undefined"}]],"$La"]]]]
+b:I[231,["231","static/chunks/231-d9549b433032eeef.js","820","static/chunks/app/minutes/%5Bslug%5D/page-e298acbbe84ebbee.js"],""]
+c:T7b0,<p><strong>Present</strong>:
+Kyle Cotton, Lars Thalian Morstad, Dee Yeum, Lorenzo Baldini, Yannik Nelson, Athiya Deviyani, Alan Paul, Alexandra Purcarea, Rokas Gudavicius, Samuel Macleod.</p>
+<p><strong>Agenda</strong>:</p>
+<ul>
+<li>HTB as usual
+<ul>
+<li>We will be charged out-of-hours price for Gordon Aikman and AT. Even with extra costs we are well in the green.</li>
+<li>Issue with tshirts, sized were collected too late.</li>
+<li>People are let into on an individual basis, not a team basis.</li>
+<li>We need to thick about who runs HTB next year.</li>
+<li>Many problems with the tech side of things.</li>
+<li>Suggestion to have food delivered to desks instead of queuing. Will implement a system to ensure one person gets one meal.</li>
+<li>CompSoc unique challenge!</li>
+</ul>
+</li>
+<li>InfBall
+<ul>
+<li>Need to pay deposit and for band.</li>
+<li>Budget looks good.</li>
+<li>Might need to cut some of the flashier things, like the chocolate fountain.</li>
+</ul>
+</li>
+<li>Social events
+<ul>
+<li>Potential for another event with GS. They are willing to sponsor a social.</li>
+<li>Ice Skating</li>
+<li>Pub Crawls /Quizzes</li>
+</ul>
+</li>
+<li>STMU discussion, mainly about day change
+<ul>
+<li>Wednesdays are sports and societies day, meaning that people might be busy.</li>
+<li>The format of STMUs might need a rework.</li>
+<li>There is only one STMU left, might be good to suggest a different day for the new committee.</li>
+</ul>
+</li>
+<li>Preparation for AGM
+<ul>
+<li>The comittee is doing to sit down and write up a "How to run CompSoc", which would include admin, sponsors, HtB tech, etc.</li>
+<li>Announce nominations</li>
+<li>Collect manifestos</li>
+<li>Decide voting</li>
+<li>Publish manifestos</li>
+<li>Come up with more things to do for year reps.</li>
+<li>Suggestion: change to what counts as quorate committee.</li>
+</ul>
+</li>
+<li>EUSA elections
+<ul>
+<li>Samuel is running as eusa president. CompSoc is willing to endorse him.</li>
+</ul>
+</li>
+</ul>2:["$","div",null,{"className":"max-w-5xl mx-auto pt-32","children":[["$","$Lb",null,{"href":"https://compsoc-edinburgh.github.io/comp-soc.com/minutes","children":"Back"}],["$","h1",null,{"className":"text-3xl","children":"2020-02-13 6:30pm"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$c"},"className":"minutes"}]]}]
+a:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#353535"}],["$","meta","2",{"charSet":"utf-8"}],["$","title","3",{"children":"CompSoc"}],["$","meta","4",{"name":"description","content":"CompSoc is Edinburgh University's technology society! We're Scotland's best and largest of its kind, and form one of the largest societies within the university."}],["$","link","5",{"rel":"icon","href":"https://compsoc-edinburgh.github.io/comp-soc.com/compsoc-mini.png"}]]
+1:null

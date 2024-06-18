@@ -1,0 +1,141 @@
+3:I[39275,[],""]
+5:I[61343,[],""]
+6:I[84269,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","231","static/chunks/231-d9549b433032eeef.js","173","static/chunks/173-381dfe0b598c8022.js","185","static/chunks/app/layout-795adfd9f0e91106.js"],"default"]
+7:I[35719,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","231","static/chunks/231-d9549b433032eeef.js","173","static/chunks/173-381dfe0b598c8022.js","185","static/chunks/app/layout-795adfd9f0e91106.js"],"default"]
+8:I[42452,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","231","static/chunks/231-d9549b433032eeef.js","173","static/chunks/173-381dfe0b598c8022.js","185","static/chunks/app/layout-795adfd9f0e91106.js"],"default"]
+9:I[80519,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","231","static/chunks/231-d9549b433032eeef.js","173","static/chunks/173-381dfe0b598c8022.js","185","static/chunks/app/layout-795adfd9f0e91106.js"],"default"]
+4:["slug","2024-01-17","d"]
+0:["wxQCsVrf7mMjXIWktkBOo",[[["",{"children":["minutes",{"children":[["slug","2024-01-17","d"],{"children":["__PAGE__?{\"slug\":\"2024-01-17\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["minutes",{"children":[["slug","2024-01-17","d"],{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","minutes","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":[["$","link","0",{"rel":"stylesheet","href":"./_next/static/css/54f9ddd098fa72b3.css","precedence":"next","crossOrigin":"$undefined"}]]}],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","minutes","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},[["$","html",null,{"lang":"en","children":["$","body",null,{"className":"relative overflow-x-clip w-screen mx-auto","children":[["$","$L6",null,{"children":["$","$L7",null,{"children":[["$","$L8",null,{}],["$","div",null,{"className":"container mx-auto max-w-screen-xl p-4 pb-32","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}]}]]}]}],["$","$L9",null,{}]]}]}],null],null],[[["$","link","0",{"rel":"stylesheet","href":"./_next/static/css/fb8581701600257b.css","precedence":"next","crossOrigin":"$undefined"}]],"$La"]]]]
+b:I[231,["231","static/chunks/231-d9549b433032eeef.js","820","static/chunks/app/minutes/%5Bslug%5D/page-e298acbbe84ebbee.js"],""]
+c:T13ca,<p>In Attendance: Fergus White (President), Ali Abdelaal (Vice President), Maya Copeland (Secretary), Charlotte Ausel (Social Secretary), Yuto Takano (Graphic Designer), Vincentas Danys (1st Year Rep), Tomas Maillo (3rd Year Rep) Kryzstof Grykiel (4th Year Rep), Jinxual Cui (Old Person Rep) and Ol Rushton (Tardis)</p>
+<h1>EGM + STMU</h1>
+<p>Secretary may be voted upon in the EGM unless EUSA confirms it (edit: 18/01/24 - no longer open) and Treasurer. Maya is remaining EDI rep until February, and it will become a votable role. Liam O'Connor has not sent over a description for his talk yet, will need to be chased up. The pizza order will remain the same as the previous STMU.</p>
+<h1>CompSoc SIG Fair</h1>
+<p>Charlotte needs to send an announcement about it. SIG reps are to meet inside the Security Lab or AT5.04, discussions of posters and leaflets as well of the use of screens took place. SIG Presidents can recruit new members and/or their successor. People will make an announcement inside inf1b lecture. Gary from the Informatics Makerspace wants to showcase the going-ons inside the makerspace.</p>
+<h1>SIG Meetings</h1>
+<p>Rediscuss times - SIG Meeting 15:00 - 16:00 tends to be short and gap to committee meeting at 17:00 is large</p>
+<h2>InfBall</h2>
+<p>Photographer invoice, can be reimbursed ASAP if necessary (say to Fergus) but otherwise submit form and wait</p>
+<h1> Constitutional Rewrites</h1>
+<p>Fergus suggests:</p>
+<ul>
+<li>SIG Formalisation</li>
+<li>Finance formalisation with relation to SIGs and in general</li>
+<li>Impeachment procedure with the school</li>
+<li>Definition of committee includes old roles, update it</li>
+<li>Define STMU and SIG as acronyms are never expanded</li>
+<li>List of active SIGs:
+<ul>
+<li>rebuttal, would be tired of many EGMs</li>
+<li>SIGINT &#x26; Tardis making it clear</li>
+</ul>
+</li>
+<li>Two different definition of a SIG proposed:
+<ul>
+<li>Currently, a "mini-society" within CompSoc that:
+<ul>
+<li>receives: money, doesn't have to deal with EUSA, general support, massive members from CompSoc</li>
+<li>gives: CompSoc promotation &#x26; marketing, members back to CompSoc</li>
+</ul>
+</li>
+<li>Suggestion of having a funded SIG with return of promoting CompSoc, versus a non-funded "partner" SIG (for e.g. research labs or SIGINT)</li>
+<li>Rebuttal:
+<ul>
+<li>Labs are not "open to everyone"
+<ul>
+<li>Trials are fine, e.g. sports societies and EUTIC do "trials"</li>
+</ul>
+</li>
+<li>Research labs don't need to EUSA anyway
+<ul>
+<li>But they may have external dealings that we can liase with anyway</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Quorum:
+<ul>
+<li>75% of those with voting power (incl. 2 execs), like 15 people</li>
+<li>Suggestion: SIG Presidents count as votes, but not count to quorum
+<ul>
+<li>"whether we can hold a vote" - number of active core committee</li>
+<li>"whether a person can vote" - SIG Presidents + Committee</li>
+<li>Rebuttal:
+<ul>
+<li>Number of SIGs can grow, so SIG Presidents can band together and overpower committee
+<ul>
+<li>Core committee can leave room and cause quorum to fail</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>SIG Creation:
+<ul>
+<li>Voted in by "elected committee" (which = core committe?)</li>
+</ul>
+</li>
+<li>SIG Presidents:
+<ul>
+<li>Fully chosen by the SIG, but currently it has full committee power despite being fully</li>
+<li>But SIGs have multiple presidents or no presidents, when any member can come for</li>
+<li>Suggestion:
+<ul>
+<li>Using the suggested Quorum change, SIG Presidents are "optional" committees.</li>
+<li>SIGs get a "seat" not a President role, and that "seat" can
+<ul>
+<li>CompSoc retains the power to remove the "seat" if necessary</li>
+</ul>
+</li>
+<li>What if they are also member of core committee:
+<ul>
+<li>Do they count to quorum, do they count votes??</li>
+<li>or two roles in the core committee (should it remain be possible, should office bearers also be possible)</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>SIG Dissolution needs formalisation:
+<ul>
+<li>Procedure for dissolution needs to be documented
+<ul>
+<li>Can be itself suggest or CompSoc can disband</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Social Secretary
+<ul>
+<li>Split role into Social Media / Marketing and Social Secretary</li>
+</ul>
+</li>
+<li>Levels of decisions will be neccessary (we really don't want quorum for deciding pizza numbers):
+<ul>
+<li>Suggestion:
+<ul>
+<li>Trivial decision, no quorum unless someone feels it is non-trivial, it is trivial</li>
+<li>Simple majority vote: ?????</li>
+<li>Simple non-pressure vote: ?????</li>
+<li>Quorum vote: ?????</li>
+<li>Build specific platform: if you have account then you can vote. We should <em>not</em> have fully anonymous votes, votes should always be revealed after voting</li>
+<li>Core committee can use abstaining and just be counted
+ - Allows vote online too
+<ul>
+<li>Should cast vote before or during the event until the vote closes, allows applying the same rule for Discord/etc online votes</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Removal of "non-students need to pay 2x fee"</li>
+</ul>2:["$","div",null,{"className":"max-w-5xl mx-auto pt-32","children":[["$","$Lb",null,{"href":"https://compsoc-edinburgh.github.io/comp-soc.com/minutes","children":"Back"}],["$","h1",null,{"className":"text-3xl","children":"17/01/2024 17:00"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$c"},"className":"minutes"}]]}]
+a:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#353535"}],["$","meta","2",{"charSet":"utf-8"}],["$","title","3",{"children":"CompSoc"}],["$","meta","4",{"name":"description","content":"CompSoc is Edinburgh University's technology society! We're Scotland's best and largest of its kind, and form one of the largest societies within the university."}],["$","link","5",{"rel":"icon","href":"https://compsoc-edinburgh.github.io/comp-soc.com/compsoc-mini.png"}]]
+1:null

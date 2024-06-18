@@ -1,0 +1,50 @@
+3:I[39275,[],""]
+5:I[61343,[],""]
+6:I[84269,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","231","static/chunks/231-d9549b433032eeef.js","173","static/chunks/173-381dfe0b598c8022.js","185","static/chunks/app/layout-795adfd9f0e91106.js"],"default"]
+7:I[35719,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","231","static/chunks/231-d9549b433032eeef.js","173","static/chunks/173-381dfe0b598c8022.js","185","static/chunks/app/layout-795adfd9f0e91106.js"],"default"]
+8:I[42452,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","231","static/chunks/231-d9549b433032eeef.js","173","static/chunks/173-381dfe0b598c8022.js","185","static/chunks/app/layout-795adfd9f0e91106.js"],"default"]
+9:I[80519,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","231","static/chunks/231-d9549b433032eeef.js","173","static/chunks/173-381dfe0b598c8022.js","185","static/chunks/app/layout-795adfd9f0e91106.js"],"default"]
+4:["slug","2023-12-06","d"]
+0:["wxQCsVrf7mMjXIWktkBOo",[[["",{"children":["minutes",{"children":[["slug","2023-12-06","d"],{"children":["__PAGE__?{\"slug\":\"2023-12-06\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["minutes",{"children":[["slug","2023-12-06","d"],{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","minutes","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":[["$","link","0",{"rel":"stylesheet","href":"./_next/static/css/54f9ddd098fa72b3.css","precedence":"next","crossOrigin":"$undefined"}]]}],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","minutes","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},[["$","html",null,{"lang":"en","children":["$","body",null,{"className":"relative overflow-x-clip w-screen mx-auto","children":[["$","$L6",null,{"children":["$","$L7",null,{"children":[["$","$L8",null,{}],["$","div",null,{"className":"container mx-auto max-w-screen-xl p-4 pb-32","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}]}]]}]}],["$","$L9",null,{}]]}]}],null],null],[[["$","link","0",{"rel":"stylesheet","href":"./_next/static/css/fb8581701600257b.css","precedence":"next","crossOrigin":"$undefined"}]],"$La"]]]]
+b:I[231,["231","static/chunks/231-d9549b433032eeef.js","820","static/chunks/app/minutes/%5Bslug%5D/page-e298acbbe84ebbee.js"],""]
+c:Teb2,<blockquote>
+<p><em>Discussion centered around the creation of AI SIG</em></p>
+</blockquote>
+<h3>Attendees</h3>
+<p><strong>Committee (9):</strong> Fergus (President), Ali (Vice-President), Charlotte (Social Secretary) (present online), Adam (Tech Secretary), Aurora (School Rep), Vincent (1st Year Rep), Tomas (3nd Year Rep), Krzystof (4th Year Rep, GameDevSig President), Chaives (Old Person Rep)</p>
+<p><strong>SIGs (5):</strong> Amy (TypeSIG President), Alex (QuantSIG President), Juin (CloudSIG President), Vojtek (ProjectShare President), Aria (Tardis Project President)</p>
+<p><strong>Absent (4):</strong> Yuto (Graphic Designer), Sophie (Treasurer), Maya (Secretary, EDI Rep), Lorian (SIGINT President) (Voted by Proxy),</p>
+<h1>AI SIG</h1>
+<ul>
+<li>EUSA is considering making an AI society outside of CompSoc.</li>
+<li>Fergus told EUSA that CompSoc is the AI society.</li>
+<li>There are 11 people listed with UUNs wanting to create AI SIG within CompSoc.</li>
+</ul>
+<p>Before the committee voted on whether to create AI SIG, two present members from AI SIG answered questions in a Q&#x26;A.</p>
+<h2>Q&#x26;A for AI SIG</h2>
+<p>Q: The founders of AI SIG are master's students, what will happen once they graduate?
+A: We are collaborating with second &#x26; third year students, who will help run AI SIG in upcoming years.</p>
+<p><strong>Q:</strong> What kind of speakers do you have in mind?
+<strong>A:</strong> Currently we plan to host a talk from an NLP researcher at Apple. Some people at AI SIG have experience with reaching out to speakers and contacts. We hope top companies will be willing to collaborate with AI SIG, because many top AI engineers come from Edinburgh.</p>
+<p><strong>Q:</strong> Do you have a plan to bring new members into the SIG? Will you only host speakers or also beginner workshops?
+<strong>A:</strong> We hope to provide a place for beginners to develop their skills, but also a place older/master's students can share and find a space that is relevant to them. There are downsides to hosting long repetitive workshops, which is why we plan to first formalize the structure of AI workshops.</p>
+<p><strong>Q:</strong> Will AI SIG require members have background experience in AI? Will it be beginner friendly?
+<strong>A:</strong> As master's students, it's nice to have more niche topics, but we are also planning to host events relevant to people with less experience with AI.</p>
+<p><strong>Q:</strong> How did you get the Apple contact?
+<strong>A:</strong> We joined a tech discord server, and an apple NLP researcher reached out that they are keen to do a talk with us.</p>
+<p><strong>Q:</strong> The proposed AI society is not hosted by informatics students. If you are under CompSoc you will obviously be technical, but will you also focus on material catered to non-STEM students? Will there be non-technical talks, such as on AI ethics?
+<strong>A:</strong> We are very interested in collaborating with the people behind AI safety hub (who focus on AI ethics and are less technical in background), and if AI SIG gains a lot of interest we plan to host talks with them.</p>
+<p><strong>Q:</strong> Will there be projects, or just talks?
+<strong>A:</strong> It will be beneficial to know how many people will be interested in AI SIG. We can do workshops, meet-ups for competitions. We will ask members what they are interested in and what kind of events they would find appealing.</p>
+<h2>Committee vote to create AI SIG</h2>
+<ul>
+<li>Vote passed unanimously.</li>
+</ul>
+<p>AI SIG does not have a president appointed yet.</p>
+<h1>Hoppers</h1>
+<ul>
+<li>Hoppers wants to partner with us for a CompSoc challenge later in the academic year.</li>
+<li>Fergus is happy to give Hoppers a challenge, including prizes.</li>
+</ul>2:["$","div",null,{"className":"max-w-5xl mx-auto pt-32","children":[["$","$Lb",null,{"href":"https://compsoc-edinburgh.github.io/comp-soc.com/minutes","children":"Back"}],["$","h1",null,{"className":"text-3xl","children":"06/12/2023 17:00"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$c"},"className":"minutes"}]]}]
+a:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#353535"}],["$","meta","2",{"charSet":"utf-8"}],["$","title","3",{"children":"CompSoc"}],["$","meta","4",{"name":"description","content":"CompSoc is Edinburgh University's technology society! We're Scotland's best and largest of its kind, and form one of the largest societies within the university."}],["$","link","5",{"rel":"icon","href":"https://compsoc-edinburgh.github.io/comp-soc.com/compsoc-mini.png"}]]
+1:null

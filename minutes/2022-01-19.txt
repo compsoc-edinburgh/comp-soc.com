@@ -1,0 +1,36 @@
+3:I[39275,[],""]
+5:I[61343,[],""]
+6:I[84269,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","231","static/chunks/231-d9549b433032eeef.js","173","static/chunks/173-381dfe0b598c8022.js","185","static/chunks/app/layout-795adfd9f0e91106.js"],"default"]
+7:I[35719,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","231","static/chunks/231-d9549b433032eeef.js","173","static/chunks/173-381dfe0b598c8022.js","185","static/chunks/app/layout-795adfd9f0e91106.js"],"default"]
+8:I[42452,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","231","static/chunks/231-d9549b433032eeef.js","173","static/chunks/173-381dfe0b598c8022.js","185","static/chunks/app/layout-795adfd9f0e91106.js"],"default"]
+9:I[80519,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","231","static/chunks/231-d9549b433032eeef.js","173","static/chunks/173-381dfe0b598c8022.js","185","static/chunks/app/layout-795adfd9f0e91106.js"],"default"]
+4:["slug","2022-01-19","d"]
+0:["wxQCsVrf7mMjXIWktkBOo",[[["",{"children":["minutes",{"children":[["slug","2022-01-19","d"],{"children":["__PAGE__?{\"slug\":\"2022-01-19\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["minutes",{"children":[["slug","2022-01-19","d"],{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","minutes","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":[["$","link","0",{"rel":"stylesheet","href":"./_next/static/css/54f9ddd098fa72b3.css","precedence":"next","crossOrigin":"$undefined"}]]}],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","minutes","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},[["$","html",null,{"lang":"en","children":["$","body",null,{"className":"relative overflow-x-clip w-screen mx-auto","children":[["$","$L6",null,{"children":["$","$L7",null,{"children":[["$","$L8",null,{}],["$","div",null,{"className":"container mx-auto max-w-screen-xl p-4 pb-32","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}]}]]}]}],["$","$L9",null,{}]]}]}],null],null],[[["$","link","0",{"rel":"stylesheet","href":"./_next/static/css/fb8581701600257b.css","precedence":"next","crossOrigin":"$undefined"}]],"$La"]]]]
+b:I[231,["231","static/chunks/231-d9549b433032eeef.js","820","static/chunks/app/minutes/%5Bslug%5D/page-e298acbbe84ebbee.js"],""]
+c:T91f,<p><strong>Present:</strong> Artemis L., Oscar S., Karthik N., Alexandra P., Paula S., Callum L., Ammir B., Ben M., Mikey A., Ashley R., Kim (InfBall), Lucia (HTB)</p>
+<p><strong>Agenda</strong></p>
+<ul>
+<li>Pt. 1: Discuss collaboration invites with Hoppers, FemSoc, physics society.</li>
+<li>Pt. 2: Plan events (of all kinds).</li>
+<li>Pt. 3: Get update from HTB.</li>
+<li>Pt. 4: Get update from InfBall.</li>
+<li>Pt. 5: Talk about making Tardis a temporary SIG.</li>
+</ul>
+<p><strong>Discussion &#x26; Decisions</strong></p>
+<ul>
+<li><strong>TODO1 for Alexandra:</strong> Promote SIGINT event on Facebook. For Hoppers: figure out the date of the event and talk to the school to book a venue (level 6 lab?). For FemSoc: talk about the terminology (women + marginalized genders...) and mention Hoppers to them. For physics: all good!</li>
+<li><strong>TODO1 for Paula:</strong> Promote SIGINT Pwned on Instagram.</li>
+<li><strong>Conclusion 2:</strong> Pub night and STMU are coming up.</li>
+<li><strong>TODO2 for Oscar:</strong> Figure out what to do on the 28th of January at the Dining Room.</li>
+<li><strong>TODO2 for Paula:</strong> Talk to CC Blooms regarding a pub night in February to book. Update us on the pub night for January.</li>
+<li><strong>TODO2 for Arty and Ammir:</strong> Discuss to protected channel to organize LGBT informatics history and think about how to run that.</li>
+<li><strong>Conclusion 3:</strong> Kim will send finance numbers in order to figure out ticket prices. Tickets should be on sale as soon as possible.</li>
+<li><strong>TODO3 for Yuto:</strong> Get the Stripe thing going again and set up a ticketing website for InfBall.</li>
+<li><strong>TODO3 for Karthik:</strong> Discuss with InfBall and decide on a final amount we can send to InfBall.</li>
+<li><strong>Conclusion 4:</strong> HTB is doing very well - the location has moved, but there are 5 confirmed sponsors and their budget exceeds the basic operating costs. CompSoc will still provide money for additional perks.</li>
+<li><strong>TODO4 for Karthik:</strong> Discuss with HTB and decide on a final amount we can send to HTB.</li>
+<li><strong>TODO4 for Arty and Alexandra:</strong> Discuss the CompSoc HTB challenge.</li>
+<li><strong>Conclusion 5:</strong> There is an <strong>unanimous vote on Tardis becoming a SIG</strong>.</li>
+</ul>2:["$","div",null,{"className":"max-w-5xl mx-auto pt-32","children":[["$","$Lb",null,{"href":"https://compsoc-edinburgh.github.io/comp-soc.com/minutes","children":"Back"}],["$","h1",null,{"className":"text-3xl","children":"2022-01-19 5:00pm"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$c"},"className":"minutes"}]]}]
+a:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#353535"}],["$","meta","2",{"charSet":"utf-8"}],["$","title","3",{"children":"CompSoc"}],["$","meta","4",{"name":"description","content":"CompSoc is Edinburgh University's technology society! We're Scotland's best and largest of its kind, and form one of the largest societies within the university."}],["$","link","5",{"rel":"icon","href":"https://compsoc-edinburgh.github.io/comp-soc.com/compsoc-mini.png"}]]
+1:null

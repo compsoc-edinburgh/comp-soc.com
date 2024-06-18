@@ -1,0 +1,60 @@
+3:I[39275,[],""]
+5:I[61343,[],""]
+6:I[84269,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","231","static/chunks/231-d9549b433032eeef.js","173","static/chunks/173-381dfe0b598c8022.js","185","static/chunks/app/layout-795adfd9f0e91106.js"],"default"]
+7:I[35719,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","231","static/chunks/231-d9549b433032eeef.js","173","static/chunks/173-381dfe0b598c8022.js","185","static/chunks/app/layout-795adfd9f0e91106.js"],"default"]
+8:I[42452,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","231","static/chunks/231-d9549b433032eeef.js","173","static/chunks/173-381dfe0b598c8022.js","185","static/chunks/app/layout-795adfd9f0e91106.js"],"default"]
+9:I[80519,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","231","static/chunks/231-d9549b433032eeef.js","173","static/chunks/173-381dfe0b598c8022.js","185","static/chunks/app/layout-795adfd9f0e91106.js"],"default"]
+4:["slug","2018-11-23","d"]
+0:["wxQCsVrf7mMjXIWktkBOo",[[["",{"children":["minutes",{"children":[["slug","2018-11-23","d"],{"children":["__PAGE__?{\"slug\":\"2018-11-23\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["minutes",{"children":[["slug","2018-11-23","d"],{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","minutes","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":[["$","link","0",{"rel":"stylesheet","href":"./_next/static/css/54f9ddd098fa72b3.css","precedence":"next","crossOrigin":"$undefined"}]]}],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","minutes","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},[["$","html",null,{"lang":"en","children":["$","body",null,{"className":"relative overflow-x-clip w-screen mx-auto","children":[["$","$L6",null,{"children":["$","$L7",null,{"children":[["$","$L8",null,{}],["$","div",null,{"className":"container mx-auto max-w-screen-xl p-4 pb-32","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}]}]]}]}],["$","$L9",null,{}]]}]}],null],null],[[["$","link","0",{"rel":"stylesheet","href":"./_next/static/css/fb8581701600257b.css","precedence":"next","crossOrigin":"$undefined"}]],"$La"]]]]
+b:I[231,["231","static/chunks/231-d9549b433032eeef.js","820","static/chunks/app/minutes/%5Bslug%5D/page-e298acbbe84ebbee.js"],""]
+c:T85b,<p><strong>Present:</strong>
+Elspeth Smith, Joao Maio, Patrick Kage, Likhitha Sai, Tony Duggan, Kyle Cotton, Sadiq Baidani (ISoc)</p>
+<p><strong>Event in conjunction with ISoc</strong></p>
+<ul>
+<li>movie screening regarding the inventor of algorithms or something.</li>
+<li>"Sounds good": ISoc president's opinion on the event.</li>
+<li>Halaal event.</li>
+</ul>
+<p><strong>Finances</strong></p>
+<ul>
+<li>Current committee now has access to the bank account officially.</li>
+<li>Trying to get access to more committee members (Treasurer and Secretary)</li>
+<li>Treasurer will start work on monthly report of our finances.</li>
+<li>Start work on annual report over Christmas.</li>
+<li>Issue refunds to members that paid £5 this year</li>
+</ul>
+<p><strong>Membership cards!</strong></p>
+<ul>
+<li>use for RFID/QR feature discussed, agreed that there are not enough benefits to justify the additional costs.</li>
+<li>will have 350-400 cards</li>
+<li>Order for example batch already ordered.</li>
+<li>Look into bringing more benefits to membership. Currently have discounts for merchandise and participation in voting where we actually check membership.</li>
+</ul>
+<p><strong>CompSocks!</strong></p>
+<ul>
+<li>planning to get them before exams. Should cost £2-3 per pair.</li>
+<li>give out for free but ask for a donation to a charity. Humble Bundle model £1 minimum (£2 for non-members, with optional FREE membership)</li>
+<li>Turing Trust Charity or poll. (or tech-related charities)</li>
+<li>Constitutional clause to donate membership to a charity if under certain threshold.</li>
+</ul>
+<p><strong>InfCeilidh</strong></p>
+<ul>
+<li>Looking into booking from January (can't book before then)</li>
+<li>ceilidhsoc for music</li>
+<li>To be held in teviot</li>
+<li>address to the haggis and to the committee</li>
+</ul>
+<p><strong>CompSoc goes Ice Skating</strong></p>
+<ul>
+<li>Next Friday</li>
+<li>~£8 per person</li>
+<li>50 max</li>
+</ul>
+<p><strong>Local Hack Day</strong></p>
+<ul>
+<li>prize along with certificate for winners</li>
+<li>talk with Viktorija from previous CompSoc leadership about previous LHD</li>
+<li>advertise more</li>
+</ul>2:["$","div",null,{"className":"max-w-5xl mx-auto pt-32","children":[["$","$Lb",null,{"href":"https://compsoc-edinburgh.github.io/comp-soc.com/minutes","children":"Back"}],["$","h1",null,{"className":"text-3xl","children":"2018-11-23  4pm"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$c"},"className":"minutes"}]]}]
+a:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#353535"}],["$","meta","2",{"charSet":"utf-8"}],["$","title","3",{"children":"CompSoc"}],["$","meta","4",{"name":"description","content":"CompSoc is Edinburgh University's technology society! We're Scotland's best and largest of its kind, and form one of the largest societies within the university."}],["$","link","5",{"rel":"icon","href":"https://compsoc-edinburgh.github.io/comp-soc.com/compsoc-mini.png"}]]
+1:null

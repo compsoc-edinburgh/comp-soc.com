@@ -1,0 +1,142 @@
+3:I[39275,[],""]
+5:I[61343,[],""]
+6:I[84269,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","231","static/chunks/231-d9549b433032eeef.js","173","static/chunks/173-381dfe0b598c8022.js","185","static/chunks/app/layout-795adfd9f0e91106.js"],"default"]
+7:I[35719,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","231","static/chunks/231-d9549b433032eeef.js","173","static/chunks/173-381dfe0b598c8022.js","185","static/chunks/app/layout-795adfd9f0e91106.js"],"default"]
+8:I[42452,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","231","static/chunks/231-d9549b433032eeef.js","173","static/chunks/173-381dfe0b598c8022.js","185","static/chunks/app/layout-795adfd9f0e91106.js"],"default"]
+9:I[80519,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","231","static/chunks/231-d9549b433032eeef.js","173","static/chunks/173-381dfe0b598c8022.js","185","static/chunks/app/layout-795adfd9f0e91106.js"],"default"]
+4:["slug","2019-09-16","d"]
+0:["wxQCsVrf7mMjXIWktkBOo",[[["",{"children":["minutes",{"children":[["slug","2019-09-16","d"],{"children":["__PAGE__?{\"slug\":\"2019-09-16\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["minutes",{"children":[["slug","2019-09-16","d"],{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","minutes","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":[["$","link","0",{"rel":"stylesheet","href":"./_next/static/css/54f9ddd098fa72b3.css","precedence":"next","crossOrigin":"$undefined"}]]}],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","minutes","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},[["$","html",null,{"lang":"en","children":["$","body",null,{"className":"relative overflow-x-clip w-screen mx-auto","children":[["$","$L6",null,{"children":["$","$L7",null,{"children":[["$","$L8",null,{}],["$","div",null,{"className":"container mx-auto max-w-screen-xl p-4 pb-32","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}]}]]}]}],["$","$L9",null,{}]]}]}],null],null],[[["$","link","0",{"rel":"stylesheet","href":"./_next/static/css/fb8581701600257b.css","precedence":"next","crossOrigin":"$undefined"}]],"$La"]]]]
+b:I[231,["231","static/chunks/231-d9549b433032eeef.js","820","static/chunks/app/minutes/%5Bslug%5D/page-e298acbbe84ebbee.js"],""]
+c:Tfa3,<h3>Present</h3>
+<ul>
+<li>Kyle Cotton (KC)</li>
+<li>Lars Thalian Morstand (LTM)</li>
+<li>Elspeth Smith (FS)</li>
+<li>Dee Yeum (DY)</li>
+<li>Lorenzo Baldini (LB)</li>
+<li>Valentine Dragan (VD)</li>
+<li>Yannik Nelson (YN)</li>
+<li>Patrick Kage (PK)</li>
+<li>Vivek Raja (VR)</li>
+</ul>
+<h2>Sponsorship</h2>
+<ul>
+<li>Summary:
+<ul>
+<li>Paid: Microsoft, Google</li>
+<li>Unpaid: G-Research, Facebook</li>
+<li>Possible/Interested: HSBC, Modulr</li>
+</ul>
+</li>
+<li>Target budget: as much as possible</li>
+</ul>
+<h2>InfPALS</h2>
+<ul>
+<li>Many ideas are already done by other groups within the uni (such as programming club): Python workshop, Interview prep etc
+<ul>
+<li><del><strong>Action</strong></del>: DY will ping Samuel, the head of SigWeb, to talk to VD regarding a web project workshop</li>
+</ul>
+</li>
+<li>Socials with InfPALS
+<ul>
+<li><strong>Action</strong>: LB to consider organising a joint social with InfPals</li>
+</ul>
+</li>
+</ul>
+<h2>Hack the Burgh</h2>
+<ul>
+<li>Generally under budget</li>
+<li>CompSoc to consider funding HTB
+<ul>
+<li><strong>Action</strong>: FS will have a look at HTB budget and to reduce the number of participants accordingly</li>
+</ul>
+</li>
+</ul>
+<h2>Upcoming event summary</h2>
+<ul>
+<li>STMUs -- on track in general</li>
+<li>SIG events
+<ul>
+<li><strong>Action</strong>: DY to ask SIGs regarding what they are planning</li>
+</ul>
+</li>
+<li>G-Research Coding Challenge
+<ul>
+<li>On track in general</li>
+<li><strong>Action</strong>: DY to ask G-Research what needs to be done on our end (other than the venue booking)</li>
+</ul>
+</li>
+<li>GMS Pub Quiz
+<ul>
+<li><strong>Action</strong>: FS to introduce Lorenzo to GMS so he can organise the event</li>
+</ul>
+</li>
+<li>UKIEPC
+<ul>
+<li><strong>Action</strong>: LTM to register and to keep Pavlos, the responsible person for the event, in loop</li>
+</ul>
+</li>
+<li>Future event planning - InfBall, Hoppers Ceilidh
+<ul>
+<li><strong>Action</strong>: LB to look into InfBall venue booking</li>
+<li><strong>Action</strong>: LB to contact Hoppers to show we intend to co-organise Ceilidh on Burns Night 2020</li>
+</ul>
+</li>
+<li>More social events: Karaoke, Ice skating, screening, pub, games night with GameSoc
+<ul>
+<li>Start thinking about it but no immediate actions required.</li>
+</ul>
+</li>
+</ul>
+<h2>Publicising events</h2>
+<ul>
+<li>List of methods to publicise events:
+<ul>
+<li>Facebook group chat for each year group</li>
+<li>Member mailing list and News section on CompSoc website</li>
+<li>Google Calendar</li>
+<li>informatics mailing list where relevant</li>
+<li>Discord</li>
+</ul>
+</li>
+</ul>
+<h2>Member management</h2>
+<ul>
+<li><strong>Action</strong>: DY to ask head of EconSoc about how they do the member management</li>
+<li><strong>Action</strong>: LTH to manage the previous member list to be <code>associate member</code></li>
+</ul>
+<h2>Constitutional Amendment</h2>
+<ul>
+<li>New position: Graphics designer is to be voted in STMU</li>
+<li>InfBall committee to be voted</li>
+<li>Associate members
+<ul>
+<li><strong>Action</strong>: FS to make a full pull request in the constitution repo</li>
+</ul>
+</li>
+<li>UnSIG the HackSIG: HackSIG has a different function from other SIGs. The details will be discussed in the next email.</li>
+</ul>
+<h2>Merch</h2>
+<ul>
+<li>Hoodies need to be redesigned
+<ul>
+<li><strong>Action</strong>: FS to chase up Mo to get the design done before sign-up from members</li>
+</ul>
+</li>
+<li>Other merch is to be considered after the hoodie, as well as re-ordering some of the merches CompSoc previously ordered.</li>
+</ul>
+<h2>Taking Photos in events</h2>
+<ul>
+<li>Shared responsibility -- no new committee position required</li>
+</ul>
+<h2>Slack/Discord/IRC/etc bridge</h2>
+<ul>
+<li>No Slack bridge required -- Slack is used only for internal matters</li>
+<li><strong>Action</strong>: Kyle talks to Qais about bridging the rest.</li>
+</ul>
+<h2>CompSoc Hackathon</h2>
+<ul>
+<li><strong>Action</strong>: DY will form a Facebook group to share Hackathon information for those in UoE</li>
+</ul>2:["$","div",null,{"className":"max-w-5xl mx-auto pt-32","children":[["$","$Lb",null,{"href":"https://compsoc-edinburgh.github.io/comp-soc.com/minutes","children":"Back"}],["$","h1",null,{"className":"text-3xl","children":"2019-09-16 6:00pm"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$c"},"className":"minutes"}]]}]
+a:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#353535"}],["$","meta","2",{"charSet":"utf-8"}],["$","title","3",{"children":"CompSoc"}],["$","meta","4",{"name":"description","content":"CompSoc is Edinburgh University's technology society! We're Scotland's best and largest of its kind, and form one of the largest societies within the university."}],["$","link","5",{"rel":"icon","href":"https://compsoc-edinburgh.github.io/comp-soc.com/compsoc-mini.png"}]]
+1:null

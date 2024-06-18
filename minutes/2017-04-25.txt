@@ -1,0 +1,225 @@
+3:I[39275,[],""]
+5:I[61343,[],""]
+6:I[84269,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","231","static/chunks/231-d9549b433032eeef.js","173","static/chunks/173-381dfe0b598c8022.js","185","static/chunks/app/layout-795adfd9f0e91106.js"],"default"]
+7:I[35719,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","231","static/chunks/231-d9549b433032eeef.js","173","static/chunks/173-381dfe0b598c8022.js","185","static/chunks/app/layout-795adfd9f0e91106.js"],"default"]
+8:I[42452,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","231","static/chunks/231-d9549b433032eeef.js","173","static/chunks/173-381dfe0b598c8022.js","185","static/chunks/app/layout-795adfd9f0e91106.js"],"default"]
+9:I[80519,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","231","static/chunks/231-d9549b433032eeef.js","173","static/chunks/173-381dfe0b598c8022.js","185","static/chunks/app/layout-795adfd9f0e91106.js"],"default"]
+4:["slug","2017-04-25","d"]
+0:["wxQCsVrf7mMjXIWktkBOo",[[["",{"children":["minutes",{"children":[["slug","2017-04-25","d"],{"children":["__PAGE__?{\"slug\":\"2017-04-25\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["minutes",{"children":[["slug","2017-04-25","d"],{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","minutes","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":[["$","link","0",{"rel":"stylesheet","href":"./_next/static/css/54f9ddd098fa72b3.css","precedence":"next","crossOrigin":"$undefined"}]]}],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","minutes","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},[["$","html",null,{"lang":"en","children":["$","body",null,{"className":"relative overflow-x-clip w-screen mx-auto","children":[["$","$L6",null,{"children":["$","$L7",null,{"children":[["$","$L8",null,{}],["$","div",null,{"className":"container mx-auto max-w-screen-xl p-4 pb-32","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}]}]]}]}],["$","$L9",null,{}]]}]}],null],null],[[["$","link","0",{"rel":"stylesheet","href":"./_next/static/css/fb8581701600257b.css","precedence":"next","crossOrigin":"$undefined"}]],"$La"]]]]
+b:I[231,["231","static/chunks/231-d9549b433032eeef.js","820","static/chunks/app/minutes/%5Bslug%5D/page-e298acbbe84ebbee.js"],""]
+c:T1a24,<p>The first official meeting held for the 2017-18 committee.</p>
+<p><strong>Present</strong></p>
+<p>Qais Patankar, Elena Lapinskaitė, Joe, Cameron Sharp, Harry Reeder, Craig Snowden, Angus Shaw</p>
+<p><strong>General Agenda</strong></p>
+<ul>
+<li>
+<p>Making the “CompSoc Members” Facebook group public</p>
+<ul>
+<li>Currently a closed group - no tagging/interaction with those outside the group</li>
+<li>Fast joining - multiple admins approve new additions quickly</li>
+<li>Public group means anyone can post which will give greater exposure</li>
+<li>It’s already easy to join and post, there is very little screening except turning down obviously fake accounts</li>
+<li>Closed is easier to protect privacy of post-event photos</li>
+<li>Voted all in favour of keeping the group closed</li>
+<li>Issue closed</li>
+</ul>
+</li>
+<li>
+<p>Events for older students</p>
+<ul>
+<li>Most events and advertising geared towards first and second years</li>
+<li>Contact other groups and ask for ideas - EdIntelligence, for example</li>
+</ul>
+</li>
+<li>
+<p>Sponsorship decks</p>
+<ul>
+<li>Need a new one to replace the one from 2016-2017</li>
+<li>Possibility of more informally contacting non-tech companies - e.g. La Favorita or other pizza companies and requesting discounts in exchange for displaying their logos</li>
+<li>Probably best saved for a specific meeting</li>
+</ul>
+</li>
+<li>
+<p>Block Bookings</p>
+<ul>
+<li>We won’t need to use this as we don’t plan regular use of EUSA venues</li>
+</ul>
+</li>
+<li>
+<p><a href="https://github.com/hreeder/slyrc">SlyRC</a></p>
+<ul>
+<li>TechSec working on it - crossover between IRC and Slack</li>
+</ul>
+</li>
+<li>
+<p>Ambiguities in the constitution</p>
+<ul>
+<li>Constitution is open to all</li>
+<li>Anyone can request changes on Github</li>
+<li>We can address these at the EGM in September/October where the 1st year rep is elected</li>
+</ul>
+</li>
+<li>
+<p>CompSoc merchandise</p>
+<ul>
+<li>Hoodies/t-shirts?
+<ul>
+<li>Expensive</li>
+<li>Especially since most people don’t even pay for membership</li>
+<li>Possibly give tshirts out for free with membership (good draw for signing up at freshers week stall)</li>
+</ul>
+</li>
+<li>Committee hoodies/tshirts
+<ul>
+<li>General “Committee” printings on hoodies</li>
+<li>Useful for events, especially fresher’s week</li>
+</ul>
+</li>
+<li>New Flag
+<ul>
+<li>Asked previous committee how the old flag was obtained</li>
+</ul>
+</li>
+<li>Framing old flag
+<ul>
+<li>Or just the logo if we cut it out</li>
+<li>Where would we put it?</li>
+<li>Framed in Appleton Tower</li>
+</ul>
+</li>
+<li>Stickers
+<ul>
+<li>Good to have at the start of the year</li>
+</ul>
+</li>
+<li>New logo
+<ul>
+<li>Bring back old logos?</li>
+<li>‘100 Years of Turing/Geek Pride’ a possibility (but updated)</li>
+<li>Cat with sunglasses logo (doesn’t really embody CompSoc though)</li>
+<li>Possibly bringing back Appleton Tower AT-AT given we’ll be moving back there</li>
+</ul>
+</li>
+<li>Card
+<ul>
+<li>Updated with new logo</li>
+<li>Possibly bringing back Appleton Tower AT-AT given we’ll be moving back theree</li>
+<li>Possibly upgrading design of card, although this can get expensive</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p><strong>Fresher's Week</strong></p>
+<ul>
+<li>
+<p>Scavenger Hunt</p>
+<ul>
+<li>First (and last) one done in 2015</li>
+<li>Good daytime event for meeting people</li>
+<li>Requires only minimal preparation</li>
+</ul>
+</li>
+<li>
+<p>Pub crawl</p>
+<ul>
+<li>Tradition, easy to organise</li>
+<li>Probably no need to contact pubs in advance to let them know of our coming</li>
+</ul>
+</li>
+<li>
+<p>Night of Games</p>
+<ul>
+<li>Will need a fair amount of equipment</li>
+<li>We have some older equipment (e.g. Xbox 360) already</li>
+<li>Individual members needed to bring most of the equipment</li>
+<li>Possibly request some equipment from members</li>
+<li>Vice-President met with Neil Heatley and asked him about booking Appleton Tower, will probably be okay but dependent on the contractor - unlikely possibility of it not being ready</li>
+<li>Old photos at tbrb.imgur.com</li>
+<li>Collaboration with GameSoc - their secretary has asked us to contact her</li>
+</ul>
+</li>
+<li>
+<p>Activities Fair</p>
+<ul>
+<li>Need a few people to informally hang around the stall</li>
+<li>Have membership cards ready for the day - allow cards</li>
+<li>Have (cheap) tshirts ready, with printing, if possible</li>
+<li>Possibly give tshirts out for free with membership (good draw for freshers)</li>
+</ul>
+</li>
+</ul>
+<p><strong>Potential Future Events</strong></p>
+<ul>
+<li>
+<p>CompSoc Trip(s)</p>
+<ul>
+<li>Poll was done back in January - winners were Centre for Computing History (Cambridge) &#x26; Natural History/Science Museum (London)</li>
+<li>Would be easier and cheaper to go somewhere closer to home e.g. Glasgow Science Museum</li>
+<li>Should it be open to freshers and advertised in fresher’s week, or planned/signups taken now from existing members and then done earlier in the year?</li>
+<li>Would be good to get help of SocialSec or any related SIGs</li>
+<li>TripSig suggested by Joe</li>
+</ul>
+</li>
+<li>
+<p>Laserquest</p>
+<ul>
+<li>Has been done before, through Eventbrite</li>
+<li>Low quality equipment is to be expected</li>
+</ul>
+</li>
+<li>
+<p>Bowling</p>
+<ul>
+<li>Last time, RSVPs were taken in advance but not many of them showed up</li>
+<li>Money was taken on the day/afterwards</li>
+</ul>
+</li>
+<li>
+<p>BBQ</p>
+<ul>
+<li>Is legal in meadows (although encouraged to use designated spots)</li>
+<li>Having people bring their own food is the best plan</li>
+</ul>
+</li>
+<li>
+<p>PreHack 2017</p>
+<ul>
+<li>Needs its own meeting - this is the biggest item on the event list</li>
+</ul>
+</li>
+<li>
+<p>Other hackathons</p>
+<ul>
+<li>Last year we went to StudentHack V and StacsHack, amongst others. These have varying levels of organisation.</li>
+</ul>
+</li>
+<li>
+<p>InfBall &#x26; Christmas Dinner</p>
+<ul>
+<li>SocialSec is working on this currently</li>
+<li>Good to merge these into one event, given we have little experience with them previously</li>
+</ul>
+</li>
+</ul>
+<p><strong>Community submitted issues</strong></p>
+<ul>
+<li>
+<p>Financial reports</p>
+<ul>
+<li>Financial report isn’t comprehensive - many sponsors and assets are missing</li>
+<li>We need a bank statement-style spreadsheet of all money in and out</li>
+<li>We can also use GitHub project to keep track of money due and owed</li>
+</ul>
+</li>
+<li>
+<p>Concerns about ethics of big name corporate sponsors</p>
+<ul>
+<li>Currently we have a mix of grassroots and big names</li>
+<li>We need sponsorship from Amazon, Bloomberg etc, they provide much of our funding</li>
+<li>We can’t afford to let them go, but will try to have local companies too</li>
+</ul>
+</li>
+</ul>2:["$","div",null,{"className":"max-w-5xl mx-auto pt-32","children":[["$","$Lb",null,{"href":"https://compsoc-edinburgh.github.io/comp-soc.com/minutes","children":"Back"}],["$","h1",null,{"className":"text-3xl","children":"2017-04-25 7pm"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$c"},"className":"minutes"}]]}]
+a:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#353535"}],["$","meta","2",{"charSet":"utf-8"}],["$","title","3",{"children":"CompSoc"}],["$","meta","4",{"name":"description","content":"CompSoc is Edinburgh University's technology society! We're Scotland's best and largest of its kind, and form one of the largest societies within the university."}],["$","link","5",{"rel":"icon","href":"https://compsoc-edinburgh.github.io/comp-soc.com/compsoc-mini.png"}]]
+1:null

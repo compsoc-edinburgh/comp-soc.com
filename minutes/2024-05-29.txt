@@ -1,0 +1,78 @@
+3:I[39275,[],""]
+5:I[61343,[],""]
+6:I[84269,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","231","static/chunks/231-d9549b433032eeef.js","173","static/chunks/173-381dfe0b598c8022.js","185","static/chunks/app/layout-795adfd9f0e91106.js"],"default"]
+7:I[35719,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","231","static/chunks/231-d9549b433032eeef.js","173","static/chunks/173-381dfe0b598c8022.js","185","static/chunks/app/layout-795adfd9f0e91106.js"],"default"]
+8:I[42452,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","231","static/chunks/231-d9549b433032eeef.js","173","static/chunks/173-381dfe0b598c8022.js","185","static/chunks/app/layout-795adfd9f0e91106.js"],"default"]
+9:I[80519,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","231","static/chunks/231-d9549b433032eeef.js","173","static/chunks/173-381dfe0b598c8022.js","185","static/chunks/app/layout-795adfd9f0e91106.js"],"default"]
+4:["slug","2024-05-29","d"]
+0:["wxQCsVrf7mMjXIWktkBOo",[[["",{"children":["minutes",{"children":[["slug","2024-05-29","d"],{"children":["__PAGE__?{\"slug\":\"2024-05-29\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["minutes",{"children":[["slug","2024-05-29","d"],{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","minutes","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":[["$","link","0",{"rel":"stylesheet","href":"./_next/static/css/54f9ddd098fa72b3.css","precedence":"next","crossOrigin":"$undefined"}]]}],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","minutes","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},[["$","html",null,{"lang":"en","children":["$","body",null,{"className":"relative overflow-x-clip w-screen mx-auto","children":[["$","$L6",null,{"children":["$","$L7",null,{"children":[["$","$L8",null,{}],["$","div",null,{"className":"container mx-auto max-w-screen-xl p-4 pb-32","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}]}]]}]}],["$","$L9",null,{}]]}]}],null],null],[[["$","link","0",{"rel":"stylesheet","href":"./_next/static/css/fb8581701600257b.css","precedence":"next","crossOrigin":"$undefined"}]],"$La"]]]]
+b:I[231,["231","static/chunks/231-d9549b433032eeef.js","820","static/chunks/app/minutes/%5Bslug%5D/page-e298acbbe84ebbee.js"],""]
+c:Tc13,<p><strong>Attendees:</strong></p>
+<ul>
+<li>Vincent</li>
+<li>Godfrey</li>
+<li>Jacob (TypeSIG)</li>
+<li>Marton</li>
+<li>Lucas</li>
+<li>Chives</li>
+<li>Anastasia</li>
+<li>Pascual (Edinburgh AI)</li>
+<li>Tomas (Project Share)</li>
+<li>Charlotte</li>
+<li>Cat</li>
+<li>Andrew (Tardis)</li>
+</ul>
+<p><strong>Agenda:</strong> Discuss Welcome Week Activities</p>
+<p>Discussed Points:</p>
+<ul>
+<li>Pub crawl and Arthur's Seat hike are already confirmed.</li>
+<li>Previous year's budget for Freshers' Week was minimal, mainly covering prizes.</li>
+<li>Plan joint social events with SIGs post-Freshers' Week to encourage low-commitment participation.</li>
+<li>Plan a shorter talk to explain how CompSoc operates before the main presentation at the first STMU.</li>
+<li>Plan larger collaborative events in the second week to spread financial costs.</li>
+<li>Organize events for attendees who prefer non-alcoholic activities, such as a brunch instead of a pub crawl.</li>
+<li>Hold events on weekends to avoid clashing with the activities fair.</li>
+</ul>
+<p>Scavenger Hunt:</p>
+<ul>
+<li>Last year's scavenger hunt was successful with about 40-50 participants so keen to do again next year.</li>
+<li>Teams were split into groups to recreate photos taken by other teams, which were then judged.</li>
+<li>Prizes given out from existing merch.</li>
+</ul>
+<p>Arthur’s Seat Hike:</p>
+<ul>
+<li>Arthur’s seat hike will definitely be done again as was very successful last year.</li>
+<li>Need to ensure a first aid person is available for the hike and include this in the risk assessment document.</li>
+</ul>
+<p>Brunch:</p>
+<ul>
+<li>Schedule a brunch during Freshers' Week to attract attendees.</li>
+<li>Introduce CompSoc with a short speech and make coffee ourselves.</li>
+<li>Book out either a room like the informatics forum or hold in the meadows.</li>
+</ul>
+<p>Possible Collaborations:</p>
+<ul>
+<li>CompSoc x GameSoc: Book a room in AT for video games.</li>
+<li>Collaborate with Fleshmarket for a BBQ in Portobello.</li>
+<li>Do something with Hoppers</li>
+</ul>
+<p>SIGs during Welcome Week:</p>
+<ul>
+<li>Project Share will not conduct activities during Freshers' Week.</li>
+<li>SIG leaders will attend CompSoc events to increase visibility for those SIGs.</li>
+<li>Suggestion to give out flyers, wear SIG merchandise, and interact with attendees.</li>
+<li>Consider a challenge for attendees to collect tokens from all SIGs, with prizes awarded.</li>
+<li>Host a general social with all SIGs to prevent overwhelming new students.</li>
+<li>SIG Fair to be held during Freshers' Week.</li>
+<li>Request SIGs to decide on their Freshers' Week activities by next week to submit plans to EUSA.</li>
+</ul>
+<p>Action Items:</p>
+<ul>
+<li>Anastasia to compile a list of events with times, dates, and descriptions by next Wednesday.</li>
+<li>Lucas to assist Anastasia with this.</li>
+<li>Agam to create and distribute a poll/form to gather event ideas from members.</li>
+<li>Marton to consult with SIGs to determine their planned events for Freshers' Week.</li>
+<li>Godfrey and Lewis to create CompSoc flag.</li>
+</ul>2:["$","div",null,{"className":"max-w-5xl mx-auto pt-32","children":[["$","$Lb",null,{"href":"https://compsoc-edinburgh.github.io/comp-soc.com/minutes","children":"Back"}],["$","h1",null,{"className":"text-3xl","children":"29/05/2024 18:00"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$c"},"className":"minutes"}]]}]
+a:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#353535"}],["$","meta","2",{"charSet":"utf-8"}],["$","title","3",{"children":"CompSoc"}],["$","meta","4",{"name":"description","content":"CompSoc is Edinburgh University's technology society! We're Scotland's best and largest of its kind, and form one of the largest societies within the university."}],["$","link","5",{"rel":"icon","href":"https://compsoc-edinburgh.github.io/comp-soc.com/compsoc-mini.png"}]]
+1:null

@@ -1,0 +1,123 @@
+3:I[39275,[],""]
+5:I[61343,[],""]
+6:I[84269,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","231","static/chunks/231-d9549b433032eeef.js","173","static/chunks/173-381dfe0b598c8022.js","185","static/chunks/app/layout-795adfd9f0e91106.js"],"default"]
+7:I[35719,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","231","static/chunks/231-d9549b433032eeef.js","173","static/chunks/173-381dfe0b598c8022.js","185","static/chunks/app/layout-795adfd9f0e91106.js"],"default"]
+8:I[42452,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","231","static/chunks/231-d9549b433032eeef.js","173","static/chunks/173-381dfe0b598c8022.js","185","static/chunks/app/layout-795adfd9f0e91106.js"],"default"]
+9:I[80519,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","231","static/chunks/231-d9549b433032eeef.js","173","static/chunks/173-381dfe0b598c8022.js","185","static/chunks/app/layout-795adfd9f0e91106.js"],"default"]
+4:["slug","2017-10-11","d"]
+0:["wxQCsVrf7mMjXIWktkBOo",[[["",{"children":["minutes",{"children":[["slug","2017-10-11","d"],{"children":["__PAGE__?{\"slug\":\"2017-10-11\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["minutes",{"children":[["slug","2017-10-11","d"],{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","minutes","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":[["$","link","0",{"rel":"stylesheet","href":"./_next/static/css/54f9ddd098fa72b3.css","precedence":"next","crossOrigin":"$undefined"}]]}],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","minutes","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},[["$","html",null,{"lang":"en","children":["$","body",null,{"className":"relative overflow-x-clip w-screen mx-auto","children":[["$","$L6",null,{"children":["$","$L7",null,{"children":[["$","$L8",null,{}],["$","div",null,{"className":"container mx-auto max-w-screen-xl p-4 pb-32","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}]}]]}]}],["$","$L9",null,{}]]}]}],null],null],[[["$","link","0",{"rel":"stylesheet","href":"./_next/static/css/fb8581701600257b.css","precedence":"next","crossOrigin":"$undefined"}]],"$La"]]]]
+b:I[231,["231","static/chunks/231-d9549b433032eeef.js","820","static/chunks/app/minutes/%5Bslug%5D/page-e298acbbe84ebbee.js"],""]
+c:Tbef,<p><strong>Present</strong></p>
+<p>Angus Shaw, Qais Patankar, Elena Lapė, Ginte Petrulionyte, Harry Reeder, Viktorija Lukosiute, Joshua Green</p>
+<p><strong>Stickers</strong></p>
+<ul>
+<li>Vik will order tonight</li>
+</ul>
+<p><strong>Cards</strong></p>
+<ul>
+<li>Vik has emailed Dave and is waiting for a response</li>
+<li>Front and back of card are (semi-) finalised</li>
+<li>Will not arrive in time for next week’s STMU</li>
+<li>Will arrive for the one after next</li>
+<li>Could use spare previous ones in the meantime?
+<ul>
+<li>Handing out two separate batches of cards would be confusing</li>
+</ul>
+</li>
+</ul>
+<p><strong>STMU</strong></p>
+<ul>
+<li>Next week’s one</li>
+<li>Problem of determining who is a member for bar tab</li>
+<li>Amazon is sponsoring our drinks for (currently unconfirmed)</li>
+<li>Loft bar?
+<ul>
+<li>tab is needed in advance</li>
+</ul>
+</li>
+<li>Whistlestop?
+<ul>
+<li>20% off, plus £3 ciders and £3.50 drinks</li>
+<li>Can send out e-tabs</li>
+<li>Potentially unreliable, need a smartphone/need to remember to do so</li>
+</ul>
+</li>
+</ul>
+<p><strong>Social stuff</strong></p>
+<ul>
+<li>Xmas dinner/end of year party dates</li>
+<li>Need Nick, who isn’t here</li>
+</ul>
+<p><strong>Library</strong></p>
+<ul>
+<li>Books left over from Forrest Hill</li>
+<li>10 more books have been donated</li>
+<li>We need a librarian to lend them out</li>
+<li>Angus will do so
+<ul>
+<li>Collect student number</li>
+</ul>
+</li>
+</ul>
+<p><strong>NetSIG</strong></p>
+<ul>
+<li>Have been voted in but don’t have an official name</li>
+<li>Official name</li>
+<li>NetSIG or SIGnet?
+<ul>
+<li>Forcing them to change their name might be heavy-handed</li>
+<li>Leader says he is happy to change name, but Group does not want to change name</li>
+<li>How strongly do people feel about it?</li>
+<li>Consensus is we should let them stay as SIGnet</li>
+</ul>
+</li>
+</ul>
+<p><strong>Local Hack Day</strong></p>
+<ul>
+<li>2nd December
+<ul>
+<li>Day after last lecture</li>
+</ul>
+</li>
+<li>Vik will (can be) running it</li>
+<li>Only deadline is 8th December</li>
+<li>Somewhere in Appleton would be the best idea
+<ul>
+<li>Room?</li>
+<li>Robotics lab? Do we have access?</li>
+<li>Get a big room to make it feel like one event</li>
+</ul>
+</li>
+</ul>
+<p><strong>Hacktoberfest</strong></p>
+<ul>
+<li>Open source thing next week</li>
+<li>Stickers will arrive in time for it</li>
+<li>Get some snacks for it as well, nothing too big</li>
+</ul>
+<p><strong>PreHack</strong></p>
+<ul>
+<li>Harry still happy to organise it</li>
+<li>Harry, Will, Joe can do talks</li>
+<li>Will also put out a call for other speakers</li>
+<li>Date?
+<ul>
+<li>Plenty happening in 1st semester,</li>
+<li>2nd weekend in Feb at the latest</li>
+<li>Before people are too deep into coursework</li>
+</ul>
+</li>
+</ul>
+<p><strong>UKIEPC</strong></p>
+<ul>
+<li>Who can enter?
+<ul>
+<li>Inf or all?</li>
+<li>Just INF - easier to run, department might be happier, could provide prize</li>
+</ul>
+</li>
+<li>All - would be in line with organiser’s guidelines</li>
+<li>Ask the organisers and the Department</li>
+</ul>2:["$","div",null,{"className":"max-w-5xl mx-auto pt-32","children":[["$","$Lb",null,{"href":"https://compsoc-edinburgh.github.io/comp-soc.com/minutes","children":"Back"}],["$","h1",null,{"className":"text-3xl","children":"2017-10-11 7pm"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$c"},"className":"minutes"}]]}]
+a:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#353535"}],["$","meta","2",{"charSet":"utf-8"}],["$","title","3",{"children":"CompSoc"}],["$","meta","4",{"name":"description","content":"CompSoc is Edinburgh University's technology society! We're Scotland's best and largest of its kind, and form one of the largest societies within the university."}],["$","link","5",{"rel":"icon","href":"https://compsoc-edinburgh.github.io/comp-soc.com/compsoc-mini.png"}]]
+1:null
