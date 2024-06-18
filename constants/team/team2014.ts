@@ -46,7 +46,7 @@ export const team2014: Committee[] = [
   {
     name: 'Lisa',
     surname: 'Xie',
-    role: Role.SECOND_YEAR_REP,
+    role: Role.FIRST_YEAR_REP,
     image: '',
     // No URL provided
   },
