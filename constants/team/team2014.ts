@@ -2,71 +2,65 @@ import { Committee, Role, LinkType } from '@/types/team'
 
 export const team2014: Committee[] = [
   {
-    name: 'Lisa',
-    surname: 'Xie',
+    name: 'Angus',
+    surname: 'Pearson',
     role: Role.PRESIDENT,
-    image: '',
-    // No URL provided
+    image: 'angusp-1.jpg',
+    links: [{ type: LinkType.WEBSITE, url: 'http://toaster.cc' }],
   },
   {
-    name: 'William',
-    surname: 'Mathewson',
+    name: 'James',
+    surname: 'Friel',
     role: Role.VICE_PRESIDENT,
-    image: '',
+    image: 'james-friel-1.jpg',
     // No URL provided
   },
   {
-    name: 'Harjyot',
-    surname: 'Singh',
+    name: 'Aseem',
+    surname: 'Narang',
     role: Role.SECRETARY,
     image: '',
     // No URL provided
   },
   {
-    name: 'Andreea',
-    surname: 'Cucu',
+    name: 'Hugh',
+    surname: 'McGrade',
     role: Role.TREASURER,
     image: '',
     // No URL provided
   },
   {
-    name: 'Joshua',
-    surname: 'Green',
+    name: 'Rob',
+    surname: 'Tully',
     role: Role.TECHNICAL_SECRETARY,
     image: '',
     // No URL provided
   },
   {
-    name: 'Craig',
-    surname: 'Ross',
+    name: 'Hamish',
+    surname: 'Hutchings',
     role: Role.SOCIAL_SECRETARY,
     image: '',
     // No URL provided
   },
   {
-    name: 'Viktorija',
-    surname: 'Lukosiute',
+    name: 'Lisa',
+    surname: 'Xie',
     role: Role.FIRST_YEAR_REP,
-    image: 'vik-1.jpg',
+    image: '',
+    // No URL provided
   },
   {
-    name: 'Mihai',
-    surname: 'Visuian',
+    name: 'Amy',
+    surname: 'Gainford',
     role: Role.SECOND_YEAR_REP,
     image: '',
     // No URL provided
   },
   {
-    name: 'Simon',
-    surname: 'Vahr',
+    name: 'Lewis',
+    surname: 'Barker',
     role: Role.THIRD_YEAR_REP,
-    image: '',
-    links: [{ type: LinkType.WEBSITE, url: 'http://vahr.co.uk/' }],
-  },
-  {
-    name: 'Paul',
-    surname: 'Scherer',
-    role: Role.FOURTH_YEAR_REP,
     image: '',
     // No URL provided
   },
