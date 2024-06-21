@@ -22,4 +22,7 @@ export const roleProperties: Record<Role, RoleProperties> = {
   [Role.FOURTH_YEAR_REP]: { shortName: '4th Yr Rep', isCoreCommittee: false },
   [Role.OLD_PERSON_REP]: { shortName: 'Old Rep', isCoreCommittee: false },
   [Role.EDI_REP]: { shortName: 'EDI Rep', isCoreCommittee: false },
+  [Role.IMAGE_AND_PR]: { shortName: 'Image and PR', isCoreCommittee: false },
+  [Role.COMMUNICATION]: { shortName: 'Communication', isCoreCommittee: false },
+  [Role.EU_LUG]: { shortName: 'EU LUG', isCoreCommittee: false },
 }
