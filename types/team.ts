@@ -16,6 +16,9 @@ export enum Role {
   FOURTH_YEAR_REP = '4th Year Rep',
   OLD_PERSON_REP = 'Old Person Rep',
   EDI_REP = 'EDI Rep',
+  IMAGE_AND_PR = 'Image and PR',
+  COMMUNICATION = 'Communication',
+  EU_LUG = 'EU LUG',
 }
 
 export enum LinkType {
