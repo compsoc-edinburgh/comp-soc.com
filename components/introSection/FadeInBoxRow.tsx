@@ -12,7 +12,7 @@ const FadeInBoxRow: React.FC = () => {
   const ref = useRef<HTMLDivElement>(null)
 
   return (
-    <div className="flex justify-center flex-wrap md:flex-nowrap">
+    <div className="flex mx-auto w-3/4 justify-center flex-wrap md:flex-nowrap">
       {boxes.map((box, index) => {
         return (
           <FadeInBox key={index} delay={delay * index} content={box}>

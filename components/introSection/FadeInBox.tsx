@@ -56,7 +56,7 @@ const FadeInBox: React.FC<FadeInBoxProps> = ({ delay, content }) => {
       </style>
       <div
         ref={ref}
-        className={`w-full h-52 border-2 border-white opacity-0 flex items-center justify-center ${
+        className={`w-3/4 h-52 border-2 border-white opacity-0 flex items-center justify-center ${
           isVisible ? `fade-in-up` : ''
         }`}
         style={{ animationDelay: `${delay}s` }}
