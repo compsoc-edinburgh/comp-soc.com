@@ -9,8 +9,7 @@ import remarkMath from 'remark-math'
 import remarkParse from 'remark-parse'
 import remarkRehype from 'remark-rehype'
 import './styles.css'
-import Link from 'next/link'
-import { prefix } from '@/utils/prefix'
+import MinutesPage from './MinutesPage'
 
 export async function generateStaticParams() {
   const postsDirectory = path.join(
@@ -45,14 +44,5 @@ export default async function Page({ params }: { params: { slug: string } }) {
     .process(content)
   const contentHtml = processedContent.toString()
 
-  return (
-    <div className="max-w-5xl mx-auto pt-32">
-      <Link href={`${prefix}/minutes`}>Back</Link>
-      <h1 className="text-3xl">{data.date}</h1>
-      <div
-        dangerouslySetInnerHTML={{ __html: contentHtml }}
-        className="minutes"
-      />
-    </div>
-  )
+  return <MinutesPage contentHtml={contentHtml} />
 }
