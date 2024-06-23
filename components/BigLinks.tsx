@@ -1,3 +1,4 @@
+import { getNumberOfPosts } from '@/utils/getPostsContent'
 import { prefix } from '@/utils/prefix'
 import { MultiplePages, PageStar, PrivacyPolicy } from 'iconoir-react'
 import Link from 'next/link'
@@ -36,14 +37,14 @@ const LinkContent = ({
   </>
 )
 
-const BigLinks = () => {
+const BigLinks = async () => {
   return (
     <div className="flex gap-4 flex-col sm:flex-row">
       <StyledLink href={`${prefix}/minutes`}>
         <LinkContent
           icon={<MultiplePages width={32} height={32} />}
           title="Meeting Minutes"
-          description="120 meetings"
+          description={`${await getNumberOfPosts()} meetings`}
         />
       </StyledLink>
       <StyledLink href="https://github.com/compsoc-edinburgh/constitution">
@@ -51,13 +52,6 @@ const BigLinks = () => {
           icon={<PrivacyPolicy width={32} height={32} />}
           title="CompSoc constitution"
           description="Become a society insider"
-        />
-      </StyledLink>
-      <StyledLink href="https://google.com">
-        <LinkContent
-          icon={<PageStar width={32} height={32} />}
-          title="SIG Handbook"
-          description="The fine print"
         />
       </StyledLink>
     </div>

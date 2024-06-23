@@ -13,3 +13,11 @@ export async function getPostsContent() {
     }))
     .sort((a, b) => (a.slug < b.slug ? 1 : -1))
 }
+
+export async function getNumberOfPosts() {
+  const postsDirectory = path.join(process.cwd(), './constants/minutes')
+
+  const fileNames = fs.readdirSync(postsDirectory)
+
+  return fileNames.length
+}
