@@ -8,9 +8,7 @@ export default function Events() {
   return (
     <div className="lg:w-4/5 mx-auto">
       <Heading title="Flagship Events"></Heading>
-      <div className="mt-6 mb-6">
-        We run these events every year without fail!
-      </div>
+      <div className="mt-6">We run these events every year without fail!</div>
       <EventCard></EventCard>
 
       <Heading title="Full event calendar"></Heading>

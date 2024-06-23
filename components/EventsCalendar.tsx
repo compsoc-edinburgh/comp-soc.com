@@ -37,13 +37,6 @@ const EventsCalendar: React.FC = () => {
     boxShadow: 24,
     p: 4,
     color: 'white',
-    width: '90%', // Set a default width
-    maxWidth: '600px', // Set a maximum width for larger screens
-    '@media (max-width: 768px)': {
-      width: '95%', // Full width on mobile
-      left: '50%',
-      transform: 'translate(-50%, -50%)',
-    },
   }
 
   const createMarkup = (html: string) => {
@@ -73,45 +66,6 @@ const EventsCalendar: React.FC = () => {
         {`
           .fc .fc-timegrid-slot-minor {
             border-top: none; !important;
-          }
-
-          .fc-header-toolbar {
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: space-between;
-          }
-
-          .fc-header-toolbar .fc-toolbar-chunk {
-            margin-bottom: 5px;
-          }
-
-          @media (max-width: 768px) {
-            .fc-header-toolbar {
-              flex-direction: column;
-              align-items: center;
-            }
-
-            .fc-header-toolbar .fc-toolbar-chunk {
-              width: 100%;
-              text-align: center;
-              margin-bottom: 10px;
-            }
-
-            .fc-header-toolbar .fc-toolbar-chunk:first-child {
-              order: 3;
-            }
-
-            .fc-header-toolbar .fc-toolbar-chunk:nth-child(2) {
-              order: 1;
-            }
-
-            .fc-header-toolbar .fc-toolbar-chunk:nth-child(3) {
-              order: 2;
-            }
-
-            .fc-toolbar-title {
-              font-size: 1.2rem;
-            }
           }
         `}
       </style>

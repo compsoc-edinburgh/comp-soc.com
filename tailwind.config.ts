@@ -34,19 +34,6 @@ const config: Config = {
         'space-mono-bold': '700',
         'tomorrow-bold': '700',
       },
-      animation: {
-        shimmer: 'shimmer 8s infinite',
-      },
-      keyframes: {
-        shimmer: {
-          '0%, 90%, 100%': {
-            'background-position': 'calc(-100% - var(--shimmer-width)) 0',
-          },
-          '30%, 60%': {
-            'background-position': 'calc(100% + var(--shimmer-width)) 0',
-          },
-        },
-      },
     },
   },
   plugins: [],
