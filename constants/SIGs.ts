@@ -57,13 +57,13 @@ export const SIGs: SIG[] = [
       'c_e69cdedb82052cc1a74aea5b60bcbf3648c992a8c9a7fbd24745ef897770a2f5@group.calendar.google.com',
   },
   {
-    name: 'TypeSIG',
+    name: 'TypeSig',
     description: 'Type theory and related fields',
     websiteURL: 'https://typesig.comp-soc.com/',
     icon: {
       src: 'typesig.webp',
-      alt: 'TypeSIG logo',
-      rounded: true,
+      alt: 'TypeSig logo',
+      rounded: false,
     },
     backgroundColor: '#018EE0',
     borderColor: '#8AC4E6',
