@@ -21,6 +21,27 @@ export enum Role {
   EU_LUG = 'EU LUG',
 }
 
+const roleEmails: Partial<{ [key in Role]: string }> = {
+  [Role.PRESIDENT]: 'president@comp-soc.com',
+  [Role.VICE_PRESIDENT]: 'vicepresident@comp-soc.com',
+  [Role.TREASURER]: 'treasurer@comp-soc.com',
+  [Role.SECRETARY]: 'secretary@comp-soc.com',
+  [Role.TECHNICAL_SECRETARY]: 'techsec@comp-soc.com',
+  [Role.SOCIAL_SECRETARY]: 'socialsec@comp-soc.com',
+  [Role.SOCIAL_MEDIA_OFFICER]: 'socialmedia@comp-soc.com',
+  [Role.GRAPHIC_DESIGNER]: 'graphicdesigner@comp-soc.com',
+  [Role.FIRST_YEAR_REP]: 'freshersrep@comp-soc.com',
+  [Role.SECOND_YEAR_REP]: 'secondrep@comp-soc.com',
+  [Role.THIRD_YEAR_REP]: 'thirdrep@comp-soc.com',
+  [Role.FOURTH_YEAR_REP]: 'fourthrep@comp-soc.com',
+  [Role.OLD_PERSON_REP]: 'oldrep@comp-soc.com',
+  [Role.EDI_REP]: 'edirep@comp-soc.com',
+}
+
+export function getEmailForRole(role: Role): string | undefined {
+  return roleEmails[role]
+}
+
 export enum LinkType {
   INSTAGRAM = 'Instagram',
   TWITTER = 'Twitter',
