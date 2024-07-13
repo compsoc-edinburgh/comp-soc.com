@@ -2,7 +2,6 @@
 import React, { useEffect, useRef } from 'react'
 import Matter from 'matter-js'
 import { prefix } from '@/utils/prefix'
-import NextImage from 'next/image'
 
 const Footer = () => {
   const scene = useRef<HTMLDivElement>(null)
