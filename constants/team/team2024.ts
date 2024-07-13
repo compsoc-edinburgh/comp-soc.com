@@ -13,6 +13,14 @@ export const team2024: Committee[] = [
         type: LinkType.LINKEDIN,
         url: 'https://www.linkedin.com/in/vincent-danys/',
       },
+      {
+        type: LinkType.WEBSITE,
+        url: 'https://vincekaj.github.io/',
+      },
+      {
+        type: LinkType.GITHUB,
+        url: 'https://github.com/VinceKaj',
+      },
     ],
   },
   {
@@ -24,6 +32,10 @@ export const team2024: Committee[] = [
       {
         type: LinkType.LINKEDIN,
         url: 'https://www.linkedin.com/in/marton-csanad-nemeth-165a0822a/',
+      },
+      {
+        type: LinkType.GITHUB,
+        url: 'https://github.com/nmcs4102',
       },
     ],
   },
@@ -49,6 +61,10 @@ export const team2024: Committee[] = [
         type: LinkType.LINKEDIN,
         url: 'https://www.linkedin.com/in/abhijit-godfrey-antomarlin/',
       },
+      {
+        type: LinkType.GITHUB,
+        url: 'https://github.com/Ganto23',
+      },
     ],
   },
   {
@@ -68,6 +84,16 @@ export const team2024: Committee[] = [
     surname: 'Trainor',
     role: Role.SOCIAL_SECRETARY,
     image: 'anastasia-1.png',
+    links: [
+      {
+        type: LinkType.LINKEDIN,
+        url: 'https://www.linkedin.com/in/anastasia-trainor-a8b111314/',
+      },
+      {
+        type: LinkType.INSTAGRAM,
+        url: 'https://www.instagram.com/anastasiatrainorr/',
+      },
+    ],
   },
   {
     name: 'Agam',
@@ -103,6 +129,10 @@ export const team2024: Committee[] = [
         type: LinkType.LINKEDIN,
         url: 'https://www.linkedin.com/in/lucasbruckbauer/',
       },
+      {
+        type: LinkType.GITHUB,
+        url: 'https://github.com/wryzxec',
+      },
     ],
   },
   {
@@ -123,18 +153,25 @@ export const team2024: Committee[] = [
     role: Role.FOURTH_YEAR_REP,
     image: 'tomas-1.png',
     links: [
-      { type: LinkType.WEBSITE, url: 'https://tomasmaillo.com/' },
       {
         type: LinkType.LINKEDIN,
         url: 'https://www.linkedin.com/in/tomas-maillo/',
       },
       {
-        type: LinkType.GITHUB,
-        url: 'https://github.com/tomasmaillo',
+        type: LinkType.INSTAGRAM,
+        url: 'https://www.instagram.com/tomasmaillo/',
       },
       {
         type: LinkType.TWITTER,
         url: 'https://x.com/tomascodes',
+      },
+      {
+        type: LinkType.WEBSITE,
+        url: 'https://tomasmaillo.com/',
+      },
+      {
+        type: LinkType.GITHUB,
+        url: 'https://github.com/tomasmaillo',
       },
     ],
   },
@@ -148,5 +185,19 @@ export const team2024: Committee[] = [
     surname: 'Ausel',
     role: Role.EDI_REP,
     image: 'charlotte-1.jpg',
+    links: [
+      {
+        type: LinkType.LINKEDIN,
+        url: 'https://www.linkedin.com/in/charlotteausel/',
+      },
+      {
+        type: LinkType.WEBSITE,
+        url: 'https://ettolrach.com',
+      },
+      {
+        type: LinkType.GITHUB,
+        url: 'https://github.com/ettolrach',
+      },
+    ],
   },
 ]
