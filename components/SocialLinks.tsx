@@ -81,7 +81,7 @@ const SocialLinks: FC = () => {
       <motion.a
         href={INSTAGRAM_URL}
         target="_blank"
-        className="p-2 text-white bg-csred rounded-lg z-10 shadow-lg flex items-center gap-1"
+        className="p-2 pr-3 text-white bg-csred rounded-lg z-10 shadow-lg flex items-center gap-1"
         whileHover={{ scale: 1.05 }}
       >
         <Instagram width={48} height={48} />
