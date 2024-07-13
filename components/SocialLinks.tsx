@@ -1,8 +1,10 @@
-import { INSTAGRAM_URL } from '@/constants/socials'
+import { DISCORD_INVITE_URL, INSTAGRAM_URL } from '@/constants/socials'
 import { motion } from 'framer-motion'
 import { FC } from 'react'
 import prefersReducedMotion from '@/utils/prefersReducedMotion'
 import { Instagram } from 'iconoir-react'
+import { prefix } from '@/utils/prefix'
+import Image from 'next/image'
 
 const PARTICLES_COUNT = Array.from({ length: 20 }, (_, i) => ({
   index: i,
@@ -74,7 +76,7 @@ const Particles: FC = () => {
 
 const SocialLinks: FC = () => {
   return (
-    <div className="relative flex items-center justify-center">
+    <div className="relative flex items-center justify-center gap-6">
       <Particles />
       <motion.a
         href={INSTAGRAM_URL}
@@ -90,6 +92,26 @@ const SocialLinks: FC = () => {
             Follow our Instagram
           </p>
         </div>
+      </motion.a>
+
+      <motion.a
+        href={DISCORD_INVITE_URL}
+        target="_blank"
+        className="p-2 text-white bg-discordPurple rounded-lg z-10 shadow-lg flex justify-center items-center gap-1 h-16 w-16"
+        whileHover={{ scale: 1.05 }}
+        title="Join our Discord"
+      >
+        {/* 
+          I would use this icon... but its the ugliest thing I've ever seen
+          <Discord width={48} height={48} /> 
+          So lets use a random svg
+        */}
+        <Image
+          src={`${prefix}/discord.svg`}
+          alt="Discord logo"
+          width={36}
+          height={36}
+        />
       </motion.a>
     </div>
   )
