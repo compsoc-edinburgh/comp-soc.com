@@ -32,7 +32,7 @@ export default async function Page({ params }: { params: { slug: string } }) {
   const filePath = path.join(postDirectory, `${slug}.md`)
   const fileContents = fs.readFileSync(filePath, 'utf8')
 
-  const { data, content } = matter(fileContents)
+  const { content } = matter(fileContents)
 
   const processedContent = await remark()
     .use(rehypeStringify)

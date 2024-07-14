@@ -8,7 +8,7 @@ import { useEffect, useState } from 'react'
 
 const MinuteFile = ({ slug, intro }: { slug: string; intro: string }) => {
   return (
-    <Link href={`/minutes/${slug}`}>
+    <Link href={`${prefix}/minutes/${slug}`}>
       <div className="border border-border p-4 rounded-sm bg-foreground">
         <h2 className="text-xl font-space-mono">{slug}</h2>
         <p
