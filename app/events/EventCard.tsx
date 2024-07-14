@@ -2,6 +2,7 @@ import React, { useRef } from 'react'
 import { flagships } from '@/constants/flagships'
 import Image from 'next/image'
 import { prefix } from '@/utils/prefix'
+import { Link } from 'iconoir-react'
 
 const EventCard: React.FC = () => {
   return (
@@ -12,10 +13,17 @@ const EventCard: React.FC = () => {
           className="flex p-8 justify-center rounded-lg text-white mb-8"
           style={{ backgroundColor: '#3B3B3B' }}
         >
-          <div className="pr-12">
-            <div className="flex justify-between items-center">
-              <h2 className="text-2xl underline">{flagship.name}</h2>
-              <h2 className="text-right">Late Feb</h2>
+          <div className="pr-8">
+            <div className="flex justify-between items-center pb-4">
+              <div className="flex items-center">
+                <h2 className="text-2xl underline pr-2">{flagship.name}</h2>
+                {flagship.link && (
+                  <a href={flagship.link}>
+                    <Link width={24} />
+                  </a>
+                )}
+              </div>
+              <h2 className="text-right pl-2">{flagship.roughDate}</h2>
             </div>
 
             <p>
