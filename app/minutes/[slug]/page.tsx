@@ -32,6 +32,9 @@ export default async function Page({ params }: { params: { slug: string } }) {
   const filePath = path.join(postDirectory, `${slug}.md`)
   const fileContents = fs.readFileSync(filePath, 'utf8')
 
+  const fileStats = fs.statSync(filePath)
+  const modifiedAt = new Date(fileStats.mtime)
+
   const { content } = matter(fileContents)
 
   const processedContent = await remark()
@@ -44,5 +47,11 @@ export default async function Page({ params }: { params: { slug: string } }) {
     .process(content)
   const contentHtml = processedContent.toString()
 
-  return <MinutesPage contentHtml={contentHtml} />
+  return (
+    <MinutesPage
+      contentHtml={contentHtml}
+      title={slug}
+      modifiedAt={modifiedAt}
+    />
+  )
 }
