@@ -12,6 +12,9 @@ export default function Team() {
       </p>
       <BigLinks />
       <TeamList />
+      <p className="text-md my-12 text-center">
+        Someone missing? Please reach out to our TechSec
+      </p>
     </div>
   )
 }
