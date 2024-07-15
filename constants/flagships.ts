@@ -2,18 +2,6 @@ import { link } from 'fs'
 
 export const flagships = [
   {
-    name: 'InfBall',
-    description:
-      'Yearly ball in spring for all informatics students, complete with a three-course meal and a ceilidh.',
-    image: 'image6.jpg',
-    roughDate: 'Mid-April',
-    link: 'https://infball.comp-soc.com/',
-    facts: [
-      { number: '300+', text: 'attendees' },
-      { number: '8', text: 'years running' },
-    ],
-  },
-  {
     name: 'Hack The Burgh',
     description:
       'Join us for our annual 24-hour hackathon, complete with food, sponsor merch, and many prizes up for grabs.',
@@ -25,6 +13,19 @@ export const flagships = [
       { number: '£8,000', text: 'in prizes' },
     ],
   },
+  {
+    name: 'InfBall',
+    description:
+      'Yearly ball in spring for all informatics students, complete with a three-course meal and a ceilidh.',
+    image: 'image6.jpg',
+    roughDate: 'Mid-April',
+    link: 'https://infball.comp-soc.com/',
+    facts: [
+      { number: '300+', text: 'attendees' },
+      { number: '8', text: 'years running' },
+    ],
+  },
+
   {
     name: 'Student Tech Meetup',
     description:
