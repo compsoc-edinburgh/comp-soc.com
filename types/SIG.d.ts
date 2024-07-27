@@ -6,6 +6,7 @@ export type SIG = {
   backgroundColor: string
   borderColor: string
   calendarURL?: string
+  textColor?: string
 }
 
 export type SIGIcon = {

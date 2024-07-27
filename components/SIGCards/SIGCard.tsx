@@ -22,7 +22,7 @@ const SIGCard = ({ sig }: { sig: SIG }) => {
           className="absolute top-8 right-8 p-2 rounded-full transform translate-x-1/2 -translate-y-1/2 transition-opacity duration-200 pointer-events-none user-select-none"
           style={{ opacity: hovered ? 1 : 0 }}
         >
-          <ArrowUpRight height={32} width={32} />
+          <ArrowUpRight height={32} width={32} color={sig.textColor} />
         </div>
       )}
       <a href={sig.websiteURL} target="_blank" rel="noreferrer">
@@ -36,8 +36,18 @@ const SIGCard = ({ sig }: { sig: SIG }) => {
               sig.icon.rounded ? 'rounded-full' : 'rounded-lg'
             }`}
           />
-          <h2 className="text-xl font-bold text-white">{sig.name}</h2>
-          <p className=" text-white text-sm">{sig.description}</p>
+          <h2
+            className="text-xl font-bold"
+            style={{ color: sig.textColor ? sig.textColor : 'white' }}
+          >
+            {sig.name}
+          </h2>
+          <p
+            className="text-sm"
+            style={{ color: sig.textColor ? sig.textColor : 'white' }}
+          >
+            {sig.description}
+          </p>
         </div>
       </a>
     </div>

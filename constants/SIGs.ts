@@ -85,15 +85,18 @@ export const SIGs: SIG[] = [
       'c_9644523f7ecf40bbf33dea793c83906156b78e5db4b2014e7b0622df1f29d742@group.calendar.google.com',
   },
   {
-    name: 'QuantSIG',
-    description: 'Quantitative Finance and Algorithmic Trading',
+    name: 'quantsig',
+    description:
+      'anything and everything to do with quantitative finance and algorithmic trading',
     icon: {
-      src: 'quantsig.webp',
+      src: 'quantsig.png',
       alt: 'QuantSig logo',
       rounded: true,
     },
-    backgroundColor: '#4B3E4F',
-    borderColor: '#807184',
+    backgroundColor: '#fffcf4',
+    borderColor: '#fba308',
+    textColor: '#843414',
+    websiteURL: 'https://quantsig.org/',
     calendarURL:
       'c_629efcdcd3e1a5acec8b709303206758c5b588654bd6ec95acffed9597bc6161@group.calendar.google.com',
   },
@@ -112,17 +115,31 @@ export const SIGs: SIG[] = [
   },
   {
     name: 'CloudSIG',
-    description: 'Cloud Computing and AWS',
-    websiteURL:
-      'https://www.meetup.com/aws-cloud-club-the-university-of-edinburgh/',
+    description: 'An AWS Cloud Club',
     icon: {
-      src: 'cloudsig.webp',
+      src: 'CloudSIGLogo.png',
       alt: 'CloudSig logo',
       rounded: false,
     },
-    backgroundColor: '#aaa',
-    borderColor: '#eee',
+    backgroundColor: '#FF9A02',
+    borderColor: '#F1A430',
+    websiteURL:
+      'https://www.meetup.com/aws-cloud-club-the-university-of-edinburgh',
     calendarURL:
       'c_8251e2c2a6bdc88406401f582ca996f087aea223665091d56b822bf99779e5a4@group.calendar.google.com',
+  },
+  {
+    name: 'BitSIG',
+    description:
+      'OS, computer networks, computer architectures, parallel and distributed systems.',
+    icon: {
+      src: 'bitsig.png',
+      alt: 'the bitsig logo',
+      rounded: false,
+    },
+    backgroundColor: '#FFFFFF',
+    textColor: '#eb1516',
+    websiteURL: 'https://discord.gg/FQuQZHnx4r',
+    borderColor: '#eb1516',
   },
 ]
