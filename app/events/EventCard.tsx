@@ -36,9 +36,12 @@ const EventCard: React.FC = () => {
               aspernatur aut odit aut fugit
             </p>
             {flagship.facts && (
-              <div className="flex space-x-4 mt-4 lg:justify-start md:justify-start justify-center">
-                {flagship.facts.map((fact) => (
-                  <FactCard text={fact.text} number={fact.number} />
+              <div
+                className="flex space-x-4 mt-4 lg:justify-start md:justify-start justify-center"
+                key={flagship.name}
+              >
+                {flagship.facts.map((fact, i) => (
+                  <FactCard text={fact.text} number={fact.number} key={i} />
                 ))}
               </div>
             )}
