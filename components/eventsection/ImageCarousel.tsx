@@ -14,19 +14,23 @@ const ImageCarousel: React.FC = () => {
   ]
 
   const [currentImage, setCurrentImage] = useState(0)
-  const [opacity, setOpacity] = useState(1)
-  const [breadcrumbOpacity, setBreadcrumbOpacity] = useState(0) // New state
+  const [isHovered, setIsHovered] = useState(false)
 
   useEffect(() => {
     const interval = setInterval(() => {
+      if (isHovered) return
       setCurrentImage((prevIndex) => (prevIndex + 1) % images.length)
-    }, 3000) // Change image every 3 seconds
+    }, 3000)
 
     return () => clearInterval(interval)
-  }, [images.length])
+  }, [images.length, isHovered])
 
   return (
-    <div className="relative col-span-7 row-span-4 col-start-1 row-start-3 lg:h-[520px] h-[400px]">
+    <div
+      className="relative col-span-7 row-span-4 col-start-1 row-start-3 lg:h-[520px] h-[400px] group"
+      onMouseEnter={() => setIsHovered(true)}
+      onMouseLeave={() => setIsHovered(false)}
+    >
       {images.map((image, index) => (
         <div
           key={index}
@@ -40,24 +44,17 @@ const ImageCarousel: React.FC = () => {
             src={image}
             alt={`Carousel image ${index + 1}`}
             className="w-full h-full object-cover border-white border-2 border-b-0"
-            onMouseEnter={() => setBreadcrumbOpacity(1)}
-            onMouseLeave={() => setBreadcrumbOpacity(0)}
           />
         </div>
       ))}
-      <div
-        className="z-20 absolute bottom-6 left-1/2 transform -translate-x-1/2 flex space-x-2"
-        onMouseEnter={() => setBreadcrumbOpacity(1)}
-        onMouseLeave={() => setBreadcrumbOpacity(0)}
-      >
+      <div className="z-20 absolute bottom-6 left-1/2 transform -translate-x-1/2 flex space-x-2 group-hover:opacity-100 opacity-50 transition-opacity duration-300">
         {images.map((_, index) => (
           <div
             key={index}
-            className={`w-2 h-2 rounded-full ${
+            className={`w-2 h-2 rounded-full cursor-pointer ${
               index === currentImage ? 'bg-white' : 'bg-gray-400'
             }`}
-            style={{ opacity: breadcrumbOpacity }}
-            onClick={() => setCurrentImage(index)} // New code
+            onClick={() => setCurrentImage(index)}
           ></div>
         ))}
       </div>
