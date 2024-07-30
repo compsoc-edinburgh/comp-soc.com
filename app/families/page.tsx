@@ -11,8 +11,8 @@ export default function Families() {
       <div className="grid grid-cols-3 gap-6 mt-8">
         <div className="col-span-2 space-y-4">
           <p>
-            We've been working hard to make plans for the upcoming year that
-            accommodate all of you, and part of this plan is to introduce
+            We&apos;ve been working hard to make plans for the upcoming year
+            that accommodate all of you, and part of this plan is to introduce
             Academic Families (AcFams)!
           </p>
 
@@ -24,13 +24,13 @@ export default function Families() {
           </p>
 
           <p>
-            Students in older years will 'adopt' freshers, and it's a great way
-            of helping the community, meeting new people, and having a good time
-            together! Each family will consist of 10 first-year Informatics
-            students and 2 academic parents from the years above (UG2 - UG5).
-            Students will have the opportunity to organise family events, as
-            well as take part in larger events organised by the School of
-            Informatics!
+            Students in older years will &apos;adopt&apos; freshers, and
+            it&apos;s a great way of helping the community, meeting new people,
+            and having a good time together! Each family will consist of 10
+            first-year Informatics students and 2 academic parents from the
+            years above (UG2 - UG5). Students will have the opportunity to
+            organise family events, as well as take part in larger events
+            organised by the School of Informatics!
           </p>
 
           <h2 className="text-2xl font-semibold mt-6 mb-4">
