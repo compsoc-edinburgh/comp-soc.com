@@ -8,8 +8,17 @@ export default function Families() {
   return (
     <div className="lg:w-4/5 mx-auto pt-12">
       <Heading title="CompSoc Academic Families!" />
-      <div className="grid grid-cols-3 gap-6 mt-8">
-        <div className="col-span-2 space-y-4">
+      <div className="grid grid-cols-1 lg:grid-cols-3 gap-6 mt-8">
+        <div className="lg:col-span-1 order-first lg:order-last">
+          <BigLink
+            href="https://docs.google.com/forms/d/1g38DKV3R0dJSIitrboPTqHBV8aI2SPHy6F2R8TYcGes"
+            icon={<PageEdit width={32} height={32} />}
+            title="Parent Sign Up Form"
+            description="Sign up before 20th Aug"
+          />
+        </div>
+
+        <div className="lg:col-span-2 lg:order-first order-last space-y-4">
           <p>
             We&apos;ve been working hard to make plans for the upcoming year
             that accommodate all of you, and part of this plan is to introduce
@@ -61,15 +70,6 @@ export default function Families() {
             up! Anyone in CompSoc is welcome to join, and you can even propose
             to your AcFam spouse-to-be!
           </p>
-        </div>
-
-        <div className="col-span-1">
-          <BigLink
-            href="https://docs.google.com/forms/d/1g38DKV3R0dJSIitrboPTqHBV8aI2SPHy6F2R8TYcGes"
-            icon={<PageEdit width={32} height={32} />}
-            title="Parent Sign Up Form"
-            description="Sign up before 20th Aug"
-          />
         </div>
       </div>
     </div>
