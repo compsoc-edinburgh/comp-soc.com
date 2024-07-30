@@ -1,59 +1,25 @@
 import { getNumberOfPosts } from '@/utils/getPostsContent'
 import { prefix } from '@/utils/prefix'
-import { MultiplePages, PageStar, PrivacyPolicy } from 'iconoir-react'
-import Link from 'next/link'
-
-const StyledLink = ({
-  href,
-  children,
-}: {
-  href: string
-  children: React.ReactNode
-}) => {
-  return (
-    <Link href={href}>
-      <div className="bg-foreground border-border border-2 p-4 rounded-sm text-center text-white cursor-pointer flex gap-4 items-center">
-        {children}
-      </div>
-    </Link>
-  )
-}
-
-const LinkContent = ({
-  icon,
-  title,
-  description,
-}: {
-  icon: React.ReactNode
-  title: string
-  description: string
-}) => (
-  <>
-    <div>{icon}</div>
-    <div className="flex flex-col text-left font-tomorrow">
-      <h1 className="text-lg">{title}</h1>
-      <p className="text-sm opacity-70">{description}</p>
-    </div>
-  </>
-)
+import { MultiplePages, PrivacyPolicy } from 'iconoir-react'
+import BigLink from './BigLink'
 
 const BigLinks = async () => {
+  const numberOfPosts = await getNumberOfPosts()
+
   return (
     <div className="flex gap-4 flex-col sm:flex-row">
-      <StyledLink href={`${prefix}/minutes`}>
-        <LinkContent
-          icon={<MultiplePages width={32} height={32} />}
-          title="Meeting Minutes"
-          description={`${await getNumberOfPosts()} meetings`}
-        />
-      </StyledLink>
-      <StyledLink href="https://github.com/compsoc-edinburgh/constitution">
-        <LinkContent
-          icon={<PrivacyPolicy width={32} height={32} />}
-          title="CompSoc constitution"
-          description="Become a society insider"
-        />
-      </StyledLink>
+      <BigLink
+        href={`${prefix}/minutes`}
+        icon={<MultiplePages width={32} height={32} />}
+        title="Meeting Minutes"
+        description={`${numberOfPosts} meetings`}
+      />
+      <BigLink
+        href="https://github.com/compsoc-edinburgh/constitution"
+        icon={<PrivacyPolicy width={32} height={32} />}
+        title="CompSoc constitution"
+        description="Become a society insider"
+      />
     </div>
   )
 }
