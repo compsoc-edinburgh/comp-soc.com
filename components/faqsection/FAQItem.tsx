@@ -27,7 +27,7 @@ const FAQItem: React.FC<{ question: string; answer: string }> = ({
       >
         <div
           ref={contentRef}
-          className="p-4 bg-cslightgrey text-white border-white border-l-2"
+          className="p-4 bg-cslightgrey text-white border-neutral-600 border-l-4"
         >
           {answer}
         </div>

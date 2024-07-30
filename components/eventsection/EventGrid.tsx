@@ -14,7 +14,7 @@ const EventGrid: FC<EventListProps> = ({ events }) => {
   return (
     <div>
       {/* Desktop view */}
-      <div className="hidden lg:grid lg:grid-cols-10 lg:grid-rows-6 lg:gap-0 lg:border-b-2 lg:border-white">
+      <div className="hidden lg:grid lg:grid-cols-10 lg:grid-rows-6 lg:gap-0 lg:border-b-4 lg:border-neutral-600">
         <div className="col-span-3 row-span-2 col-start-8 row-start-1">
           <EventTileSmall {...events[1]} />
         </div>
@@ -43,7 +43,7 @@ const EventGrid: FC<EventListProps> = ({ events }) => {
       {/* Mobile view */}
       <div
         style={{ width: '100%' }}
-        className="lg:hidden flex-col space-y-4 mt-0 border-white border-b-2"
+        className="lg:hidden flex-col space-y-4 mt-0 border-neutral-600 border-b-4"
       >
         <EventTileBig {...events[0]} />
         {/* <Image

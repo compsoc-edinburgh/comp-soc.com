@@ -76,7 +76,7 @@ const EventTileBig = ({
     <div
       className={`${
         isClicked ? 'bg-csred' : 'bg-csgrey'
-      }  font-space-mono transition duration-500 ease-in-out border-2 border-white border-b-0 pt-6 pl-8 pr-8 w-full h-full flex flex-col lg:hover:bg-csred`}
+      }  font-space-mono transition duration-500 ease-in-out border-4 border-neutral-600 border-b-0 pt-6 pl-8 pr-8 w-full h-full flex flex-col lg:hover:bg-csred`}
       onMouseEnter={handleMouseEnter}
       onMouseLeave={handleMouseLeave}
       onClick={handleClick}

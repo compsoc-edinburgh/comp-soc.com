@@ -74,7 +74,7 @@ const ImageCarousel: React.FC = () => {
             height={100}
             src={image.src}
             alt={image.alt}
-            className="w-full h-full object-cover border-white border-2 border-b-0"
+            className="w-full h-full object-cover border-neutral-600 border-4 border-b-0"
           />
         </div>
       ))}

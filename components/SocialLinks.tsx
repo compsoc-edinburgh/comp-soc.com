@@ -88,7 +88,7 @@ const SocialLinks: FC = () => {
 
         <div className="text-white text-center">
           <p>Stay up-to-date!</p>
-          <p className="text-xs text-left text-gray-300">
+          <p className="text-xs text-left text-neutral-300">
             Follow our Instagram
           </p>
         </div>
