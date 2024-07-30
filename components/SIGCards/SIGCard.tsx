@@ -2,27 +2,19 @@ import { SIG } from '@/types/SIG'
 import { prefix } from '@/utils/prefix'
 import { ArrowUpRight } from 'iconoir-react'
 import Image from 'next/image'
-import { useState } from 'react'
 
 const SIGCard = ({ sig }: { sig: SIG }) => {
-  const [hovered, setHovered] = useState(false)
-
   return (
-    <a href={sig.websiteURL} target="_blank" rel="noreferrer">
+    <a href={sig.websiteURL} target="_blank" rel="noreferrer" className="group">
       <div
         className="font-tomorrow p-4 bg-white rounded shadow-md hover:shadow-lg transition duration-300 border-4 w-60 h-80 hover:z-[49] transform hover:scale-105"
         style={{
           backgroundColor: sig.backgroundColor,
           borderColor: sig.borderColor,
         }}
-        onMouseEnter={() => setHovered(true)}
-        onMouseLeave={() => setHovered(false)}
       >
         {sig.websiteURL && (
-          <div
-            className="absolute top-8 right-8 p-2 rounded-full transform translate-x-1/2 -translate-y-1/2 transition-opacity duration-200 pointer-events-none user-select-none"
-            style={{ opacity: hovered ? 1 : 0 }}
-          >
+          <div className="absolute top-8 right-8 p-2 rounded-full transform translate-x-1/2 -translate-y-1/2 transition-opacity duration-100 pointer-events-none user-select-none opacity-100 group-hover:opacity-100 md:opacity-0">
             <ArrowUpRight height={32} width={32} color={sig.textColor} />
           </div>
         )}

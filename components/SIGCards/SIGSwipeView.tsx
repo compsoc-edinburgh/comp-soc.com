@@ -35,6 +35,9 @@ const SIGSwipeView = () => {
 
   return (
     <div className="relative w-full my-12 h-96">
+      <p className="text-center opacity-50 text-xs">
+        Swipe and find your match
+      </p>
       <div className="absolute w-full h-full flex justify-center items-center">
         {shuffledSIGs.map((sig, i) => (
           <motion.div
