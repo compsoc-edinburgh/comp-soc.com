@@ -130,9 +130,15 @@ const Footer = () => {
 
     const mouse = Matter.Mouse.create(render.current.canvas)
     const handleMouseMove = (event: MouseEvent | TouchEvent) => {
+      if (!render.current) return
+      const canvasRect = render.current.canvas.getBoundingClientRect()
       const mousePosition = {
-        x: 'clientX' in event ? event.clientX : event.touches[0].clientX,
-        y: 'clientY' in event ? event.clientY : event.touches[0].clientY,
+        x:
+          ('clientX' in event ? event.clientX : event.touches[0].clientX) -
+          canvasRect.left,
+        y:
+          ('clientY' in event ? event.clientY : event.touches[0].clientY) -
+          canvasRect.top,
       }
 
       const mouseVelocity = {
@@ -146,7 +152,7 @@ const Footer = () => {
         const distance = Matter.Vector.magnitude(
           Matter.Vector.sub(body.position, mousePosition)
         )
-        const maxDistance = 400 // Distance threshold for interaction
+        const maxDistance = 100 // Distance threshold for interaction
 
         if (distance < maxDistance) {
           const forceMagnitude = (maxDistance - distance) * 0.0015 // Adjust force magnitude as needed
