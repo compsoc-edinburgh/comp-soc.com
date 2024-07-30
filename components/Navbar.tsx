@@ -5,20 +5,20 @@ import { usePathname } from 'next/navigation'
 
 import { prefix } from '@/utils/prefix'
 import { NAV_LINKS } from '@/constants/navLinks'
+import { Discord, Instagram } from 'iconoir-react'
+import { DISCORD_INVITE_URL, INSTAGRAM_URL } from '@/constants/socials'
 
 const Logo = () => (
-  <div className="text-white font-bold">
-    <Link href={`${prefix}/`}>
-      <Image
-        src={`${prefix}/compsoc-mini.png`}
-        alt="Wide CompSoc logo"
-        width={24}
-        height={24}
-        priority
-        className="transform scale-125"
-      />
-    </Link>
-  </div>
+  <Link href={`${prefix}/`}>
+    <Image
+      src={`${prefix}/compsoc-mini.png`}
+      alt="Wide CompSoc logo"
+      width={24}
+      height={24}
+      priority
+      className="transform scale-125"
+    />
+  </Link>
 )
 
 const NavLink = ({
@@ -44,7 +44,25 @@ const NavBar = () => {
   return (
     <nav className="sticky top-0 z-[100]  p-0 w-screen bg-foreground border-b-border border-b-2">
       <div className="container max-w-5xl mx-auto flex justify-between items-center py-4 px-4 lg:px-0">
-        <Logo />
+        <div className="flex items-center gap-4">
+          <Logo />
+
+          <a
+            href={INSTAGRAM_URL}
+            target="_blank"
+            className="opacity-50 hover:opacity-100 hidden sm:block ml-6"
+          >
+            <Instagram />
+          </a>
+
+          <a
+            href={DISCORD_INVITE_URL}
+            target="_blank"
+            className="opacity-50 hover:opacity-100 hidden sm:block"
+          >
+            <Discord />
+          </a>
+        </div>
         <div className="flex space-x-8 px-2">
           {NAV_LINKS.map((link) => (
             <NavLink
