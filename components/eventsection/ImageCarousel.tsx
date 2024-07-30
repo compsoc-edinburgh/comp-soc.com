@@ -4,13 +4,41 @@ import { prefix } from '@/utils/prefix'
 
 const ImageCarousel: React.FC = () => {
   const images = [
-    `${prefix}/image1.jpg`,
-    `${prefix}/image2.jpg`,
-    `${prefix}/image3.jpg`,
-    `${prefix}/image4.jpg`,
-    `${prefix}/image5.jpg`,
-    `${prefix}/image6.jpg`,
-    `${prefix}/image7.jpg`,
+    {
+      src: `${prefix}/image1.jpg`,
+      alt: 'People sitting in rows, some working on laptops with stickers, others conversing, in an indoor setting.',
+      footer: 'Hack The Burgh',
+    },
+    {
+      src: `${prefix}/image2.jpg`,
+      alt: 'Audience of people laughing and enjoying an event in an indoor setting.',
+      footer: 'STMU 2024',
+    },
+    {
+      src: `${prefix}/image3.jpg`,
+      alt: 'Group of people playing pool under green hanging lights, with some engaging in conversation and holding pool cues.',
+      footer: 'Social Event Night 2024',
+    },
+    {
+      src: `${prefix}/image4.jpg`,
+      alt: 'Group of people dancing in pairs in a dimly lit venue, dressed in formal and semi-formal attire.',
+      footer: 'CompSoc InfBall 2024',
+    },
+    {
+      src: `${prefix}/image5.jpg`,
+      alt: 'Group of people working together on laptops and discussing in a well-lit indoor setting with large windows',
+      footer: 'Hack The Burgh',
+    },
+    {
+      src: `${prefix}/image6.jpg`,
+      alt: 'Couples dancing in formal attire at a lively event in a brick-walled venue with string lights.',
+      footer: 'CompSoc InfBall 2024',
+    },
+    {
+      src: `${prefix}/image7.jpg`,
+      alt: 'Audience members attentively watching a presentation or event in a lecture hall.',
+      footer: 'Hack The Burgh Price Awards',
+    },
   ]
 
   const [currentImage, setCurrentImage] = useState(0)
@@ -38,16 +66,19 @@ const ImageCarousel: React.FC = () => {
             index === currentImage ? 'opacity-100 z-10' : 'opacity-0 z-0'
           }`}
         >
+          <div className="absolute lg:bottom-2 lg:left-2 top-2 right-2 lg:top-auto lg:right-auto px-2 py-1 rounded-lg backdrop-blur-sm bg-white bg-opacity-20 opacity-50 group-hover:opacity-100 transition-opacity duration-300">
+            <p className="text-white text-xs">{image.footer}</p>
+          </div>
           <Image
             width={100}
             height={100}
-            src={image}
-            alt={`Carousel image ${index + 1}`}
+            src={image.src}
+            alt={image.alt}
             className="w-full h-full object-cover border-white border-2 border-b-0"
           />
         </div>
       ))}
-      <div className="z-20 absolute bottom-6 left-1/2 transform -translate-x-1/2 flex space-x-2 group-hover:opacity-100 opacity-50 transition-opacity duration-300">
+      <div className="z-20 absolute bottom-4 left-1/2 transform -translate-x-1/2 flex space-x-2 group-hover:opacity-100 opacity-50 transition-opacity duration-300">
         {images.map((_, index) => (
           <div
             key={index}
