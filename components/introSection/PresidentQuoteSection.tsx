@@ -36,11 +36,15 @@ const PresidentQuoteSection = () => {
               </div>
             </div>
             <div className="sm:col-span-3">
-              <h2 className="text-4xl -translate-x-6 translate-y-2">{'"'}</h2>
+              <h2 className="text-4xl md:-translate-x-6 -translate-x-2 translate-y-2">
+                {'"'}
+              </h2>
 
               <p className="text-justify">{PRESIDENT_QUOTE}</p>
 
-              <h2 className="text-4xl text-right">{'"'}</h2>
+              <h2 className="text-4xl text-right md:translate-x-6 translate-x-2 -translate-y-4">
+                {'"'}
+              </h2>
             </div>
           </div>
         </div>
