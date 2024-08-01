@@ -1,11 +1,13 @@
 const PRESIDENT_QUOTE = (
   <>
-    Welcome! CompSoc is a society for tech enthusiasts of all levels! Whether
-    you're just starting out or a seasoned coder, you'll find your place here.
-    Our Special Interest Groups (SIGs) offer you the opportunity to dive deep
-    into specific areas of Computer Science and expand your knowledge. Best of
-    all, CompSoc is completely free to join, as are most of our events. Come and
-    be a part of our vibrant community!
+    Welcome! CompSoc is the University of Edinburgh's tech society. Over 25
+    years, we have grown into the largest technological society in Scotland,
+    hosting events that attract hundreds of attendees and collaborating with
+    industry giants like Meta, Google, and Spotify. We are home to 10 Special
+    Interest Groups, each dedicated to a different area of computer science,
+    offering you the chance to dive deep into your interests. Whether you're a
+    beginner or a seasoned coder, we offer events for everyone - from tech talks
+    and hackathons to hikes and pub crawls. Hope to see you there!
   </>
 )
 

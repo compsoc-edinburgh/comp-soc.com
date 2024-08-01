@@ -5,7 +5,7 @@ const FadeInBoxRow: React.FC = () => {
   const boxes = [
     { number: '25', text: 'years' },
     { number: '1500', text: 'members', affix: '+' },
-    { number: '50+', text: 'yearly events' },
+    { number: '50', text: 'yearly events', affix: '+' },
     { number: '10', text: 'SIGs' },
   ]
   const delay = 0.2 // Set the delay timing here

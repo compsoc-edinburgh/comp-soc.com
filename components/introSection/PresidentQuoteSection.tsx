@@ -37,9 +37,9 @@ const PresidentQuoteSection = () => {
             </div>
             <div className="sm:col-span-3">
               <h2 className="text-4xl -translate-x-6 translate-y-2">{'"'}</h2>
-              <div className="sm:columns-2 gap-8">
-                <p className="text-justify">{PRESIDENT_QUOTE}</p>
-              </div>
+
+              <p className="text-justify">{PRESIDENT_QUOTE}</p>
+
               <h2 className="text-4xl text-right">{'"'}</h2>
             </div>
           </div>
