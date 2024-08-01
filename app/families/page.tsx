@@ -70,6 +70,13 @@ export default function Families() {
             up! Anyone in CompSoc is welcome to join, and you can even propose
             to your AcFam spouse-to-be!
           </p>
+
+          <p className="mt-6">
+            Have any questions? Reach out to us via{' '}
+            <a href="mailto:families@comp-soc.com" className="underline">
+              families@comp-soc.com
+            </a>
+          </p>
         </div>
       </div>
     </div>

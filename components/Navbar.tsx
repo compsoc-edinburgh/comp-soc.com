@@ -5,8 +5,12 @@ import { usePathname } from 'next/navigation'
 
 import { prefix } from '@/utils/prefix'
 import { NAV_LINKS } from '@/constants/navLinks'
-import { Discord, Instagram } from 'iconoir-react'
-import { DISCORD_INVITE_URL, INSTAGRAM_URL } from '@/constants/socials'
+import { Discord, Instagram, Linkedin } from 'iconoir-react'
+import {
+  DISCORD_INVITE_URL,
+  INSTAGRAM_URL,
+  LINKEIDN_URL,
+} from '@/constants/socials'
 
 const Logo = () => (
   <Link href={`${prefix}/`}>
@@ -61,6 +65,14 @@ const NavBar = () => {
             className="opacity-50 hover:opacity-100 hidden sm:block"
           >
             <Discord />
+          </a>
+
+          <a
+            href={LINKEIDN_URL}
+            target="_blank"
+            className="opacity-50 hover:opacity-100 hidden sm:block"
+          >
+            <Linkedin />
           </a>
         </div>
         <div className="flex space-x-8 px-2">
