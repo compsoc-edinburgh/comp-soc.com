@@ -17,7 +17,7 @@ const ImageCarousel: React.FC = () => {
     {
       src: `${prefix}/image3.jpg`,
       alt: 'Group of people playing pool under green hanging lights, with some engaging in conversation and holding pool cues.',
-      footer: 'Social Event Night 2024',
+      footer: 'Pub Crawl 2024',
     },
     {
       src: `${prefix}/image4.jpg`,
@@ -37,7 +37,7 @@ const ImageCarousel: React.FC = () => {
     {
       src: `${prefix}/image7.jpg`,
       alt: 'Audience members attentively watching a presentation or event in a lecture hall.',
-      footer: 'Hack The Burgh Price Awards',
+      footer: 'Hack The Burgh Prize Announcements',
     },
   ]
 
