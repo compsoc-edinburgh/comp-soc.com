@@ -32,6 +32,7 @@ export const SIGs: SIG[] = [
   {
     name: 'CCSIG',
     description: 'Competitve Programming',
+    websiteURL: 'https://ccsig.comp-soc.com/',
     icon: {
       src: 'ccsig.webp',
       alt: 'CCSig logo',
