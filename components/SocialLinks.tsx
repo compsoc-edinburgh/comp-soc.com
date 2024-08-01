@@ -5,7 +5,7 @@ import prefersReducedMotion from '@/utils/prefersReducedMotion'
 import { prefix } from '@/utils/prefix'
 import Image from 'next/image'
 
-const PARTICLES_COUNT = Array.from({ length: 20 }, (_, i) => ({
+const PARTICLES_COUNT = Array.from({ length: 15 }, (_, i) => ({
   index: i,
   x: Math.random() * 500 - 250,
   y: Math.random() * 300 - 150,
@@ -32,7 +32,7 @@ const Particle: FC<{
       x: 0,
       y: 0,
       transition: {
-        duration: 2,
+        duration: 1.5,
         delay: Math.random() * 2,
         repeat: Infinity,
         repeatType: 'loop' as const,
