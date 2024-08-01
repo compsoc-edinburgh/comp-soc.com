@@ -28,7 +28,7 @@ const SponsorSection = () => {
             Many of our activities at CompSoc wouldn’t be possible without the
             support we receive from our wonderful partners. We are eternally
             grateful for their support over the years. We are always welcoming
-            new partnerships and would be happy to discuss your company's needs,
+            new partnerships and would be happy to discuss your company’s needs,
             just send us a message!
           </p>
           <br />
