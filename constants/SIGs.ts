@@ -87,7 +87,7 @@ export const SIGs: SIG[] = [
   {
     name: 'quantsig',
     description:
-      'anything and everything to do with quantitative finance and algorithmic trading',
+      'Anything and everything to do with quantitative finance and algorithmic trading',
     icon: {
       src: 'quantsig.png',
       alt: 'QuantSig logo',
