@@ -68,7 +68,7 @@ const SIGSpreadView = () => {
     const observer = new IntersectionObserver(
       ([entry]) => {
         if (entry.isIntersecting) {
-          setTimeout(() => setInView(true), 1000) // Delay the animation
+          setTimeout(() => setInView(true), 500) // Delay the animation
           observer.disconnect()
         }
       },
