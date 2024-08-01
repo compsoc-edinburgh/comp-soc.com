@@ -63,8 +63,6 @@ const Particle: FC<{
 }
 
 const Particles: FC = () => {
-  if (prefersReducedMotion()) return null
-
   const [isInView, setIsInView] = useState(false)
   const ref = useRef(null)
 
@@ -86,6 +84,8 @@ const Particles: FC = () => {
       }
     }
   }, [])
+
+  if (prefersReducedMotion()) return null
 
   return (
     <div className="absolute" ref={ref}>
