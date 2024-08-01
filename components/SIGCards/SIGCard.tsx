@@ -24,9 +24,7 @@ const SIGCard = ({ sig }: { sig: SIG }) => {
             height={100}
             src={`${prefix}/SIGs/${sig.icon.src}`}
             alt={sig.icon.alt}
-            className={`w-24 h-24 mb-12 ${
-              sig.icon.rounded ? 'rounded-full' : 'rounded-lg'
-            }`}
+            className={`w-24 h-24 mb-12 ${sig.icon.rounded}`}
           />
           <h2
             className="text-xl font-bold"

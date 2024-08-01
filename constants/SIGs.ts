@@ -1,5 +1,8 @@
 import { SIG } from '@/types/SIG'
 
+// Rounded property can be 'rounded-full', 'rounded-lg', 'rounded-none'...
+// For other rounded corners, google "tailwindcss rounded corners" and find the class you want
+
 export const SIGs: SIG[] = [
   {
     name: 'Project Share',
@@ -10,7 +13,7 @@ export const SIGs: SIG[] = [
     icon: {
       src: 'projectshare.png',
       alt: 'ProjectShare logo',
-      rounded: false,
+      rounded: 'rounded-lg',
     },
     backgroundColor: '#7816F4',
     borderColor: '#A971EF',
@@ -22,7 +25,7 @@ export const SIGs: SIG[] = [
     icon: {
       src: 'sigint.webp',
       alt: 'SIGINT logo',
-      rounded: false,
+      rounded: 'rounded-lg',
     },
     backgroundColor: '#000000',
     borderColor: '#666666',
@@ -36,7 +39,7 @@ export const SIGs: SIG[] = [
     icon: {
       src: 'ccsig.webp',
       alt: 'CCSig logo',
-      rounded: true,
+      rounded: 'rounded-full',
     },
     backgroundColor: '#143D59',
     borderColor: '#3B6D8F',
@@ -50,7 +53,7 @@ export const SIGs: SIG[] = [
     icon: {
       src: 'edinburghai.webp',
       alt: 'Edinburgh AI logo',
-      rounded: false,
+      rounded: 'rounded-lg',
     },
     backgroundColor: '#CB650F',
     borderColor: '#E3802D',
@@ -64,7 +67,7 @@ export const SIGs: SIG[] = [
     icon: {
       src: 'typesig.webp',
       alt: 'TypeSig logo',
-      rounded: false,
+      rounded: 'rounded-none',
     },
     backgroundColor: '#018EE0',
     borderColor: '#8AC4E6',
@@ -78,7 +81,7 @@ export const SIGs: SIG[] = [
     icon: {
       src: 'tardis.webp',
       alt: 'Tardis logo',
-      rounded: false,
+      rounded: 'rounded-lg',
     },
     backgroundColor: '#295085',
     borderColor: '#3769A6',
@@ -92,7 +95,7 @@ export const SIGs: SIG[] = [
     icon: {
       src: 'quantsig.png',
       alt: 'QuantSig logo',
-      rounded: true,
+      rounded: 'rounded-full',
     },
     backgroundColor: '#fffcf4',
     borderColor: '#fba308',
@@ -107,7 +110,7 @@ export const SIGs: SIG[] = [
     icon: {
       src: 'gamedevsig.webp',
       alt: 'GamedevSig logo',
-      rounded: true,
+      rounded: 'rounded-full',
     },
     backgroundColor: '#000000',
     borderColor: '#3CAB98',
@@ -120,7 +123,7 @@ export const SIGs: SIG[] = [
     icon: {
       src: 'CloudSIGLogo.png',
       alt: 'CloudSig logo',
-      rounded: false,
+      rounded: 'rounded-lg',
     },
     backgroundColor: '#FF9A02',
     borderColor: '#F1A430',
@@ -136,7 +139,7 @@ export const SIGs: SIG[] = [
     icon: {
       src: 'bitsig.png',
       alt: 'the bitsig logo',
-      rounded: false,
+      rounded: 'rounded-lg',
     },
     backgroundColor: '#FFFFFF',
     textColor: '#eb1516',

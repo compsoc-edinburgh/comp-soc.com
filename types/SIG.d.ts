@@ -12,5 +12,5 @@ export type SIG = {
 export type SIGIcon = {
   src: string
   alt: string
-  rounded: boolean
+  rounded: string
 }
