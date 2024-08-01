@@ -25,9 +25,11 @@ const SponsorSection = () => {
         </div>
         <div className="w-full lg:w-4/5 mt-6 font-space-mono">
           <p>
-            CompSoc is always looking for new sponsors to support us in all that
-            we do for our members. We would be happy to discuss your
-            company&apos;s needs, just send us a message!
+            Many of our activities at CompSoc wouldn’t be possible without the
+            support we receive from our wonderful partners. We are eternally
+            grateful for their support over the years. We are always welcoming
+            new partnerships and opportunities. We would be happy to discuss
+            your company&apos;s needs, just send us a message!
           </p>
           <br />
           <p>Meet our 2024 sponsors:</p>
@@ -46,9 +48,11 @@ const SponsorSection = () => {
         </div>
         {/* <button className="bg-csred font-space-mono rounded-lg py-2 px-4 text-white">Get in touch</button> */}
         <div className="flex items-center">
-          <button className="bg-red-600 font-space-mono rounded-lg py-2 px-4 text-white inline-flex items-center mt-2">
-            Get in Touch <MdArrowForward className="ml-2" />
-          </button>
+          <a href="mailto:partners@comp-soc.com">
+            <button className="bg-red-600 font-space-mono rounded-lg py-2 px-4 text-white inline-flex items-center mt-2">
+              Get in Touch <MdArrowForward className="ml-2" />
+            </button>
+          </a>
         </div>
       </VariableBackgroundSwitcher>
     </div>

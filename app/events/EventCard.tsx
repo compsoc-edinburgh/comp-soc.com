@@ -28,13 +28,7 @@ const EventCard: React.FC = () => {
               </div>
               {/* <h2 className="text-left">{flagship.roughDate}</h2> */}
             </div>
-            <p className="mt-4">
-              Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-              accusantium doloremque laudantium, totam rem aperiam, eaque ipsa
-              quae ab illo inventore veritatis et quasi architecto beatae vitae
-              dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit
-              aspernatur aut odit aut fugit
-            </p>
+            <p className="mt-4">{flagship.long_description}</p>
             {flagship.facts && (
               <div
                 className="flex space-x-4 mt-4 lg:justify-start md:justify-start justify-center"
