@@ -55,7 +55,7 @@ const EventTileBig = ({
   const handleClick = () => {
     if (isMobile) {
       setIsClicked(!isClicked)
-      console.log(nonDescriptionHeight)
+
       setShowDescription(!showDescription)
     }
   }

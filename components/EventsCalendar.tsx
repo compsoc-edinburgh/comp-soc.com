@@ -11,7 +11,7 @@ import Image from 'next/image'
 
 const EventsCalendar: React.FC = () => {
   const { events, loading, error } = useCalendarEvents()
-  console.log('Fetched calendar events:', events)
+
   const isMobile = typeof window !== 'undefined' && window.innerWidth <= 768
 
   const [open, setOpen] = React.useState(false)
@@ -21,7 +21,6 @@ const EventsCalendar: React.FC = () => {
   const handleEventClick = (eventInfo: any) => {
     setOpen(true)
     setEvent(eventInfo)
-    console.log('Event clicked:', eventInfo)
   }
 
   const handleClose = () => {

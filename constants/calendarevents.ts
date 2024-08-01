@@ -35,7 +35,6 @@ async function fetchCalendarEvents(
     }
     const data = await response.json()
     const items: GoogleCalendarEvent[] = data.items
-    console.log('Fetched items:', items)
 
     return items
   } catch (error) {
