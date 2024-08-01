@@ -32,7 +32,7 @@ const SponsorSection = () => {
             just send us a message!
           </p>
           <br />
-          <p>Meet our 2024 sponsors:</p>
+          <p>Meet our 2023-2024 sponsors:</p>
         </div>
         <div className="mt-12 flex flex-col justify-center gap-12">
           <SponsorBanner
