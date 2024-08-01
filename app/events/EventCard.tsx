@@ -43,7 +43,7 @@ const EventCard: React.FC = () => {
           <div className="flex justify-center md:justify-end lg:justify-end h-full">
             <div className="lg:w-[400px] h-full object-cover">
               <Image
-                src={`${prefix}${flagship.image}`}
+                src={`${prefix}/${flagship.image}`}
                 alt={flagship.name}
                 width={100}
                 height={100}
