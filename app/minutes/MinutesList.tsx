@@ -63,11 +63,10 @@ const MinutesList = ({
       <div className="md:px-24">
         <h1 className="font-tomorrow text-3xl mb-10">Minutes</h1>
         <p className="text-md mb-10">
-          Cupidatat laborum aliquip sint aliquip dolore. Non officia tempor
-          dolore eiusmod id laboris enim exercitation dolore dolore. In aliquip
-          aliquip quis ad do veniam aute. Deserunt magna commodo adipisicing
-          dolore commodo proident ex tempor aute ullamco. Minim dolore nisi esse
-          qui irure aliqua.
+          Welcome to the CompSoc Meeting Minutes Archive. Here, you will find
+          detailed records of all committee meetings dating back to 2016.
+          Explore these documents to gain insights into the decisions,
+          discussions, and developments that have shaped our society.
         </p>
 
         <SearchPosts setSearchQuery={setSearchQuery} />
