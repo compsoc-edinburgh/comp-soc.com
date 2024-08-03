@@ -17,6 +17,7 @@ export const SIGs: SIG[] = [
     },
     backgroundColor: '#7816F4',
     borderColor: '#A971EF',
+    showCard: true,
   },
   {
     name: 'SIGINT',
@@ -31,6 +32,7 @@ export const SIGs: SIG[] = [
     borderColor: '#666666',
     calendarURL:
       'c_d62500f1c180c1f543977472418d5720ec4e86c7ee48e2feabdda0cd90627f20@group.calendar.google.com',
+    showCard: true,
   },
   {
     name: 'CCSIG',
@@ -45,6 +47,7 @@ export const SIGs: SIG[] = [
     borderColor: '#3B6D8F',
     calendarURL:
       'c_1b5f258a2c0cb8101871b6bd1a2c04073db53a445e8afb041cb9b1af90ff9d83@group.calendar.google.com',
+    showCard: true,
   },
   {
     name: 'Edinburgh AI',
@@ -59,6 +62,7 @@ export const SIGs: SIG[] = [
     borderColor: '#E3802D',
     calendarURL:
       'c_e69cdedb82052cc1a74aea5b60bcbf3648c992a8c9a7fbd24745ef897770a2f5@group.calendar.google.com',
+    showCard: true,
   },
   {
     name: 'TypeSig',
@@ -73,6 +77,7 @@ export const SIGs: SIG[] = [
     borderColor: '#8AC4E6',
     calendarURL:
       'c_efdb7e98ec82f850eccd0d988409bcaf91a80d19ebb60caec03e3ca5345863fb@group.calendar.google.com',
+    showCard: true,
   },
   {
     name: 'Tardis',
@@ -87,6 +92,7 @@ export const SIGs: SIG[] = [
     borderColor: '#3769A6',
     calendarURL:
       'c_9644523f7ecf40bbf33dea793c83906156b78e5db4b2014e7b0622df1f29d742@group.calendar.google.com',
+    showCard: true,
   },
   {
     name: 'quantsig',
@@ -103,6 +109,7 @@ export const SIGs: SIG[] = [
     websiteURL: 'https://quantsig.org/',
     calendarURL:
       'c_629efcdcd3e1a5acec8b709303206758c5b588654bd6ec95acffed9597bc6161@group.calendar.google.com',
+    showCard: true,
   },
   {
     name: 'GameDevSIG',
@@ -116,6 +123,7 @@ export const SIGs: SIG[] = [
     borderColor: '#3CAB98',
     calendarURL:
       'c_58a50415d675c87a68a110fc66e86cac5ff113d6a4e9ac4cd08501d7f949bffb@group.calendar.google.com',
+    showCard: true,
   },
   {
     name: 'CloudSIG',
@@ -131,6 +139,7 @@ export const SIGs: SIG[] = [
       'https://www.meetup.com/aws-cloud-club-the-university-of-edinburgh',
     calendarURL:
       'c_8251e2c2a6bdc88406401f582ca996f087aea223665091d56b822bf99779e5a4@group.calendar.google.com',
+    showCard: true,
   },
   {
     name: 'BitSIG',
@@ -145,5 +154,24 @@ export const SIGs: SIG[] = [
     textColor: '#eb1516',
     websiteURL: 'https://discord.gg/FQuQZHnx4r',
     borderColor: '#eb1516',
+    calendarURL:
+      'c_85d2fd63d7ddc9671768fc01f813e1debac2c2dfbbe3a2903051767beb2cff0f@group.calendar.google.com',
+    showCard: true,
+  },
+  {
+    name: 'CompSoc',
+    description: '',
+    icon: {
+      src: 'compsoc-short.png',
+      alt: 'the compsoc logo',
+      rounded: 'rounded-none',
+    },
+    backgroundColor: '#CE3234',
+    textColor: '#ffffff',
+    websiteURL: '',
+    borderColor: '',
+    calendarURL:
+      'c_d9ed90437b85f9f70111ed1576450106ba39ca8e46e94051bf53c9aa2c8a3735@group.calendar.google.com',
+    showCard: false,
   },
 ]

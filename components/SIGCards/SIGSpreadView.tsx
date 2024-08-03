@@ -2,11 +2,14 @@ import { useEffect, useRef, useState } from 'react'
 import { motion } from 'framer-motion'
 import { SIGs } from '@/constants/SIGs'
 import { SIG } from '@/types/SIG'
+
 import SIGCard from './SIGCard'
 import SIGSwipeView from './SIGSwipeView'
 
 const SIGSpreadView = () => {
   // Constants could be changed for different vibes and looks
+  const filteredSIGs = SIGs.filter((sig) => sig.showCard)
+
   const cardWidth = 150
   const cardHeight = 200
   const margin = 32
@@ -21,7 +24,7 @@ const SIGSpreadView = () => {
   // Shuffling needs to be done on the client side due to rehydration issues with static gen
   const [shuffledSIGs, setShuffledSIGs] = useState<SIG[]>([])
   useEffect(() => {
-    setShuffledSIGs(SIGs.sort(() => Math.random() - 0.5))
+    setShuffledSIGs(filteredSIGs.sort(() => Math.random() - 0.5))
   }, [])
 
   const calculatePositions = () => {

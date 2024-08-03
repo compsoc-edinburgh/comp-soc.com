@@ -6,19 +6,20 @@ import { Refresh } from 'iconoir-react'
 import { SIG } from '@/types/SIG'
 
 const SIGSwipeView = () => {
+  const filteredSIGs = SIGs.filter((sig) => sig.showCard)
   const [index, setIndex] = useState(0)
   const [swipedDirections, setSwipedDirections] = useState(
-    Array(SIGs.length).fill(null)
+    Array(filteredSIGs.length).fill(null)
   )
 
   // Shuffling needs to be done on the client side due to rehydration issues with static gen
   const [shuffledSIGs, setShuffledSIGs] = useState<SIG[]>([])
   useEffect(() => {
-    setShuffledSIGs(SIGs.sort(() => Math.random() - 0.5))
+    setShuffledSIGs(filteredSIGs.sort(() => Math.random() - 0.5))
   }, [])
 
   const handleSwipe = (direction: 'left' | 'right', i: number) => {
-    if (i < SIGs.length) {
+    if (i < filteredSIGs.length) {
       setSwipedDirections((prev) => {
         const newDirections = [...prev]
         newDirections[i] = direction
@@ -30,7 +31,7 @@ const SIGSwipeView = () => {
 
   const resetStack = () => {
     setIndex(0)
-    setSwipedDirections(Array(SIGs.length).fill(null))
+    setSwipedDirections(Array(filteredSIGs.length).fill(null))
   }
 
   return (
@@ -38,6 +39,7 @@ const SIGSwipeView = () => {
       <p className="text-center opacity-50 text-xs">
         Swipe and find your match
       </p>
+
       <div className="absolute w-full h-full flex justify-center items-center">
         {shuffledSIGs.map((sig, i) => (
           <motion.div
@@ -75,13 +77,13 @@ const SIGSwipeView = () => {
                 handleSwipe('left', i)
               }
             }}
-            style={{ zIndex: SIGs.length - i }}
+            style={{ zIndex: filteredSIGs.length - i }}
           >
             <SIGCard sig={sig} />
           </motion.div>
         ))}
         <AnimatePresence>
-          {index === SIGs.length && (
+          {index === filteredSIGs.length && (
             <motion.div
               className="m-6 p-4 rounded-sm shadow-md flex flex-col items-center space-y-4 bg-foreground z-10 font-space-mono"
               initial={{ opacity: 0, y: 5, scale: 0.9 }}

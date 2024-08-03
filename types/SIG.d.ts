@@ -5,8 +5,9 @@ export type SIG = {
   icon: SIGIcon
   backgroundColor: string
   borderColor: string
-  calendarURL?: string
+  calendarURL: string
   textColor?: string
+  showCard: boolean
 }
 
 export type SIGIcon = {

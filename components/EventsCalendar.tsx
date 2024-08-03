@@ -164,8 +164,6 @@ const EventsCalendar: React.FC = () => {
                       alt={event.extendedProps.sig.icon.alt}
                       className={`h-full ${
                         event.extendedProps.sig.icon.rounded
-                          ? 'rounded-full'
-                          : 'rounded-lg'
                       } mr-2`}
                     />
                     <div className="text-xl">{event.title}</div>

@@ -72,6 +72,7 @@ function transformEvents(
       start: event.start.dateTime || event.start.date,
       end: event.end.dateTime || event.end.date,
       color: sig.backgroundColor,
+      textColor: sig.textColor,
       sig: sig,
       description: event.description,
       location: event.location,
