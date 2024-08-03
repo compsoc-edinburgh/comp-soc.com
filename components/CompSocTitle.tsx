@@ -36,15 +36,7 @@ const GodRays: React.FC<{ children: React.ReactNode }> = ({ children }) => {
           gradientUnits="userSpaceOnUse"
         >
           <stop stopColor="#ccc" />
-          <stop stopColor="#00000013" offset="0">
-            <animate
-              attributeName="offset"
-              from="0"
-              to="1"
-              dur="1s"
-              fill="freeze"
-            />
-          </stop>
+          <stop stopColor="#00000013" offset="1" />
         </linearGradient>
       </defs>
     </svg>
@@ -53,9 +45,21 @@ const GodRays: React.FC<{ children: React.ReactNode }> = ({ children }) => {
   return (
     <div className="relative flex flex-col items-center">
       <div
-        className="pointer-events-none opacity-50"
-        style={{ transform: `translate(-${width / 2}px, 48px)` }}
+        className="pointer-events-none"
+        style={{
+          transform: `translate(-${width / 2}px, 48px)`,
+          opacity: 0,
+          transition: 'opacity 4s ease-in-out',
+          animation: 'fadeIn 4s forwards',
+        }}
       >
+        <style jsx>{`
+          @keyframes fadeIn {
+            to {
+              opacity: 1;
+            }
+          }
+        `}</style>
         {rays}
       </div>
       <div className="relative z-10">{children}</div>
