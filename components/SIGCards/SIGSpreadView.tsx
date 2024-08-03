@@ -30,8 +30,8 @@ const SIGSpreadView = () => {
   const calculatePositions = () => {
     // Calculate the positions of the SIG cards. Messy but it works.
     setSIGsAndPositions(() => {
-      const numRows = Math.ceil(SIGs.length / columns)
-      const lastRowItemCount = SIGs.length % columns || columns
+      const numRows = Math.ceil(filteredSIGs.length / columns)
+      const lastRowItemCount = filteredSIGs.length % columns || columns
       const lastRowOffset =
         ((columns - lastRowItemCount) * (cardWidth + margin)) / 2
 
@@ -100,14 +100,15 @@ const SIGSpreadView = () => {
     if (columns > 0) {
       calculatePositions()
     }
-  }, [columns, SIGs])
+  }, [columns, shuffledSIGs])
 
   return (
     <div
       className="relative w-full my-24"
       ref={ref}
       style={{
-        height: Math.ceil(SIGs.length / columns) * (cardHeight + margin),
+        height:
+          Math.ceil(filteredSIGs.length / columns) * (cardHeight + margin),
       }}
     >
       {SIGsAndPositions.map((sig, i) => (
