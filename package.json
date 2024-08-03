@@ -43,6 +43,7 @@
     "styled-components": "^6.1.11"
   },
   "devDependencies": {
+    "@tailwindcss/typography": "^0.5.13",
     "@types/matter-js": "^0.19.6",
     "@types/node": "^20",
     "@types/react": "^18",
