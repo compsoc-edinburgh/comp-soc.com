@@ -10,7 +10,6 @@ excerpt_separator: '<!--See More-->'
     <dt>Time:</dt> <dd style="margin-left: 1rem">18:45 - est. 20:45 GMT</dd>
     <dt>Food:</dt> <dd style="margin-left: 1rem">Free Teviot pizza</dd>
     <dt>Programme:</dt>
-    <!--See More-->
     <dd style="margin-left: 1rem">
         <details open>
             <summary><b>Dr Petros Papapanagiotou</b> - Marrying processes and data in socio-technical systems</summary>

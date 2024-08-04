@@ -10,8 +10,6 @@ The positions available are: Secretary, 1st Year Representative, 4th Year Repres
 
 See the following for descriptions of each position.
 
-<!--See More-->
-
 ### Positions
 
 - **Secretary**:

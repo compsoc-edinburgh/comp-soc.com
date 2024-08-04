@@ -58,8 +58,6 @@ If you want to vote in the AGM, you need to [make sure you have CompSoc membersh
 
 We also allow people to run on the night, if you did not have time to create manifestos. There are a few people who are running for positions, but aren't available for the AGM (primarily, they're studying abroad), so please read through the manifestos thoroughly!
 
-<!--See More-->
-
 | Role             | Candidate Name                | Manifesto Link                                                                                          |
 | ---------------- | ----------------------------- | ------------------------------------------------------------------------------------------------------- |
 | President        | Fergus White                  | [view manifesto](https://drive.google.com/file/d/1IWNYQdDBggwOTgri2wZgR-FpPENwqrwz/view?usp=share_link) |

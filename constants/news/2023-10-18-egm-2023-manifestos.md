@@ -14,8 +14,6 @@ We also allow people to run on the night, if you did not have time to create man
 
 _The views expressed on the following manifestos are the candidates' own and do not represent those of CompSoc. They are hosted here for the purposes of facilitating EUSA elections._
 
-<!--See More-->
-
 | Role               | Candidate Name | Manifesto Link                                                                                       |
 | ------------------ | -------------- | ---------------------------------------------------------------------------------------------------- |
 | **1st Year Rep**   | Ryan Tsui      | [view manifesto](https://drive.google.com/file/d/1XqyKkdVJPgW9In7TrW9RL7GwYVBFNqtb/view?usp=sharing) |

@@ -10,7 +10,6 @@ excerpt_separator: '<!--See More-->'
     <dt>Time:</dt> <dd style="margin-left: 1rem">18:00 - est. 20:00 GMT</dd>
     <dt>Food:</dt> <dd style="margin-left: 1rem">Free <a href="https://www.civerinosslice.com/" title="Click to go to the Civerinos website">Civerinos</a> pizza</dd>
     <dt>Programme:</dt>
-    <!--See More-->
     <dd style="margin-left: 1rem">
         <details open>
             <summary><b>James Rheard (AND Digital)</b> - Making Complex Software Resilient</summary>

@@ -10,8 +10,6 @@ If you want to vote in the EGM, you need to [make sure you have CompSoc membersh
 
 We also allow people to run on the night if you did not have time to create manifestos.
 
-<!--See More-->
-
 | Role                           | Candidate Name                                                    | Manifesto Link                                                                                       |
 | ------------------------------ | ----------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
 | **Secretary**                  | Dorna Hamed Barghi                                                | [View Manifesto](https://drive.google.com/file/d/1xzsDYD9NbmukIYHDOXvx5aCAGiX4hq65/view?usp=sharing) |

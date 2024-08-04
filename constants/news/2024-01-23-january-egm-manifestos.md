@@ -28,8 +28,6 @@ We also allow people to run on the night, if you did not have time to create man
 
 _The views expressed on the following manifestos are the candidates' own and do not represent those of CompSoc. They are hosted here for the purposes of facilitating EUSA elections._
 
-<!--See More-->
-
 | Role                    | Candidate          | Manifesto Link                                                                                       |
 | ----------------------- | ------------------ | ---------------------------------------------------------------------------------------------------- |
 | **Treasurer**           | Marton Nemeth      | [View Manifesto](https://drive.google.com/file/d/18jMNr88laR-CeGnSJfni_IeMDbIstOxC/view?usp=sharing) |
