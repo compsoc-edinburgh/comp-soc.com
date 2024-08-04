@@ -1,0 +1,112 @@
+3:I[39275,[],""]
+5:I[61343,[],""]
+6:I[84269,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-6294b73f1d4a6f51.js","173","static/chunks/173-381dfe0b598c8022.js","185","static/chunks/app/layout-2d20acbbe3e34354.js"],"default"]
+7:I[35719,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-6294b73f1d4a6f51.js","173","static/chunks/173-381dfe0b598c8022.js","185","static/chunks/app/layout-2d20acbbe3e34354.js"],"default"]
+8:I[42452,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-6294b73f1d4a6f51.js","173","static/chunks/173-381dfe0b598c8022.js","185","static/chunks/app/layout-2d20acbbe3e34354.js"],"default"]
+9:I[1370,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-6294b73f1d4a6f51.js","173","static/chunks/173-381dfe0b598c8022.js","185","static/chunks/app/layout-2d20acbbe3e34354.js"],"default"]
+4:["slug","2021-10-29-october-egm-manifestos","d"]
+0:["LXAOws2o5e2HEURIi_nG8",[[["",{"children":["news",{"children":[["slug","2021-10-29-october-egm-manifestos","d"],{"children":["__PAGE__?{\"slug\":\"2021-10-29-october-egm-manifestos\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["news",{"children":[["slug","2021-10-29-october-egm-manifestos","d"],{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","news","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":[["$","link","0",{"rel":"stylesheet","href":"./_next/static/css/54f9ddd098fa72b3.css","precedence":"next","crossOrigin":"$undefined"}]]}],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","news","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},[["$","html",null,{"lang":"en","children":["$","body",null,{"className":"relative overflow-x-clip w-screen mx-auto","children":[["$","$L6",null,{"children":["$","$L7",null,{"children":[["$","$L8",null,{}],["$","div",null,{"className":"container mx-auto max-w-screen-xl p-4 pb-32","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}]}]]}]}],["$","div",null,{"className":"relative w-full bg-csred","children":[["$","$L9",null,{}],["$","footer",null,{"className":"absolute top-0 text-white","children":["$","div",null,{"className":"flex flex-row gap-2 m-12 pointer-events-none user-select-none"}]}]]}]]}]}],null],null],[[["$","link","0",{"rel":"stylesheet","href":"./_next/static/css/1d8bd701100ee827.css","precedence":"next","crossOrigin":"$undefined"}]],"$La"]]]]
+b:I[71386,["329","static/chunks/app/news/%5Bslug%5D/page-67829e18c37bace9.js"],"default"]
+c:T100f,<h2>Event Details</h2>
+<p>On Friday (today) at 18:30 we have this year's first monthly Student Tech Meetup as well as our Emergency General Meeting to elect some new committee members! Here are the session details, and the election manifestos.</p>
+<ul>
+<li><strong>Venue:</strong> Online (on <a href="https://www.twitch.tv/compsocedinburgh">Twitch</a> and <a href="https://www.youtube.com/channel/UCOEMTnIKR29AnSVVdLQZg3Q">YouTube</a>). No tickets required!</li>
+<li><strong>Time:</strong> 18:30 - est. 20:30 BST</li>
+</ul>
+<h3>Programme</h3>
+<p><strong>Dylan Thinnes</strong> - Why We Learn Languages</p>
+<blockquote>
+<p>Our programming languages are Turing-complete, meaning they all can solve the same problems - so why do we bother to learn more than one?<br>
+In this talk, we'll go over how programming languages shape (for better or worse) the way we think about problems.<br>
+We'll go over languages you have heard of, some that are more obscure, and even some "joke" languages, and see what they all bring to the table.</p>
+</blockquote>
+<p><strong>CompSoc Committee</strong> - Election</p>
+<blockquote>
+<p>We're holding an election to elect a new Vice President, 1st Year Representative, and 3rd Year Representative.<br>
+Candidates will give 1 minute speeches (2 minutes for VP), and the audience may be ask questions.<br>
+See below for details.</p>
+</blockquote>
+<h2>Election Details</h2>
+<p>If you want to vote in the EGM, you need to <a href="/join">make sure you have CompSoc membership</a>.</p>
+<h3>Candidates and Manifestos</h3>
+<table>
+<thead>
+<tr>
+<th>Role</th>
+<th>Name</th>
+<th>Manifesto</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Vice President</strong></td>
+<td>Bence Szilagyi</td>
+<td><a href="https://drive.google.com/open?id=1N6tOM8uD_e5MqoW5VFzMlOcYLMBCx6Bt">view manifesto</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Enes Aydogan</td>
+<td><a href="https://drive.google.com/open?id=1GnwxAigln6-cg5hPDg4L55FCikeoF0R8">view manifesto</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Matyas Zsoldos</td>
+<td><a href="https://drive.google.com/open?id=1nOyPokCfU-n6JzcRmwZdZa8R_KEqHnmd">view manifesto</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Oscar Shrimpton</td>
+<td><a href="https://drive.google.com/open?id=1xBNy6M6oXh-ufuA444uu45ZTSmfbTAsT">view manifesto</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Pardis Farahi</td>
+<td><a href="https://drive.google.com/open?id=1X1Ji6RyqCnRma48QwbIQ8aApLjHvGD-B">view manifesto</a></td>
+</tr>
+<tr>
+<td><strong>1st Year Rep.</strong></td>
+<td>Arthur Pan</td>
+<td><a href="https://drive.google.com/open?id=1IrNn5pCRffJ_v4CC5x3MXp1KX_Yh0OzK">view manifesto</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Benjamin McConville</td>
+<td><a href="https://drive.google.com/open?id=1Ym-8FeGFTF-BopWMCBR3OhbKsGFYfIu9">view manifesto</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Charlotte Ausel</td>
+<td><a href="https://drive.google.com/open?id=14UCtQYD8mW02n-8smZ4owhufz0GVpQ9H">view manifesto</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Eren Mendi</td>
+<td><a href="https://drive.google.com/open?id=1exMg_eCgX-UdLzED68xyd5hhzDCQA2en">view manifesto</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Jack McPake</td>
+<td><a href="https://drive.google.com/open?id=1gcyT8u6w6vg_shu0VSaiUVmFbWOKIlVK">view manifesto</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Kshitij Sharma</td>
+<td><a href="https://drive.google.com/open?id=17J2ORrLTtXFJAOZxrugPFcmmBxQ7ebA6">view manifesto</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Selina Xu</td>
+<td><a href="https://drive.google.com/open?id=1bMqsH2mwzhY7GDvreTrDDfvoHpo_G8Y-">view manifesto</a></td>
+</tr>
+<tr>
+<td><strong>3rd Year Rep.</strong></td>
+<td>Ashley Roberts</td>
+<td><a href="https://drive.google.com/open?id=1wwvGJCtTZbokCXhytnAX4Z_QhziZARii">view manifesto</a></td>
+</tr>
+</tbody>
+</table>
+<p>We hope you think carefully about who you choose to elect — please vote based on manifestos and speeches! Note that you may also vote for Ron (reopen nominations) for all positions. Election candidates - please remember that if you are running for VP, your speech may be up to 2 minutes. Other roles have up to 1 minute. If you haven't gotten membership yet, do that now.</p>
+<p>See you then!</p>
+<p>CompSoc &#x3C;3 You!</p>2:["$","$Lb",null,{"contentHtml":"$c","title":"Manifestos and Details for Oct EGM","modifiedAt":"$D2024-08-04T12:48:11.675Z"}]
+a:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#353535"}],["$","meta","2",{"charSet":"utf-8"}],["$","title","3",{"children":"CompSoc"}],["$","meta","4",{"name":"description","content":"CompSoc is Edinburgh University's technology society! We're Scotland's best and largest of its kind, and form one of the largest societies within the university."}],["$","link","5",{"rel":"icon","href":"https://compsoc-edinburgh.github.io/comp-soc.com/compsoc-mini.png"}]]
+1:null

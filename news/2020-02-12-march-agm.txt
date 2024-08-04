@@ -1,0 +1,75 @@
+3:I[39275,[],""]
+5:I[61343,[],""]
+6:I[84269,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-6294b73f1d4a6f51.js","173","static/chunks/173-381dfe0b598c8022.js","185","static/chunks/app/layout-2d20acbbe3e34354.js"],"default"]
+7:I[35719,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-6294b73f1d4a6f51.js","173","static/chunks/173-381dfe0b598c8022.js","185","static/chunks/app/layout-2d20acbbe3e34354.js"],"default"]
+8:I[42452,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-6294b73f1d4a6f51.js","173","static/chunks/173-381dfe0b598c8022.js","185","static/chunks/app/layout-2d20acbbe3e34354.js"],"default"]
+9:I[1370,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-6294b73f1d4a6f51.js","173","static/chunks/173-381dfe0b598c8022.js","185","static/chunks/app/layout-2d20acbbe3e34354.js"],"default"]
+4:["slug","2020-02-12-march-agm","d"]
+0:["LXAOws2o5e2HEURIi_nG8",[[["",{"children":["news",{"children":[["slug","2020-02-12-march-agm","d"],{"children":["__PAGE__?{\"slug\":\"2020-02-12-march-agm\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["news",{"children":[["slug","2020-02-12-march-agm","d"],{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","news","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":[["$","link","0",{"rel":"stylesheet","href":"./_next/static/css/54f9ddd098fa72b3.css","precedence":"next","crossOrigin":"$undefined"}]]}],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","news","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},[["$","html",null,{"lang":"en","children":["$","body",null,{"className":"relative overflow-x-clip w-screen mx-auto","children":[["$","$L6",null,{"children":["$","$L7",null,{"children":[["$","$L8",null,{}],["$","div",null,{"className":"container mx-auto max-w-screen-xl p-4 pb-32","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}]}]]}]}],["$","div",null,{"className":"relative w-full bg-csred","children":[["$","$L9",null,{}],["$","footer",null,{"className":"absolute top-0 text-white","children":["$","div",null,{"className":"flex flex-row gap-2 m-12 pointer-events-none user-select-none"}]}]]}]]}]}],null],null],[[["$","link","0",{"rel":"stylesheet","href":"./_next/static/css/1d8bd701100ee827.css","precedence":"next","crossOrigin":"$undefined"}]],"$La"]]]]
+b:I[71386,["329","static/chunks/app/news/%5Bslug%5D/page-67829e18c37bace9.js"],"default"]
+c:Tb84,<p>During <a href="https://www.facebook.com/events/511212792850976/">our last STMU of the year</a> (6pm, 11th March) we will be holding our AGM, and this means we need a new committee!</p>
+<p>The positions available are as follows:</p>
+<ul>
+<li><strong>President</strong>:
+<ul>
+<li>Responsible for the overall conduct of the society.</li>
+<li>Willing to dedicate a lot of time.</li>
+</ul>
+</li>
+<li><strong>Vice-President</strong>:
+<ul>
+<li>Organises monthly STMUs (including sponsor seeking and food &#x26; drinks).</li>
+<li>Oversees working with our SIGs (Special Interest Groups).</li>
+<li>Helps the society with everything.</li>
+</ul>
+</li>
+<li><strong>Secretary</strong>:
+<ul>
+<li>Responsible for the administration of the society</li>
+<li>Publicising events by newsletters, social media etc</li>
+<li>Writing minutes &#x26; preparing agendas for AGM, EGM, and weekly meetings</li>
+<li>Society merches</li>
+</ul>
+</li>
+<li><strong>Treasurer</strong>:
+<ul>
+<li>Accountable to the committee and members for the finances of the society</li>
+<li>Reimburses society members for expenses</li>
+<li>Writing annual financial report</li>
+</ul>
+</li>
+<li><strong>2nd year, 3rd year, Final year, Postgraduate and Old Person representatives</strong>
+<ul>
+<li>Responsible for communication between their years and the Society, and promotes events to their year.</li>
+<li>Year reps are also responsible for any projects they take up throughout the year.</li>
+<li>(Note that 1st year rep is elected at our EGM in October.)</li>
+</ul>
+</li>
+<li><strong>Technical Secretary</strong>:
+<ul>
+<li>Maintains technical services and in charge of technical setup for events.</li>
+<li>Experience with server management is recommended.</li>
+</ul>
+</li>
+<li><strong>Social Secretary</strong>:
+<ul>
+<li>Plans and organises our social events i.e. our pub nights, bowling, etc.</li>
+<li>Sets up and heads the committee to organise the ball.</li>
+</ul>
+</li>
+<li><strong>Graphic Designer</strong>:
+<ul>
+<li>Responsible for the creation of art, logos, and other designs required by the society for events, merchandise, and other promotional material.</li>
+</ul>
+</li>
+</ul>
+<h4>Running for a position?</h4>
+<ul>
+<li>Send <a href="mailto:vicepresident@comp-soc.com">vicepresident@comp-soc.com</a> your manifesto (PDF of max 200 words) <strong>by Friday 4pm 6th March 2020</strong> specifying your full name and the role in the title.</li>
+<li><a href="/join">Make sure you have CompSoc membership.</a> You cannot run or vote for election without membership.</li>
+<li>Prepare your speech. Length is 2 minutes for executive roles (President, VP, Secretary, Treasurer) and 1 minute for the other roles.</li>
+</ul>
+<p>There will also be votes for any constitutional amendments required by EUSA. Visit the <a href="https://github.com/compsoc-edinburgh/constitution/pulls">GitHub Repository for the constitution</a> to propose or to see proposed changes</p>
+<p>CompSoc &#x3C;3 You!</p>2:["$","$Lb",null,{"contentHtml":"$c","title":"March AGM 2020","modifiedAt":"$D2024-08-04T12:48:11.675Z"}]
+a:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#353535"}],["$","meta","2",{"charSet":"utf-8"}],["$","title","3",{"children":"CompSoc"}],["$","meta","4",{"name":"description","content":"CompSoc is Edinburgh University's technology society! We're Scotland's best and largest of its kind, and form one of the largest societies within the university."}],["$","link","5",{"rel":"icon","href":"https://compsoc-edinburgh.github.io/comp-soc.com/compsoc-mini.png"}]]
+1:null
