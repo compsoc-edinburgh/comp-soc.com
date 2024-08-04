@@ -38,7 +38,7 @@ const NewsPage = ({
         </div>
         <div
           dangerouslySetInnerHTML={{ __html: contentHtml }}
-          className="news"
+          className="news prose prose-invert"
         />
       </div>
     </>
