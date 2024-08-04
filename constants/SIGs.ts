@@ -159,7 +159,7 @@ export const SIGs: SIG[] = [
     showCard: true,
   },
   {
-    name: 'CompSoc',
+    name: 'Flagship',
     description: '',
     icon: {
       src: 'compsoc-short.png',
@@ -172,6 +172,22 @@ export const SIGs: SIG[] = [
     borderColor: '',
     calendarURL:
       'c_d9ed90437b85f9f70111ed1576450106ba39ca8e46e94051bf53c9aa2c8a3735@group.calendar.google.com',
+    showCard: false,
+  },
+  {
+    name: 'CompSoc',
+    description: '',
+    icon: {
+      src: 'compsoc-short.png',
+      alt: 'the compsoc logo',
+      rounded: 'rounded-none',
+    },
+    backgroundColor: '#CE3234',
+    textColor: '#ffffff',
+    websiteURL: '',
+    borderColor: '',
+    calendarURL:
+      'comp-soc.com_1k2f1gda8js9nav1ilr5g5h6vk@group.calendar.google.com',
     showCard: false,
   },
 ]
