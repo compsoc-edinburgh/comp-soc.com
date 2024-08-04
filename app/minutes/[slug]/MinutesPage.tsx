@@ -38,7 +38,7 @@ const MinutesPage = ({
         </div>
         <div
           dangerouslySetInnerHTML={{ __html: contentHtml }}
-          className="minutes prose prose-invert"
+          className="minutes"
         />
       </div>
     </>
