@@ -6,8 +6,6 @@ author: ali205412
 Thank you to everyone who came to our EGM+STMU, hopefully you enjoyed it as much as we did!
 We're proud to announce our the newest additions to the committee!
 
-<img src="/static/img/team/egm_2024_01_31.jpg" alt="Image of Tech Secretary and Treasurer " style="width: 100%">
-
 - **Technical Secretary** - Cat M
 - **Treasurer** - Elisa Fraticelli
 
