@@ -4,7 +4,7 @@
 6:I[35719,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-6294b73f1d4a6f51.js","173","static/chunks/173-381dfe0b598c8022.js","185","static/chunks/app/layout-2d20acbbe3e34354.js"],"default"]
 7:I[42452,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-6294b73f1d4a6f51.js","173","static/chunks/173-381dfe0b598c8022.js","185","static/chunks/app/layout-2d20acbbe3e34354.js"],"default"]
 8:I[1370,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-6294b73f1d4a6f51.js","173","static/chunks/173-381dfe0b598c8022.js","185","static/chunks/app/layout-2d20acbbe3e34354.js"],"default"]
-0:["K4sqzm5OQPZ-RMyTtQLvX",[[["",{"children":["news",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",{"children":["news",{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","news","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},[["$","html",null,{"lang":"en","children":["$","body",null,{"className":"relative overflow-x-clip w-screen mx-auto","children":[["$","$L5",null,{"children":["$","$L6",null,{"children":[["$","$L7",null,{}],["$","div",null,{"className":"container mx-auto max-w-screen-xl p-4 pb-32","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}]}]]}]}],["$","div",null,{"className":"relative w-full bg-csred","children":[["$","$L8",null,{}],["$","footer",null,{"className":"absolute top-0 text-white","children":["$","div",null,{"className":"flex flex-row gap-2 m-12 pointer-events-none user-select-none"}]}]]}]]}]}],null],null],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/1d8bd701100ee827.css","precedence":"next","crossOrigin":"$undefined"}]],"$L9"]]]]
+0:["WC7jFBVkzfHO2sGZP_U2q",[[["",{"children":["news",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",{"children":["news",{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","news","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},[["$","html",null,{"lang":"en","children":["$","body",null,{"className":"relative overflow-x-clip w-screen mx-auto","children":[["$","$L5",null,{"children":["$","$L6",null,{"children":[["$","$L7",null,{}],["$","div",null,{"className":"container mx-auto max-w-screen-xl p-4 pb-32","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}]}]]}]}],["$","div",null,{"className":"relative w-full bg-csred","children":[["$","$L8",null,{}],["$","footer",null,{"className":"absolute top-0 text-white","children":["$","div",null,{"className":"flex flex-row gap-2 m-12 pointer-events-none user-select-none"}]}]]}]]}]}],null],null],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/1d8bd701100ee827.css","precedence":"next","crossOrigin":"$undefined"}]],"$L9"]]]]
 a:"$Sreact.suspense"
 b:I[25387,["90","static/chunks/90-6294b73f1d4a6f51.js","173","static/chunks/173-381dfe0b598c8022.js","834","static/chunks/app/news/page-319a0b1106b14de3.js"],"default"]
 c:T1e81,---
@@ -126,7 +126,7 @@ We also have the constitutional amendment to vote on:
 See you on Wednesday,
 
 CompSoc <3 You!
-d:Tdec,---
+d:Tddb,---
 title: 'AGM 2024 - Call for manifestos'
 author: VinceKaj
 excerpt_separator: '<!--See More-->'
@@ -145,8 +145,6 @@ The positions available are: President, Vice-President, Secretary, Treasurer, Te
 We also have a new open position - **Social Media officer**!
 
 See the following for descriptions of each position.
-
-<!--See More-->
 
 - **President**:
 
@@ -237,7 +235,7 @@ This month, we have the privilege of hosting two remarkable speakers:
 Enjoy some delicious pizza and drinks on us. We can't wait to see you all there!
 
 As always, CompSoc <3 You!
-f:Tc04,---
+f:Tbf3,---
 title: 'Manifestos for January 2024 EGM'
 author: VinceKaj
 roles:
@@ -266,8 +264,6 @@ If you want to vote in the EGM, you need to [**make sure you have CompSoc member
 We also allow people to run on the night, if you did not have time to create manifestos.
 
 _The views expressed on the following manifestos are the candidates' own and do not represent those of CompSoc. They are hosted here for the purposes of facilitating EUSA elections._
-
-<!--See More-->
 
 | Role                    | Candidate          | Manifesto Link                                                                                       |
 | ----------------------- | ------------------ | ---------------------------------------------------------------------------------------------------- |
@@ -343,7 +339,7 @@ We will be voting on an constitutional amendment, which is on our GitHub, see:
 - [Change the EDI rep to an elected position](https://github.com/compsoc-edinburgh/constitution/pull/41/)
 
 CompSoc <3 You!
-11:T95b,---
+11:T94a,---
 title: 'Manifestos for October 2023 EGM'
 author: charlotteausel
 excerpt_separator: '<!--See More-->'
@@ -358,8 +354,6 @@ If you want to vote in the EGM, you need to **[make sure you have CompSoc member
 We also allow people to run on the night, if you did not have time to create manifestos.
 
 _The views expressed on the following manifestos are the candidates' own and do not represent those of CompSoc. They are hosted here for the purposes of facilitating EUSA elections._
-
-<!--See More-->
 
 | Role               | Candidate Name | Manifesto Link                                                                                       |
 | ------------------ | -------------- | ---------------------------------------------------------------------------------------------------- |
@@ -429,7 +423,7 @@ We will be voting on an constitutional amendment, which is on our GitHub, see:
 - [Update the SIG member minimum to 10](https://github.com/compsoc-edinburgh/constitution/pull/40)
 
 CompSoc <3 You!
-13:T1651,---
+13:T1640,---
 title: 'Manifestos for 2023 March AGM'
 author: greg
 excerpt_separator: '<!--See More-->'
@@ -489,8 +483,6 @@ If you want to vote in the AGM, you need to [make sure you have CompSoc membersh
 
 We also allow people to run on the night, if you did not have time to create manifestos. There are a few people who are running for positions, but aren't available for the AGM (primarily, they're studying abroad), so please read through the manifestos thoroughly!
 
-<!--See More-->
-
 | Role             | Candidate Name                | Manifesto Link                                                                                          |
 | ---------------- | ----------------------------- | ------------------------------------------------------------------------------------------------------- |
 | President        | Fergus White                  | [view manifesto](https://drive.google.com/file/d/1IWNYQdDBggwOTgri2wZgR-FpPENwqrwz/view?usp=share_link) |
@@ -521,7 +513,7 @@ We also have the following constitutional amendment to vote on:
 See you tonight,
 
 CompSoc <3 You!
-14:T1bbd,---
+14:T1bac,---
 title: 'AGM 2023 - Call for manifestos'
 author: greg
 excerpt_separator: '<!--See More-->'
@@ -538,8 +530,6 @@ In the second half of our next STMU (<time datetime="2023-04-04 18:00Z">18:00, 4
 The positions available are: President, Vice-President, Secretary, Treasurer, Technical Secretary, Social Secretary, Graphics Designer, 2nd Year Representative, 3rd Year Representative, 4th Year Representative, Postgraduate & Old Person Representative.
 
 See the following for descriptions of each position.
-
-<!--See More-->
 
 - **President**:
 
@@ -626,7 +616,7 @@ We have one amendment that we'll be voting on:
 - LawTech have asked to secede from CompSoc as a SIG, so a vote is needed to remove them from the constitution. Voting for/against this does NOT constitute a vote for LawTech remaining/leaving CompSoc, only for updating our constitution.
 
 CompSoc <3 You!
-15:T9d9,---
+15:T9c8,---
 title: 'Manifestos for 2022 October EGM'
 author: greg
 excerpt_separator: '<!--See More-->'
@@ -637,8 +627,6 @@ excerpt_separator: '<!--See More-->'
 If you want to vote in the EGM, you need to [make sure you have CompSoc membership](/join 'Click to go to the EUSA CompSoc membership page.').
 
 We also allow people to run on the night if you did not have time to create manifestos.
-
-<!--See More-->
 
 | Role                           | Candidate Name                                                    | Manifesto Link                                                                                       |
 | ------------------------------ | ----------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
@@ -656,7 +644,7 @@ Election candidates - please remember that if you are running for President, VP,
 See you tomorrow,
 
 CompSoc ❤️ You!
-16:T776,---
+16:T765,---
 title: 'EGM Oct 2023 - Call for manifestos'
 author: greg
 excerpt_separator: '<!--See More-->'
@@ -667,8 +655,6 @@ In the second half of our next STMU (<time datetime="2022-10-25 18:00Z">18:00, 2
 The positions available are: Secretary, 1st Year Representative, 4th Year Representative, Postgraduate & Old Person Representative.
 
 See the following for descriptions of each position.
-
-<!--See More-->
 
 ### Positions
 
@@ -787,7 +773,7 @@ We also have the following constitutional amendments to vote on:
 See you tomorrow,
 
 CompSoc ❤ You!
-19:T155c,---
+19:T154b,---
 title: 'AGM 2022 - Call for manifestos'
 author: yutotakano
 excerpt_separator: '<!--See More-->'
@@ -804,8 +790,6 @@ In the second half of our next STMU (<time datetime="2022-03-29 18:00Z">18:00, 2
 The positions available are: President, Vice-President, Secretary, Treasurer, Technical Secretary, Social Secretary, Graphics Designer, 2nd Year Representative, 3rd Year Representative, 4th Year Representative, Postgraduate & Old Person Representative.
 
 See the following for descriptions of each position.
-
-<!--See More-->
 
 - **President**:
   - Responsible for the overall conduct of the society.
@@ -872,7 +856,7 @@ We have three sets of amendments that we'll be voting on:
    - Add three EUSA compliance clauses, related to legal status, a zero tolerance policy for sexual harassment, and the definition of harassment
 
 CompSoc <3 You!
-1a:Te93,---
+1a:Te7f,---
 title: 'February STMU — Research Showcase with Dr Petros Papapanagiotou and Prof Sethu Vijayakumar'
 author: yutotakano
 excerpt_separator: '<!--See More-->'
@@ -884,7 +868,6 @@ excerpt_separator: '<!--See More-->'
     <dt>Time:</dt> <dd style="margin-left: 1rem">18:45 - est. 20:45 GMT</dd>
     <dt>Food:</dt> <dd style="margin-left: 1rem">Free Teviot pizza</dd>
     <dt>Programme:</dt>
-    <!--See More-->
     <dd style="margin-left: 1rem">
         <details open>
             <summary><b>Dr Petros Papapanagiotou</b> - Marrying processes and data in socio-technical systems</summary>
@@ -904,7 +887,7 @@ excerpt_separator: '<!--See More-->'
 <p>See you then!</p>
 
 <p>CompSoc &lt;3 You!</p>
-1b:T982,---
+1b:T96e,---
 title: 'November STMU — Security Talks with AND Digital and Wiktor Kaluza'
 author: yutotakano
 excerpt_separator: '<!--See More-->'
@@ -916,7 +899,6 @@ excerpt_separator: '<!--See More-->'
     <dt>Time:</dt> <dd style="margin-left: 1rem">18:00 - est. 20:00 GMT</dd>
     <dt>Food:</dt> <dd style="margin-left: 1rem">Free <a href="https://www.civerinosslice.com/" title="Click to go to the Civerinos website">Civerinos</a> pizza</dd>
     <dt>Programme:</dt>
-    <!--See More-->
     <dd style="margin-left: 1rem">
         <details open>
             <summary><b>James Rheard (AND Digital)</b> - Making Complex Software Resilient</summary>
