@@ -8,7 +8,7 @@ const nextConfig = {
     path: '',
     unoptimized: true,
   },
-  assetPrefix: './',
+
 }
 
 export default nextConfig
