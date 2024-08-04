@@ -75,8 +75,8 @@ const NewsList = ({
       <div className="md:px-24">
         <h1 className="font-tomorrow text-3xl mb-10">News</h1>
         <p className="text-md mb-10">
-          Welcome to the CompSoc news page! Here, you'll find an archive of all
-          the essential updates, including manifestos from our past AGMs and
+          Welcome to the CompSoc news page! Here, you&apos;ll find an archive of
+          all the essential updates, including manifestos from our past AGMs and
           EGMs.
         </p>
 
