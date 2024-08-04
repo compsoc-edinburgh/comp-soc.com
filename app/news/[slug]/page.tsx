@@ -1,0 +1,52 @@
+import fs from 'fs'
+import matter from 'gray-matter'
+import path from 'path'
+import { remark } from 'remark'
+import gfm from 'remark-gfm'
+import rehypeKatex from 'rehype-katex'
+import rehypeStringify from 'rehype-stringify'
+import remarkMath from 'remark-math'
+import remarkParse from 'remark-parse'
+import remarkRehype from 'remark-rehype'
+import './styles.css'
+import NewsPage from './NewsPage'
+
+export async function generateStaticParams() {
+  const postsDirectory = path.join(__dirname, '../../../../../constants/news')
+
+  const fileNames = fs.readdirSync(postsDirectory)
+
+  return fileNames.map((post) => ({
+    slug: post.replace(/\.md$/, ''),
+  }))
+}
+
+// Multiple versions of this page will be statically generated
+export default async function Page({ params }: { params: { slug: string } }) {
+  const { slug } = params
+  // Read markdown file as string
+  const postDirectory = path.join(__dirname, '../../../../../constants/news')
+  const filePath = path.join(postDirectory, `${slug}.md`)
+  const fileContents = fs.readFileSync(filePath, 'utf8')
+
+  // Extract front matter and content using gray-matter
+  const { data, content } = matter(fileContents)
+  const title = data.title as string // Extract the title from the front matter
+
+  const fileStats = fs.statSync(filePath)
+  const modifiedAt = new Date(fileStats.mtime)
+
+  const processedContent = await remark()
+    .use(remarkParse)
+    .use(remarkRehype, { allowDangerousHtml: true })
+    .use(rehypeKatex)
+    .use(remarkMath)
+    .use(gfm)
+    .use(rehypeStringify)
+    .process(content)
+  const contentHtml = processedContent.toString()
+
+  return (
+    <NewsPage contentHtml={contentHtml} title={title} modifiedAt={modifiedAt} />
+  )
+}
