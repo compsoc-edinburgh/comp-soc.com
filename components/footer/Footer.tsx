@@ -6,6 +6,10 @@ import FooterCanvas from './FooterCanvas'
 const Footer = () => {
   return (
     <div className="relative w-full bg-csred">
+      <div className="bg-red-700 text-white text-center p-2 pointer-events-none select-none">
+        CompSoc ❤️ You!
+      </div>
+
       <FooterCanvas />
       <footer className="absolute top-0 text-white">
         <div className="flex flex-row gap-2 m-12 pointer-events-none user-select-none">
