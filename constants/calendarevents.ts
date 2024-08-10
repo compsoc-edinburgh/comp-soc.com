@@ -66,7 +66,7 @@ function transformEvents(
     const formattedDate =
       startDate === endDate
         ? `${startDate}, ${startTime} - ${endTime}`
-        : `${startDate}, ${startTime} - ${endDate}, ${endTime}`
+        : `${startDate} - ${endDate}`
     return {
       title: event.summary,
       start: event.start.dateTime || event.start.date,
