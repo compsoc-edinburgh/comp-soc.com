@@ -16,7 +16,7 @@ const FadeInBox: React.FC<FadeInBoxProps> = ({ delay, content }) => {
       ([entry]) => {
         if (entry.isIntersecting) {
           setIsVisible(true)
-          observer.unobserve(entry.target)
+          observer.disconnect()
         }
       },
       {
@@ -29,9 +29,7 @@ const FadeInBox: React.FC<FadeInBoxProps> = ({ delay, content }) => {
     }
 
     return () => {
-      if (ref.current) {
-        observer.unobserve(ref.current)
-      }
+      observer.disconnect()
     }
   }, [])
 

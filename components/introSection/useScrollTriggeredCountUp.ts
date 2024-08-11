@@ -11,6 +11,7 @@ const useScrollTriggeredCountUp = (
 ): number => {
   const [count, setCount] = useState(0)
   const isCounting = useRef(false)
+  const observer = useRef<IntersectionObserver | null>(null)
   const frameRate = 1000 / 60
   const totalFrames = Math.round(duration / frameRate)
 
@@ -27,11 +28,11 @@ const useScrollTriggeredCountUp = (
 
           if (frame === totalFrames) {
             clearInterval(counter)
+            observer.current?.disconnect() // Disconnects the observer after animation
             isCounting.current = false
           }
         }, frameRate)
       } else {
-        isCounting.current = false
         setCount(0)
       }
     },
@@ -39,17 +40,17 @@ const useScrollTriggeredCountUp = (
   )
 
   useEffect(() => {
-    const observer = new IntersectionObserver(handleScroll, { threshold: 0.7 })
+    observer.current = new IntersectionObserver(handleScroll, {
+      threshold: 0.7,
+    })
     const currentRef = ref.current
 
     if (currentRef) {
-      observer.observe(currentRef)
+      observer.current.observe(currentRef)
     }
 
     return () => {
-      if (currentRef) {
-        observer.unobserve(currentRef)
-      }
+      observer.current?.disconnect()
     }
   }, [handleScroll, ref])
 
