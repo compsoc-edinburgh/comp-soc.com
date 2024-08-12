@@ -6,7 +6,7 @@ import FooterCanvas from './FooterCanvas'
 const Footer = () => {
   return (
     <div className="relative w-full bg-csred">
-      <div className="bg-red-700 text-white text-center p-2 pointer-events-none select-none">
+      <div className="bg-csred text-white text-center p-2 pointer-events-none select-none">
         CompSoc ❤️ You!
       </div>
 
