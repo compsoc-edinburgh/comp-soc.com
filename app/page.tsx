@@ -25,7 +25,7 @@ export default function Home() {
 
       <SponsorSection></SponsorSection>
 
-      <SocialSection></SocialSection>
+
     </main>
   )
 }
