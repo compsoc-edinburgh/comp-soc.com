@@ -5,7 +5,6 @@ import FAQSection from '../components/faqsection/FAQSection'
 import SponsorSection from '@/components/sponsorsection/SponsorSection'
 import SigSection from '@/components/SIGCards/SigSection'
 import WelcomeSection from '@/components/welcomesection/WelcomeSection'
-import SocialSection from '@/components/socialsection/SocialSection'
 import IntroSection from '@/components/introsection/IntroSection'
 
 export default function Home() {
