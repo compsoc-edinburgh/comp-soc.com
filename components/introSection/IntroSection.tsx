@@ -1,20 +1,15 @@
-import PresidentQuoteSection from './PresidentQuoteSection'
-import FadeInBoxRow from './FadeInBoxRow'
-import TerminalTyping from '../TerminalTyping'
-import VariableBackgroundSwitcher from '../VariableBackgroundSwitcher'
+import React from 'react'
+import SocialLinks from '../SocialLinks'
+import CompSocTitle from '../CompSocTitle'
 
 const IntroSection = () => {
   return (
-    <div className="flex flex-col mt-52">
-      <div className=" mb-20">
-        <TerminalTyping text="CompSoc Welcomes You.  "></TerminalTyping>
+    <>
+      <div className="flex flex-col justify-between items-center gap-32">
+        <CompSocTitle />
+        <SocialLinks />
       </div>
-
-      <PresidentQuoteSection />
-      <div className="mt-20">
-        <FadeInBoxRow></FadeInBoxRow>
-      </div>
-    </div>
+    </>
   )
 }
 
