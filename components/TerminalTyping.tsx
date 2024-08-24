@@ -24,24 +24,26 @@ const TerminalTyping: React.FC<TerminalTypingProps> = ({ text }) => {
       if (char === '<') isTag = true
       if (char === '>') isTag = false
       if (isTag) return type()
-      setTimeout(type, 60)
+      setTimeout(type, 60) // Delay before typing the next character
     }
 
     if (element) {
+      // Create an IntersectionObserver to start typing when the element is visible
       observer = new IntersectionObserver(
         (entries) => {
           if (entries[0].isIntersecting) {
-            type()
+            type() // Start typing
             observer.disconnect() // Stop observing once the typing starts
           }
         },
-        { threshold: 0.1 } // Adjust this threshold as needed
+        { threshold: 0.1 }
       )
 
       observer.observe(element)
     }
 
     return () => {
+      // Clean up the observer when the component is unmounted
       if (observer && element) {
         observer.unobserve(element)
       }
