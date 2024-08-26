@@ -50,7 +50,7 @@ const formatDate = (dateStr: string): string => {
   const year = dateObj.getFullYear()
 
   // Function to get the ordinal suffix for the day
-  const getOrdinalSuffix = (num) => {
+  const getOrdinalSuffix = (num: number) => {
     const j = num % 10,
       k = num % 100
     if (j == 1 && k != 11) {
