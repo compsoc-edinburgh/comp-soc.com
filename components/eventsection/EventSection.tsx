@@ -29,7 +29,7 @@ const EventSection = () => {
           </Link>
         </div>
       </div>
-      <div className="mt-6 justify-center items-center">
+      <div className="mt-6 justify-center items-center w-full pl-4 pr-4">
         <EventGrid events={events} />
       </div>
     </>
