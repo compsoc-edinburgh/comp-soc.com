@@ -186,7 +186,7 @@ const EventsCalendar: React.FC = () => {
                   )}
 
                   <div
-                    className="mt-2"
+                    className="mt-4"
                     dangerouslySetInnerHTML={
                       createMarkup(event.extendedProps.description) || {
                         __html: '',
