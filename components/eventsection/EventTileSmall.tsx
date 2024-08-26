@@ -55,7 +55,9 @@ const EventTileSmall = ({
             >
               {description}
             </p>
-            <div className="absolute bottom-0 right-0 "></div>
+            <div className="absolute bottom-0 right-0 ">
+              <IoIosArrowRoundForward className="w-[75px] h-[75px]" />
+            </div>
           </>
         ) : (
           <>
