@@ -116,22 +116,22 @@ function transformEvents(
       return endTime < threshold && endTime.getHours() < 4
     }
 
-    let formattedDate = startDate
+    let formattedDate
     if (startTime && endTime && event.end.dateTime) {
       if (endsEarlyMorning(event.start.dateTime, event.end.dateTime)) {
         // If event ends before 4 AM, show only the start time
-        formattedDate += `, ${convertTimeFormat(startTime)}`
+        formattedDate = `${startDate}, ${convertTimeFormat(startTime)}`
       } else {
         // Normal display for regular events
-        formattedDate +=
+        formattedDate =
           startDate === endDate
-            ? `, ${convertTimeFormat(startTime)} - ${convertTimeFormat(endTime)}`
+            ? `${startDate}, ${convertTimeFormat(startTime)} - ${convertTimeFormat(endTime)}`
             : `${startDate} - ${endDate}`
       }
     } else {
-      formattedDate +=
+      formattedDate =
         startDate === endDate
-          ? `, ${convertTimeFormat(startTime)} - ${convertTimeFormat(endTime)}`
+          ? `${startDate}, ${convertTimeFormat(startTime)} - ${convertTimeFormat(endTime)}`
           : `${startDate} - ${endDate}`
     }
 
