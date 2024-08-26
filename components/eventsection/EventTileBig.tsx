@@ -72,14 +72,28 @@ const EventTileBig = ({
     }
   }
 
+  const handleTouchStart = () => {
+    if (!isMobile) {
+      setShowDescription(true)
+    }
+  }
+
+  const handleTouchEnd = () => {
+    if (!isMobile) {
+      setShowDescription(false)
+    }
+  }
+
   return (
     <Link href={`${prefix}${'/events'}`}>
       <div
         className={`${
           isClicked ? 'bg-csred' : 'bg-csgrey'
-        } font-space-mono transition duration-500 ease-in-out border-4 border-neutral-600 border-b-0 pt-6 pl-8 pr-8 w-full h-full flex flex-col lg:hover:bg-csred relative`} // Added 'relative' here
+        } font-space-mono transition duration-500 ease-in-out border-4 border-neutral-600 border-b-0 pt-6 pl-8 pr-8 w-full h-full flex flex-col md:hover:bg-csred relative`}
         onMouseEnter={handleMouseEnter}
         onMouseLeave={handleMouseLeave}
+        onTouchStart={handleTouchStart}
+        onTouchEnd={handleTouchEnd}
         style={{ marginTop: '0px' }}
       >
         {showDescription ? (

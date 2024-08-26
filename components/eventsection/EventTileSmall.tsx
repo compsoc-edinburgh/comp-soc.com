@@ -30,12 +30,22 @@ const EventTileSmall = ({
     setShowDescription(false)
   }
 
+  const handleTouchStart = () => {
+    setShowDescription(true)
+  }
+
+  const handleTouchEnd = () => {
+    setShowDescription(false)
+  }
+
   return (
     <Link href={`${prefix}${'/events'}`}>
       <div
         className="bg-csgrey font-space-mono hover:bg-csred border-t-4 border-r-4 border-neutral-600 pt-6 pl-8 pr-8 w-full h-full flex flex-col transition duration-500 ease-in-out relative"
         onMouseEnter={handleMouseEnter}
         onMouseLeave={handleMouseLeave}
+        onTouchStart={handleTouchStart}
+        onTouchEnd={handleTouchEnd}
       >
         {showDescription ? (
           <>
