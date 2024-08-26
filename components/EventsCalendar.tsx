@@ -113,6 +113,10 @@ const EventsCalendar: React.FC = () => {
               font-size: 1.2rem;
             }
           }
+
+          .fc-event {
+            cursor: pointer;
+          }
         `}
       </style>
       <FullCalendar
@@ -174,10 +178,12 @@ const EventsCalendar: React.FC = () => {
                     {event.extendedProps.formattedDate}
                   </div>
 
-                  <div className="mt-2 flex items-center">
-                    <MapPin className="mr-2 text-blue-400" />
-                    <div>{event.extendedProps.location}</div>
-                  </div>
+                  {event.extendedProps.location && (
+                    <div className="mt-2 flex items-center">
+                      <MapPin className="mr-2 text-blue-400" />
+                      <div>{event.extendedProps.location}</div>
+                    </div>
+                  )}
 
                   <div
                     className="mt-2"
