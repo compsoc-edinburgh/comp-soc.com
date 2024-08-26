@@ -45,12 +45,51 @@ async function fetchCalendarEvents(
 
 const formatDate = (dateStr: string): string => {
   const dateObj = new Date(dateStr)
-  const day = String(dateObj.getDate()).padStart(2, '0')
-  const month = String(dateObj.getMonth() + 1).padStart(2, '0')
+  const day = dateObj.getDate()
+  const month = dateObj.toLocaleString('en-US', { month: 'long' }) // e.g., 'September'
   const year = dateObj.getFullYear()
-  return `${day}.${month}.${year}`
-}
 
+  // Function to get the ordinal suffix for the day
+  const getOrdinalSuffix = (num) => {
+    const j = num % 10,
+      k = num % 100
+    if (j == 1 && k != 11) {
+      return num + 'st'
+    }
+    if (j == 2 && k != 12) {
+      return num + 'nd'
+    }
+    if (j == 3 && k != 13) {
+      return num + 'rd'
+    }
+    return num + 'th'
+  }
+
+  const formattedDay = getOrdinalSuffix(day) // '10th', '21st', etc.
+  return `${formattedDay} ${month}` // Remove year
+}
+function convertTimeFormat(timeRange: string): string {
+  // Split the time range into start and end times
+  const times = timeRange.split(' - ')
+  const convertedTimes = times.map((time) => {
+    // Extract hours and minutes from the time
+    let [hours, minutes] = time.split(':').map(Number) // Ensures that both are numbers
+    const period = hours >= 12 ? 'pm' : 'am' // Determine AM or PM period
+
+    // Convert hours from 24-hour to 12-hour format
+    hours = hours % 12 || 12 // Convert hour '0' to '12'
+
+    // Adjust minutes: format correctly or omit if '00'
+    const formattedMinutes =
+      minutes === 0 ? '' : `:${minutes < 10 ? '0' + minutes : minutes}`
+
+    // Construct the formatted time string
+    return `${hours}${formattedMinutes}${period}`
+  })
+
+  // Join the converted start and end times with ' - '
+  return convertedTimes.join(' - ')
+}
 // Transforms Google Calendar events to CalendarEvent objects
 function transformEvents(
   sig: SIG,
@@ -63,10 +102,39 @@ function transformEvents(
       ? event.start.dateTime.slice(11, 16)
       : ''
     const endTime = event.end.dateTime ? event.end.dateTime.slice(11, 16) : ''
-    const formattedDate =
-      startDate === endDate
-        ? `${startDate}, ${startTime} - ${endTime}`
-        : `${startDate} - ${endDate}`
+
+    // Helper function to determine if the event ends early in the morning
+    const endsEarlyMorning = (
+      startDateTime: string,
+      endDateTime: string
+    ): boolean => {
+      const startTime = new Date(startDateTime)
+      const endTime = new Date(endDateTime)
+      const threshold = new Date(startTime)
+      threshold.setDate(startTime.getDate() + 1)
+      threshold.setHours(4, 0) // Ends before 4 AM next day
+      return endTime < threshold && endTime.getHours() < 4
+    }
+
+    let formattedDate = startDate
+    if (startTime && endTime && event.end.dateTime) {
+      if (endsEarlyMorning(event.start.dateTime, event.end.dateTime)) {
+        // If event ends before 4 AM, show only the start time
+        formattedDate += `, ${convertTimeFormat(startTime)}`
+      } else {
+        // Normal display for regular events
+        formattedDate +=
+          startDate === endDate
+            ? `, ${convertTimeFormat(startTime)} - ${convertTimeFormat(endTime)}`
+            : `${startDate} - ${endDate}`
+      }
+    } else {
+      formattedDate +=
+        startDate === endDate
+          ? `, ${convertTimeFormat(startTime)} - ${convertTimeFormat(endTime)}`
+          : `${startDate} - ${endDate}`
+    }
+
     return {
       title: event.summary,
       start: event.start.dateTime || event.start.date,

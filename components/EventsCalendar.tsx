@@ -8,6 +8,7 @@ import Modal from '@mui/material/Modal'
 import Box from '@mui/material/Box'
 import { prefix } from '@/utils/prefix'
 import Image from 'next/image'
+import { MapPin } from 'iconoir-react'
 
 const EventsCalendar: React.FC = () => {
   const { events, loading, error } = useCalendarEvents()
@@ -173,6 +174,11 @@ const EventsCalendar: React.FC = () => {
                     {event.extendedProps.formattedDate}
                   </div>
 
+                  <div className="mt-2 flex items-center">
+                    <MapPin className="mr-2 text-blue-400" />
+                    <div>{event.extendedProps.location}</div>
+                  </div>
+
                   <div
                     className="mt-2"
                     dangerouslySetInnerHTML={
@@ -181,7 +187,6 @@ const EventsCalendar: React.FC = () => {
                       }
                     }
                   />
-                  <div>{event.location}</div>
                 </div>
                 <style jsx>{`
                   .description a {
