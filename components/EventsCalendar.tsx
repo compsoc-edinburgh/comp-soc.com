@@ -142,7 +142,7 @@ const EventsCalendar: React.FC = () => {
         selectMirror={true}
         dayMaxEvents={true}
         slotMinTime={'08:00:00'}
-        slotMaxTime={'21:00:00'}
+        slotMaxTime={'24:00:00'}
         events={events}
         displayEventTime={false}
         eventClick={function (info) {
