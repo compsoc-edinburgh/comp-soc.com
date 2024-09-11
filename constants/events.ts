@@ -49,9 +49,19 @@ async function fetchCalendarEvents(): Promise<GoogleCalendarEvent[]> {
       }
     }
 
+    const getEventEndDate = (item: GoogleCalendarEvent): Date | null => {
+      if (item.end.dateTime) {
+        return new Date(item.end.dateTime)
+      } else if (item.end.date) {
+        return new Date(item.end.date)
+      } else {
+        return null
+      }
+    }
+
     // Filter upcoming events within the next two months
     let upcomingItems = items.filter((item) => {
-      const eventDate = getEventDate(item)
+      const eventDate = getEventEndDate(item)
       return (
         eventDate !== null &&
         eventDate > currentDate &&
@@ -61,7 +71,7 @@ async function fetchCalendarEvents(): Promise<GoogleCalendarEvent[]> {
 
     // Filter past events
     let pastItems = items.filter((item) => {
-      const eventDate = getEventDate(item)
+      const eventDate = getEventEndDate(item)
       return eventDate !== null && eventDate <= currentDate
     })
 
