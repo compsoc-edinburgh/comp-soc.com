@@ -94,7 +94,7 @@ const CompSocTitle = () => {
           }}
         />
       </GodRays>
-      <p className="text-gray-400 text-sm md:text-lg text-center mt-4">
+      <p className="text-zinc-400 text-sm md:text-lg text-center mt-4">
         University of Edinburgh&apos;s Technology society
       </p>
     </div>

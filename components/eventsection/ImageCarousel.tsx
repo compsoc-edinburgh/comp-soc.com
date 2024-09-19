@@ -83,7 +83,7 @@ const ImageCarousel: React.FC = () => {
           <div
             key={index}
             className={`w-2 h-2 rounded-full cursor-pointer ${
-              index === currentImage ? 'bg-white' : 'bg-gray-400'
+              index === currentImage ? 'bg-white' : 'bg-zinc-400'
             }`}
             onClick={() => setCurrentImage(index)}
           ></div>

@@ -15,14 +15,14 @@ const MinutesPage = ({
   return (
     <>
       <div className="max-w-3xl mx-auto pt-24">
-        <p className="text-sm text-gray-400">Meeting minutes</p>
+        <p className="text-sm text-zinc-400">Meeting minutes</p>
         <h1 className="font-tomorrow text-3xl text-left">{title}</h1>
 
         <div
           className="flex items-center justify-between bg-foreground border-border border-2 px-4 py-2 rounded-sm -mx-4 my-4"
           style={{ width: 'calc(100% + 1rem)' }}
         >
-          <p className="text-md text-gray-400">
+          <p className="text-md text-zinc-400">
             Last modified {modifiedAt.toLocaleDateString()}
           </p>
           <button
@@ -33,7 +33,7 @@ const MinutesPage = ({
           >
             <DownloadCircle />
             Download
-            <span className="text-sm text-gray-400">.md</span>
+            <span className="text-sm text-zinc-400">.md</span>
           </button>
         </div>
         <div
