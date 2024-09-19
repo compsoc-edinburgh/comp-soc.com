@@ -1,0 +1,80 @@
+3:I[39275,[],""]
+5:I[61343,[],""]
+6:I[84269,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-053fe9a6e92e8011.js","173","static/chunks/173-a4fc881f158b666a.js","185","static/chunks/app/layout-ae366c9a2823a286.js"],"default"]
+7:I[35719,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-053fe9a6e92e8011.js","173","static/chunks/173-a4fc881f158b666a.js","185","static/chunks/app/layout-ae366c9a2823a286.js"],"default"]
+8:I[42452,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-053fe9a6e92e8011.js","173","static/chunks/173-a4fc881f158b666a.js","185","static/chunks/app/layout-ae366c9a2823a286.js"],"default"]
+9:I[1370,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-053fe9a6e92e8011.js","173","static/chunks/173-a4fc881f158b666a.js","185","static/chunks/app/layout-ae366c9a2823a286.js"],"default"]
+4:["slug","2024-09-19","d"]
+0:["t3U0x2VFCm4dDfsHi9rmE",[[["",{"children":["minutes",{"children":[["slug","2024-09-19","d"],{"children":["__PAGE__?{\"slug\":\"2024-09-19\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["minutes",{"children":[["slug","2024-09-19","d"],{"children":["__PAGE__",{},[["$L1","$L2",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/54f9ddd098fa72b3.css","precedence":"next","crossOrigin":"$undefined"}]]],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","minutes","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","minutes","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/cd3da950760a5572.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"relative overflow-x-clip w-screen mx-auto","children":[["$","$L6",null,{"children":["$","$L7",null,{"children":[["$","$L8",null,{}],["$","div",null,{"className":"container mx-auto max-w-screen-xl p-4 pb-32","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}]]}]}],["$","div",null,{"className":"relative w-full bg-csred","children":[["$","div",null,{"className":"bg-csred text-white text-center p-2 pointer-events-none select-none","children":"CompSoc ❤️ You!"}],["$","$L9",null,{}],["$","footer",null,{"className":"absolute top-0 text-white","children":["$","div",null,{"className":"flex flex-row gap-2 m-12 pointer-events-none user-select-none"}]}]]}]]}]}]],null],null],["$La",null]]]]
+b:I[95423,["820","static/chunks/app/minutes/%5Bslug%5D/page-921faac9939b5a29.js"],"default"]
+c:T969,<h2><strong>Attendees:</strong></h2>
+<ul>
+<li>Vincent</li>
+<li>Godfrey (Online)</li>
+<li>Elisa (Online)</li>
+<li>Marton</li>
+<li>Agam</li>
+<li>Anastasia</li>
+<li>Fergus</li>
+<li>Tomas</li>
+<li>Cat</li>
+<li>Lewis</li>
+<li>Ryan</li>
+<li>Ol</li>
+<li>Said</li>
+<li>Leo</li>
+</ul>
+<h2>1. <strong>Academic Families</strong></h2>
+<ul>
+<li>First event is planned for the 25-26th September.</li>
+<li>The plans and details of the event are shared.</li>
+<li>Plans for food are to go to Costco and get food delivered.</li>
+<li>We will be organising icebreaker games such as mini pub quiz and others.</li>
+</ul>
+<h2>2. <strong>G-Research Event</strong></h2>
+<ul>
+<li>CompSoc will do the promotion for the event.</li>
+<li>G-Research will do the financing for the event.</li>
+<li>Debate about pizzas and packages for bespoke events at each level.</li>
+</ul>
+<h2>3. <strong>STMU</strong></h2>
+<ul>
+<li>Details, dates, speakers and exhibitions were discussed.</li>
+<li>EGM:
+<ul>
+<li>Elections for the committee positions (VP, First Year Rep, Junior Treasurer).</li>
+</ul>
+</li>
+<li>Merch:
+<ul>
+<li>Quarter zips for sale (preorder on page, setup through Neil).</li>
+<li>Make an interest form -> e-page.</li>
+<li>Keep stock (5 of each) (lottery the extra quarter zips at SIG fair, proceeds go to sig of buyer's choosing) (use it as a sign of interest).</li>
+<li>Sell the quarter zips at STMU if there is interest.</li>
+<li>Reduce price of mugs to £9.99, give lens cloth for free, promote comp-socks heavily.</li>
+<li>2nd years can do the order prediction for their data science project.</li>
+</ul>
+</li>
+</ul>
+<h2>4. <strong>Adahack</strong></h2>
+<ul>
+<li>Event is on the 19th of October.</li>
+<li>We will host our own workshop and use CompSoc merch as prizes.</li>
+<li>Host a challenge and market it as an entrepreneurial challenge.</li>
+<li>Use Adahack to promote and test out HTB.</li>
+</ul>
+<h2>5. <strong>Junior treasurer</strong></h2>
+<ul>
+<li>Elisa proposed a new role for a Junior Treasurer.</li>
+<li>The role will be voted on at the EMG with First Year Rep.</li>
+<li>The hope is that this person becomes treasurer the year after.</li>
+<li>This will be put to vote after the meeting.</li>
+</ul>
+<h2>6. <strong>Action items</strong></h2>
+<ul>
+<li>Post on everywhere for SIG fair and G-Research event.</li>
+<li>Fergus come up with challenges for Adahack.</li>
+<li>Check how long it takes to print quarter zips.</li>
+</ul>2:["$","$Lb",null,{"contentHtml":"$c","title":"2024-09-19","modifiedAt":"$D2024-09-19T21:51:33.469Z"}]
+a:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#353535"}],["$","meta","2",{"charSet":"utf-8"}],["$","title","3",{"children":"CompSoc"}],["$","meta","4",{"name":"description","content":"CompSoc is Edinburgh University's technology society! We're Scotland's best and largest of its kind, and form one of the largest societies within the university."}],["$","link","5",{"rel":"icon","href":"https://comp-soc.com/compsoc-mini.png"}]]
+1:null
