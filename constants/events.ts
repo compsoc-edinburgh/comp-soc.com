@@ -178,6 +178,23 @@ const formatDateRange = (startDate: string, endDate: string): string => {
   return `${startDay}-${endDay}.${month}.${year}`
 }
 
+function trimDescription(description: string | undefined | null): string {
+  // Check for null or undefined and set default empty string
+  if (description == null) return ''
+
+  // Return the description if within the limit
+  if (description.length <= 150) return description
+
+  // Trim to the nearest word within 200 characters
+  const trimmed = description.substring(0, 150)
+  const lastSpaceIndex = trimmed.lastIndexOf(' ')
+
+  // Check if there's no space or if the space is very early in the string
+  if (lastSpaceIndex === -1 || lastSpaceIndex < 100) return trimmed + '...'
+
+  return description.substring(0, lastSpaceIndex) + '...'
+}
+
 // Transforms calendar events into custom event objects
 function transformEvents(events: GoogleCalendarEvent[]): Event[] {
   return events.map((event) => {
@@ -193,6 +210,7 @@ function transformEvents(events: GoogleCalendarEvent[]): Event[] {
     }
 
     let newDescription = getFlagshipDescription(newTitle) || event.description
+    newDescription = trimDescription(newDescription)
 
     const location = event.location ? event.location.split(',')[0].trim() : ' '
     return {

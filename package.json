@@ -20,8 +20,9 @@
     "@fullcalendar/timegrid": "^6.1.14",
     "@headlessui/react": "^2.0.4",
     "@mui/material": "^5.15.19",
+    "clsx": "^2.1.1",
     "date-fns": "^3.6.0",
-    "framer-motion": "^11.2.9",
+    "framer-motion": "^11.3.24",
     "gray-matter": "^4.0.3",
     "iconoir-react": "^7.7.0",
     "matter-js": "^0.19.0",
@@ -32,6 +33,7 @@
     "react-countup": "^6.5.3",
     "react-dom": "^18",
     "react-icons": "^5.2.1",
+    "react-social-media-embed": "^2.5.13",
     "rehype-katex": "^7.0.0",
     "rehype-stringify": "^10.0.0",
     "remark": "^15.0.1",
@@ -40,10 +42,12 @@
     "remark-parse": "^11.0.0",
     "remark-rehype": "^11.1.0",
     "sass": "^1.77.4",
-    "styled-components": "^6.1.11"
+    "styled-components": "^6.1.11",
+    "tailwind-merge": "^2.5.2"
   },
   "devDependencies": {
     "@tailwindcss/typography": "^0.5.13",
+    "@types/lodash": "^4.17.7",
     "@types/matter-js": "^0.19.6",
     "@types/node": "^20",
     "@types/react": "^18",
@@ -54,7 +58,7 @@
     "husky": "^8.0.0",
     "postcss": "^8",
     "prettier": "^3.3.2",
-    "tailwindcss": "^3.4.1",
+    "tailwindcss": "^3.4.9",
     "typescript": "^5"
   },
   "lint-staged": {
