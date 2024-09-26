@@ -134,7 +134,7 @@ const MemberCount: FC = () => {
     >
       <p>Join our Discord!</p>
 
-      <p className="text-xs text-left text-gray-300">
+      <p className="text-xs text-left text-slate-300">
         {memberCount !== null
           ? `${formatMemberCount(memberCount)} members online`
           : 'CompSoc Loves You!'}
