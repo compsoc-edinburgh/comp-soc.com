@@ -1,0 +1,140 @@
+3:I[39275,[],""]
+5:I[61343,[],""]
+6:I[84269,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-053fe9a6e92e8011.js","173","static/chunks/173-a4fc881f158b666a.js","185","static/chunks/app/layout-ae366c9a2823a286.js"],"default"]
+7:I[35719,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-053fe9a6e92e8011.js","173","static/chunks/173-a4fc881f158b666a.js","185","static/chunks/app/layout-ae366c9a2823a286.js"],"default"]
+8:I[42452,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-053fe9a6e92e8011.js","173","static/chunks/173-a4fc881f158b666a.js","185","static/chunks/app/layout-ae366c9a2823a286.js"],"default"]
+9:I[1370,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-053fe9a6e92e8011.js","173","static/chunks/173-a4fc881f158b666a.js","185","static/chunks/app/layout-ae366c9a2823a286.js"],"default"]
+4:["slug","2024-09-27","d"]
+0:["_nIvPfz9IuB22lwcIO-8g",[[["",{"children":["minutes",{"children":[["slug","2024-09-27","d"],{"children":["__PAGE__?{\"slug\":\"2024-09-27\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["minutes",{"children":[["slug","2024-09-27","d"],{"children":["__PAGE__",{},[["$L1","$L2",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/54f9ddd098fa72b3.css","precedence":"next","crossOrigin":"$undefined"}]]],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","minutes","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","minutes","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f71b0d87201a7f32.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"relative overflow-x-clip w-screen mx-auto","children":[["$","$L6",null,{"children":["$","$L7",null,{"children":[["$","$L8",null,{}],["$","div",null,{"className":"container mx-auto max-w-screen-xl p-4 pb-32","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}]]}]}],["$","div",null,{"className":"relative w-full bg-csred","children":[["$","div",null,{"className":"bg-csred text-white text-center p-2 pointer-events-none select-none","children":"CompSoc ❤️ You!"}],["$","$L9",null,{}],["$","footer",null,{"className":"absolute top-0 text-white","children":["$","div",null,{"className":"flex flex-row gap-2 m-12 pointer-events-none user-select-none"}]}]]}]]}]}]],null],null],["$La",null]]]]
+b:I[95423,["820","static/chunks/app/minutes/%5Bslug%5D/page-921faac9939b5a29.js"],"default"]
+c:T15e7,<h2><strong>Attendees:</strong></h2>
+<ul>
+<li>Vincent</li>
+<li>Godfrey</li>
+<li>Elisa</li>
+<li>Marton</li>
+<li>Agam</li>
+<li>Lewis</li>
+<li>Chris</li>
+<li>Ryan</li>
+<li>Lucas</li>
+<li>Eugene</li>
+<li>Ol</li>
+<li>Fergus</li>
+<li>Tomas</li>
+<li>Anastasia</li>
+<li>Cat</li>
+</ul>
+<h2>1. <strong>HackTheBurgh</strong></h2>
+<ul>
+<li>Futures Institute idea for venue so Godfrey will email and ask them.
+<ul>
+<li>It has a higher capacity than the Nucleus so could expand HTB to more people.</li>
+<li>It is also a very new and nice venue so would be interesting.</li>
+</ul>
+</li>
+<li>Should still ask the Nucleus as a backup option since its free.</li>
+<li>Conference idea for HTB on a day before the hackathon was discussed.
+<ul>
+<li>Ideas to get in speakers and do workshops.</li>
+<li>This way we don't have many things on during the hackathon so people can focus.</li>
+<li>Should talk to previous SIGINT president about issues running PwnEd.</li>
+<li>Issues with the potential cost of adding an extra day to the event.</li>
+</ul>
+</li>
+<li>Discussion on travel reimnursements.
+<ul>
+<li>There was an idea to discontinue travel reimbursements.</li>
+<li>Although we can get the most applications if we keep these.</li>
+<li>Idea to increase friction to getting reimnursements (emailing) so only people who need them will email.</li>
+</ul>
+</li>
+</ul>
+<h2>2. <strong>Academic Families Debrief</strong></h2>
+<ul>
+<li>Feedback from the event was very postitive.
+<ul>
+<li>Fiona and the cohorts were very impressed and happy.</li>
+<li>Roughly 100 attendees each night.</li>
+<li>Some people wanted the games to be longer.</li>
+<li>The time restriction made things more difficult since the event started late.</li>
+<li>There was plenty of pizza for the event.</li>
+</ul>
+</li>
+<li>The event that was planned for November was moved to January/February due to budget issues.</li>
+<li>There were people asking to switch families</li>
+<li>There were also families with only 1 parent</li>
+<li>Therefore we will create a procedure to move people to families that only have 1 parent.</li>
+<li>We should send out feedback surveys soon.</li>
+<li>Idea to consider making a committee for AcFams but after a few months.</li>
+<li>Anastasia to make a forecast for AcFams spending based on budget of 5k.</li>
+</ul>
+<h2>3. <strong>Junior Treasurer Vote results</strong></h2>
+<ul>
+<li>Vote for the Junior Treasurer role to be added passed unanimously.</li>
+<li>We met the quorum reqired for core committee and executives to vote.</li>
+</ul>
+<h2>4. <strong>SIG Fair Debrief</strong></h2>
+<ul>
+<li>The Fair went well, good attendance, engaging speeches, and raised awareness of SIGs.</li>
+<li>Raffle was effective fundraising.</li>
+<li>The poster boards were bad an ineffective.</li>
+<li>The advertising was done too late for the event.</li>
+<li>We can get a team to do promotion and different aspects of it.</li>
+<li>Potentially one person on the team could handle newsletters.</li>
+<li>Idea to get food other than pizza like biscuits and crisps.</li>
+</ul>
+<h2>5. <strong>G-Research Event Update</strong></h2>
+<ul>
+<li>The event is 7th October 18:00 to 21:30.</li>
+<li>Setup starts at 17:00</li>
+<li>Godfrey to follow up on servitor cover.</li>
+<li>Anastasia, Lewis, Lucas, Vincent, Godfrey will be helping for the event.</li>
+<li>Agam to post a story to remind people.</li>
+</ul>
+<h2>6. <strong>AdaHack Discussion</strong></h2>
+<ul>
+<li>Event is on 19th of October.</li>
+<li>We do 1 challenge and 1 mini-game.</li>
+<li>Give out CompSoc prizes to the winners.</li>
+<li>Use the Staff Forum to write ideas for challenges and mini-games.</li>
+<li>Have 2 people floating around the event throughout.</li>
+<li>Have 4-5 people there for judging the challenge.</li>
+</ul>
+<h2>7. <strong>Workshop Discussion/Follow-Up</strong></h2>
+<ul>
+<li>Try to implement the things discussed in the workshop.</li>
+<li>Celebrate out achievements (Hitting 1000 followers on Insta)</li>
+<li>Allocate time at the start or end of meetings to talk about the things that went well.</li>
+</ul>
+<h2>8. <strong>Ping-Pong Table</strong></h2>
+<ul>
+<li>Marton got ghosted when asking about this.</li>
+<li>Cat will pick this up.</li>
+</ul>
+<h2>9. <strong>Miscellaneous</strong></h2>
+<ul>
+<li>Checks if everyone can see the CompSoc Internal Calendar, not many seem to have access.</li>
+<li>Meetings will be kept in the calendar.</li>
+<li>Use Staff Forums for themed discussions.</li>
+<li>The new announcements queue is working well.</li>
+<li>There is a thread made for each announcement and the only thing in this thread should be the announcements.</li>
+<li>This thread will then be archived and a new one created for the next announcement.</li>
+</ul>
+<h2>10. <strong>Action items</strong></h2>
+<ul>
+<li>Godfrey to email the Edinburgh Futures Institute to ask about event hosting and tour of place.</li>
+<li>Godfrey to email the Nucleus as another option.</li>
+<li>Godfrey to talk to Harsh about HTB last year.</li>
+<li>Godfrey to set up Google form for HTB volunteer applications.</li>
+<li>Godfrey to talk to previous SIGINT president regarding PwdEd conference issues.</li>
+<li>Godfrey to follow up with LLoyds about sponsorship signing.</li>
+<li>Godfrey to follow up on servitor cover for G-Research event.</li>
+<li>Agam to post a story to remind people about the G-Research event.</li>
+<li>Committee to send ideas into staff forum regarding AdaHack challenges and mini-games.</li>
+<li>Anastasia to create procedure to handle people moving families.</li>
+<li>Anastasia to send out AcFams survey.</li>
+<li>Anastasia to make a forecast for AcFams spending budget.</li>
+</ul>2:["$","$Lb",null,{"contentHtml":"$c","title":"2024-09-27","modifiedAt":"$D2024-09-27T17:54:36.795Z"}]
+a:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#353535"}],["$","meta","2",{"charSet":"utf-8"}],["$","title","3",{"children":"CompSoc"}],["$","meta","4",{"name":"description","content":"CompSoc is Edinburgh University's technology society! We're Scotland's best and largest of its kind, and form one of the largest societies within the university."}],["$","link","5",{"rel":"icon","href":"https://comp-soc.com/compsoc-mini.png"}]]
+1:null

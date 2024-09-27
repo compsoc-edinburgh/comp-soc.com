@@ -4,10 +4,119 @@
 6:I[35719,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-053fe9a6e92e8011.js","173","static/chunks/173-a4fc881f158b666a.js","185","static/chunks/app/layout-ae366c9a2823a286.js"],"default"]
 7:I[42452,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-053fe9a6e92e8011.js","173","static/chunks/173-a4fc881f158b666a.js","185","static/chunks/app/layout-ae366c9a2823a286.js"],"default"]
 8:I[1370,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-053fe9a6e92e8011.js","173","static/chunks/173-a4fc881f158b666a.js","185","static/chunks/app/layout-ae366c9a2823a286.js"],"default"]
-0:["vo14qOYS_yjGNRUM3Ih0t",[[["",{"children":["minutes",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",{"children":["minutes",{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","minutes","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f71b0d87201a7f32.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"relative overflow-x-clip w-screen mx-auto","children":[["$","$L5",null,{"children":["$","$L6",null,{"children":[["$","$L7",null,{}],["$","div",null,{"className":"container mx-auto max-w-screen-xl p-4 pb-32","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}]]}]}],["$","div",null,{"className":"relative w-full bg-csred","children":[["$","div",null,{"className":"bg-csred text-white text-center p-2 pointer-events-none select-none","children":"CompSoc ❤️ You!"}],["$","$L8",null,{}],["$","footer",null,{"className":"absolute top-0 text-white","children":["$","div",null,{"className":"flex flex-row gap-2 m-12 pointer-events-none user-select-none"}]}]]}]]}]}]],null],null],["$L9",null]]]]
+0:["_nIvPfz9IuB22lwcIO-8g",[[["",{"children":["minutes",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",{"children":["minutes",{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","minutes","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f71b0d87201a7f32.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"relative overflow-x-clip w-screen mx-auto","children":[["$","$L5",null,{"children":["$","$L6",null,{"children":[["$","$L7",null,{}],["$","div",null,{"className":"container mx-auto max-w-screen-xl p-4 pb-32","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}]]}]}],["$","div",null,{"className":"relative w-full bg-csred","children":[["$","div",null,{"className":"bg-csred text-white text-center p-2 pointer-events-none select-none","children":"CompSoc ❤️ You!"}],["$","$L8",null,{}],["$","footer",null,{"className":"absolute top-0 text-white","children":["$","div",null,{"className":"flex flex-row gap-2 m-12 pointer-events-none user-select-none"}]}]]}]]}]}]],null],null],["$L9",null]]]]
 a:"$Sreact.suspense"
 b:I[38183,["90","static/chunks/90-053fe9a6e92e8011.js","173","static/chunks/173-a4fc881f158b666a.js","509","static/chunks/app/minutes/page-b36770b138105364.js"],"default"]
-c:T78d,---
+c:T1268,---
+date: 27/09/2024 16:00
+---
+
+## **Attendees:**
+- Vincent
+- Godfrey
+- Elisa
+- Marton
+- Agam
+- Lewis
+- Chris
+- Ryan
+- Lucas
+- Eugene
+- Ol
+- Fergus
+- Tomas
+- Anastasia
+- Cat
+
+## 1. **HackTheBurgh**
+- Futures Institute idea for venue so Godfrey will email and ask them.
+  - It has a higher capacity than the Nucleus so could expand HTB to more people.
+  - It is also a very new and nice venue so would be interesting.
+- Should still ask the Nucleus as a backup option since its free.
+- Conference idea for HTB on a day before the hackathon was discussed.
+  - Ideas to get in speakers and do workshops.
+  - This way we don't have many things on during the hackathon so people can focus.
+  - Should talk to previous SIGINT president about issues running PwnEd.
+  - Issues with the potential cost of adding an extra day to the event.
+- Discussion on travel reimnursements.
+  - There was an idea to discontinue travel reimbursements.
+  - Although we can get the most applications if we keep these.
+  - Idea to increase friction to getting reimnursements (emailing) so only people who need them will email.
+
+## 2. **Academic Families Debrief**
+- Feedback from the event was very postitive.
+  - Fiona and the cohorts were very impressed and happy.
+  - Roughly 100 attendees each night.
+  - Some people wanted the games to be longer.
+  - The time restriction made things more difficult since the event started late.
+  - There was plenty of pizza for the event.
+- The event that was planned for November was moved to January/February due to budget issues.
+- There were people asking to switch families
+- There were also families with only 1 parent
+- Therefore we will create a procedure to move people to families that only have 1 parent.
+- We should send out feedback surveys soon.
+- Idea to consider making a committee for AcFams but after a few months.
+- Anastasia to make a forecast for AcFams spending based on budget of 5k.
+
+## 3. **Junior Treasurer Vote results**
+- Vote for the Junior Treasurer role to be added passed unanimously.
+- We met the quorum reqired for core committee and executives to vote.
+
+## 4. **SIG Fair Debrief**
+- The Fair went well, good attendance, engaging speeches, and raised awareness of SIGs.
+- Raffle was effective fundraising.
+- The poster boards were bad an ineffective.
+- The advertising was done too late for the event.
+- We can get a team to do promotion and different aspects of it.
+- Potentially one person on the team could handle newsletters.
+- Idea to get food other than pizza like biscuits and crisps.
+
+## 5. **G-Research Event Update**
+- The event is 7th October 18:00 to 21:30.
+- Setup starts at 17:00
+- Godfrey to follow up on servitor cover.
+- Anastasia, Lewis, Lucas, Vincent, Godfrey will be helping for the event.
+- Agam to post a story to remind people.
+
+## 6. **AdaHack Discussion**
+- Event is on 19th of October.
+- We do 1 challenge and 1 mini-game.
+- Give out CompSoc prizes to the winners.
+- Use the Staff Forum to write ideas for challenges and mini-games.
+- Have 2 people floating around the event throughout.
+- Have 4-5 people there for judging the challenge.
+
+## 7. **Workshop Discussion/Follow-Up**
+- Try to implement the things discussed in the workshop.
+- Celebrate out achievements (Hitting 1000 followers on Insta)
+- Allocate time at the start or end of meetings to talk about the things that went well.
+
+## 8. **Ping-Pong Table**
+- Marton got ghosted when asking about this.
+- Cat will pick this up.
+
+## 9. **Miscellaneous**
+- Checks if everyone can see the CompSoc Internal Calendar, not many seem to have access.
+- Meetings will be kept in the calendar.
+- Use Staff Forums for themed discussions.
+- The new announcements queue is working well.
+- There is a thread made for each announcement and the only thing in this thread should be the announcements.
+- This thread will then be archived and a new one created for the next announcement.
+
+## 10. **Action items**
+- Godfrey to email the Edinburgh Futures Institute to ask about event hosting and tour of place.
+- Godfrey to email the Nucleus as another option.
+- Godfrey to talk to Harsh about HTB last year.
+- Godfrey to set up Google form for HTB volunteer applications.
+- Godfrey to talk to previous SIGINT president regarding PwdEd conference issues.
+- Godfrey to follow up with LLoyds about sponsorship signing.
+- Godfrey to follow up on servitor cover for G-Research event.
+- Agam to post a story to remind people about the G-Research event.
+- Committee to send ideas into staff forum regarding AdaHack challenges and mini-games.
+- Anastasia to create procedure to handle people moving families.
+- Anastasia to send out AcFams survey.
+- Anastasia to make a forecast for AcFams spending budget.
+d:T78d,---
 date: 19/09/2024 16:30
 ---
 
@@ -65,7 +174,7 @@ date: 19/09/2024 16:30
 ## 6. **Action items**
 - Post on everywhere for SIG fair and G-Research event.
 - Fergus come up with challenges for Adahack.
-- Check how long it takes to print quarter zips.d:Tacc,---
+- Check how long it takes to print quarter zips.e:Tacc,---
 date: 15/09/2024 12:00
 ---
 
@@ -150,7 +259,7 @@ date: 15/09/2024 12:00
 - Units of merch sold.
 
 ## 9. **Action Items**
-- Write a survey to be given out.e:Ta20,---
+- Write a survey to be given out.f:Ta20,---
 date: 28/07/2024 20:30
 ---
 
@@ -205,7 +314,7 @@ date: 28/07/2024 20:30
 - The event aims to help students develop soft skills and enhance networking.
 
 ## 6. **Action Items**
-- Committee to find 3 people each to sign up to be academic parents.f:Ta99,---
+- Committee to find 3 people each to sign up to be academic parents.10:Ta99,---
 date: 03/06/2024 18:00
 ---
 
@@ -272,7 +381,7 @@ date: 03/06/2024 18:00
 - Marton to make channel to link to internal wiki.
 - SIGs to update the CompSoc Consolidated calendar with their events.
 - Vote on handbook to be done on Friday, 7th June.
-10:Ta6d,---
+11:Ta6d,---
 date: 29/05/2024 18:00
 ---
 
@@ -343,7 +452,7 @@ Action Items:
 - Agam to create and distribute a poll/form to gather event ideas from members.
 - Marton to consult with SIGs to determine their planned events for Freshers' Week.
 - Godfrey and Lewis to create CompSoc flag.
-11:T9a4,---
+12:T9a4,---
 date: 22/05/2024 18:00
 ---
 
@@ -417,7 +526,7 @@ date: 22/05/2024 18:00
 
 - Discussion on potentially moving the website to be hosted by Tardis.
 - Consideration of whether a follow-up meeting over the summer is needed. Possible meetings in August to plan for Welcome Week.
-12:Ta3c,---
+13:Ta3c,---
 date: 07/05/2024 16:00
 ---
 
@@ -464,7 +573,7 @@ date: 07/05/2024 16:00
 - Proposal for two co-directors for HTB, committee and non-committee.
 - Proposal to stagger freshers events for better management, i.e. SIGs running events during 2nd and 3rd weeks.
 - Consideration of timing events relative to InfPal tour to maximise attendance as people will be in Appleton anyway.
-13:T684,---
+14:T684,---
 date: 30/04/2024 17:00
 ---
 
@@ -522,7 +631,7 @@ Next steps will be to plan details of an Emergency General Meeting (EGM) where t
 Participants are reminded that this initial vote is not a final removal, but a decision to move forward with the impeachment process. The incoming VP will remain in post during the interim.
 
 Meeting adjourned at 6:15 PM.
-14:T252d,---
+15:T252d,---
 date: 23/04/2024 12:15
 ---
 
@@ -633,7 +742,7 @@ Meeting called to order at 12:15 PM.
 ## Next Meeting
 
 - To be scheduled as needed, with a focus on one-on-one meetings for specific tasks and regular meetings throughout the summer for event planning.
-15:Tc73,---
+16:Tc73,---
 date: 21/03/2024 17:00
 ---
 
@@ -711,7 +820,7 @@ Ali reports difficulty confirming speakers for AGM.
 - Draft AGM announcement emails and send to membership by end of today
 - All committee members to widely advertise openings and encourage candidates to run for election
 - All committee members to suggest potential speakers to Ali ASAP
-16:T2f09,---
+17:T2f09,---
 date: 13/03/2024 17:00
 ---
 
@@ -897,7 +1006,7 @@ Action Items & Next Steps:
   - Work with vendors to order more mugs, stickers, keychains at the new agreed upon price points
   - Design graphics to advertise the merch offerings
   - Coordinate with Charlotte on announcements/communications to promote the merch sale
-17:T1a88,---
+18:T1a88,---
 date: 06/03/2024 17:00
 ---
 
@@ -1057,7 +1166,7 @@ Said: there's a process in-place, not much we can do about that; it's up to the 
 ## Vote
 
 Passed unanimously.
-18:T83d,---
+19:T83d,---
 date: 28/02/2024 16:00
 ---
 
@@ -1088,7 +1197,7 @@ We should aim to finish the new constitution 2 weeks before the AGM, so the whol
 A new clause to be added:
 
 - All society members can raise new constitutional amendments during EGMs.
-19:T46d,---
+1a:T46d,---
 date: 07/02/2024 16:00
 ---
 
@@ -1125,7 +1234,7 @@ Ideas:
 # Santander bank account transfer
 
 Charlotte Ausel, Vincentas Antanas Danys support the changes requested in the bank account making Elisa Sopie Fraticelli and Fergus White account holders of the CompSoc bank account.
-1a:T3052,---
+1b:T3052,---
 date: 24/01/2024 17:00
 ---
 
@@ -1320,7 +1429,7 @@ Members vote: concerns about manipulation if not much restrictions on who can vo
 - Separate system for protected channels
 
 ![](https://lh7-us.googleusercontent.com/Ea76dCmbm9t-A7s9fiYKyt7-o6hsybW0i9WeaqVsYoKkKd-Am5rji5k7S2MckhfDSxaDkOGKfGhv9e0STTXx17XU-WEpfPlM8wygKnmZhPzoyuH_Zqw-tnQdQr39C0T8F8S8tyzqKQ7IQbKvo1cOpzM)![](https://lh7-us.googleusercontent.com/tMzWuhuwfT1FLIHgIYHoBYErvCM_Xi0lT6l_qURwr1hdMyTxaep5EWWcPRvHxlCfKWm26F31RTkj3c7EV0vk4nW3fJVhXRqzU2VU-GIOWSajAmWXtekKi5-dzreiTwPKNOa0vmatPX-NvSogH3RPb_I)
-1b:T11fd,---
+1c:T11fd,---
 date: 17/01/2024 17:00
 ---
 
@@ -1400,7 +1509,7 @@ Fergus suggests:
          - Allows vote online too
         - Should cast vote before or during the event until the vote closes, allows applying the same rule for Discord/etc online votes
 - Removal of "non-students need to pay 2x fee"
-1c:T5ae,---
+1d:T5ae,---
 date: 06/12/2023 15:00
 ---
 
@@ -1436,7 +1545,7 @@ Attendees:
 - **SIG Participation**: Discussed each SIG potentially giving a 45-minute talk during the event.
 
 ---
-1d:Td30,---
+1e:Td30,---
 date: 06/12/2023 17:00
 ---
 
@@ -1491,7 +1600,7 @@ AI SIG does not have a president appointed yet.
 
 - Hoppers wants to partner with us for a CompSoc challenge later in the academic year.
 - Fergus is happy to give Hoppers a challenge, including prizes.
-1e:T139e,---
+1f:T139e,---
 date: 22/11/2023 17:00
 ---
 
@@ -1564,7 +1673,7 @@ date: 22/11/2023 17:00
     - 12 Committee members present and in agreement for
     - 1 Committee member absent and against
     - 8 Committee members absent and not voted
-1f:T1ac8,---
+20:T1ac8,---
 date: 08/11/2023 15:00
 ---
 
@@ -1692,7 +1801,7 @@ Attendees:
 
 - First event with Guest speaker around 20 attendees
 - Next one 29 November
-20:T721,---
+21:T721,---
 date: 08/11/2023 17:00
 ---
 
@@ -1711,7 +1820,7 @@ Workshops will likely run in the afternoon for ~2 hours and will include members
 Workshops may also include mini-CTFs by SIGINT or game development workshops with GameDevSig. This needs to be discussed with SIG committees.
 
 The current plan is to run pilot one-off workshops at schools. Later, CompSoc might organize recurring workshops if there is there interest for it.
-21:T7b5,---
+22:T7b5,---
 date: 01/11/2023
 ---
 
@@ -1730,7 +1839,7 @@ We are going to ask SIGs to bridge CompSoc's announcement discord channel to the
 ## Constitution
 
 We are hoping to rewrite the constitution as a result of the aforementioned issues, especially in regards to having the University help us out with funding in order to codify finances that are to be given to SIGs as this will be something that could come up with future committees.
-22:T16c9,---
+23:T16c9,---
 date: 18/10/2023
 ---
 
@@ -1821,7 +1930,7 @@ Idea: once a year, for example around EGM, each SIG meets independently to have 
 We may or may not want to formalise members on Discord to allow them to recognise they're a EUSA member.
 
 Should promote becoming a EUSA member.
-23:T961,---
+24:T961,---
 date: 11/10/2023
 ---
 
@@ -1844,7 +1953,7 @@ Having input from ex-committee members can be useful, but they can overstep thei
 ## Handling of moderation problems
 
 There was a problem in the CompSoc book club -- things were handled fairly quickly, but Ammir had some problems with the way moderation is handled within CompSoc. The person in question had requested that it be brought to the committee. He has chosen to seperate book club from compsoc entirely, and to give up things with CompSoc (namely EDI Rep) and thinks that CompSoc deals with some long-running problems, as a result Maya is now EDI Rep until there is either a replacement or otherwise.
-24:Tc33,---
+25:Tc33,---
 date: 04/10/2023
 ---
 
@@ -1887,7 +1996,7 @@ In terms of sponsors, we only have one contract signed, but we are _really_ look
   - NEW: establish advisory role. See other important changes below.
   - potential secretary opening up
 - Increase members required for SIG up to 10 people, see the SIG section below for details.
-25:Tcbd,---
+26:Tcbd,---
 date: 27/09/2023
 ---
 
@@ -1974,7 +2083,7 @@ Ammir would like to help out with treasurer role, on-paper Sophie would stay as 
 - Games consoles moved to GameSoc.
 - Drawer (with membership cards, etc.) things were removed which were important and drawer disposed of (?).
 - Other things to be discussed next time.
-26:T7a2,---
+27:T7a2,---
 date: 19/01/2023
 ---
 
@@ -2040,7 +2149,7 @@ to give talks too, which should give us the STMU time for the year.
 
 Ben McConnovile adjourns the meeting at 18:09.
 Minutes taken by: Maya Copeland
-27:T5df,---
+28:T5df,---
 date: 01/12/2022
 ---
 
@@ -2102,7 +2211,7 @@ Get pricing for all the pizza, cups and drinks.
 
 Ben adjourns the meeting at 18:00
 Minutes taken by: Maya Copeland
-28:T78c,---
+29:T78c,---
 date: 17/11/2022
 ---
 
@@ -2171,7 +2280,7 @@ yearly PwnED event.
 
 Ben adjourns the meeting at 18:20.\
 Minutes taken by: Maya Copeland
-29:T9ba,---
+2a:T9ba,---
 date: 10/11/2022
 ---
 
@@ -2249,7 +2358,7 @@ and travel around this year's Christmas Market.
 
 Ben McConville adjourns the meeting at 18:02.\
 Minutes taken by: Maya Copeland
-2a:Ta2a,---
+2b:Ta2a,---
 date: 03/11/2022
 ---
 
@@ -2330,7 +2439,7 @@ and travel around this year's Christmas Market.
 
 Ben adjourns the meeting at 17:54.\
 Minutes taken by: Maya Copeland
-2b:T497,---
+2c:T497,---
 date: 2022-06-22 5:00pm
 ---
 
@@ -2363,7 +2472,7 @@ date: 2022-06-22 5:00pm
   - @Ben talk to tardis about official recognition as a SIG + mention on compsoc website
   - @Committee upload a picture to the website (PR it or ask Greg)
   - @Amy message Maya about gamesoc event in freshers
-2c:T488,---
+2d:T488,---
 date: 2022-04-06 5:00pm
 ---
 
@@ -2402,7 +2511,7 @@ date: 2022-04-06 5:00pm
 - SIGs:
   - TARDIS paid for 6 months, committee's decision if they want to continue.
   - Possible gamedevsig revival.
-2d:T5f3,---
+2e:T5f3,---
 date: 2022-03-30 5:00pm
 ---
 
@@ -2431,7 +2540,7 @@ date: 2022-03-30 5:00pm
 - **TODO for Callum:** Please work on merch to have it ready for September :)
 - **Potential freshers' week events:** pub quiz, games night with GameSoc, an actual pub crawl. An event every day with fewer committee members attending.
 - For the future, we could screen questions to the AGM so we don't have to go overtime.
-2e:T406,---
+2f:T406,---
 date: 2022-02-09 5:00pm
 ---
 
@@ -2453,7 +2562,7 @@ date: 2022-02-09 5:00pm
 - **TODO2 for Paula:** Prepare event fro FLW. Movie night was decided, and we will be showing the Matrix. Talk to Ammir about maybe hosting on Banshee Labyrinth.
 - **Pt. 3 conclusion:** HBT went well.
 - **TODO for Paula and Alexandra:** Promote Optiver's Hackathon on social media.
-2f:T532,---
+30:T532,---
 date: 2022-01-26 5:00pm
 ---
 
@@ -2479,7 +2588,7 @@ date: 2022-01-26 5:00pm
 - **TODO3 for Alexandra:** Create a subcommittee with Karthik, Yuto, Callum and Alexandra for merch.
 - **Pt. 4 conclusion:** The HTB challenge is Most Code-Golfed Hack.
 - **TODO5 for Arty:** Reply to Trailstone and see what we can get out of them (pub quiz or talk).
-30:T7ba,---
+31:T7ba,---
 date: 2022-01-19 5:00pm
 ---
 
@@ -2508,7 +2617,7 @@ date: 2022-01-19 5:00pm
 - **TODO4 for Karthik:** Discuss with HTB and decide on a final amount we can send to HTB.
 - **TODO4 for Arty and Alexandra:** Discuss the CompSoc HTB challenge.
 - **Conclusion 5:** There is an **unanimous vote on Tardis becoming a SIG**.
-31:T5ce,---
+32:T5ce,---
 date: 2021-12-08 5:00pm
 ---
 
@@ -2533,7 +2642,7 @@ date: 2021-12-08 5:00pm
 - **TODO2 for Artemis:** Talk to that small company that reached out to us via email to arrange an STMU slot.
 - **TODO2 for Oscar, Artemis and Alexandra:** Discuss academic events based on the dates we got from EUSA.
 - **TODO3 for Karthik:** Get VAT number (from himmelmaus?) and tell us the status on Santander.
-32:T493,---
+33:T493,---
 date: 2021-12-01 5:00pm
 ---
 
@@ -2563,7 +2672,7 @@ date: 2021-12-01 5:00pm
 - ToDo : Possible semester 2 ideas {News letter, Browser/Editor wars, Monthly code golf}
 - ToDo : Google STMU clarify if event is in person and/or online (Artemis)
 - ToDo : Find a platform to centralise CompSoc passwords (Artemis, Yuto)
-33:T481,---
+34:T481,---
 date: 2021-11-24 5:00pm
 ---
 
@@ -2586,7 +2695,7 @@ date: 2021-11-24 5:00pm
 - **TODO for Paula + others:** Set a meeting time and place for the Christmas market walk.
 - **TODO for Arty:** Ask Oscar if they still want to be VP.
 - **TODO for Arty:** Contact Google r.e. STMU.
-34:T6ad,---
+35:T6ad,---
 date: 2021-11-17 5:00pm
 ---
 
@@ -2607,7 +2716,7 @@ date: 2021-11-17 5:00pm
 - **Impact, not intent.** This also extends to jokes about Romanians.
 - **TODO for Karthik:** Please show up to meetings! As an executive member you are expected to come every week.
 - **TODO for next meeting:** Talk to Bence r.e. memes being shared in the inf2 server.
-35:T4e0,---
+36:T4e0,---
 date: 2021-11-10 5:00pm
 ---
 
@@ -2632,7 +2741,7 @@ date: 2021-11-10 5:00pm
 - We will give SIGINT money for the Founders Feast as well as other events.
 - Ashley will help organize InfBall.
 - The January STMU will happen on the 21st, likely with Google in it.
-36:T415,---
+37:T415,---
 date: 2021-10-20 5:00pm
 ---
 
@@ -2662,7 +2771,7 @@ EGM:
 WiSTEM:
 
 - Discuss next week with Alexandra
-37:T855,---
+38:T855,---
 date: 2021-04-12 6:00pm
 ---
 
@@ -2685,7 +2794,7 @@ date: 2021-04-12 6:00pm
 - **QUESTION:** Should we allocate (a fenced amount of) 3,000 GBP to be used by Tardis on a case-by-case basis throughout the year? Voted **in favor** unanimously.
 - Mental Health Channel: Discussion over including said channel as it might be innactive or might be too dark. Was suggested to have access on a role operated channel. Suggestion for it to become a venting channel so as to avoid dark themes, and it should be closely supervised. Instead of channel a workshop was suggested as well as having a professional come in to give a talk.
 - **CONSENSUS** Against having a mental health channel as it has a potential to spiral into dark themes. Mental health resources will be provided by Ammir and pinned to #serious/#announcements. There was talk of a mental health workshop and talk for next year.
-38:T607,---
+39:T607,---
 date: 2021-02-08 6:00pm
 ---
 
@@ -2709,7 +2818,7 @@ date: 2021-02-08 6:00pm
 - SIGINT might need around 1K in case there are not enough sponsors for their CTF, PwnEd. That money would be mostly spent on prizes and would match last year's spending. The majority of people voted **in favor** of helping them out financially. 5 out of 8 people voted **in favor** of paying the entire sum if SIGINT does not get another sponsor.
 - The flatmate finding scheme would be done either way, but CompSoc can get involved. We want to organize a social event for people to find flatmates by themselves. Neil is likely to help us with such an initiative.
 - Committee people should try and join the HTB stream throughout the hackathon.
-39:T7a6,---
+3a:T7a6,---
 date: 2020-11-16 7:00pm
 ---
 
@@ -2741,7 +2850,7 @@ Alexandra Purcarea, Tudor Finaru, Anabel Yong, Ananya Majumdar, Artemis Livingst
 - Cafe partnership supported, Ananya to enquire further
 - SigINT planning to do a big event soon
 - CompSoc will be doing the introductions for the next 2 Debias workshops with WiSTEM -> Alex
-3a:Ta8e,---
+3b:Ta8e,---
 date: 2020-11-02 7:00pm
 ---
 
@@ -2797,7 +2906,7 @@ Alexandra Purcarea, Anabel Yong, Ananya Majumdar, Artemis Livingstone, Ryan Schu
   - There will be a poll on the committee slack, not voting means not being involved in the discussion
   - Final decision will be made in the next meeting
   - Initial installment of £1000, maybe more in the future
-3b:T8a4,---
+3c:T8a4,---
 date: 2020-10-26 7:00pm
 ---
 
@@ -2834,7 +2943,7 @@ Alexandra Purcarea, Tudor Finaru, Anabel Yong, Ananya Majumdar, Artemis Livingst
   - Pay received from Optiver and G-Research
   - For lump sum donation: suggestion of multiple smaller installments, possibly to different recipients, was suggested and supported. This can then be spaced out to accommodate upcoming costs/financial uncertainty
 - Secretary: news on website needs to be updated
-3c:T4e2,---
+3d:T4e2,---
 date: 2020-10-19 6:00pm
 ---
 
@@ -2860,7 +2969,7 @@ Alexandra Purcarea, Ryan Schuller, Elspeth Smith, Patrick Kage (SIGWeb), Rob Phi
     - Lump sum
     - Panel discussions - pre-recorded to maintain hygiene, Q&A style.
   - Unanimous vote in favour of donation of some sort.
-3d:T4db,---
+3e:T4db,---
 date: 2020-10-14 6:00pm
 ---
 
@@ -2885,7 +2994,7 @@ date: 2020-10-14 6:00pm
 - ScotQuan: the committee is not able to run the SIG in the absence of its own committee, therefore we will make enquiries if there are any who would be interested in taking over but otherwise the SIG will become defunct.
 - Meeting time: doodle poll posted on Slack.
 - Collaboration with WiSTEM: the proposed collaboration is a series of workshops around social issues such as unconscious bias, imposter syndrome, gender identity, etc. The committee is fully in favour of this collaboration.
-3e:T505,---
+3f:T505,---
 date: 2020-10-08 6:00pm
 ---
 
@@ -2911,7 +3020,7 @@ date: 2020-10-08 6:00pm
 - Send poll to members on Discord r.e. morning game event
 - Send email to members about the election
 - Reach out to LastPass about getting a discount
-3f:T63b,---
+40:T63b,---
 date: 2020-09-24 6:00pm
 ---
 
@@ -2944,7 +3053,7 @@ date: 2020-09-24 6:00pm
   - Compensation for production of STMU/EGM needs to be discussed
 - Possible giveaways for members to be further investigated
 - Need to consider timezone issues when planning events in the future
-40:T538,---
+41:T538,---
 date: 2020-07-04 7:00pm
 ---
 
@@ -2971,7 +3080,7 @@ Alexandra Purcarea, Elspeth Smith, Yannik Nelson, Daniel Kirkman, Ryan Schuller,
   - HackJunction event
   - Potential SIG
 - For Alexandra and Ryan: finish up sponsorship doc by late July
-41:Tbac,---
+42:Tbac,---
 date: 2020-06-08 7:00pm
 ---
 
@@ -3012,7 +3121,7 @@ Ananya Majumdar, Tudor Finaru, Lars Thalian Morstad, Alexandra Purcarea, Rokas G
   - Whether we should match donations and set a threshold for them
   - Research charities before the meeting
 - Make sure we can include Elspeth in the conversation next time
-42:T433,---
+43:T433,---
 date: 2020-05-25 6:30pm
 ---
 
@@ -3039,7 +3148,7 @@ Tudor Finaru, Lars Thalian Morstad, Alexandra Purcarea, Rokas Gudavicius, Daniel
 - We are going to have another meeting to decide on our sponsorship plan, but we need more execs (old and new) to show up!
 - Prepare for exclusively online events at the moment - make sure we apply early to the uni freshers' week app!
 - Begin planning social events and contacting staff/speakers/other societies.
-43:T51b,---
+44:T51b,---
 date: 2020-03-05 6:30pm
 ---
 
@@ -3073,7 +3182,7 @@ Kyle Cotton, Lars Thalian Morstad, Dee Yeum, Yannik Nelson, Athiya Deviyani, Ala
   **TODO**
 - Finalize CompSoc/ Htb contracts for next year.
 - CompSoc emails are going to spam
-44:T85c,---
+45:T85c,---
 date: 2020-02-27 6:30pm
 ---
 
@@ -3107,7 +3216,7 @@ Kyle Cotton, Lars Thalian Morstad, Dee Yeum, Yannik Nelson, Athiya Deviyani, Ala
 - CreateED
   - The event has been downsized by a lot.
   - CompSoc were initially "open to sponsoring", however this doesn't mean we are definitely sponsoring.
-45:T6b7,---
+46:T6b7,---
 date: 2020-02-13 6:30pm
 ---
 
@@ -3146,7 +3255,7 @@ Kyle Cotton, Lars Thalian Morstad, Dee Yeum, Lorenzo Baldini, Yannik Nelson, Ath
   - Suggestion: change to what counts as quorate committee.
 - EUSA elections
   - Samuel is running as eusa president. CompSoc is willing to endorse him.
-46:T9be,---
+47:T9be,---
 date: 2020-02-06 6:30pm
 ---
 
@@ -3201,7 +3310,7 @@ Vote to keep BAE systems on as a sponsor:
 - 9 for
 - 3 against
   BAE will be allowed to continue sponsoring the PWNed event.
-47:T6cc,---
+48:T6cc,---
 date: 2020-01-16 6:30pm
 ---
 
@@ -3244,7 +3353,7 @@ Kyle Cotton, Lars Thalian Morstad, Dee Yeum, Lorenzo Baldini, Elspeth Smith, Rya
 - Talk to SigQuant about trials
 - Collect who wants to buy hoodies.
 - Put proper invoices/ contracts on the drive.
-48:T8a2,---
+49:T8a2,---
 date: 2019-11-28 6:00pm
 ---
 
@@ -3281,7 +3390,7 @@ Kyle Cotton, Lars Thalian Morstad, Dee Yeum, Lorenzo Baldini, Ryan Schuller, Ton
 - Chase up SIGcoin
 - Ask Neil about what the school can do about venues, and get more specifics of funding infball.
 - Flat crawl
-49:T5f8,---
+4a:T5f8,---
 date: 2019-11-21 5:30pm
 ---
 
@@ -3306,7 +3415,7 @@ Kyle Cotton, Lars Thalian Morstad, Dee Yeum, Lorenzo Baldini, Samuel Macleod, Al
 - SIGs
   - SIGs shouldn't be able to disassociate, perhaps with the exception of the SIG submitting a written request to the committee.
   - Add cases where CompSoc can take control of a SIG.
-4a:T471,---
+4b:T471,---
 date: 2019-11-07 6:00pm
 ---
 
@@ -3338,7 +3447,7 @@ Kyle Cotton, Lars Thalian Morstad, Dee Yeum, Patrick Kage, Lorenzo Baldini, Samu
 **Votes**:
 
 - ScotQuant established a new SIG: Unanimous, with 12 votes by a 2/3 of the committee.
-4b:T697,---
+4c:T697,---
 date: 2019-10-31 6:00pm
 ---
 
@@ -3384,7 +3493,7 @@ Kyle Cotton, Lars Thalian Morstad, Dee Yeum, Athiya Deviyai, Patrick Kage, Alan 
 - Keep track of SIGINT event
 - Order membership cards
 - Finalize hoodies
-4c:T58a,---
+4d:T58a,---
 date: 2019-10-17 6:00pm
 ---
 
@@ -3417,7 +3526,7 @@ Kyle Cotton, Lars Thalian Morstad, Dee Yeum, Patrick Kage, Tony Duggan, Lorenzo 
 **VOTES**:
 
 - Votes to drop the Palantir event: unanimous
-4d:T54c,---
+4e:T54c,---
 date: 2019-10-07 6:30pm
 ---
 
@@ -3458,7 +3567,7 @@ Kyle Cotton, Lars Thalian Morstad, Dee Yeum, Athiya Deviyai, Patrick Kage, Alan 
 - Ceilidh with Hoppers
 - Merch
 - Check EUSA regulation on voting
-4e:Tc42,---
+4f:Tc42,---
 date: 2019-09-16 6:00pm
 ---
 
@@ -3553,7 +3662,7 @@ date: 2019-09-16 6:00pm
 ## CompSoc Hackathon
 
 - **Action**: DY will form a Facebook group to share Hackathon information for those in UoE
-4f:T8a3,---
+50:T8a3,---
 date: 2019-05-10 4pm
 ---
 
@@ -3605,7 +3714,7 @@ Elspeth Smith, Patrick Kage, Kyle Cotton, Dee Yeum, Lorenzo Baldini, Rokas Gudav
 ** Votes **:
 
 - Voted to create the committee position of Graphic Designer, with Mohammad Javad as position holder. Unanimous.
-50:T54e,---
+51:T54e,---
 date: 2019-04-01 6pm
 ---
 
@@ -3648,7 +3757,7 @@ Elspeth Smith, Patrick Kage, Rokas Gudavičius, Lars Thalian Morstad, Dee Yeum, 
 **Votes**:
 
 - Vote to have membership stay the same passes unanimously.
-51:T6e6,---
+52:T6e6,---
 date: 2018-11-23  4pm
 ---
 
@@ -3701,7 +3810,7 @@ Elspeth Smith, Joao Maio, Patrick Kage, Likhitha Sai, Tony Duggan, Kyle Cotton, 
 - prize along with certificate for winners
 - talk with Viktorija from previous CompSoc leadership about previous LHD
 - advertise more
-52:T7dc,---
+53:T7dc,---
 date: 2018-10-25 6pm
 ---
 
@@ -3776,7 +3885,7 @@ Elspeth Smith, Rokas Gudaviskus, Mo Javad, Joao Maio, Patrick Kage, Tony Duggan,
 - Paintball
 - Trampolining
 - Board Game Night
-53:T6c1,---
+54:T6c1,---
 date: 2018-09-16 3pm
 ---
 
@@ -3867,7 +3976,7 @@ Misc
 
 - Library - physical library sorted out
 - Cupboard to be cleaned out
-54:T81c,---
+55:T81c,---
 date: 2018-05-15 3pm
 ---
 
@@ -3922,7 +4031,7 @@ Elspeth Smith, Joao Maio, Rokas Gudavičius, Elizabeth Bell, Lorenzo Martinico, 
 - Make an instagram
   - rphi and others take lots of great pictures
   - managed by elizabeth
-55:Tae5,---
+56:Tae5,---
 date: 2018-03-29 6pm
 ---
 
@@ -4011,7 +4120,7 @@ Angus Shaw, Cameron Sharp, Cathal Lynam, Caterina Mrose, Dylan Oshima, Elena Lap
   - Currently struggling
   - Could they be a SIG?
   - Elena will get in touch
-56:T8f6,---
+57:T8f6,---
 date: 2018-03-07 11am
 ---
 
@@ -4090,7 +4199,7 @@ To do March 16th, Vik will complete
 - Held on the last day of exams
 - Angus can organise
   - Contact Neil Heatley for booking Forum roof
-57:T5a8,---
+58:T5a8,---
 date: 2018-01-30 2pm
 ---
 
@@ -4155,7 +4264,7 @@ Need to fix prices.
 **General**
 
 - Ask Neil about funding.
-58:T919,---
+59:T919,---
 date: 2017-10-11 7pm
 ---
 
@@ -4245,7 +4354,7 @@ Angus Shaw, Qais Patankar, Elena Lapė, Ginte Petrulionyte, Harry Reeder, Viktor
   - Just INF - easier to run, department might be happier, could provide prize
 - All - would be in line with organiser’s guidelines
 - Ask the organisers and the Department
-59:T855,---
+5a:T855,---
 date: 2017-09-20 7pm
 ---
 
@@ -4291,7 +4400,7 @@ Books: we have books, what do we do with them?
 We have a bar sponsorship, and can issue their e-cards. We also have a planned field trip to Glasgow, with a potential visit to JP Morgan’s offices.
 
 Hoodies are hopefully happening this time, with a potential for SIG logos to be included. Stickers are to also happen.
-5a:T15e6,---
+5b:T15e6,---
 date: 2017-04-25 7pm
 ---
 
@@ -4442,7 +4551,7 @@ Qais Patankar, Elena Lapinskaitė, Joe, Cameron Sharp, Harry Reeder, Craig Snowd
   - Currently we have a mix of grassroots and big names
   - We need sponsorship from Amazon, Bloomberg etc, they provide much of our funding
   - We can’t afford to let them go, but will try to have local companies too
-5b:Ta1f,---
+5c:Ta1f,---
 date: 2017-03-29 6pm
 ---
 
@@ -4507,7 +4616,7 @@ Qais Patankar, Angus Shaw, Elena Lapinskaitė, Simon Vahr, Viktorija Lukošiūt�
     - Make the group modded/have each post need admin approval? Will this discourage discussion?
   - Different uses of page and group (some are more professional, others more communal)
   - Making CompSoc Offers more visible: shoutouts (STMUs), put at the bottom of newsletter
-5c:T935,---
+5d:T935,---
 date: 2017-03-01 6pm
 ---
 
@@ -4564,7 +4673,7 @@ Joshua Green, Viktorija Lukosuite, Qais Patankar, Susanne Koster, Aw Young Qingz
 - As a tech society, we don’t have a lot of tech
   - Designated projects people can work on as a society
   - WebSIG needs to be expanded and have their own projects
-5d:T47a,---
+5e:T47a,---
 date: 2016-11-23 6pm
 ---
 
@@ -4607,7 +4716,7 @@ Joshua Green, Viktorija Lukosiute, Qais Patankar, Martynas Grigonis, Benedetta M
   - Need to recruit some people: 2nd years from last year
   - Talk to Blackrock and/or IF for hosting
 - Merchandise: sell T-Shirts and stuff
-5e:T461,---
+5f:T461,---
 date: 2016-11-09 6pm
 ---
 
@@ -4646,7 +4755,7 @@ Viktorija Lukosiute, Susanne Koster, Qais Patankar, Joshua Green, Aw Qingzhao, M
 - Help needed to move Bloomberg boxes (t-shirts etc.) from Informatics Forum to Forrest Hill
 - **January STMU**: Need to confirm with ARM
 - **Christmas Quiz**: Perhaps get SIGs to do extra stuff?
-5f:T676,---
+60:T676,---
 date: 2016-10-26 6pm
 ---
 
@@ -4687,7 +4796,7 @@ Viktorija Lukosiute, Erin Pigeon, Qais Patankar, Aw Qingzhuo, Martynas Grigonis,
   - Informatics ball? -> _InfBall_ (2nd semester, "not a compulsory black tie ball")
   - Pub crawl? -> Christmas music with christmassy snacks (how would this work in a crawl?)
   - Christmas quiz? -> Teviot. Microphones need to be sorted out.
-60:T5a0,---
+61:T5a0,---
 date: 2016-09-26 1pm
 ---
 
@@ -4718,7 +4827,7 @@ Viktorija Lukosiute, Aw Young Qingzhou, Joshua Green, Benedetta Mussati, Susanne
   - Erin, they would pay for January STMU pizza, including sponsors?
 - Christmas dinner, fancy one, how many people would be interested
   - Look into something fancy but not too expensive
-61:T5a6,---
+62:T5a6,---
 date: 2016-03-22 6pm
 ---
 
@@ -4768,6 +4877,6 @@ Craig Ross, Andreea Cucu, Lisa Xie, Simon Vahr, Vesko Stefanov, Martynas Grigoni
   - Election of 1st and 4th year rep
   - Amendment to allow for debit cards
   - Only two speakers
-2:["$","$a",null,{"children":["$","$Lb",null,{"posts":[{"slug":"2024-09-19","content":"$c","title":"2024-09-19","date":"2024-09-19"},{"slug":"2024-09-15","content":"$d","title":"2024-09-15","date":"2024-09-15"},{"slug":"2024-07-28","content":"$e","title":"2024-07-28","date":"2024-07-28"},{"slug":"2024-06-03","content":"$f","title":"2024-06-03","date":"2024-06-03"},{"slug":"2024-05-29","content":"$10","title":"2024-05-29","date":"2024-05-29"},{"slug":"2024-05-22","content":"$11","title":"2024-05-22","date":"2024-05-22"},{"slug":"2024-05-07","content":"$12","title":"2024-05-07","date":"2024-05-07"},{"slug":"2024-04-30","content":"$13","title":"2024-04-30","date":"2024-04-30"},{"slug":"2024-04-23","content":"$14","title":"2024-04-23","date":"2024-04-23"},{"slug":"2024-03-20","content":"$15","title":"2024-03-20","date":"2024-03-20"},{"slug":"2024-03-13","content":"$16","title":"2024-03-13","date":"2024-03-13"},{"slug":"2024-03-06","content":"$17","title":"2024-03-06","date":"2024-03-06"},{"slug":"2024-03-03","content":"---\ndate: 03/03/2024 12:00\n---\n\nFergus White (President)\nCaterina Mammola (Techmical Secretary)\nCharlotte Ausel (Social Secretary)\nYuto Takano (Graphic Designer)\nElisa Sophie Fraticelli (Treasurer)\nVincentas Antanas Danys (First Year Representative)\nArin Mukhopadhyay (Second Year Representative)\nChua Man Shan (School Representative)\n\n# Santander bank account transfer\n\nFollowing the last meeting, Santander has requested Yuto Takano and Chua Man Shan to provide a residence permit or visa for the bank transfer.\n\nAs stated in the previous meeting, Charlotte Ausel, Vincentas Antanas Danys support the changes requested in the bank account making Elisa Sophie Fraticelli and Fergus White account holders of the CompSoc bank account. The aforementioned individuals also agree to remove Karthik Narayanan, Artemis Livingstone and Alexandra Purcărea as holders of the CompSoc bank account.\n","title":"2024-03-03","date":"2024-03-03"},{"slug":"2024-02-28","content":"$18","title":"2024-02-28","date":"2024-02-28"},{"slug":"2024-02-07","content":"$19","title":"2024-02-07","date":"2024-02-07"},{"slug":"2024-01-24","content":"$1a","title":"2024-01-24","date":"2024-01-24"},{"slug":"2024-01-17","content":"$1b","title":"2024-01-17","date":"2024-01-17"},{"slug":"2023-12-06-sig","content":"$1c","title":"2023-12-06-sig","date":"2023-12-06"},{"slug":"2023-12-06","content":"$1d","title":"2023-12-06","date":"2023-12-06"},{"slug":"2023-11-22","content":"$1e","title":"2023-11-22","date":"2023-11-22"},{"slug":"2023-11-08-sig","content":"$1f","title":"2023-11-08-sig","date":"2023-11-08"},{"slug":"2023-11-08","content":"$20","title":"2023-11-08","date":"2023-11-08"},{"slug":"2023-11-01","content":"$21","title":"2023-11-01","date":"2023-11-01"},{"slug":"2023-10-18","content":"$22","title":"2023-10-18","date":"2023-10-18"},{"slug":"2023-10-11","content":"$23","title":"2023-10-11","date":"2023-10-11"},{"slug":"2023-10-04","content":"$24","title":"2023-10-04","date":"2023-10-04"},{"slug":"2023-09-27","content":"$25","title":"2023-09-27","date":"2023-09-27"},{"slug":"2023-01-19","content":"$26","title":"2023-01-19","date":"2023-01-19"},{"slug":"2022-12-01","content":"$27","title":"2022-12-01","date":"2022-12-01"},{"slug":"2022-11-17","content":"$28","title":"2022-11-17","date":"2022-11-17"},{"slug":"2022-11-10","content":"$29","title":"2022-11-10","date":"2022-11-10"},{"slug":"2022-11-03","content":"$2a","title":"2022-11-03","date":"2022-11-03"},{"slug":"2022-06-22","content":"$2b","title":"2022-06-22","date":"2022-06-22"},{"slug":"2022-06-15","content":"---\ndate: 2022-06-15 6:30pm\n---\n\n**Present:** Ben. M, Krzysztof. G, Kshitij. S, Charlotte. A, Ammir. M, Amy. Y,\n\n- Fresher's Weeks Events\n\n  - Society Fair: Talk to SIG\n  - Potential Live Streamed event\n  - GameDevSig Event: Room in AT for 2 hours\n  - Pub Night: Weekend of fresher's week\n  - Game Night: Possibly LAN? Reach out to GameSoc\n  - Arthur Seat Hike:\n  - Under 18 event: Coffee/Hot Chocolate event??\n  - Scavenger Hunt\n\n- Finances\n\n  - Get bank account transfer process started\n\n- Cupboard\n\n  - Cleanup and Inventory\n\n- TODO\n  - @Kshitij make a google sheet for cupboard content documentation\n  - @Kshitij follow up on backup STMU venue bookings with EUSA if no response soon-ish\n  - @Amy talk to Pear Tree about Pub Night\n  - @Amy make a google doc to centralize freshers planning\n  - @Charlotte to reach out to Maya regarding Game Night\n","title":"2022-06-15","date":"2022-06-15"},{"slug":"2022-04-06","content":"$2c","title":"2022-04-06","date":"2022-04-06"},{"slug":"2022-03-30","content":"$2d","title":"2022-03-30","date":"2022-03-30"},{"slug":"2022-03-23","content":"---\ndate: 2022-03-23 5:00pm\n---\n\n**Present:** Artemis L., Alex P., Karthik N., Oscar S., Paula S., Yuto T., Callum L., Ben M., Ashley R., Mikey A., Ammir B., Kim (InfBall)\n\n**Agenda**\n\n- Pt. 1: Hear from InfBall.\n- Pt. 2: Discuss the AGM.\n- Pt. 3: Sponsor update.\n- Pt. 4: HackerNoon debriefing.\n\n**Discussion & Decisions**\n\n- **Pt. 1 conclusion:** There have been some ticket selling scams - there is a plan for next year to make transactions more secure by changing the QR code and acting as the middle person. Staff seating has been decided. A string quartet has been hired and alcoholic drinks have been organized.\n- **Pt. 2 conclusion:** There are people running for all executive positions. We seem to be covered for next year.\n- **Pt. 3 conclusion:** New sponsorship deck should include active SIGs and hybrid events. There should also be a nicer color scheme for next year. Two fintech companies are interested in sponsorships.\n","title":"2022-03-23","date":"2022-03-23"},{"slug":"2022-03-16","content":"---\ndate: 2022-03-16 5:00pm\n---\n\n**Present:** Karthik N., Oscar S., Paula S., Yuto T., Mikey A.\n\n**Agenda**\n\n- Pt. 1: Election Discussion\n- Pt. 2: Sponsors and STMU\n\n**Discussion & Decisions**\n\n- **Pt. 1 conclusion:** Optiver has pulled out of the 29th, but the room is booked. We'll advertise the AGM anyway.\n- **Pt. 2 conclusion:** VP will ask Optiver if they'd like the 12th (mid-April) for an event. VP will also ask if Bloomberg would be fine with an online event around the end of April. May events do not look promising given many Informatics exams span the entire exam schedule, perhaps Google may not get a chance.\n- **Pt. Ex:** Website has been updated to reflect the confirmation of AGM date and constitutional changes.\n","title":"2022-03-16","date":"2022-03-16"},{"slug":"2022-03-02","content":"---\ndate: 2022-03-02 5:00pm\n---\n\n**Present:** Alexandra P., Karthik N., Oscar S., Paula S., Yuto T., Ben M., Mikey A., Ashley R., Ammir B., Kim (InfBall)\n\n**Agenda**\n\n- Pt. 0: InfBall update\n- Pt. 1: Election decisions\n- Pt. 2: Sponsors and STMU\n- Pt. 3: Constitution changes\n\n**Discussion & Decisions**\n\n- **Pt.0 conclusion:** Many lecturers are coming, many replied with 'maybe' for the moment. Kim will be asking for money for the 15 tickets allocated to them. There will be a photographer, ceilidh band, and a photo studio.\n- **Pt. 1 conclusion:** The election will happen on the 29th, after Optiver's talk.\n- **Pt. 2 conclusion:** We might have to have two STMUs in April to finish our sponsor list for the year.\n- **TODO3 for Ammir and Alexandra:** Modify the constitution by the 29th: EUSA updates, adding the school EDI rep, reporting procedures.\n","title":"2022-03-02","date":"2022-03-02"},{"slug":"2022-02-09","content":"$2e","title":"2022-02-09","date":"2022-02-09"},{"slug":"2022-01-26","content":"$2f","title":"2022-01-26","date":"2022-01-26"},{"slug":"2022-01-19","content":"$30","title":"2022-01-19","date":"2022-01-19"},{"slug":"2021-12-08","content":"$31","title":"2021-12-08","date":"2021-12-08"},{"slug":"2021-12-01","content":"$32","title":"2021-12-01","date":"2021-12-01"},{"slug":"2021-11-24","content":"$33","title":"2021-11-24","date":"2021-11-24"},{"slug":"2021-11-19","content":"---\ndate: 2021-11-19 4:00pm\n---\n\n**Present:** Artemis Livingstone, Karthik Narayanan, Alexandra Purcarea, Bence Szilagyi, Mikey Andrejczuk, Paula Sparrow, Yuto Takano, Callum Leask, Ashley Roberts, Ammir Barakat, himmelmaus, Samuel MacLeod\n\n**Agenda**\n\n- Committee-wide discussion on misconduct within the society.\n\n**Discussion and Decisions**\n\n- Bence has resigned from his position as vice president in the committee.\n- **TODO:** Work widely on the constitution template, including but not limited to impeachment, how to handle misconduct, what constitutes as misconduct.\n- **TODO for Arty:** Get bank details from Code Your Future and Stand Against Racism and Inequality to make a donation.\n- Ammir will look into EDI training for future committee members.\n- **TODO:** Reach out to other societies and see what they are doing to combat misconduct and to make sure that morally upstanding people run for elections.\n- **TODO for Alexandra + moderation team:** Draft an anonymous reporting form.\n","title":"2021-11-19","date":"2021-11-19"},{"slug":"2021-11-17","content":"$34","title":"2021-11-17","date":"2021-11-17"},{"slug":"2021-11-10","content":"$35","title":"2021-11-10","date":"2021-11-10"},{"slug":"2021-11-03","content":"---\ndate: 2021-11-03 5:00pm\n---\n\n**Present:** Artemis Livingstone, Ammir Barakat, Bence Szilagyi, Alexandra Purcarea, Paula Sparrow, Callum Leask, Ben McConville, Mikey Andrejczuk, himmelmaus, Rokas Gudavicius, Samuel MacLeod\n\n**Agenda**\n\n- Committee introduction :)\n- Discuss committee expenses.\n- Organize the next STMU.\n- Talk about making an announcement for COVID compliance within AT.\n- Move away from EUSA?\n\n**Discussion and Decisions**\n\n- **TODO for Karthik and exec committee:** Look for, or otherwise draft an expenses policy.\n- **TODO for Alexandra:** Look into block bookings on the 19th.\n- **TODO for Bence:** Get two speakers for the 19th November STMU.\n- **TODO for Mikey:** Make the announcement on Discord r.e. leaving AT on time and being COVID-compliant.\n- **TODO for committee:** Consider more academic events, such as competitions and panels. Talk to Hoppers about Hash Code (Alex) and in general.\n- EUSA discussion (mostly) left for another time.\n","title":"2021-11-03","date":"2021-11-03"},{"slug":"2021-10-27","content":"---\ndate: 2021-10-27 5:00pm\n---\n\n**Present:** Karthik Narayanan, Ammir Barakat, Alexandra Purcarea, Yuto Takano, Paula Sparrow, Mikey Andrejczuk\n\n**Agenda**\n\n- Discuss lack of involvement with first years.\n- Alexandra: update people on LawTech and STMU.\n- Talk about/vote on WiSTEM workshops.\n- Talk about committee participation at social events.\n\n**Discussion and Decisions**\n\n- Mikey will go to a 9AM CL lecture tomorrow to announce the EGM (:heart:).\n- Tell WiSTEM we need to assess our financial situation first. Hold off on this issue.\n- People will be assigned for each social event, should be less of a problem with the vice president/first year rep.\n","title":"2021-10-27","date":"2021-10-27"},{"slug":"2021-10-20","content":"$36","title":"2021-10-20","date":"2021-10-20"},{"slug":"2021-10-13","content":"---\ndate: 2021-10-13 5:00pm\n---\n\n**Present:** Artemis Livingstone, Karthik Narayanan, Alexandra Purcarea, Yuto Takano, Callum Leask, Paula Sparrow, Mikey Andrejczuk, Ammir Barakat, Lucia and Hrishikesh (HTB)\n\n**Agenda**\n\n- Hear from HTB.\n- Finalize EGM stuff.\n- Talk about budget.\n- Plan socials.\n\n**Discussion and Decisions**\n\n- HTB is in talks with MLH as well as with informatics regarding room bookings.\n- The EGM might be organized at a EUSA venue, details to be determined. Dylan has agreed to giving a talk.\n- **TODO for Alexandra:** Post election news on Facebook + Discord.\n- We need to project budget numbers for this year's events.\n- Social events should be announced well in advance, and we want to make sure that we have an event every week.\n- The social secretary, secretary and graphic designer will keep in touch with each other regarding social events.\n- **TODO for a future meeting:** Discuss merch and how to sell it.\n","title":"2021-10-13","date":"2021-10-13"},{"slug":"2021-10-06","content":"---\ndate: 2021-10-06 5:00pm\n---\n\n**Present:** Artemis Livingstone, Karthik Narayanan, Alexandra Purcarea, Callum Leask, Ammir Barakat, Lucia and Marian (HTB)\n\n**Agenda**\n\n- Hear from HTB.\n- Setting the date for the EGM.\n- Discuss a Halloween social.\n- Prepare the movie social.\n- Talk about the Informatics ball.\n\n**Discussion and Decisions**\n\n- AND haven't replied to us so we have no date settled.\n- Ammir is planning to lead a **spooky tour of Edinburgh on the 30th at 19:00**.\n- We are aiming to have a movie night on **Sunday the 17th between 18:00 and 21:00**.\n- We need to get Kim in a meeting, if possible.\n","title":"2021-10-06","date":"2021-10-06"},{"slug":"2021-09-29","content":"---\ndate: 2021-09-29 5:00pm\n---\n\n**Present:** Artemis Livingstone, Alexandra Purcarea, Paula Sparrow, Yuto Takano, Callum Leask, Mikey Andrejczuk, Ammir Barakat\n\n**Agenda**\n\n- Talk about the EGM+STMU.\n- Talk about social events.\n\n**Discussion and Decisions**\n\n- Although the date is not decided yet, **Yuto and Alexandra** will work on making a post about electing the first+third year rep, as well as the VP.\n- **Arty and Paula** will talk to several venues about student deals, including Civerinos and pubs.\n- We need a venue for coffee socials - we need to find one that is big enough for our members.\n- The Brass Monkey could be good for movie nights, as they have a special movie room.\n- Alexandra and other committee members will start properly cleaning the cupboard and disposing of the trash themselves.\n","title":"2021-09-29","date":"2021-09-29"},{"slug":"2021-09-22","content":"---\ndate: 2021-09-22 5:00pm\n---\n\n**Present:** Arty Livingstone, Alexandra Purcarea, Karthik Narayanan, Paula Sparrow, Callum Leask, Mikey Andrejczuk, Yuto Takano, Ammir Barakat\n\n**Agenda**\n\n- Hear from HTB\n- Change library website section\n- Discuss the election\n- Plan the rotation of events\n\n**Discussion and Decisions**\n\n- HTB has a booked building and is talking to MLH soon. Sponsorships also seem to be going well, much better than last year.\n- The hackathon will be held in **November** and will be hybrid.\n- We are organizing our first STMU with AND Digital and an EGM for VP and first year rep.\n- **TODO for Arty and Alexandra:** Discuss the STMU+EGM further and start advertising the roles.\n- Paula will take over the Instagram account. She will also talk to Revolution regarding a partnership.\n","title":"2021-09-22","date":"2021-09-22"},{"slug":"2021-09-08","content":"---\ndate: 2021-09-08 7:00pm\n---\n\n**Present:** Alexandra Purcarea, Paula Sparrow, Mikey Andrejczuk, Rokas Gudavicius, CK (SIGINT)\n\n**Agenda**\n\n- Discuss the cupboard/library situation\n- Hear from SIGINT\n- Talk about events\n\n**Discussion and Decisions**\n\n- The games night will be hosted on the GameSoc Discord.\n- **TODO for Alexandra:** Promote games night on Friday.\n- **TODO for Karthik:** Check the treasurer's shelf and see what needs to be kept and thrown away.\n","title":"2021-09-08","date":"2021-09-08"},{"slug":"2021-09-02","content":"---\ndate: 2021-09-02 6:00pm\n---\n\n**Present:** Karthik Narayanan, Alexandra Purcarea, Yuto Takano, Paula Sparrow, Mikey Andrejczuk, Ammir Barakat\n\n**Agenda**\n\n- Discussing Welcome Week events\n- Bank account status\n\n**Discussion and Decisions**\n\n- Karthik will talk to Arty about sending the relevant documents.\n- We will be hosting the games night online, but we need to make sure that we offer more than typical online games (Gartic Phone, Stardew Valley, Jackbox).\n- **TODO for Alexandra:** Make Eventbrite event to gather interest for pub crawl, in order to make an accurate reservation.\n","title":"2021-09-02","date":"2021-09-02"},{"slug":"2021-08-23","content":"---\ndate: 2021-08-23 6:00pm\n---\n\n**Present:** Artemis Livingstone, Karthik Narayanan, Alexandra Purcarea, Paula Sparrow, Mikey Andrejczuk, Yuto Takano, Rokas Gudavicius, Ammir Barakat\n\n**Agenda**\n\n- Discussing Welcome Week events\n\n**Discussion and Decisions**\n\n- We made a spreadsheet with our availabilities for Welcome Week events.\n- **TODO for Alexandra:** Look for CompSoc merch in the cupboard, and ask Neil for extra hoodies\n- **TODO for Alexandra:** Interest check for Scavengers Hunt, maybe have a cap on the event?\n- Games Night and Pub Crawl might not happen in-person, and will be more difficult to organize.\n- We might organize a BBQ instead of a Pub Crawl.\n- **TODO for committee:** Wait another week for restriction updates and talk more next meeting.\n","title":"2021-08-23","date":"2021-08-23"},{"slug":"2021-08-10","content":"---\ndate: 2021-08-10 7:00pm\n---\n\n**Present:** Artemis Livingstone, Alexandra Purcarea, Yuto Takano, Ammir Barakat\n\n**Agenda**\n\n- Talk about Jack coming in as a new Second year representative\n- Discuss elections for new Vice president\n- Make plans for merch and hybrid events\n- Bring up InfPALS academic families idea\n\n**Discussion and Decisions**\n\n- We decided to have a designated person be included by BCC in all emails towards sponsors. This will be highlighted in our channel and be treated as a procedure.\n- We will be participating in the physical Activity Fair; also, Ammir will reach out to freshers through talks on our Discord server.\n- We will promote the academic family program for InfPALS, but we do not have the time to do anything beyond that.\n- **TODO for next meeting:** Decide the person responsible for merch.\n- **TODO:** Find potential VP candidates and follow up in the next meeting.\n- **TODO:** More participation from committee members please!\n","title":"2021-08-10","date":"2021-08-10"},{"slug":"2021-07-12","content":"---\ndate: 2021-07-12 6:00pm\n---\n\n**Present:** Artemis Livingstone, Yuto Takano, Alexandra Purcarea, Ammir Barakat\n\n**Agenda**\n\n- Talk more about social events\n\n**Discussion and Decisions**\n\n- **TODO for Alexandra:** Register freshers week events in the EUSA form.\n","title":"2021-07-12","date":"2021-07-12"},{"slug":"2021-07-01","content":"---\ndate: 2021-07-01 6:00pm\n---\n\n**Present:** Artemis Livingstone, Andi Dicu, Karthik Narayanan, Alexandra Purcarea, Yuto Takano, Samuel Macleod\n\n**Agenda**\n\n- Where to place the cookbook\n- Freshers week events\n- We need to update this page https://comp-soc.com/team\n- Update from Alexandra on Cardiff society\n\n**Discussion and Decisions**\n\n- **TODO for Yuto:** Ask Samuel for pictures\n- **TODO for Arty and Alexandra:** Post freshers week events on university events app\n","title":"2021-07-01","date":"2021-07-01"},{"slug":"2021-06-14","content":"---\ndate: 2021-06-14 6:00pm\n---\n\n**Present:** Artemis Livingstone, Andi Dicu, Karthik Narayanan, Alexandra Purcarea, Yuto Takano, Paula Sparrow, Callum Leask, Cheng Kai Eng, Wiktor Kaluza\n\n**Agenda**\n\n- Hearing from SIG leaders\n\n**Discussion and Decisions**\n\n- There are plans to revive pwnable, i.e. start paying for the server again.\n- **TODO for Karthik:** Once you have access to the bank account, ping Maddox about the money SIGINT has left\n- **TODO for Artemis:** Contact pubs (e.g. Pear Tree) for collaboration\n","title":"2021-06-14","date":"2021-06-14"},{"slug":"2021-05-31","content":"---\ndate: 2021-05-31 6:00pm\n---\n\n**Present:** Alexandra Purcarea, Lars Thalian Morstad, Paula Sparrow, Karthik Narayanan, Yuto Takano, Andi Dicu, Ammir Barakat, Hrishkesh Srinivasan, Lucia Garcia Velasco\n\n**Agenda**\n\n- Hearing from the new HTB leaders\n\n**Discussion and Decisions**\n\n- Hrishikesh and Lucia will co-lead the hackathon next year. They will be given email addresses, as well as access to Lars' emails from last year.\n- We also heard a quick overview of the sponsorship process for CompSoc.\n- **TODO for Yuto:** Give Lucia and Hrishikesh email accounts + access to Lars\n  - Yuto: gave Lucia and Hrishikesh emails\n  - Looking into shared mail access for lars\n- **TODO for Lars:** Send HTB Instagram credentials\n","title":"2021-05-31","date":"2021-05-31"},{"slug":"2021-04-12","content":"$37","title":"2021-04-12","date":"2021-04-12"},{"slug":"2021-04-05","content":"---\ndate: 2021-04-05 6:00pm\n---\n\n**Present:** Alexandra Purcarea, Tudor Finaru, Yuto Takano, Samuel Macleod, Andi Dicu, Ammir Barakat, Michael Andrejczuk, Paula Sparrow, Callum Leask, Rokas Gudavicius, Ryan Schuller, Karthik Narayanan, Callum Leask, Anabel Yong\n\n**Agenda**\n\n- Discuss handovers and touch base with new committee members.\n- Discuss our primary mode of communication.\n- Discuss Discord protected channels.\n\n**Discussion and Decisions**\n\n- **TODO for Alexandra:** Create a Discord channel for the committee only. We will have to be careful about bridging relevant channels, such as sig-leaders, when we believe that people might not be able to join Discord.\n- **TODO for committee:** Talk about the mental health Discord channel next meeting.\n- We have decided to delete protected channels that have not been used in the past month.\n- **TODO for committee:** Vote on donation amount once the new treasurer has access to the bank account.\n","title":"2021-04-05","date":"2021-04-05"},{"slug":"2021-03-08","content":"---\ndate: 2021-03-08 6:00pm\n---\n\n**Present:** Alexandra, Arty, Lars, Patrick, Tudor\n\n**Agenda**\n\n- HTB update\n- Handover preparation\n\n**Discussion and Decisions**\n\n- The hackathon really well, with around 50 total submissions and 300+ people in the server. It was hard to tell how participants were doing, but the livestream was fun and of really good quality. Next time, we should place more emphasis on team-building.\n- **To do for Anabel:** check out the invoice from Hack Productions, order Amazon gifts for hackathon winners with Lars (during a call), reimburse Patrick for hosting costs and Lars for Discord Nitro\n- We really need to step up for promoting EGM roles.\n- The AGM will be postponed to the 2nd of April.\n- We will use a similar format to the previous EGM.\n- **To do for Alex:** DM people about CompSoc committee roles!\n- **To do for Tudor:** promote the AGM\n","title":"2021-03-08","date":"2021-03-08"},{"slug":"2021-03-01","content":"---\ndate: 2021-03-01 6:00pm\n---\n\n**Present:** Alexandra Purcarea, Patrick Kage, Arty Livingstone, Daniel Kirkman, Anabel Yong, Rokas Gudavicius\n\n**Agenda**\n\n- STMU updates\n- HTB updates\n- SIGINT updates\n- Talking about yearly report\n- Committee handover\n- Preparing for the EGM and succession\n\n**Discussion and Decisions**\n\n- **TODO for Alexandra:** Create document for yearly report, remind people to fill out document with advice to next committee, write up a little paragraph for each role for the EGM, ask Arty to promote the roles to first years.\n- HTB is happening this weekend, and they have everything under control. They still have to hear from MLH about sending merch.\n- Pwned went so well, that they are considering hosting a beginners' CTF.\n","title":"2021-03-01","date":"2021-03-01"},{"slug":"2021-02-22","content":"---\ndate: 2021-02-08 6:00pm\n---\n\n_Present:_ Samuel, Ryan, Arty, Tudor, Lars, Anabel\n\n**Agenda**\n\n- HTB update\n- General discussion\n\n**Discussion and Decisions**\n\n- Arty mentioned Charles Hoskinson – we might be interested in contacting him for a talk next year, apparently he had an event recently and it was very successful. SIGINT will not need any extra money in the near future.\n- For HTB things seem to be going fine, and Lars has contingency plans for things that could potentially go wrong. Hrishikesh seems interested in running HTB next year. HTB might need slightly more finance at some point, but the amount wouldn’t be too high at all.\n- Samuel pointed out that it would be a good idea to start working on the EUSA annual report.\n","title":"2021-02-22","date":"2021-02-22"},{"slug":"2021-02-08","content":"$38","title":"2021-02-08","date":"2021-02-08"},{"slug":"2021-01-26","content":"---\ndate: 2021-01-18 8:00pm\n---\n\n**Present:** Alexandra Purcarea, Tudor Finaru, Ryan Schuller, Samuel Macleod, Patrick Kage, Elspeth Smith, Artemis Livingstone, Daniel Kirkman\n\n**Agenda**\n\n- Discuss the introduction of a new EDI representative role in the committee\n- HTB updates\n- InfBall updates\n\n**Discussion and Decisions**\n\n- The present committee is in favor of making a constitutional amendment that adds a new EDI role to the committee. Should no person run for this position, a designated committee/executive member (TBD) will be assigned as EDI officer. More details should be included in the pull request, such as responsibilities and powers.\n- This decision will be voted on by the members at the following AGM, after which we will vote in the EDI representative (or not).\n- The application portal is up, the hackathon got approved by MLH - all in all, HTB preparation is going very well.\n- InfBall should (clearly) be moved to next year - we will leave it to the next committee to decide what season and date.\n","title":"2021-01-26","date":"2021-01-26"},{"slug":"2021-01-18","content":"---\ndate: 2021-01-18 8:00pm\n---\n\n**Present:** Alexandra Purcarea, Tudor Finaru, Ryan Schuller, Lars Thalian Morstad, Anabel Yong, Samuel Macleod, Patrick Kage\n\n**Agenda**\n\n- Hear about Aden's proposal about creating a Medium publication\n- Discuss a potential collaboration with WiSTEM for this semester (as a continuation of the last semester)\n- Hear about Ben's and Neil's calls with Alexandra\n- HTB updates\n\n**Discussion and Decisions**\n\n- **To do for Alexandra:** talk to Allie about STMU, let Neil know about our decision (and give him relevant contacts)\n- **To do for Ananya:** tell us how the donation is going\n- CompSoc agrees to creating a Medium publication for CompSoc, so students and staff can publish tech-related articles\n- After a fairly long discussion, we have agreed to provide 1,200 GBP for WiSTEM workshops\n- The committee agrees to Neil using the website for PhD matching\n- HTB registration website is up, everything else going well too\n","title":"2021-01-18","date":"2021-01-18"},{"slug":"2021-01-04","content":"---\ndate: 2021-01-04 8:00pm\n---\n\n**Agenda**\n\n- HTB update\n- SIGINT finances and updates\n- InfBall discussion\n- Plans for the new year\n- Preparing for the March elections\n\n**Discussion and Decisions**\n\n-\n- Crowdstrike will sponsor SIGINT for Pwned - they want to pay us through American Express, which works for our bank account.\n- They need 2-3 servers, at least one of which will be quite big, which we will help with. We need to talk to the technical secretary about this.\n- SIGINT will provide a finance sheet to CompSoc in order to clarify a misunderstanding about finances and purchasing new equipment.\n- We know a few people who will run for the next committee, including a presidential candidate. The old execs will need to help them with the transition.\n- Potential idea: a flatmate finding system within CompSoc, especially aimed at first years who might not know enough people to move in with.\n","title":"2021-01-04","date":"2021-01-04"},{"slug":"2020-11-16","content":"$39","title":"2020-11-16","date":"2020-11-16"},{"slug":"2020-11-09","content":"---\ndate: 2020-11-09 7:00pm\n---\n\n**Present**\nAlexandra Purcarea, Tudor Finaru, Daniel Kirkman, Elspeth Smith, Rokas Gudavicius, Patrick Kage (SIGWeb), Ryan Schuller, Samuel Macleod, Lars Thalian Morstad, Ananya Majumdar\n\n**Agenda**\n\n- HTB\n- Donations\n- Discord\n\n**Discussion and Decisions**\n\n- HTB:\n  - Need to sort out merchandise\n  - Opening the floor for judges and mentors\n  - May need more judges than before because of drastically more cheating problems\n  - MLH can help with merch distribution, provisional budget?\n  - List of sponsors, website, and prospectus for sponsors needed\n  - Provisional date: first weekend of March, 36 hours\n  - Secretary to help come up with ways for advertising, challenges, artsy challenge was liked\n- Donations:\n  - Decision was made to donate 1,000GBP initial lump sum to Code Your Future\n  - Secretary to email and create dialogue\n","title":"2020-11-09","date":"2020-11-09"},{"slug":"2020-11-02","content":"$3a","title":"2020-11-02","date":"2020-11-02"},{"slug":"2020-10-26","content":"$3b","title":"2020-10-26","date":"2020-10-26"},{"slug":"2020-10-19","content":"$3c","title":"2020-10-19","date":"2020-10-19"},{"slug":"2020-10-14","content":"$3d","title":"2020-10-14","date":"2020-10-14"},{"slug":"2020-10-08","content":"$3e","title":"2020-10-08","date":"2020-10-08"},{"slug":"2020-10-01","content":"---\ndate: 2020-10-01 6:00pm\n---\n\n**Discussion and Decisions**\n\n- Proposed weekly meeting time: Thursdays, 6:00pm\n- Potential voting mechanism for EGM: opavote.com/pricing\n- SIGINT requested £80 for prizes (CTF)\n- Constitution change proposals: generally to clarify definitions and possibly provide examples?\n\n**To-Do**\n\n- VP: post about vacant roles on committee\n","title":"2020-10-01","date":"2020-10-01"},{"slug":"2020-09-24","content":"$3f","title":"2020-09-24","date":"2020-09-24"},{"slug":"2020-08-23","content":"---\ndate: 2020-08-23 7:00pm\n---\n\n**Agenda**\n\n- Discussing how we will hold events in the first 2 weeks\n- Planning the academic families forms\n- Hearing from AlgoSIG and GameDevSIG\n- Getting an update on sponsorship\n\n**Decisions**\n\n- We are not holding any on-campus events in the first 2 weeks for safety reasons. The scavenger hunt will be postponed.\n- SIGs will also be asked to follow our guidelines when it comes to events.\n- Neil Heatley will help promote our academic families program once we have a functional link.\n- AlgoSIG will host their first event after freshers week since it's more academic.\n- GameDevSIG will give out Discord tags and Steam/Itch gift cards to the winners of their game competition.\n- Bloomberg is keen to sponsor us this year; all in all we have gathered 13,000 GBP for our budget.\n\n**TODO**\n\n- Finish academic families forms\n  - Google forms\n  - Parent bios\n  - Website section\n","title":"2020-08-23","date":"2020-08-23"},{"slug":"2020-07-18","content":"---\ndate: 2020-07-18 7:00pm\n---\n\n**Guests present:**\nAlessia Ciocanea, Nia Allen-Cooper, Rebecca Collins\n\n**Agenda**\n\n- Discussing a potential algorithmic trading SIG in more detail\n\n**Decisions**\n\n- The algo trading group will hold an 8-week long, beginner-level series.\n- They will branch out into specific parts of finance and hope to get a PhD student involved, as well as external speakers.\n\n**TODO**\n\n- Vote for the new algorithmic trading SIG\n","title":"2020-07-18","date":"2020-07-18"},{"slug":"2020-07-04","content":"$40","title":"2020-07-04","date":"2020-07-04"},{"slug":"2020-06-08","content":"$41","title":"2020-06-08","date":"2020-06-08"},{"slug":"2020-06-01","content":"---\ndate: 2020-06-01 7:00pm\n---\n\n**Agenda**\n\n- Deciding how to approach sponsorship documents\n- Discussing the treasurer vacancy\n\n**Decisions**\n\n- Sponsorship tiers will remain largely the same, with better alignment between CompSoc tiers and HTB tiers.\n- We will hold elections for treasurer during term time at an EGM.\n\n**TODO**\n\n- Change the sponsorship document:\n  - Emphasise remote events\n  - Make the gold tier wording more specific\n- Find potential treasurer candidates\n","title":"2020-06-01","date":"2020-06-01"},{"slug":"2020-05-25","content":"$42","title":"2020-05-25","date":"2020-05-25"},{"slug":"2020-03-05","content":"$43","title":"2020-03-05","date":"2020-03-05"},{"slug":"2020-02-27","content":"$44","title":"2020-02-27","date":"2020-02-27"},{"slug":"2020-02-13","content":"$45","title":"2020-02-13","date":"2020-02-13"},{"slug":"2020-02-06","content":"$46","title":"2020-02-06","date":"2020-02-06"},{"slug":"2020-01-30(1)","content":"---\ndate: 2020-01-30 6:30pm\n---\n\n**Present**:\nKyle Cotton, Lars Thalian Morstad, Yannik Nelson, Dee Yeum, Alan Paul, Athiya Deviyai, Ryan Schuller.\n\n**Agenda**\n\n- HTB catch up\n  - There has been some issues with booking other space for the event, especially in AT.\n  - Provisional hold on AT concourse and AT LT 4. We will be able to stay overnight.\n  - Split will be ca. 200/50\n  - Need to figure out how to keep people who are not part of the hackathon out.\n  - Gaming consoles, Tour of Edinburgh, Arthurs seat climb. Open to more ideas.\n  - Big to-do list to complete.\n  - Projector problem in G.06.\n- Suggested Events\n  - Ice-skating\n- Stickers\n\n**Todo:**\n\n- Ask about potentially pizza discounts.\n- Write up guide for how to run compsoc\n  - Financing with estimated budget\n  - Sponsors\n  - Tech stuff from Patrick\n  - Old contacts\n  - How to run the society in general\n","title":"2020-01-30(1)","date":"2020-01-30"},{"slug":"2020-01-23","content":"---\ndate: 2020-01-23 7:30pm\n---\n\n**Present**\n\nKyle Cotton, Lars Thalian Morstad, Keito Ido, Elspeth Smith, Alan Paul, Samuel Macleod, Patrick Kage, George Gilligan.\n\n**Agenda**\n\n- SIGINT Sponsor, needs contracts\n- SIGINT event is going well. Finances are under control.\n- HtB\n  - Money is looking a lot better after some issues earlier. More sponsors in the pipeline.\n  - Might need to have fewer participants\n  - Some issues with the intersection between CompSoc/ HtB contract tiers. This is now resolved.\n  - Over 300 have applied already.\n  - MLH registration, happening soon hopefully.\n- ScotQuan\n  - Transferring ScotQuan website to CompSoc\n  - Possibilities for workshops\n- Merch and Epay page going well. Should be done soon.\n- Discussion about meetings and meting structure. Suggestion that committee members should always be actively encouraged to come to all meetings, and a suggested change to meeting structure.\n\n**TODO**\n\n- Make a proper translation between HtB and CompSoc tiers.\n- Set up PayPal for CompSoc\n","title":"2020-01-23","date":"2020-01-23"},{"slug":"2020-01-16","content":"$47","title":"2020-01-16","date":"2020-01-16"},{"slug":"2019-11-28","content":"$48","title":"2019-11-28","date":"2019-11-28"},{"slug":"2019-11-21","content":"$49","title":"2019-11-21","date":"2019-11-21"},{"slug":"2019-11-07","content":"$4a","title":"2019-11-07","date":"2019-11-07"},{"slug":"2019-10-31","content":"$4b","title":"2019-10-31","date":"2019-10-31"},{"slug":"2019-10-17","content":"$4c","title":"2019-10-17","date":"2019-10-17"},{"slug":"2019-10-07","content":"$4d","title":"2019-10-07","date":"2019-10-07"},{"slug":"2019-09-16","content":"$4e","title":"2019-09-16","date":"2019-09-16"},{"slug":"2019-05-10","content":"$4f","title":"2019-05-10","date":"2019-05-10"},{"slug":"2019-04-01","content":"$50","title":"2019-04-01","date":"2019-04-01"},{"slug":"2019-01-23","content":"---\ndate: 2019-01-23 4pm\n---\n\n**Present:**\nElspeth Smith, Rokas Gudaviskus, Mo Javad, Joao Maio, Patrick Kage, Tony Duggan, Kyle Cotton, Qais Patankar\n\n**InfBall**\n\n- First meeting about InfBall next week.\n\n**HackTheBurgh**\n\n- Everything is progressing well\n\n**Pub Quiz**\n\n- We want to have a pub quiz before flexible learning week, with Bloomberg.\n- Potentially at St Andrews Brewing Club.\n\n**SannellaBration**\n\n- Potentially speaking with Don about hosting a birthday party for him.\n\n**Mugs from Charity Shop**\n\n- We'd like to get some mugs from the charity shop for AT kitchens.\n\n**CompSoc Merchandise**\n\n- Will order CompSocks very soon.\n","title":"2019-01-23","date":"2019-01-23"},{"slug":"2018-11-23","content":"$51","title":"2018-11-23","date":"2018-11-23"},{"slug":"2018-10-25","content":"$52","title":"2018-10-25","date":"2018-10-25"},{"slug":"2018-09-16","content":"$53","title":"2018-09-16","date":"2018-09-16"},{"slug":"2018-05-15","content":"$54","title":"2018-05-15","date":"2018-05-15"},{"slug":"2018-03-29","content":"$55","title":"2018-03-29","date":"2018-03-29"},{"slug":"2018-03-07","content":"$56","title":"2018-03-07","date":"2018-03-07"},{"slug":"2018-02-15","content":"---\ndate: 2018-02-15 2pm\n---\n\nInformatics Ball committee meeting\n\n**Present**\n\nQais Patankar, Connie Crowe, Liana Ahmed, Ojasvi Jalal\n\n**Under 18s?**\n\n- Only allowed in until 9pm\n  -Update FAQ to say no they can’t come.\n\n**Photography**\n\n- Daniel doesn’t have the best pictures really.\n- Have emailed Kenny.\n\n**Linen**\n\n- Qais emails Neil.\n\n**Form**\n\n- Qais fix the f\\*\\*king typo.\n- Add a “I am over 18 (ID will be checked at the door).” box on the form\n- Update the FAQ for 18s\n","title":"2018-02-15","date":"2018-02-15"},{"slug":"2018-02-07","content":"---\ndate: 2018-02-07 4pm\n---\n\nInformatics Ball committee meeting\n\n**Present**\n\nQais Patankar, Connie Crowe, Ginte Petrulionyte, Liana Ahmed, Ojasvi Jalal\n\n**Photography**\n\nQais has posted on the PhotoSoc page. Offering £100.\n\n**Ceilidh**\n\nOjasvi has booked FolkSoc. Waiting confirmation.\n\n10pm - 1am.\n\n**Tables**\n\nAsk Neil about table linen + uni suppliers (Qais)\n\nDrink prices at the Jam House?\n\nQais is setting up a payment system.\n\n**Dead (or not yet dead)People**\n\n- Lovelace\n- Babbage\n- Hopper\n- Pascal\n- Dijkstra\n- Anita Borg\n- Gödel\n- Margaret Hamilton\n- Turing\n- Boole\n- Von Neumann\n- Katherine Johnson\n- Kleene\n- Betty Holberton\n- Hermann\n","title":"2018-02-07","date":"2018-02-07"},{"slug":"2018-01-30","content":"$57","title":"2018-01-30","date":"2018-01-30"},{"slug":"2018-01-15","content":"---\ndate: 2018-01-15 6pm\n---\n\n**Present**\n\nAngus Shaw, Dylan Oshima, Josh Green, Nicholas Lynch, Cameron Sharp, Qais Patankar, Ginte Petrulionyte, Joe Foster, Will Mathewson\n\n**Events (upcoming)**\n\n- 4 events this month - STMU, CinemAI, AI, Justice, Cyber Security, and the Law, pub crawl\n- Year reps can do lecture shoutouts/promoting\n\n**Events (potential)**\n\n- Inf Ball\n  - Venue - The Jam House\n  - Date - 8th April (few days after Honours project deadline)\n- End of Year Barbecue\n  - Could be held on Inf Forum roof\n  - Should be held on last day of exams (in May) or soon after\n\n**SigWeb**\n\n- Generally inactive\n  - Down to Harry (Reeder) and Will to find a more active member\n  - Will try and get some new workshop events\n- Website\n  - Hoodie section almost done, should be out by end of week\n  - Codes are ready to send\n\n**Other**\n\n- Library\n  - Has been catalogued\n  - WIll be put in email\n","title":"2018-01-15","date":"2018-01-15"},{"slug":"2017-12-02","content":"---\ndate: 2017-12-02 1pm\n---\n\nIt's Local Hack Day!\n\n**Present**\n\nQais Patankar, Viktorija Lukosiute, Harry Reeder, Elena Lape, Dylan Oshima\n\n**New SIG: Law and Technology Group**\n\nVoted in by all present.\n","title":"2017-12-02","date":"2017-12-02"},{"slug":"2017-11-03","content":"---\ndate: 2017-11-03 7pm\n---\n\n**Present**\n\nQais Patankar, Elena Lapė, Ginte Petrulionyte, Dylan Oshima, Viktorija Lukosiute, Joshua Green\n\n**Barclays Event**\n\nIn Glasgow. Not enough notice to organise a trip.\n\n**JP Morgan**\n\nNeed to get things ready before the trip to Glasgow.\n\n**End of year party**\n\nNeed to find the best date for 4th year. Suggested: 13th March, 23rd March\n\n**Christmas Pub Quiz**\n\n23rd November, Loft Bar\n\n**Hoodies!**\n\nJust need to take payments.\n\n**Cards!**\n\nNFC, Could have a db with all the IDs to track memberships etc.\n\n**Jigsaw movie** organised by Dylan\n\n- Date and Price\n- Buy tickets on the spot\n  - Cineworld\n  - Edinburgh Playhouse\n\n**SIGINT Card reader/writer/scanner**\n\nCompSoc will use it too for membership cards.\n","title":"2017-11-03","date":"2017-11-03"},{"slug":"2017-10-11","content":"$58","title":"2017-10-11","date":"2017-10-11"},{"slug":"2017-09-20","content":"$59","title":"2017-09-20","date":"2017-09-20"},{"slug":"2017-04-25","content":"$5a","title":"2017-04-25","date":"2017-04-25"},{"slug":"2017-03-29","content":"$5b","title":"2017-03-29","date":"2017-03-29"},{"slug":"2017-03-01","content":"$5c","title":"2017-03-01","date":"2017-03-01"},{"slug":"2017-01-31","content":"---\ndate: 2017-01-31 6:10pm\n---\n\nThis week’s meeting covers the HackSIG situation, hoodie things, and website discussion.\n\n**Present**\n\nSusanne Koster, Simon Vahr, Viktorija Lukosuite, Joshua Green, Aw Young Qingzhuo\n\n**Agenda**\n\n- Termination of the HackSec\n- Hoodies are happening:\n  - invoice ready, not ordered yet\n  - jet black / fire red\n- Kaitlyn is now with Amazon. She’s technically a recruiter, but could help us find a contact.\n- End of year party\n  - Apparently dissertation is due april 6 (fourth year)\n  - SDP (third year)\n    - Friday April 7th - Final day\n    - Wednesday April 19th - _submit technical report_ (no biggie)\n  - Teviot\n    - check available dates for the loft bar, > 40 people\n    - Ask about music and microphones\n    - Pre-arrange a tab\n- SigINT: succession details. Trying to find a new person.\n- 68 Dutch students: responsibility of next committee\n- Club Penguin is shutting down\n- Spread the word for bowling\n","title":"2017-01-31","date":"2017-01-31"},{"slug":"2017-01-18","content":"---\ndate: 2017-01-18 5pm\n---\n\nThis week's meeting covers the end of year party, Hack the Burgh, and other events.\n\n**Present**\n\nJoshua Green, Benedetta Mussati, Viktorija Lukosuite, Qais Patankar, Martynas Grigonis, Nicholas Lynch, Susanne Koster\n\n**Agenda**\n\n- Charity website is broken: providing help\n- Invoice ARM, GitHub\n- End of year party\n  - Reminder in feb\n  - Venue: loft bar, teviot\n  - Think of a theme\n- March 15th. AGM.\n- Dutch\n  - Coding competition\n  - Pub\n- Communications & Outreach Manager: meeting on friday\n- Socials: Escape Room?\n- Hack the Burgh\n  - Support from Informatics?\n  - Informatics Forum may host HTB\n  - IF servitors are expensive… during the day on the weekend\n","title":"2017-01-18","date":"2017-01-18"},{"slug":"2016-11-23","content":"$5d","title":"2016-11-23","date":"2016-11-23"},{"slug":"2016-11-09","content":"$5e","title":"2016-11-09","date":"2016-11-09"},{"slug":"2016-10-26","content":"$5f","title":"2016-10-26","date":"2016-10-26"},{"slug":"2016-09-26","content":"$60","title":"2016-09-26","date":"2016-09-26"},{"slug":"2016-04-22","content":"---\ndate: 2016-04-22 10am\n---\n\nThis week's meeting covers details relating to sponsors.\n\n**Present**:\n\nLisa Xie, Vesko Stefanov, Viktorija Lukosiute, Benedetta Mussati, Susanne Koster, Martynas Grigonis\n\n**Agenda**:\n\nThe only topic of this meeting was the development of the partnership programme for the year.\n","title":"2016-04-22","date":"2016-04-22"},{"slug":"2016-03-22","content":"$61","title":"2016-03-22","date":"2016-03-22"}]}]}]
+2:["$","$a",null,{"children":["$","$Lb",null,{"posts":[{"slug":"2024-09-27","content":"$c","title":"2024-09-27","date":"2024-09-27"},{"slug":"2024-09-19","content":"$d","title":"2024-09-19","date":"2024-09-19"},{"slug":"2024-09-15","content":"$e","title":"2024-09-15","date":"2024-09-15"},{"slug":"2024-07-28","content":"$f","title":"2024-07-28","date":"2024-07-28"},{"slug":"2024-06-03","content":"$10","title":"2024-06-03","date":"2024-06-03"},{"slug":"2024-05-29","content":"$11","title":"2024-05-29","date":"2024-05-29"},{"slug":"2024-05-22","content":"$12","title":"2024-05-22","date":"2024-05-22"},{"slug":"2024-05-07","content":"$13","title":"2024-05-07","date":"2024-05-07"},{"slug":"2024-04-30","content":"$14","title":"2024-04-30","date":"2024-04-30"},{"slug":"2024-04-23","content":"$15","title":"2024-04-23","date":"2024-04-23"},{"slug":"2024-03-20","content":"$16","title":"2024-03-20","date":"2024-03-20"},{"slug":"2024-03-13","content":"$17","title":"2024-03-13","date":"2024-03-13"},{"slug":"2024-03-06","content":"$18","title":"2024-03-06","date":"2024-03-06"},{"slug":"2024-03-03","content":"---\ndate: 03/03/2024 12:00\n---\n\nFergus White (President)\nCaterina Mammola (Techmical Secretary)\nCharlotte Ausel (Social Secretary)\nYuto Takano (Graphic Designer)\nElisa Sophie Fraticelli (Treasurer)\nVincentas Antanas Danys (First Year Representative)\nArin Mukhopadhyay (Second Year Representative)\nChua Man Shan (School Representative)\n\n# Santander bank account transfer\n\nFollowing the last meeting, Santander has requested Yuto Takano and Chua Man Shan to provide a residence permit or visa for the bank transfer.\n\nAs stated in the previous meeting, Charlotte Ausel, Vincentas Antanas Danys support the changes requested in the bank account making Elisa Sophie Fraticelli and Fergus White account holders of the CompSoc bank account. The aforementioned individuals also agree to remove Karthik Narayanan, Artemis Livingstone and Alexandra Purcărea as holders of the CompSoc bank account.\n","title":"2024-03-03","date":"2024-03-03"},{"slug":"2024-02-28","content":"$19","title":"2024-02-28","date":"2024-02-28"},{"slug":"2024-02-07","content":"$1a","title":"2024-02-07","date":"2024-02-07"},{"slug":"2024-01-24","content":"$1b","title":"2024-01-24","date":"2024-01-24"},{"slug":"2024-01-17","content":"$1c","title":"2024-01-17","date":"2024-01-17"},{"slug":"2023-12-06-sig","content":"$1d","title":"2023-12-06-sig","date":"2023-12-06"},{"slug":"2023-12-06","content":"$1e","title":"2023-12-06","date":"2023-12-06"},{"slug":"2023-11-22","content":"$1f","title":"2023-11-22","date":"2023-11-22"},{"slug":"2023-11-08-sig","content":"$20","title":"2023-11-08-sig","date":"2023-11-08"},{"slug":"2023-11-08","content":"$21","title":"2023-11-08","date":"2023-11-08"},{"slug":"2023-11-01","content":"$22","title":"2023-11-01","date":"2023-11-01"},{"slug":"2023-10-18","content":"$23","title":"2023-10-18","date":"2023-10-18"},{"slug":"2023-10-11","content":"$24","title":"2023-10-11","date":"2023-10-11"},{"slug":"2023-10-04","content":"$25","title":"2023-10-04","date":"2023-10-04"},{"slug":"2023-09-27","content":"$26","title":"2023-09-27","date":"2023-09-27"},{"slug":"2023-01-19","content":"$27","title":"2023-01-19","date":"2023-01-19"},{"slug":"2022-12-01","content":"$28","title":"2022-12-01","date":"2022-12-01"},{"slug":"2022-11-17","content":"$29","title":"2022-11-17","date":"2022-11-17"},{"slug":"2022-11-10","content":"$2a","title":"2022-11-10","date":"2022-11-10"},{"slug":"2022-11-03","content":"$2b","title":"2022-11-03","date":"2022-11-03"},{"slug":"2022-06-22","content":"$2c","title":"2022-06-22","date":"2022-06-22"},{"slug":"2022-06-15","content":"---\ndate: 2022-06-15 6:30pm\n---\n\n**Present:** Ben. M, Krzysztof. G, Kshitij. S, Charlotte. A, Ammir. M, Amy. Y,\n\n- Fresher's Weeks Events\n\n  - Society Fair: Talk to SIG\n  - Potential Live Streamed event\n  - GameDevSig Event: Room in AT for 2 hours\n  - Pub Night: Weekend of fresher's week\n  - Game Night: Possibly LAN? Reach out to GameSoc\n  - Arthur Seat Hike:\n  - Under 18 event: Coffee/Hot Chocolate event??\n  - Scavenger Hunt\n\n- Finances\n\n  - Get bank account transfer process started\n\n- Cupboard\n\n  - Cleanup and Inventory\n\n- TODO\n  - @Kshitij make a google sheet for cupboard content documentation\n  - @Kshitij follow up on backup STMU venue bookings with EUSA if no response soon-ish\n  - @Amy talk to Pear Tree about Pub Night\n  - @Amy make a google doc to centralize freshers planning\n  - @Charlotte to reach out to Maya regarding Game Night\n","title":"2022-06-15","date":"2022-06-15"},{"slug":"2022-04-06","content":"$2d","title":"2022-04-06","date":"2022-04-06"},{"slug":"2022-03-30","content":"$2e","title":"2022-03-30","date":"2022-03-30"},{"slug":"2022-03-23","content":"---\ndate: 2022-03-23 5:00pm\n---\n\n**Present:** Artemis L., Alex P., Karthik N., Oscar S., Paula S., Yuto T., Callum L., Ben M., Ashley R., Mikey A., Ammir B., Kim (InfBall)\n\n**Agenda**\n\n- Pt. 1: Hear from InfBall.\n- Pt. 2: Discuss the AGM.\n- Pt. 3: Sponsor update.\n- Pt. 4: HackerNoon debriefing.\n\n**Discussion & Decisions**\n\n- **Pt. 1 conclusion:** There have been some ticket selling scams - there is a plan for next year to make transactions more secure by changing the QR code and acting as the middle person. Staff seating has been decided. A string quartet has been hired and alcoholic drinks have been organized.\n- **Pt. 2 conclusion:** There are people running for all executive positions. We seem to be covered for next year.\n- **Pt. 3 conclusion:** New sponsorship deck should include active SIGs and hybrid events. There should also be a nicer color scheme for next year. Two fintech companies are interested in sponsorships.\n","title":"2022-03-23","date":"2022-03-23"},{"slug":"2022-03-16","content":"---\ndate: 2022-03-16 5:00pm\n---\n\n**Present:** Karthik N., Oscar S., Paula S., Yuto T., Mikey A.\n\n**Agenda**\n\n- Pt. 1: Election Discussion\n- Pt. 2: Sponsors and STMU\n\n**Discussion & Decisions**\n\n- **Pt. 1 conclusion:** Optiver has pulled out of the 29th, but the room is booked. We'll advertise the AGM anyway.\n- **Pt. 2 conclusion:** VP will ask Optiver if they'd like the 12th (mid-April) for an event. VP will also ask if Bloomberg would be fine with an online event around the end of April. May events do not look promising given many Informatics exams span the entire exam schedule, perhaps Google may not get a chance.\n- **Pt. Ex:** Website has been updated to reflect the confirmation of AGM date and constitutional changes.\n","title":"2022-03-16","date":"2022-03-16"},{"slug":"2022-03-02","content":"---\ndate: 2022-03-02 5:00pm\n---\n\n**Present:** Alexandra P., Karthik N., Oscar S., Paula S., Yuto T., Ben M., Mikey A., Ashley R., Ammir B., Kim (InfBall)\n\n**Agenda**\n\n- Pt. 0: InfBall update\n- Pt. 1: Election decisions\n- Pt. 2: Sponsors and STMU\n- Pt. 3: Constitution changes\n\n**Discussion & Decisions**\n\n- **Pt.0 conclusion:** Many lecturers are coming, many replied with 'maybe' for the moment. Kim will be asking for money for the 15 tickets allocated to them. There will be a photographer, ceilidh band, and a photo studio.\n- **Pt. 1 conclusion:** The election will happen on the 29th, after Optiver's talk.\n- **Pt. 2 conclusion:** We might have to have two STMUs in April to finish our sponsor list for the year.\n- **TODO3 for Ammir and Alexandra:** Modify the constitution by the 29th: EUSA updates, adding the school EDI rep, reporting procedures.\n","title":"2022-03-02","date":"2022-03-02"},{"slug":"2022-02-09","content":"$2f","title":"2022-02-09","date":"2022-02-09"},{"slug":"2022-01-26","content":"$30","title":"2022-01-26","date":"2022-01-26"},{"slug":"2022-01-19","content":"$31","title":"2022-01-19","date":"2022-01-19"},{"slug":"2021-12-08","content":"$32","title":"2021-12-08","date":"2021-12-08"},{"slug":"2021-12-01","content":"$33","title":"2021-12-01","date":"2021-12-01"},{"slug":"2021-11-24","content":"$34","title":"2021-11-24","date":"2021-11-24"},{"slug":"2021-11-19","content":"---\ndate: 2021-11-19 4:00pm\n---\n\n**Present:** Artemis Livingstone, Karthik Narayanan, Alexandra Purcarea, Bence Szilagyi, Mikey Andrejczuk, Paula Sparrow, Yuto Takano, Callum Leask, Ashley Roberts, Ammir Barakat, himmelmaus, Samuel MacLeod\n\n**Agenda**\n\n- Committee-wide discussion on misconduct within the society.\n\n**Discussion and Decisions**\n\n- Bence has resigned from his position as vice president in the committee.\n- **TODO:** Work widely on the constitution template, including but not limited to impeachment, how to handle misconduct, what constitutes as misconduct.\n- **TODO for Arty:** Get bank details from Code Your Future and Stand Against Racism and Inequality to make a donation.\n- Ammir will look into EDI training for future committee members.\n- **TODO:** Reach out to other societies and see what they are doing to combat misconduct and to make sure that morally upstanding people run for elections.\n- **TODO for Alexandra + moderation team:** Draft an anonymous reporting form.\n","title":"2021-11-19","date":"2021-11-19"},{"slug":"2021-11-17","content":"$35","title":"2021-11-17","date":"2021-11-17"},{"slug":"2021-11-10","content":"$36","title":"2021-11-10","date":"2021-11-10"},{"slug":"2021-11-03","content":"---\ndate: 2021-11-03 5:00pm\n---\n\n**Present:** Artemis Livingstone, Ammir Barakat, Bence Szilagyi, Alexandra Purcarea, Paula Sparrow, Callum Leask, Ben McConville, Mikey Andrejczuk, himmelmaus, Rokas Gudavicius, Samuel MacLeod\n\n**Agenda**\n\n- Committee introduction :)\n- Discuss committee expenses.\n- Organize the next STMU.\n- Talk about making an announcement for COVID compliance within AT.\n- Move away from EUSA?\n\n**Discussion and Decisions**\n\n- **TODO for Karthik and exec committee:** Look for, or otherwise draft an expenses policy.\n- **TODO for Alexandra:** Look into block bookings on the 19th.\n- **TODO for Bence:** Get two speakers for the 19th November STMU.\n- **TODO for Mikey:** Make the announcement on Discord r.e. leaving AT on time and being COVID-compliant.\n- **TODO for committee:** Consider more academic events, such as competitions and panels. Talk to Hoppers about Hash Code (Alex) and in general.\n- EUSA discussion (mostly) left for another time.\n","title":"2021-11-03","date":"2021-11-03"},{"slug":"2021-10-27","content":"---\ndate: 2021-10-27 5:00pm\n---\n\n**Present:** Karthik Narayanan, Ammir Barakat, Alexandra Purcarea, Yuto Takano, Paula Sparrow, Mikey Andrejczuk\n\n**Agenda**\n\n- Discuss lack of involvement with first years.\n- Alexandra: update people on LawTech and STMU.\n- Talk about/vote on WiSTEM workshops.\n- Talk about committee participation at social events.\n\n**Discussion and Decisions**\n\n- Mikey will go to a 9AM CL lecture tomorrow to announce the EGM (:heart:).\n- Tell WiSTEM we need to assess our financial situation first. Hold off on this issue.\n- People will be assigned for each social event, should be less of a problem with the vice president/first year rep.\n","title":"2021-10-27","date":"2021-10-27"},{"slug":"2021-10-20","content":"$37","title":"2021-10-20","date":"2021-10-20"},{"slug":"2021-10-13","content":"---\ndate: 2021-10-13 5:00pm\n---\n\n**Present:** Artemis Livingstone, Karthik Narayanan, Alexandra Purcarea, Yuto Takano, Callum Leask, Paula Sparrow, Mikey Andrejczuk, Ammir Barakat, Lucia and Hrishikesh (HTB)\n\n**Agenda**\n\n- Hear from HTB.\n- Finalize EGM stuff.\n- Talk about budget.\n- Plan socials.\n\n**Discussion and Decisions**\n\n- HTB is in talks with MLH as well as with informatics regarding room bookings.\n- The EGM might be organized at a EUSA venue, details to be determined. Dylan has agreed to giving a talk.\n- **TODO for Alexandra:** Post election news on Facebook + Discord.\n- We need to project budget numbers for this year's events.\n- Social events should be announced well in advance, and we want to make sure that we have an event every week.\n- The social secretary, secretary and graphic designer will keep in touch with each other regarding social events.\n- **TODO for a future meeting:** Discuss merch and how to sell it.\n","title":"2021-10-13","date":"2021-10-13"},{"slug":"2021-10-06","content":"---\ndate: 2021-10-06 5:00pm\n---\n\n**Present:** Artemis Livingstone, Karthik Narayanan, Alexandra Purcarea, Callum Leask, Ammir Barakat, Lucia and Marian (HTB)\n\n**Agenda**\n\n- Hear from HTB.\n- Setting the date for the EGM.\n- Discuss a Halloween social.\n- Prepare the movie social.\n- Talk about the Informatics ball.\n\n**Discussion and Decisions**\n\n- AND haven't replied to us so we have no date settled.\n- Ammir is planning to lead a **spooky tour of Edinburgh on the 30th at 19:00**.\n- We are aiming to have a movie night on **Sunday the 17th between 18:00 and 21:00**.\n- We need to get Kim in a meeting, if possible.\n","title":"2021-10-06","date":"2021-10-06"},{"slug":"2021-09-29","content":"---\ndate: 2021-09-29 5:00pm\n---\n\n**Present:** Artemis Livingstone, Alexandra Purcarea, Paula Sparrow, Yuto Takano, Callum Leask, Mikey Andrejczuk, Ammir Barakat\n\n**Agenda**\n\n- Talk about the EGM+STMU.\n- Talk about social events.\n\n**Discussion and Decisions**\n\n- Although the date is not decided yet, **Yuto and Alexandra** will work on making a post about electing the first+third year rep, as well as the VP.\n- **Arty and Paula** will talk to several venues about student deals, including Civerinos and pubs.\n- We need a venue for coffee socials - we need to find one that is big enough for our members.\n- The Brass Monkey could be good for movie nights, as they have a special movie room.\n- Alexandra and other committee members will start properly cleaning the cupboard and disposing of the trash themselves.\n","title":"2021-09-29","date":"2021-09-29"},{"slug":"2021-09-22","content":"---\ndate: 2021-09-22 5:00pm\n---\n\n**Present:** Arty Livingstone, Alexandra Purcarea, Karthik Narayanan, Paula Sparrow, Callum Leask, Mikey Andrejczuk, Yuto Takano, Ammir Barakat\n\n**Agenda**\n\n- Hear from HTB\n- Change library website section\n- Discuss the election\n- Plan the rotation of events\n\n**Discussion and Decisions**\n\n- HTB has a booked building and is talking to MLH soon. Sponsorships also seem to be going well, much better than last year.\n- The hackathon will be held in **November** and will be hybrid.\n- We are organizing our first STMU with AND Digital and an EGM for VP and first year rep.\n- **TODO for Arty and Alexandra:** Discuss the STMU+EGM further and start advertising the roles.\n- Paula will take over the Instagram account. She will also talk to Revolution regarding a partnership.\n","title":"2021-09-22","date":"2021-09-22"},{"slug":"2021-09-08","content":"---\ndate: 2021-09-08 7:00pm\n---\n\n**Present:** Alexandra Purcarea, Paula Sparrow, Mikey Andrejczuk, Rokas Gudavicius, CK (SIGINT)\n\n**Agenda**\n\n- Discuss the cupboard/library situation\n- Hear from SIGINT\n- Talk about events\n\n**Discussion and Decisions**\n\n- The games night will be hosted on the GameSoc Discord.\n- **TODO for Alexandra:** Promote games night on Friday.\n- **TODO for Karthik:** Check the treasurer's shelf and see what needs to be kept and thrown away.\n","title":"2021-09-08","date":"2021-09-08"},{"slug":"2021-09-02","content":"---\ndate: 2021-09-02 6:00pm\n---\n\n**Present:** Karthik Narayanan, Alexandra Purcarea, Yuto Takano, Paula Sparrow, Mikey Andrejczuk, Ammir Barakat\n\n**Agenda**\n\n- Discussing Welcome Week events\n- Bank account status\n\n**Discussion and Decisions**\n\n- Karthik will talk to Arty about sending the relevant documents.\n- We will be hosting the games night online, but we need to make sure that we offer more than typical online games (Gartic Phone, Stardew Valley, Jackbox).\n- **TODO for Alexandra:** Make Eventbrite event to gather interest for pub crawl, in order to make an accurate reservation.\n","title":"2021-09-02","date":"2021-09-02"},{"slug":"2021-08-23","content":"---\ndate: 2021-08-23 6:00pm\n---\n\n**Present:** Artemis Livingstone, Karthik Narayanan, Alexandra Purcarea, Paula Sparrow, Mikey Andrejczuk, Yuto Takano, Rokas Gudavicius, Ammir Barakat\n\n**Agenda**\n\n- Discussing Welcome Week events\n\n**Discussion and Decisions**\n\n- We made a spreadsheet with our availabilities for Welcome Week events.\n- **TODO for Alexandra:** Look for CompSoc merch in the cupboard, and ask Neil for extra hoodies\n- **TODO for Alexandra:** Interest check for Scavengers Hunt, maybe have a cap on the event?\n- Games Night and Pub Crawl might not happen in-person, and will be more difficult to organize.\n- We might organize a BBQ instead of a Pub Crawl.\n- **TODO for committee:** Wait another week for restriction updates and talk more next meeting.\n","title":"2021-08-23","date":"2021-08-23"},{"slug":"2021-08-10","content":"---\ndate: 2021-08-10 7:00pm\n---\n\n**Present:** Artemis Livingstone, Alexandra Purcarea, Yuto Takano, Ammir Barakat\n\n**Agenda**\n\n- Talk about Jack coming in as a new Second year representative\n- Discuss elections for new Vice president\n- Make plans for merch and hybrid events\n- Bring up InfPALS academic families idea\n\n**Discussion and Decisions**\n\n- We decided to have a designated person be included by BCC in all emails towards sponsors. This will be highlighted in our channel and be treated as a procedure.\n- We will be participating in the physical Activity Fair; also, Ammir will reach out to freshers through talks on our Discord server.\n- We will promote the academic family program for InfPALS, but we do not have the time to do anything beyond that.\n- **TODO for next meeting:** Decide the person responsible for merch.\n- **TODO:** Find potential VP candidates and follow up in the next meeting.\n- **TODO:** More participation from committee members please!\n","title":"2021-08-10","date":"2021-08-10"},{"slug":"2021-07-12","content":"---\ndate: 2021-07-12 6:00pm\n---\n\n**Present:** Artemis Livingstone, Yuto Takano, Alexandra Purcarea, Ammir Barakat\n\n**Agenda**\n\n- Talk more about social events\n\n**Discussion and Decisions**\n\n- **TODO for Alexandra:** Register freshers week events in the EUSA form.\n","title":"2021-07-12","date":"2021-07-12"},{"slug":"2021-07-01","content":"---\ndate: 2021-07-01 6:00pm\n---\n\n**Present:** Artemis Livingstone, Andi Dicu, Karthik Narayanan, Alexandra Purcarea, Yuto Takano, Samuel Macleod\n\n**Agenda**\n\n- Where to place the cookbook\n- Freshers week events\n- We need to update this page https://comp-soc.com/team\n- Update from Alexandra on Cardiff society\n\n**Discussion and Decisions**\n\n- **TODO for Yuto:** Ask Samuel for pictures\n- **TODO for Arty and Alexandra:** Post freshers week events on university events app\n","title":"2021-07-01","date":"2021-07-01"},{"slug":"2021-06-14","content":"---\ndate: 2021-06-14 6:00pm\n---\n\n**Present:** Artemis Livingstone, Andi Dicu, Karthik Narayanan, Alexandra Purcarea, Yuto Takano, Paula Sparrow, Callum Leask, Cheng Kai Eng, Wiktor Kaluza\n\n**Agenda**\n\n- Hearing from SIG leaders\n\n**Discussion and Decisions**\n\n- There are plans to revive pwnable, i.e. start paying for the server again.\n- **TODO for Karthik:** Once you have access to the bank account, ping Maddox about the money SIGINT has left\n- **TODO for Artemis:** Contact pubs (e.g. Pear Tree) for collaboration\n","title":"2021-06-14","date":"2021-06-14"},{"slug":"2021-05-31","content":"---\ndate: 2021-05-31 6:00pm\n---\n\n**Present:** Alexandra Purcarea, Lars Thalian Morstad, Paula Sparrow, Karthik Narayanan, Yuto Takano, Andi Dicu, Ammir Barakat, Hrishkesh Srinivasan, Lucia Garcia Velasco\n\n**Agenda**\n\n- Hearing from the new HTB leaders\n\n**Discussion and Decisions**\n\n- Hrishikesh and Lucia will co-lead the hackathon next year. They will be given email addresses, as well as access to Lars' emails from last year.\n- We also heard a quick overview of the sponsorship process for CompSoc.\n- **TODO for Yuto:** Give Lucia and Hrishikesh email accounts + access to Lars\n  - Yuto: gave Lucia and Hrishikesh emails\n  - Looking into shared mail access for lars\n- **TODO for Lars:** Send HTB Instagram credentials\n","title":"2021-05-31","date":"2021-05-31"},{"slug":"2021-04-12","content":"$38","title":"2021-04-12","date":"2021-04-12"},{"slug":"2021-04-05","content":"---\ndate: 2021-04-05 6:00pm\n---\n\n**Present:** Alexandra Purcarea, Tudor Finaru, Yuto Takano, Samuel Macleod, Andi Dicu, Ammir Barakat, Michael Andrejczuk, Paula Sparrow, Callum Leask, Rokas Gudavicius, Ryan Schuller, Karthik Narayanan, Callum Leask, Anabel Yong\n\n**Agenda**\n\n- Discuss handovers and touch base with new committee members.\n- Discuss our primary mode of communication.\n- Discuss Discord protected channels.\n\n**Discussion and Decisions**\n\n- **TODO for Alexandra:** Create a Discord channel for the committee only. We will have to be careful about bridging relevant channels, such as sig-leaders, when we believe that people might not be able to join Discord.\n- **TODO for committee:** Talk about the mental health Discord channel next meeting.\n- We have decided to delete protected channels that have not been used in the past month.\n- **TODO for committee:** Vote on donation amount once the new treasurer has access to the bank account.\n","title":"2021-04-05","date":"2021-04-05"},{"slug":"2021-03-08","content":"---\ndate: 2021-03-08 6:00pm\n---\n\n**Present:** Alexandra, Arty, Lars, Patrick, Tudor\n\n**Agenda**\n\n- HTB update\n- Handover preparation\n\n**Discussion and Decisions**\n\n- The hackathon really well, with around 50 total submissions and 300+ people in the server. It was hard to tell how participants were doing, but the livestream was fun and of really good quality. Next time, we should place more emphasis on team-building.\n- **To do for Anabel:** check out the invoice from Hack Productions, order Amazon gifts for hackathon winners with Lars (during a call), reimburse Patrick for hosting costs and Lars for Discord Nitro\n- We really need to step up for promoting EGM roles.\n- The AGM will be postponed to the 2nd of April.\n- We will use a similar format to the previous EGM.\n- **To do for Alex:** DM people about CompSoc committee roles!\n- **To do for Tudor:** promote the AGM\n","title":"2021-03-08","date":"2021-03-08"},{"slug":"2021-03-01","content":"---\ndate: 2021-03-01 6:00pm\n---\n\n**Present:** Alexandra Purcarea, Patrick Kage, Arty Livingstone, Daniel Kirkman, Anabel Yong, Rokas Gudavicius\n\n**Agenda**\n\n- STMU updates\n- HTB updates\n- SIGINT updates\n- Talking about yearly report\n- Committee handover\n- Preparing for the EGM and succession\n\n**Discussion and Decisions**\n\n- **TODO for Alexandra:** Create document for yearly report, remind people to fill out document with advice to next committee, write up a little paragraph for each role for the EGM, ask Arty to promote the roles to first years.\n- HTB is happening this weekend, and they have everything under control. They still have to hear from MLH about sending merch.\n- Pwned went so well, that they are considering hosting a beginners' CTF.\n","title":"2021-03-01","date":"2021-03-01"},{"slug":"2021-02-22","content":"---\ndate: 2021-02-08 6:00pm\n---\n\n_Present:_ Samuel, Ryan, Arty, Tudor, Lars, Anabel\n\n**Agenda**\n\n- HTB update\n- General discussion\n\n**Discussion and Decisions**\n\n- Arty mentioned Charles Hoskinson – we might be interested in contacting him for a talk next year, apparently he had an event recently and it was very successful. SIGINT will not need any extra money in the near future.\n- For HTB things seem to be going fine, and Lars has contingency plans for things that could potentially go wrong. Hrishikesh seems interested in running HTB next year. HTB might need slightly more finance at some point, but the amount wouldn’t be too high at all.\n- Samuel pointed out that it would be a good idea to start working on the EUSA annual report.\n","title":"2021-02-22","date":"2021-02-22"},{"slug":"2021-02-08","content":"$39","title":"2021-02-08","date":"2021-02-08"},{"slug":"2021-01-26","content":"---\ndate: 2021-01-18 8:00pm\n---\n\n**Present:** Alexandra Purcarea, Tudor Finaru, Ryan Schuller, Samuel Macleod, Patrick Kage, Elspeth Smith, Artemis Livingstone, Daniel Kirkman\n\n**Agenda**\n\n- Discuss the introduction of a new EDI representative role in the committee\n- HTB updates\n- InfBall updates\n\n**Discussion and Decisions**\n\n- The present committee is in favor of making a constitutional amendment that adds a new EDI role to the committee. Should no person run for this position, a designated committee/executive member (TBD) will be assigned as EDI officer. More details should be included in the pull request, such as responsibilities and powers.\n- This decision will be voted on by the members at the following AGM, after which we will vote in the EDI representative (or not).\n- The application portal is up, the hackathon got approved by MLH - all in all, HTB preparation is going very well.\n- InfBall should (clearly) be moved to next year - we will leave it to the next committee to decide what season and date.\n","title":"2021-01-26","date":"2021-01-26"},{"slug":"2021-01-18","content":"---\ndate: 2021-01-18 8:00pm\n---\n\n**Present:** Alexandra Purcarea, Tudor Finaru, Ryan Schuller, Lars Thalian Morstad, Anabel Yong, Samuel Macleod, Patrick Kage\n\n**Agenda**\n\n- Hear about Aden's proposal about creating a Medium publication\n- Discuss a potential collaboration with WiSTEM for this semester (as a continuation of the last semester)\n- Hear about Ben's and Neil's calls with Alexandra\n- HTB updates\n\n**Discussion and Decisions**\n\n- **To do for Alexandra:** talk to Allie about STMU, let Neil know about our decision (and give him relevant contacts)\n- **To do for Ananya:** tell us how the donation is going\n- CompSoc agrees to creating a Medium publication for CompSoc, so students and staff can publish tech-related articles\n- After a fairly long discussion, we have agreed to provide 1,200 GBP for WiSTEM workshops\n- The committee agrees to Neil using the website for PhD matching\n- HTB registration website is up, everything else going well too\n","title":"2021-01-18","date":"2021-01-18"},{"slug":"2021-01-04","content":"---\ndate: 2021-01-04 8:00pm\n---\n\n**Agenda**\n\n- HTB update\n- SIGINT finances and updates\n- InfBall discussion\n- Plans for the new year\n- Preparing for the March elections\n\n**Discussion and Decisions**\n\n-\n- Crowdstrike will sponsor SIGINT for Pwned - they want to pay us through American Express, which works for our bank account.\n- They need 2-3 servers, at least one of which will be quite big, which we will help with. We need to talk to the technical secretary about this.\n- SIGINT will provide a finance sheet to CompSoc in order to clarify a misunderstanding about finances and purchasing new equipment.\n- We know a few people who will run for the next committee, including a presidential candidate. The old execs will need to help them with the transition.\n- Potential idea: a flatmate finding system within CompSoc, especially aimed at first years who might not know enough people to move in with.\n","title":"2021-01-04","date":"2021-01-04"},{"slug":"2020-11-16","content":"$3a","title":"2020-11-16","date":"2020-11-16"},{"slug":"2020-11-09","content":"---\ndate: 2020-11-09 7:00pm\n---\n\n**Present**\nAlexandra Purcarea, Tudor Finaru, Daniel Kirkman, Elspeth Smith, Rokas Gudavicius, Patrick Kage (SIGWeb), Ryan Schuller, Samuel Macleod, Lars Thalian Morstad, Ananya Majumdar\n\n**Agenda**\n\n- HTB\n- Donations\n- Discord\n\n**Discussion and Decisions**\n\n- HTB:\n  - Need to sort out merchandise\n  - Opening the floor for judges and mentors\n  - May need more judges than before because of drastically more cheating problems\n  - MLH can help with merch distribution, provisional budget?\n  - List of sponsors, website, and prospectus for sponsors needed\n  - Provisional date: first weekend of March, 36 hours\n  - Secretary to help come up with ways for advertising, challenges, artsy challenge was liked\n- Donations:\n  - Decision was made to donate 1,000GBP initial lump sum to Code Your Future\n  - Secretary to email and create dialogue\n","title":"2020-11-09","date":"2020-11-09"},{"slug":"2020-11-02","content":"$3b","title":"2020-11-02","date":"2020-11-02"},{"slug":"2020-10-26","content":"$3c","title":"2020-10-26","date":"2020-10-26"},{"slug":"2020-10-19","content":"$3d","title":"2020-10-19","date":"2020-10-19"},{"slug":"2020-10-14","content":"$3e","title":"2020-10-14","date":"2020-10-14"},{"slug":"2020-10-08","content":"$3f","title":"2020-10-08","date":"2020-10-08"},{"slug":"2020-10-01","content":"---\ndate: 2020-10-01 6:00pm\n---\n\n**Discussion and Decisions**\n\n- Proposed weekly meeting time: Thursdays, 6:00pm\n- Potential voting mechanism for EGM: opavote.com/pricing\n- SIGINT requested £80 for prizes (CTF)\n- Constitution change proposals: generally to clarify definitions and possibly provide examples?\n\n**To-Do**\n\n- VP: post about vacant roles on committee\n","title":"2020-10-01","date":"2020-10-01"},{"slug":"2020-09-24","content":"$40","title":"2020-09-24","date":"2020-09-24"},{"slug":"2020-08-23","content":"---\ndate: 2020-08-23 7:00pm\n---\n\n**Agenda**\n\n- Discussing how we will hold events in the first 2 weeks\n- Planning the academic families forms\n- Hearing from AlgoSIG and GameDevSIG\n- Getting an update on sponsorship\n\n**Decisions**\n\n- We are not holding any on-campus events in the first 2 weeks for safety reasons. The scavenger hunt will be postponed.\n- SIGs will also be asked to follow our guidelines when it comes to events.\n- Neil Heatley will help promote our academic families program once we have a functional link.\n- AlgoSIG will host their first event after freshers week since it's more academic.\n- GameDevSIG will give out Discord tags and Steam/Itch gift cards to the winners of their game competition.\n- Bloomberg is keen to sponsor us this year; all in all we have gathered 13,000 GBP for our budget.\n\n**TODO**\n\n- Finish academic families forms\n  - Google forms\n  - Parent bios\n  - Website section\n","title":"2020-08-23","date":"2020-08-23"},{"slug":"2020-07-18","content":"---\ndate: 2020-07-18 7:00pm\n---\n\n**Guests present:**\nAlessia Ciocanea, Nia Allen-Cooper, Rebecca Collins\n\n**Agenda**\n\n- Discussing a potential algorithmic trading SIG in more detail\n\n**Decisions**\n\n- The algo trading group will hold an 8-week long, beginner-level series.\n- They will branch out into specific parts of finance and hope to get a PhD student involved, as well as external speakers.\n\n**TODO**\n\n- Vote for the new algorithmic trading SIG\n","title":"2020-07-18","date":"2020-07-18"},{"slug":"2020-07-04","content":"$41","title":"2020-07-04","date":"2020-07-04"},{"slug":"2020-06-08","content":"$42","title":"2020-06-08","date":"2020-06-08"},{"slug":"2020-06-01","content":"---\ndate: 2020-06-01 7:00pm\n---\n\n**Agenda**\n\n- Deciding how to approach sponsorship documents\n- Discussing the treasurer vacancy\n\n**Decisions**\n\n- Sponsorship tiers will remain largely the same, with better alignment between CompSoc tiers and HTB tiers.\n- We will hold elections for treasurer during term time at an EGM.\n\n**TODO**\n\n- Change the sponsorship document:\n  - Emphasise remote events\n  - Make the gold tier wording more specific\n- Find potential treasurer candidates\n","title":"2020-06-01","date":"2020-06-01"},{"slug":"2020-05-25","content":"$43","title":"2020-05-25","date":"2020-05-25"},{"slug":"2020-03-05","content":"$44","title":"2020-03-05","date":"2020-03-05"},{"slug":"2020-02-27","content":"$45","title":"2020-02-27","date":"2020-02-27"},{"slug":"2020-02-13","content":"$46","title":"2020-02-13","date":"2020-02-13"},{"slug":"2020-02-06","content":"$47","title":"2020-02-06","date":"2020-02-06"},{"slug":"2020-01-30(1)","content":"---\ndate: 2020-01-30 6:30pm\n---\n\n**Present**:\nKyle Cotton, Lars Thalian Morstad, Yannik Nelson, Dee Yeum, Alan Paul, Athiya Deviyai, Ryan Schuller.\n\n**Agenda**\n\n- HTB catch up\n  - There has been some issues with booking other space for the event, especially in AT.\n  - Provisional hold on AT concourse and AT LT 4. We will be able to stay overnight.\n  - Split will be ca. 200/50\n  - Need to figure out how to keep people who are not part of the hackathon out.\n  - Gaming consoles, Tour of Edinburgh, Arthurs seat climb. Open to more ideas.\n  - Big to-do list to complete.\n  - Projector problem in G.06.\n- Suggested Events\n  - Ice-skating\n- Stickers\n\n**Todo:**\n\n- Ask about potentially pizza discounts.\n- Write up guide for how to run compsoc\n  - Financing with estimated budget\n  - Sponsors\n  - Tech stuff from Patrick\n  - Old contacts\n  - How to run the society in general\n","title":"2020-01-30(1)","date":"2020-01-30"},{"slug":"2020-01-23","content":"---\ndate: 2020-01-23 7:30pm\n---\n\n**Present**\n\nKyle Cotton, Lars Thalian Morstad, Keito Ido, Elspeth Smith, Alan Paul, Samuel Macleod, Patrick Kage, George Gilligan.\n\n**Agenda**\n\n- SIGINT Sponsor, needs contracts\n- SIGINT event is going well. Finances are under control.\n- HtB\n  - Money is looking a lot better after some issues earlier. More sponsors in the pipeline.\n  - Might need to have fewer participants\n  - Some issues with the intersection between CompSoc/ HtB contract tiers. This is now resolved.\n  - Over 300 have applied already.\n  - MLH registration, happening soon hopefully.\n- ScotQuan\n  - Transferring ScotQuan website to CompSoc\n  - Possibilities for workshops\n- Merch and Epay page going well. Should be done soon.\n- Discussion about meetings and meting structure. Suggestion that committee members should always be actively encouraged to come to all meetings, and a suggested change to meeting structure.\n\n**TODO**\n\n- Make a proper translation between HtB and CompSoc tiers.\n- Set up PayPal for CompSoc\n","title":"2020-01-23","date":"2020-01-23"},{"slug":"2020-01-16","content":"$48","title":"2020-01-16","date":"2020-01-16"},{"slug":"2019-11-28","content":"$49","title":"2019-11-28","date":"2019-11-28"},{"slug":"2019-11-21","content":"$4a","title":"2019-11-21","date":"2019-11-21"},{"slug":"2019-11-07","content":"$4b","title":"2019-11-07","date":"2019-11-07"},{"slug":"2019-10-31","content":"$4c","title":"2019-10-31","date":"2019-10-31"},{"slug":"2019-10-17","content":"$4d","title":"2019-10-17","date":"2019-10-17"},{"slug":"2019-10-07","content":"$4e","title":"2019-10-07","date":"2019-10-07"},{"slug":"2019-09-16","content":"$4f","title":"2019-09-16","date":"2019-09-16"},{"slug":"2019-05-10","content":"$50","title":"2019-05-10","date":"2019-05-10"},{"slug":"2019-04-01","content":"$51","title":"2019-04-01","date":"2019-04-01"},{"slug":"2019-01-23","content":"---\ndate: 2019-01-23 4pm\n---\n\n**Present:**\nElspeth Smith, Rokas Gudaviskus, Mo Javad, Joao Maio, Patrick Kage, Tony Duggan, Kyle Cotton, Qais Patankar\n\n**InfBall**\n\n- First meeting about InfBall next week.\n\n**HackTheBurgh**\n\n- Everything is progressing well\n\n**Pub Quiz**\n\n- We want to have a pub quiz before flexible learning week, with Bloomberg.\n- Potentially at St Andrews Brewing Club.\n\n**SannellaBration**\n\n- Potentially speaking with Don about hosting a birthday party for him.\n\n**Mugs from Charity Shop**\n\n- We'd like to get some mugs from the charity shop for AT kitchens.\n\n**CompSoc Merchandise**\n\n- Will order CompSocks very soon.\n","title":"2019-01-23","date":"2019-01-23"},{"slug":"2018-11-23","content":"$52","title":"2018-11-23","date":"2018-11-23"},{"slug":"2018-10-25","content":"$53","title":"2018-10-25","date":"2018-10-25"},{"slug":"2018-09-16","content":"$54","title":"2018-09-16","date":"2018-09-16"},{"slug":"2018-05-15","content":"$55","title":"2018-05-15","date":"2018-05-15"},{"slug":"2018-03-29","content":"$56","title":"2018-03-29","date":"2018-03-29"},{"slug":"2018-03-07","content":"$57","title":"2018-03-07","date":"2018-03-07"},{"slug":"2018-02-15","content":"---\ndate: 2018-02-15 2pm\n---\n\nInformatics Ball committee meeting\n\n**Present**\n\nQais Patankar, Connie Crowe, Liana Ahmed, Ojasvi Jalal\n\n**Under 18s?**\n\n- Only allowed in until 9pm\n  -Update FAQ to say no they can’t come.\n\n**Photography**\n\n- Daniel doesn’t have the best pictures really.\n- Have emailed Kenny.\n\n**Linen**\n\n- Qais emails Neil.\n\n**Form**\n\n- Qais fix the f\\*\\*king typo.\n- Add a “I am over 18 (ID will be checked at the door).” box on the form\n- Update the FAQ for 18s\n","title":"2018-02-15","date":"2018-02-15"},{"slug":"2018-02-07","content":"---\ndate: 2018-02-07 4pm\n---\n\nInformatics Ball committee meeting\n\n**Present**\n\nQais Patankar, Connie Crowe, Ginte Petrulionyte, Liana Ahmed, Ojasvi Jalal\n\n**Photography**\n\nQais has posted on the PhotoSoc page. Offering £100.\n\n**Ceilidh**\n\nOjasvi has booked FolkSoc. Waiting confirmation.\n\n10pm - 1am.\n\n**Tables**\n\nAsk Neil about table linen + uni suppliers (Qais)\n\nDrink prices at the Jam House?\n\nQais is setting up a payment system.\n\n**Dead (or not yet dead)People**\n\n- Lovelace\n- Babbage\n- Hopper\n- Pascal\n- Dijkstra\n- Anita Borg\n- Gödel\n- Margaret Hamilton\n- Turing\n- Boole\n- Von Neumann\n- Katherine Johnson\n- Kleene\n- Betty Holberton\n- Hermann\n","title":"2018-02-07","date":"2018-02-07"},{"slug":"2018-01-30","content":"$58","title":"2018-01-30","date":"2018-01-30"},{"slug":"2018-01-15","content":"---\ndate: 2018-01-15 6pm\n---\n\n**Present**\n\nAngus Shaw, Dylan Oshima, Josh Green, Nicholas Lynch, Cameron Sharp, Qais Patankar, Ginte Petrulionyte, Joe Foster, Will Mathewson\n\n**Events (upcoming)**\n\n- 4 events this month - STMU, CinemAI, AI, Justice, Cyber Security, and the Law, pub crawl\n- Year reps can do lecture shoutouts/promoting\n\n**Events (potential)**\n\n- Inf Ball\n  - Venue - The Jam House\n  - Date - 8th April (few days after Honours project deadline)\n- End of Year Barbecue\n  - Could be held on Inf Forum roof\n  - Should be held on last day of exams (in May) or soon after\n\n**SigWeb**\n\n- Generally inactive\n  - Down to Harry (Reeder) and Will to find a more active member\n  - Will try and get some new workshop events\n- Website\n  - Hoodie section almost done, should be out by end of week\n  - Codes are ready to send\n\n**Other**\n\n- Library\n  - Has been catalogued\n  - WIll be put in email\n","title":"2018-01-15","date":"2018-01-15"},{"slug":"2017-12-02","content":"---\ndate: 2017-12-02 1pm\n---\n\nIt's Local Hack Day!\n\n**Present**\n\nQais Patankar, Viktorija Lukosiute, Harry Reeder, Elena Lape, Dylan Oshima\n\n**New SIG: Law and Technology Group**\n\nVoted in by all present.\n","title":"2017-12-02","date":"2017-12-02"},{"slug":"2017-11-03","content":"---\ndate: 2017-11-03 7pm\n---\n\n**Present**\n\nQais Patankar, Elena Lapė, Ginte Petrulionyte, Dylan Oshima, Viktorija Lukosiute, Joshua Green\n\n**Barclays Event**\n\nIn Glasgow. Not enough notice to organise a trip.\n\n**JP Morgan**\n\nNeed to get things ready before the trip to Glasgow.\n\n**End of year party**\n\nNeed to find the best date for 4th year. Suggested: 13th March, 23rd March\n\n**Christmas Pub Quiz**\n\n23rd November, Loft Bar\n\n**Hoodies!**\n\nJust need to take payments.\n\n**Cards!**\n\nNFC, Could have a db with all the IDs to track memberships etc.\n\n**Jigsaw movie** organised by Dylan\n\n- Date and Price\n- Buy tickets on the spot\n  - Cineworld\n  - Edinburgh Playhouse\n\n**SIGINT Card reader/writer/scanner**\n\nCompSoc will use it too for membership cards.\n","title":"2017-11-03","date":"2017-11-03"},{"slug":"2017-10-11","content":"$59","title":"2017-10-11","date":"2017-10-11"},{"slug":"2017-09-20","content":"$5a","title":"2017-09-20","date":"2017-09-20"},{"slug":"2017-04-25","content":"$5b","title":"2017-04-25","date":"2017-04-25"},{"slug":"2017-03-29","content":"$5c","title":"2017-03-29","date":"2017-03-29"},{"slug":"2017-03-01","content":"$5d","title":"2017-03-01","date":"2017-03-01"},{"slug":"2017-01-31","content":"---\ndate: 2017-01-31 6:10pm\n---\n\nThis week’s meeting covers the HackSIG situation, hoodie things, and website discussion.\n\n**Present**\n\nSusanne Koster, Simon Vahr, Viktorija Lukosuite, Joshua Green, Aw Young Qingzhuo\n\n**Agenda**\n\n- Termination of the HackSec\n- Hoodies are happening:\n  - invoice ready, not ordered yet\n  - jet black / fire red\n- Kaitlyn is now with Amazon. She’s technically a recruiter, but could help us find a contact.\n- End of year party\n  - Apparently dissertation is due april 6 (fourth year)\n  - SDP (third year)\n    - Friday April 7th - Final day\n    - Wednesday April 19th - _submit technical report_ (no biggie)\n  - Teviot\n    - check available dates for the loft bar, > 40 people\n    - Ask about music and microphones\n    - Pre-arrange a tab\n- SigINT: succession details. Trying to find a new person.\n- 68 Dutch students: responsibility of next committee\n- Club Penguin is shutting down\n- Spread the word for bowling\n","title":"2017-01-31","date":"2017-01-31"},{"slug":"2017-01-18","content":"---\ndate: 2017-01-18 5pm\n---\n\nThis week's meeting covers the end of year party, Hack the Burgh, and other events.\n\n**Present**\n\nJoshua Green, Benedetta Mussati, Viktorija Lukosuite, Qais Patankar, Martynas Grigonis, Nicholas Lynch, Susanne Koster\n\n**Agenda**\n\n- Charity website is broken: providing help\n- Invoice ARM, GitHub\n- End of year party\n  - Reminder in feb\n  - Venue: loft bar, teviot\n  - Think of a theme\n- March 15th. AGM.\n- Dutch\n  - Coding competition\n  - Pub\n- Communications & Outreach Manager: meeting on friday\n- Socials: Escape Room?\n- Hack the Burgh\n  - Support from Informatics?\n  - Informatics Forum may host HTB\n  - IF servitors are expensive… during the day on the weekend\n","title":"2017-01-18","date":"2017-01-18"},{"slug":"2016-11-23","content":"$5e","title":"2016-11-23","date":"2016-11-23"},{"slug":"2016-11-09","content":"$5f","title":"2016-11-09","date":"2016-11-09"},{"slug":"2016-10-26","content":"$60","title":"2016-10-26","date":"2016-10-26"},{"slug":"2016-09-26","content":"$61","title":"2016-09-26","date":"2016-09-26"},{"slug":"2016-04-22","content":"---\ndate: 2016-04-22 10am\n---\n\nThis week's meeting covers details relating to sponsors.\n\n**Present**:\n\nLisa Xie, Vesko Stefanov, Viktorija Lukosiute, Benedetta Mussati, Susanne Koster, Martynas Grigonis\n\n**Agenda**:\n\nThe only topic of this meeting was the development of the partnership programme for the year.\n","title":"2016-04-22","date":"2016-04-22"},{"slug":"2016-03-22","content":"$62","title":"2016-03-22","date":"2016-03-22"}]}]}]
 9:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#353535"}],["$","meta","2",{"charSet":"utf-8"}],["$","title","3",{"children":"CompSoc"}],["$","meta","4",{"name":"description","content":"CompSoc is Edinburgh University's technology society! We're Scotland's best and largest of its kind, and form one of the largest societies within the university."}],["$","link","5",{"rel":"icon","href":"https://comp-soc.com/compsoc-mini.png"}]]
 1:null
