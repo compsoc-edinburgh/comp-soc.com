@@ -25,7 +25,7 @@ const NewsPage = ({
           <p className="text-md text-zinc-400">
             Last modified {modifiedAt.toLocaleDateString()}
           </p>
-          <button
+          {/* <button
             className="flex items-center gap-2 hover:bg-background p-2 rounded-sm"
             onClick={() => {
               window.open(`${prefix}/news/${title}.md`, '_blank')
@@ -34,7 +34,7 @@ const NewsPage = ({
             <DownloadCircle />
             Download
             <span className="text-sm text-zinc-400">.md</span>
-          </button>
+          </button> */}
         </div>
         <div
           dangerouslySetInnerHTML={{ __html: contentHtml }}
