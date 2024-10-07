@@ -4,15 +4,17 @@
 6:I[35719,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-053fe9a6e92e8011.js","173","static/chunks/173-a4fc881f158b666a.js","185","static/chunks/app/layout-ae366c9a2823a286.js"],"default"]
 7:I[42452,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-053fe9a6e92e8011.js","173","static/chunks/173-a4fc881f158b666a.js","185","static/chunks/app/layout-ae366c9a2823a286.js"],"default"]
 8:I[1370,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-053fe9a6e92e8011.js","173","static/chunks/173-a4fc881f158b666a.js","185","static/chunks/app/layout-ae366c9a2823a286.js"],"default"]
-0:["16wO5NJvX5_wdp9NTElF5",[[["",{"children":["news",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",{"children":["news",{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","news","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f71b0d87201a7f32.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"relative overflow-x-clip w-screen mx-auto","children":[["$","$L5",null,{"children":["$","$L6",null,{"children":[["$","$L7",null,{}],["$","div",null,{"className":"container mx-auto max-w-screen-xl p-4 pb-32 min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}]]}]}],["$","div",null,{"className":"relative w-full bg-csred","children":[["$","div",null,{"className":"bg-csred text-white text-center p-2 pointer-events-none select-none","children":"CompSoc ❤️ You!"}],["$","$L8",null,{}],["$","footer",null,{"className":"absolute top-0 text-white","children":["$","div",null,{"className":"flex flex-row gap-2 m-12 pointer-events-none user-select-none"}]}]]}]]}]}]],null],null],["$L9",null]]]]
+0:["BkPelVPu2rI7YGbqA0jph",[[["",{"children":["news",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",{"children":["news",{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","news","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f71b0d87201a7f32.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"relative overflow-x-clip w-screen mx-auto","children":[["$","$L5",null,{"children":["$","$L6",null,{"children":[["$","$L7",null,{}],["$","div",null,{"className":"container mx-auto max-w-screen-xl p-4 pb-32 min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}]]}]}],["$","div",null,{"className":"relative w-full bg-csred","children":[["$","div",null,{"className":"bg-csred text-white text-center p-2 pointer-events-none select-none","children":"CompSoc ❤️ You!"}],["$","$L8",null,{}],["$","footer",null,{"className":"absolute top-0 text-white","children":["$","div",null,{"className":"flex flex-row gap-2 m-12 pointer-events-none user-select-none"}]}]]}]]}]}]],null],null],["$L9",null]]]]
 a:"$Sreact.suspense"
 b:I[25387,["90","static/chunks/90-053fe9a6e92e8011.js","173","static/chunks/173-a4fc881f158b666a.js","834","static/chunks/app/news/page-05553c3b193568ca.js"],"default"]
-c:Tb80,---
+c:Td12,---
 title: 'October 2024 STMU/EGM'
 author: martoncnemeth
 ---
 
-Hello everyone! Our first STMU of the year and our EGM are here! On Wednesday 23rd October at 18:00 to 21:00 we will have the election of two positions and one speaker. As usual, this will be in the Informatics Forum G.07 (the big room on your left as you enter the building).
+Hello everyone! Our first STMU and EGM of the year are here! On Wednesday 23rd October, 18:00-21:00. The night will start with a talk from [Shiu Ka Heng](https://shiukaheng.com/), a graduate from Edinburgh, who will talk "The Lost Metropolis: Immortalizing Hong Kong's Changing Landscapes in Virtual Reality". You will hear about Heng's project of digitally preserving Hong Kong's urban spaces threatened by redevelopment, and have a chance to explore his virtual 3D spaces with VR headsets!
+
+Following the talk, we will have **3 elections** for the roles of Vice President, Junior Treasurer, and First Year Representative.
 
 ### Manifestos
 
@@ -28,33 +30,35 @@ The positions we're electing are:
   - Oversees working with our SIGs (Special Interest Groups).
   
 - **Junior Treasurer**
-  - Manage daily financial operations, including payments, updating spreadsheets, and tracking transactions.
-  - Gain hands-on experience in financial transactions, documentation, and responsibility while working closely with the Treasurer.
+
+  - Manage daily financial operations - including making reimbursements, maintaining budgets, and tracking transactions.
+  - Gain hands-on experience in the financials of managing a £70,000+ balance sheet.
   - Obtain valuable insights into financial management and prepare for a potential future role as Treasurer.
 
 - **1st Year Representative**
 
   - Responsible for communication between their year and the Society, and promotes events to their year.
-  - Year reps are also responsible for any projects they take up throughout the year.
+  - Responsible for organising some of CompSoc's large projects and events, such as InfBall, HackTheBurgh or pwnedEd.
+  - Gain an insight into the day-to-day of running CompSoc, and valuable experience in organising large scale society events.
   
 
-If you are interested in applying for any of the two positions, you need to do two things:
+If you are interested in applying for any of these positions, you need to:
 
-You need to write a manifesto which will convince everyone to vote for you. It must be a maximum of 200 words and in PDF format. Submit them to committee@comp-soc.com with your full name and the position you're applying for in the subject (for example, Marton Nemeth, Vice-President). Also include this information in the PDF (this will not count to your word count). The deadline to submit a manifesto is 24 hours before the STMU, so the 22nd at 18:00.
+1. **Write a manifesto** which will convince everyone to vote for you. It must be a **maximum of 200 words** and in PDF format. Submit them to committee@comp-soc.com with your full name and the position you're applying for in the subject (for example, Marton Nemeth, Vice-President). Include your name and position in the document (this does not count towards word count). The deadline to submit a manifesto is October 22nd at 18:00.
 
 Although it is possible to run impromptu on the day, submitting a manifesto will typically give you much better chances to win.
 
-You also need to prepare a speech. You will have strictly 1 minute for your speech. You may get questions asked afterwards.
+2. You also need to prepare a speech. You will have strictly **1 minute** for your speech. You may get questions asked afterwards.
 
-### STMU
-
-This time we have one speaker, with a talk around 40 minutes long!
+### Student Tech Meet-Up
 
 [Shiu Ka Heng](https://shiukaheng.com/), a graduate from Edinburgh will take us through "The Lost Metropolis: Immortalizing Hong Kong's Changing Landscapes in Virtual Reality."  
-Join us for a deep dive into how this interdisciplinary project is tackling the challenge of digitally preserving Hong Kong's urban spaces threatened by redevelopment. Discover the art and science behind large-scale 3D reconstruction, from robotics development for autonomous 3D capture to employing advanced techniques like Gaussian splatting. Heng will share insights into the project's journey, the hurdles overcome, and the latest in 3D reconstruction technology.
-You will also have the opportunity to glimpse into the project yourself through some VR headsets.
 
-Finally, we will, as always, have pizza and drinks for you too.
+Join us for a deep dive into how this interdisciplinary project is tackling the challenge of digitally preserving Hong Kong's urban spaces threatened by redevelopment. Discover the art and science behind large-scale 3D reconstruction, from robotics development for autonomous 3D capture to employing advanced techniques like Gaussian splatting. Heng will share insights into the project's journey, the hurdles overcome, and the latest in 3D reconstruction technology.
+
+**You will also have the opportunity to glimpse into the project yourself through some VR headsets!**
+
+Finally, we will, as always, have free pizza and drinks for you too.
 
 CompSoc <3 You!
 d:T1e81,---
