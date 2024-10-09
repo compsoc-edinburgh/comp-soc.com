@@ -1,0 +1,52 @@
+3:I[39275,[],""]
+5:I[61343,[],""]
+6:I[84269,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-053fe9a6e92e8011.js","173","static/chunks/173-a4fc881f158b666a.js","185","static/chunks/app/layout-ae366c9a2823a286.js"],"default"]
+7:I[35719,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-053fe9a6e92e8011.js","173","static/chunks/173-a4fc881f158b666a.js","185","static/chunks/app/layout-ae366c9a2823a286.js"],"default"]
+8:I[42452,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-053fe9a6e92e8011.js","173","static/chunks/173-a4fc881f158b666a.js","185","static/chunks/app/layout-ae366c9a2823a286.js"],"default"]
+9:I[1370,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-053fe9a6e92e8011.js","173","static/chunks/173-a4fc881f158b666a.js","185","static/chunks/app/layout-ae366c9a2823a286.js"],"default"]
+4:["slug","2024-01-23-january-egm","d"]
+0:["vPVMWpVH0WFQ_kU5h23go",[[["",{"children":["news",{"children":[["slug","2024-01-23-january-egm","d"],{"children":["__PAGE__?{\"slug\":\"2024-01-23-january-egm\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["news",{"children":[["slug","2024-01-23-january-egm","d"],{"children":["__PAGE__",{},[["$L1","$L2",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/54f9ddd098fa72b3.css","precedence":"next","crossOrigin":"$undefined"}]]],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","news","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","news","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f71b0d87201a7f32.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"relative overflow-x-clip w-screen mx-auto","children":[["$","$L6",null,{"children":["$","$L7",null,{"children":[["$","$L8",null,{}],["$","div",null,{"className":"container mx-auto max-w-screen-xl p-4 pb-32 min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}]]}]}],["$","div",null,{"className":"relative w-full bg-csred","children":[["$","div",null,{"className":"bg-csred text-white text-center p-2 pointer-events-none select-none","children":"CompSoc ❤️ You!"}],["$","$L9",null,{}],["$","footer",null,{"className":"absolute top-0 text-white","children":["$","div",null,{"className":"flex flex-row gap-2 m-12 pointer-events-none user-select-none"}]}]]}]]}]}]],null],null],["$La",null]]]]
+b:I[71386,["329","static/chunks/app/news/%5Bslug%5D/page-7dedc0e2336c275c.js"],"default"]
+c:Tc92,<p>Hey, everyone! First STMU of 2024 is here! On Wednesday, 31st of January at 18:00 to 21:00 we will have the election of two positions and two speakers. Venue: Informatics Forum G.07.</p>
+<h3>Manifestos</h3>
+<p>Manifestos for the two positions are now live! <a href="https://comp-soc.com/blog/2024/01/23/january-egm-manifestos.html">Click here to view them.</a></p>
+<p>Please read on to find out how to add your own, if you are interested.</p>
+<h3>EGM</h3>
+<p>The positions we're electing are:</p>
+<ul>
+<li>
+<p><strong>Treasurer:</strong></p>
+<ul>
+<li>Accountable to the committee and members for the finances of the society</li>
+<li>Reimburses society members for expenses</li>
+<li>Writing annual financial report</li>
+</ul>
+</li>
+<li>
+<p><strong>Technical Secretary:</strong></p>
+<ul>
+<li>Maintains technical services (website &#x26; Google suite)</li>
+<li>In charge of technical setup for events</li>
+<li>Experience with server management is recommended</li>
+</ul>
+</li>
+</ul>
+<p>If you are interested in applying for any of the two positions, you need to do two things:</p>
+<p>You need to write a manifesto which will convince everyone to vote for you. It must be a maximum of 200 words and in PDF format. Submit them to <a href="mailto:committee@comp-soc.com">committee@comp-soc.com</a> with your full name and the position you're applying for in the subject (for example, John Doe, Treasurer). Also include this information in the PDF (this will not count to your word count). The deadline to submit a manifesto is 24 hours before the STMU, so the 30th at 18:00.</p>
+<p>Although it is possible to run impromptu on the day, submitting a manifesto will typically give you much better chances to win.</p>
+<p>You also need to prepare a speech. Technical secretary has <strong>1 minute</strong> for the speech, treausrer has <strong>3 minutes</strong>. You may get questions asked afterwards.</p>
+<h3>STMU</h3>
+<p>This time we have two speakers! Each will be 40 to 60 minutes long.</p>
+<ul>
+<li><a href="http://liamoc.net/">Liam O'Connor</a>, <strong>Why domain theory matters</strong>. In this talk O'Connor will give a "whirlwind tour of denotational semantics, an oft-neglected but very important branch of theoretical computer science, which truly connects computer programs to mathematics.""</li>
+<li><a href="https://twitter.com/matthen2">Matt Henderson</a>, <strong>Animating Mathematically</strong>. Matt Henderson has worked as a researcher in conversational language understanding at Google, Apple, PolyAI, and Reka. But in his spare time he creates mathematical animations, explaining concepts like chaos theory with bouncing balls, breadth first search with lightning strike simulations, and cellular automata with Pokémon battles. In this talk, Henderson will dive into a few of his animations, and the code used to generate them.</li>
+</ul>
+<p>Finally, we will, as always, have pizza and drinks for you too.</p>
+<h3>Amendments to the Constitution</h3>
+<p>We will be voting on an constitutional amendment, which is on our GitHub, see:</p>
+<ul>
+<li><a href="https://github.com/compsoc-edinburgh/constitution/pull/41/">Change the EDI rep to an elected position</a></li>
+</ul>
+<p>CompSoc &#x3C;3 You!</p>2:["$","$Lb",null,{"contentHtml":"$c","title":"January 2024 STMU/EGM","modifiedAt":"$D2024-10-09T07:32:37.553Z"}]
+a:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#353535"}],["$","meta","2",{"charSet":"utf-8"}],["$","title","3",{"children":"CompSoc"}],["$","meta","4",{"name":"description","content":"CompSoc is Edinburgh University's technology society! We're Scotland's best and largest of its kind, and form one of the largest societies within the university."}],["$","link","5",{"rel":"icon","href":"https://comp-soc.com/compsoc-mini.png"}]]
+1:null

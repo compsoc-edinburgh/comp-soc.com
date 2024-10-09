@@ -1,0 +1,64 @@
+3:I[39275,[],""]
+5:I[61343,[],""]
+6:I[84269,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-053fe9a6e92e8011.js","173","static/chunks/173-a4fc881f158b666a.js","185","static/chunks/app/layout-ae366c9a2823a286.js"],"default"]
+7:I[35719,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-053fe9a6e92e8011.js","173","static/chunks/173-a4fc881f158b666a.js","185","static/chunks/app/layout-ae366c9a2823a286.js"],"default"]
+8:I[42452,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-053fe9a6e92e8011.js","173","static/chunks/173-a4fc881f158b666a.js","185","static/chunks/app/layout-ae366c9a2823a286.js"],"default"]
+9:I[1370,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-053fe9a6e92e8011.js","173","static/chunks/173-a4fc881f158b666a.js","185","static/chunks/app/layout-ae366c9a2823a286.js"],"default"]
+4:["slug","2016-10-26","d"]
+0:["vPVMWpVH0WFQ_kU5h23go",[[["",{"children":["minutes",{"children":[["slug","2016-10-26","d"],{"children":["__PAGE__?{\"slug\":\"2016-10-26\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["minutes",{"children":[["slug","2016-10-26","d"],{"children":["__PAGE__",{},[["$L1","$L2",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/54f9ddd098fa72b3.css","precedence":"next","crossOrigin":"$undefined"}]]],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","minutes","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","minutes","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f71b0d87201a7f32.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"relative overflow-x-clip w-screen mx-auto","children":[["$","$L6",null,{"children":["$","$L7",null,{"children":[["$","$L8",null,{}],["$","div",null,{"className":"container mx-auto max-w-screen-xl p-4 pb-32 min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}]]}]}],["$","div",null,{"className":"relative w-full bg-csred","children":[["$","div",null,{"className":"bg-csred text-white text-center p-2 pointer-events-none select-none","children":"CompSoc ❤️ You!"}],["$","$L9",null,{}],["$","footer",null,{"className":"absolute top-0 text-white","children":["$","div",null,{"className":"flex flex-row gap-2 m-12 pointer-events-none user-select-none"}]}]]}]]}]}]],null],null],["$La",null]]]]
+b:I[95423,["820","static/chunks/app/minutes/%5Bslug%5D/page-425ab24c8d07c42f.js"],"default"]
+c:T7d6,<p>Minutes for the second meeting of Semester 1, 2016-17.</p>
+<p><strong>Present</strong>:</p>
+<p>Viktorija Lukosiute, Erin Pigeon, Qais Patankar, Aw Qingzhuo, Martynas Grigonis, Josh Green</p>
+<p><strong>Agenda</strong>:</p>
+<ul>
+<li>GitHub
+<ul>
+<li>They may be lenient about us using <a href="https://octodex.github.com/">Octocat</a></li>
+<li>GH is running an experiment - tech community training people to get GH to help our community
+<ul>
+<li>Suggestions needed for pretty things to say</li>
+<li>What happens if there are disagreements? Are these documented? Erin will check the constitution</li>
+<li>2nd semester - give us octocat stickers!</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Fresher’s input</strong>. Hoodie design competition? Must be safe for work. Back of the hoodies, quirky.. geeky?
+<ul>
+<li>Post on Facebook or send to our email</li>
+<li>Can we do something to get people hyped?</li>
+<li>Winner gets a free hoodie!</li>
+</ul>
+</li>
+</ul>
+<p><strong>Events</strong>:</p>
+<ul>
+<li>Get HackSig people (<em>deadline</em>: November 19th)</li>
+<li>Microsoft: room booked from 6 to 9pm, 3rd November</li>
+<li>STMU - Aw:
+<ul>
+<li>Sumdog &#x26; King have been spoken to</li>
+<li>Microsoft is in touch</li>
+</ul>
+</li>
+<li><a href="https://hashcode.withgoogle.com/">Google Hash Code</a> is on 23rd February 2017
+<ul>
+<li>ILW is Feb 20-24</li>
+<li>We are not registered yet! First waiting for a response from Hoppers</li>
+</ul>
+</li>
+<li>What about the <a href="http://smartdatahack.org/">Smart Data Hack</a>?</li>
+<li>Wednesday engineer’s fair - ReactJS from 1 till half 3 - with Lunch!</li>
+<li>Christmas 🎄
+<ul>
+<li><del>Christmas dinner</del> / <del>Ceilidh</del>: too expensive</li>
+<li>Secret santa?</li>
+<li>Informatics ball? -> <em>InfBall</em> (2nd semester, "not a compulsory black tie ball")</li>
+<li>Pub crawl? -> Christmas music with christmassy snacks (how would this work in a crawl?)</li>
+<li>Christmas quiz? -> Teviot. Microphones need to be sorted out.</li>
+</ul>
+</li>
+</ul>2:["$","$Lb",null,{"contentHtml":"$c","title":"2016-10-26","modifiedAt":"$D2024-10-09T07:32:37.546Z"}]
+a:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#353535"}],["$","meta","2",{"charSet":"utf-8"}],["$","title","3",{"children":"CompSoc"}],["$","meta","4",{"name":"description","content":"CompSoc is Edinburgh University's technology society! We're Scotland's best and largest of its kind, and form one of the largest societies within the university."}],["$","link","5",{"rel":"icon","href":"https://comp-soc.com/compsoc-mini.png"}]]
+1:null

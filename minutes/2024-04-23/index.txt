@@ -1,0 +1,117 @@
+3:I[39275,[],""]
+5:I[61343,[],""]
+6:I[84269,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-053fe9a6e92e8011.js","173","static/chunks/173-a4fc881f158b666a.js","185","static/chunks/app/layout-ae366c9a2823a286.js"],"default"]
+7:I[35719,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-053fe9a6e92e8011.js","173","static/chunks/173-a4fc881f158b666a.js","185","static/chunks/app/layout-ae366c9a2823a286.js"],"default"]
+8:I[42452,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-053fe9a6e92e8011.js","173","static/chunks/173-a4fc881f158b666a.js","185","static/chunks/app/layout-ae366c9a2823a286.js"],"default"]
+9:I[1370,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-053fe9a6e92e8011.js","173","static/chunks/173-a4fc881f158b666a.js","185","static/chunks/app/layout-ae366c9a2823a286.js"],"default"]
+4:["slug","2024-04-23","d"]
+0:["vPVMWpVH0WFQ_kU5h23go",[[["",{"children":["minutes",{"children":[["slug","2024-04-23","d"],{"children":["__PAGE__?{\"slug\":\"2024-04-23\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["minutes",{"children":[["slug","2024-04-23","d"],{"children":["__PAGE__",{},[["$L1","$L2",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/54f9ddd098fa72b3.css","precedence":"next","crossOrigin":"$undefined"}]]],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","minutes","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","minutes","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f71b0d87201a7f32.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"relative overflow-x-clip w-screen mx-auto","children":[["$","$L6",null,{"children":["$","$L7",null,{"children":[["$","$L8",null,{}],["$","div",null,{"className":"container mx-auto max-w-screen-xl p-4 pb-32 min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}]]}]}],["$","div",null,{"className":"relative w-full bg-csred","children":[["$","div",null,{"className":"bg-csred text-white text-center p-2 pointer-events-none select-none","children":"CompSoc ❤️ You!"}],["$","$L9",null,{}],["$","footer",null,{"className":"absolute top-0 text-white","children":["$","div",null,{"className":"flex flex-row gap-2 m-12 pointer-events-none user-select-none"}]}]]}]]}]}]],null],null],["$La",null]]]]
+b:I[95423,["820","static/chunks/app/minutes/%5Bslug%5D/page-425ab24c8d07c42f.js"],"default"]
+c:T27bb,<p>Minutes by AI (Whisper and Claude). Tweaked by Ali.</p>
+<h2>Attendees</h2>
+<ul>
+<li>Fergus</li>
+<li>Vincent</li>
+<li>Ali</li>
+<li>Akrit</li>
+<li>Godfrey</li>
+<li>Elisa</li>
+<li>Jinxuan</li>
+<li>Lucas</li>
+<li>Agam</li>
+<li>Cat</li>
+<li>Lewis</li>
+<li>Arin</li>
+<li>Yuto (Online)</li>
+<li>Tomas (Online)</li>
+</ul>
+<p>Meeting called to order at 12:15 PM.</p>
+<h2>1. Collaboration with the School of Informatics</h2>
+<ul>
+<li>The School of Informatics is open to having both alcoholic and non-alcoholic events, recognizing the need for both types of events.</li>
+<li>CompSoc can support the school by advertising events as CompSoc events with the Informatics logo more prominently.</li>
+<li>In return, CompSoc socials will be further subsidized by the school, even more than the current situation where the school provides a significant amount of money.</li>
+<li>This collaboration could lead to Informatics students joining CompSoc, benefiting both the society and the school.</li>
+</ul>
+<h2>2. Expanding the committee and reaching out to other schools</h2>
+<ul>
+<li>CompSoc currently has around 1,500 official members, with a focus on Informatics students.</li>
+<li>Vincent suggests targeting STEM students and those from other fields like finance or business, as it could be beneficial for collaborations, projects, or starting businesses together.</li>
+<li>Concerns were raised about expanding the committee too quickly, as it could lead to difficulties in management and communication.</li>
+<li>There are suggestions to keep the core committee small and establish connections with other societies through existing committee members or volunteers.</li>
+<li>The SIG (Special Interest Group) structure allows for small group activities while maintaining a manageable core committee size.</li>
+<li>Expanding the committee should be done gradually, based on demand and workload, rather than creating roles for the sake of titles or CV boosting.</li>
+<li>Collaborations with other societies can be achieved through existing committee members, such as the example of the Mathematics society's social secretary also being a year representative for CompSoc.</li>
+<li>The focus should be on establishing connections and collaborations first, before creating dedicated roles within the committee.</li>
+</ul>
+<h2>3. Non-alcoholic events and attracting a diverse range of members</h2>
+<ul>
+<li>CompSoc currently attracts two main groups: academically inclined individuals who enjoy technical talks and those who enjoy drinking and socializing.</li>
+<li>The society should aim to create a middle ground that caters to a wider range of interests among the 1,800 CompSoc members.</li>
+<li>Pub nights can be intimidating for some members, especially if they don't know anyone or feel pressure to drink alcohol.</li>
+<li>Incorporating activities like board games, pool, darts, or bowling alongside pub nights could make events more inclusive and less intimidating for new members.</li>
+<li>Completely non-alcoholic events should also be considered to accommodate members who may not attend events with alcohol due to religious or other reasons.</li>
+<li>The Christmas market event was a successful example of an event that attracted a diverse group of members.</li>
+<li>Other event ideas include movie screenings for popular film releases, which could be subsidized by CompSoc and followed by a social activity.</li>
+<li>The goal is to find a balance of events that appeal to the majority of members, considering factors that attract or deter attendance.</li>
+<li>A vote or survey on the Discord server and Instagram could help gauge member interests and preferences for events.</li>
+</ul>
+<h2>4. Revamping Student Tech Meetups (STMUs)</h2>
+<ul>
+<li>STMUs have seen low attendance when there isn't an AGM or EGM, with only about 20 people, including committee members, attending the last non-AGM/EGM STMU.</li>
+<li>Akrit suggested that the current format of STMUs, with highly academic talks, may not appeal to a broad range of members and can feel like an extension of their university lectures.</li>
+<li>The goal is to make STMUs more accessible, engaging, and appealing to encourage attendance and participation.</li>
+<li>The proposed structure includes a more general talk followed by an academic one, catering to different interests and backgrounds.</li>
+<li>Networking opportunities and sponsor stalls could be incorporated during breaks, but logistics and the value for sponsors should be carefully considered.</li>
+<li>Concerns were raised about the feasibility of sponsor stalls, as it may be difficult for sponsors to justify the cost and effort of attending for a short duration, especially if they have to compete with other activities like pizza breaks.</li>
+<li>Improving the streaming setup and investing in a dedicated camera for live streaming and recording events could enhance the professionalism and reach of STMUs.</li>
+<li>A budget of around £1000 could be allocated for a proper streaming setup, ensuring consistent quality and ease of use.</li>
+<li>Speakers should be screened to ensure they deliver engaging talks, balancing academic content with accessibility for a broader audience.</li>
+<li>The inclusion of both academic and general talks is crucial to maintain the interest of those who appreciate the academic content while also catering to a wider audience.</li>
+<li>Advertising STMUs and other events on social media platforms like Instagram, TikTok, or Reels can help attract more attendees and provide insight into the event atmosphere.</li>
+<li>Collaboration with societies like the Hoppers and Formula Student was discussed to include more people from other fields.</li>
+<li>The social media officer will be involved to film and promote events on social media platforms.</li>
+</ul>
+<h2>5. Merchandise and branding</h2>
+<ul>
+<li>The current merchandise, such as hoodies with prominently displayed committee titles (e.g., President, Vice President, Secretary), may be intimidating or unappealing to some members.</li>
+<li>New merchandise ideas include quarter zips or jumpers with subtle CompSoc branding, such as the logo and the member's name or committee position if applicable.</li>
+<li>Committee members should have the option to choose between different merchandise styles, such as quarter zips or jumpers, and have their names or positions embroidered.</li>
+<li>A merchandise store could be set up, offering items made to order, with a system for members to collect their purchases at designated events or times.</li>
+<li>The logistics of the merchandise store were discussed, with the possibility of having a 15-minute window at weekly events for members to collect their orders.</li>
+<li>Freshers' Week was identified as an excellent opportunity to sell merchandise and attract new members.</li>
+<li>Other branding suggestions include designing and purchasing a CompSoc flag, banner, and tablecloth for events, which could be added to the Secretary's responsibilities.</li>
+<li>The committee discussed the possibility of offering pink quarter zips as a unique branding option, depending on the design and consensus among members.</li>
+</ul>
+<h2>6. Miscellaneous topics</h2>
+<ul>
+<li>CompSoc should focus on creating content for social media platforms like Instagram and TikTok to showcase events, attract new members, and provide insight into the event atmosphere.</li>
+<li>The social media officer will be responsible for filming events and creating engaging content for various platforms.</li>
+<li>The annual report and the discord mods voting process need to be addressed and planned, with the Vice President taking the lead on the voting process.</li>
+<li>A handover of roles and responsibilities should be conducted before the summer break to ensure a smooth transition.</li>
+<li>The committee discussed the appointment of Discord moderators, with the aim of having three moderators appointed by the committee before opening applications for additional moderators.</li>
+<li>The Fergus emphasized the importance of committee members setting their Discord notifications to "All messages" for the committee chat to ensure timely responses and avoid delays in decision-making.</li>
+<li>The committee agreed to schedule additional meetings throughout the summer to plan for Freshers' Week and other upcoming events.</li>
+</ul>
+<h2>Action Items</h2>
+<ul>
+<li>Fergus to discuss collaboration opportunities with the School of Informatics and relevant individuals.</li>
+<li>Create a plan for expanding connections with other societies and schools through existing committee members and volunteers.</li>
+<li>Brainstorm and plan a diverse range of events, including non-alcoholic options, and conduct a vote or survey to gauge member interests.</li>
+<li>Revamp STMUs to be more engaging and accessible, incorporating a mix of general and academic talks, networking opportunities, and improved streaming setup.</li>
+<li>Allocate a budget for a dedicated streaming setup and camera for STMUs and other events.</li>
+<li>Design and order new merchandise, focusing on subtle branding and committee identification, and explore options for a merchandise store.</li>
+<li>Set up a merchandise store with a system for order collection at events or designated times.</li>
+<li>Create a content plan for social media platforms to showcase events, attract new members, and provide insight into the event atmosphere.</li>
+<li>Address the annual report and constitution amendment voting process, with the Vice President taking the lead on the voting process.</li>
+<li>Conduct a handover of roles and responsibilities before the summer break.</li>
+<li>Appoint three Discord moderators and set up an application process for additional moderators.</li>
+<li>Committee members to set their Discord notifications to "All messages" for the committee chat.</li>
+<li>Schedule additional meetings throughout the summer to plan for Freshers' Week and other upcoming events.</li>
+</ul>
+<h2>Next Meeting</h2>
+<ul>
+<li>To be scheduled as needed, with a focus on one-on-one meetings for specific tasks and regular meetings throughout the summer for event planning.</li>
+</ul>2:["$","$Lb",null,{"contentHtml":"$c","title":"2024-04-23","modifiedAt":"$D2024-10-09T07:32:37.551Z"}]
+a:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#353535"}],["$","meta","2",{"charSet":"utf-8"}],["$","title","3",{"children":"CompSoc"}],["$","meta","4",{"name":"description","content":"CompSoc is Edinburgh University's technology society! We're Scotland's best and largest of its kind, and form one of the largest societies within the university."}],["$","link","5",{"rel":"icon","href":"https://comp-soc.com/compsoc-mini.png"}]]
+1:null

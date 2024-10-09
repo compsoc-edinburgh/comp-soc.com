@@ -1,0 +1,74 @@
+3:I[39275,[],""]
+5:I[61343,[],""]
+6:I[84269,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-053fe9a6e92e8011.js","173","static/chunks/173-a4fc881f158b666a.js","185","static/chunks/app/layout-ae366c9a2823a286.js"],"default"]
+7:I[35719,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-053fe9a6e92e8011.js","173","static/chunks/173-a4fc881f158b666a.js","185","static/chunks/app/layout-ae366c9a2823a286.js"],"default"]
+8:I[42452,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-053fe9a6e92e8011.js","173","static/chunks/173-a4fc881f158b666a.js","185","static/chunks/app/layout-ae366c9a2823a286.js"],"default"]
+9:I[1370,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-053fe9a6e92e8011.js","173","static/chunks/173-a4fc881f158b666a.js","185","static/chunks/app/layout-ae366c9a2823a286.js"],"default"]
+4:["slug","2024-03-20","d"]
+0:["vPVMWpVH0WFQ_kU5h23go",[[["",{"children":["minutes",{"children":[["slug","2024-03-20","d"],{"children":["__PAGE__?{\"slug\":\"2024-03-20\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["minutes",{"children":[["slug","2024-03-20","d"],{"children":["__PAGE__",{},[["$L1","$L2",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/54f9ddd098fa72b3.css","precedence":"next","crossOrigin":"$undefined"}]]],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","minutes","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","minutes","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f71b0d87201a7f32.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"relative overflow-x-clip w-screen mx-auto","children":[["$","$L6",null,{"children":["$","$L7",null,{"children":[["$","$L8",null,{}],["$","div",null,{"className":"container mx-auto max-w-screen-xl p-4 pb-32 min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}]]}]}],["$","div",null,{"className":"relative w-full bg-csred","children":[["$","div",null,{"className":"bg-csred text-white text-center p-2 pointer-events-none select-none","children":"CompSoc ❤️ You!"}],["$","$L9",null,{}],["$","footer",null,{"className":"absolute top-0 text-white","children":["$","div",null,{"className":"flex flex-row gap-2 m-12 pointer-events-none user-select-none"}]}]]}]]}]}]],null],null],["$La",null]]]]
+b:I[95423,["820","static/chunks/app/minutes/%5Bslug%5D/page-425ab24c8d07c42f.js"],"default"]
+c:Td81,<p>Minutes by AI (Whisper and Claude). Tweaked by Vincent.</p>
+<h1>Meetings notes</h1>
+<h2>Constitutional Amendments:</h2>
+<p>The committee conducted a thorough review of the proposed changes to the Compsoc constitution, discussing each section in turn:</p>
+<h3>Membership</h3>
+<p>Proposal: Add Clause - "All matriculated Informatics students are considered default Compsoc members unless they opt out."
+Discussion:</p>
+<ul>
+<li>Could significantly boost reported membership</li>
+<li>Ensures all Informatics students are represented and covered by constitution</li>
+<li>May require changes to membership tracking and engagement reporting
+Decision: Clause added</li>
+</ul>
+<h3>Committee Oversight</h3>
+<p>Proposal: Add clause allowing executive officers to unilaterally issue warnings to underperforming committee members.
+Discussion:</p>
+<ul>
+<li>Concerns over potential for abuse due to vague criteria for "underperformance"</li>
+<li>Suggestions to require co-signing by another executive or allow appeals process
+Decision: clause added.</li>
+</ul>
+<h3>Quorum and Voting</h3>
+<p>Proposals:</p>
+<ul>
+<li>Clarify that SIG leaders count towards quorum if present but are not required for quorum.</li>
+<li>Specify that no individual gets multiple votes even if holding multiple roles.
+Discussion:</li>
+<li>Current wording ambiguous on SIG leader impact on quorum</li>
+<li>Low probability of one person holding enough roles to significantly alter outcomes
+Decision: only elected committee roles are counted towards quorum, but SIG presidents can still vote.</li>
+</ul>
+<h3>SIG Assets on Dissolution</h3>
+<p>Proposal: Add clause specifying SIG assets transfer to Compsoc if SIG dissolves, with allowance for exceptions by committee vote.
+Discussion:</p>
+<ul>
+<li>Question of what currently happens to SIG assets and funds if SIG shuts down</li>
+<li>Some SIGs have valuable assets from independent grants that they don't want seized</li>
+<li>Acknowledgment that Compsoc technically owns all SIG assets as subgroups of Compsoc<br>
+Decision: Each SIG dissolution should be addressed on a case-by-case basis. By default, SIG assets belong and must be returned to CompSoc, but exceptions may be granted.</li>
+</ul>
+<h3>Legal Status</h3>
+<p>Proposal: Remove Clause 1.5.6 prohibiting Compsoc incorporating as an independent legal entity.
+Discussion: Clause seen as redundant with existing requirements to operate under EUSA oversight.<br>
+Decision: Clause removed unanimously.</p>
+<h2>AGM and EGM Planning:</h2>
+<p>AGM scheduled for Wednesday, April 3, 6pm, Informatics Forum Room G.03.</p>
+<ul>
+<li>Some concern raised over potential conflict with SDP Industry Day event same afternoon</li>
+<li>Consensus that AGM should still have adequate turnout as Industry Day will end by 7pm</li>
+<li>Agreement to proceed as scheduled and send announcement to members immediately to maximize notice</li>
+</ul>
+<h3>STMU Talks:</h3>
+<p>Ali reports difficulty confirming speakers for AGM.</p>
+<ul>
+<li>Faculty speakers citing exam schedules and end-of-term workload as reason for unavailability</li>
+<li>Committee suggests broadening search to PhD students, postdocs and alumni in industry</li>
+</ul>
+<h3>TODO:</h3>
+<ul>
+<li>Draft AGM announcement emails and send to membership by end of today</li>
+<li>All committee members to widely advertise openings and encourage candidates to run for election</li>
+<li>All committee members to suggest potential speakers to Ali ASAP</li>
+</ul>2:["$","$Lb",null,{"contentHtml":"$c","title":"2024-03-20","modifiedAt":"$D2024-10-09T07:32:37.551Z"}]
+a:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#353535"}],["$","meta","2",{"charSet":"utf-8"}],["$","title","3",{"children":"CompSoc"}],["$","meta","4",{"name":"description","content":"CompSoc is Edinburgh University's technology society! We're Scotland's best and largest of its kind, and form one of the largest societies within the university."}],["$","link","5",{"rel":"icon","href":"https://comp-soc.com/compsoc-mini.png"}]]
+1:null

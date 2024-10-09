@@ -1,0 +1,123 @@
+3:I[39275,[],""]
+5:I[61343,[],""]
+6:I[84269,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-053fe9a6e92e8011.js","173","static/chunks/173-a4fc881f158b666a.js","185","static/chunks/app/layout-ae366c9a2823a286.js"],"default"]
+7:I[35719,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-053fe9a6e92e8011.js","173","static/chunks/173-a4fc881f158b666a.js","185","static/chunks/app/layout-ae366c9a2823a286.js"],"default"]
+8:I[42452,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-053fe9a6e92e8011.js","173","static/chunks/173-a4fc881f158b666a.js","185","static/chunks/app/layout-ae366c9a2823a286.js"],"default"]
+9:I[1370,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-053fe9a6e92e8011.js","173","static/chunks/173-a4fc881f158b666a.js","185","static/chunks/app/layout-ae366c9a2823a286.js"],"default"]
+4:["slug","2022-03-11-agm-2022","d"]
+0:["vPVMWpVH0WFQ_kU5h23go",[[["",{"children":["news",{"children":[["slug","2022-03-11-agm-2022","d"],{"children":["__PAGE__?{\"slug\":\"2022-03-11-agm-2022\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["news",{"children":[["slug","2022-03-11-agm-2022","d"],{"children":["__PAGE__",{},[["$L1","$L2",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/54f9ddd098fa72b3.css","precedence":"next","crossOrigin":"$undefined"}]]],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","news","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","news","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f71b0d87201a7f32.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"relative overflow-x-clip w-screen mx-auto","children":[["$","$L6",null,{"children":["$","$L7",null,{"children":[["$","$L8",null,{}],["$","div",null,{"className":"container mx-auto max-w-screen-xl p-4 pb-32 min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}]]}]}],["$","div",null,{"className":"relative w-full bg-csred","children":[["$","div",null,{"className":"bg-csred text-white text-center p-2 pointer-events-none select-none","children":"CompSoc ❤️ You!"}],["$","$L9",null,{}],["$","footer",null,{"className":"absolute top-0 text-white","children":["$","div",null,{"className":"flex flex-row gap-2 m-12 pointer-events-none user-select-none"}]}]]}]]}]}]],null],null],["$La",null]]]]
+b:I[71386,["329","static/chunks/app/news/%5Bslug%5D/page-7dedc0e2336c275c.js"],"default"]
+c:T1862,<h3>Manifestos and the programme are now up!!</h3>
+<p><a href="https://comp-soc.com/blog/2022/03/28/2022-agm-manifestos.html">Click here to view them.</a></p>
+<h3>Original post below</h3>
+<p>In the second half of our next STMU (&#x3C;time datetime="2022-03-29 18:00Z">18:00, 29th of March&#x3C;/time>), we will be holding our &#x3C;abbr title="Annual General Meeting">AGM&#x3C;/abbr> where we vote for our new committee and any constitutional amendments.</p>
+<p>The positions available are: President, Vice-President, Secretary, Treasurer, Technical Secretary, Social Secretary, Graphics Designer, 2nd Year Representative, 3rd Year Representative, 4th Year Representative, Postgraduate &#x26; Old Person Representative.</p>
+<p>See the following for descriptions of each position.</p>
+<ul>
+<li><strong>President</strong>:
+<ul>
+<li>Responsible for the overall conduct of the society.</li>
+<li>Willing to dedicate a lot of time.</li>
+</ul>
+</li>
+<li><strong>Vice-President</strong>:
+<ul>
+<li>Organises monthly STMUs and other miscellaneous events with our sponsors.</li>
+<li>Oversees working with our SIGs (Special Interest Groups).
+<blockquote>
+<p>VP takes up about 4-5 hours most weeks, more depending on how much is going on. As well as organising STMUs, you're also expected to help out with other events that are going on, like programming competitions or smaller meetups. You'll need to take lots of initiatives, but this role can help you develop very useful transferrable skills like communication and time management!</p>
+&#x3C;footer>
+ — Oscar, current Vice Pres
+&#x3C;/footer>
+</blockquote>
+</li>
+</ul>
+</li>
+<li><strong>Secretary</strong>:
+<ul>
+<li>Responsible for the administration of the society</li>
+<li>Publicising events by newsletters, social media etc</li>
+<li>Writing minutes &#x26; preparing agendas for AGM, EGM, and weekly meetings</li>
+<li>Society merch
+<blockquote>
+<p>I spent around 5-6 hours per week, scattered across the week - not including time attending CompSoc events, which on average should add another 2 (but they're great fun!) My main responsibilities are the admin work of a society: promoting society events, replying to emails and messages, keeping minutes, as well as keeping track of the committee overall. Some basic GitHub knowledge comes in handy, as we make pull requests on our website. It would also be ideal if you can handle both Facebook and Instagram pages.</p>
+&#x3C;footer>
+ — Alexandra, current Secretary
+&#x3C;/footer>
+</blockquote>
+</li>
+</ul>
+</li>
+<li><strong>Treasurer</strong>:
+<ul>
+<li>Accountable to the committee and members for the finances of the society</li>
+<li>Reimburses society members for expenses</li>
+<li>Writing annual financial report</li>
+</ul>
+</li>
+<li><strong>2nd year, 3rd year, Final year, Postgraduate and Old Person representatives</strong>
+<ul>
+<li>Responsible for communication between their years and the Society, and promotes events to their year.</li>
+<li>Year reps are also responsible for any projects they take up throughout the year.</li>
+<li>(Note that 1st year rep is elected at our EGM in October.)</li>
+</ul>
+</li>
+<li><strong>Technical Secretary</strong>:
+<ul>
+<li>Maintains technical services and in charge of technical setup for events.</li>
+<li>Experience with server management is recommended.
+<blockquote>
+<p>I spent around 1-2 hours per week off-peak and 7-8 per week during rare peaks (event-related preparation). Some stuff I did this year was building websites for CompSoc cookbook and InfBall, and migrating BetterInformatics from Tardis to DigitalOcean! Lots of experience/fun, guaranteed. In other years, TechSecs have made Discord bots, HTB registration portals, etc. Some minimum required skills are basic unix/SSH, Git, experience with webservers, and basic front- and back-end web development, but you can always ask questions to past TechSecs if you don't know so don't worry :)</p>
+&#x3C;footer>
+ — Yuto, current Tech Sec
+&#x3C;/footer>
+</blockquote>
+</li>
+</ul>
+</li>
+<li><strong>Social Secretary</strong>:
+<ul>
+<li>Plans and organises our social events i.e. our pub nights, bowling, etc.</li>
+<li>In charge of social media accounts!
+<blockquote>
+<p>In average, I spend about 1-2 hours each week planning the events. This includes emailing the venues, or going in person to the places to pay deposits or picking up items for the events. It also includes posting on social media about events and generally promoting the events. You might have an increase of work around freshers but apart from that the amount of hours is usually consistent.</p>
+&#x3C;footer>
+ — Paula, current Social Sec
+&#x3C;/footer>
+</blockquote>
+</li>
+</ul>
+</li>
+<li><strong>Graphic Designer</strong>:
+<ul>
+<li>Responsible for the creation of art, logos, and other designs required by the society for events, merchandise, and other promotional material.</li>
+</ul>
+</li>
+</ul>
+<h3>Want to run for a position?</h3>
+<ul>
+<li>Send <a href="mailto:vicepresident@comp-soc.com">vicepresident@comp-soc.com</a> your manifesto (PDF of max 200 words) <strong>by Friday 25th March 2022</strong> specifying your full name and the role in the title.</li>
+<li>Prepare a speech. Length is 2 minutes for executive roles (President, VP, Secretary, Treasurer) and 1 minute for the other roles. You may get asked questions afterwards.</li>
+</ul>
+<h3>Constitutional Amendments</h3>
+<p>We have three sets of amendments that we'll be voting on:</p>
+<ol>
+<li><a href="https://github.com/compsoc-edinburgh/constitution/pull/31">https://github.com/compsoc-edinburgh/constitution/pull/31</a>
+<ul>
+<li>Remove duplicate clauses (17 removed in favour of 3, 19 removed in favour of 11)</li>
+</ul>
+</li>
+<li><a href="https://github.com/compsoc-edinburgh/constitution/pull/32">https://github.com/compsoc-edinburgh/constitution/pull/32</a>
+<ul>
+<li>Add an EDI Representative role created and managed by the School of Informatics</li>
+</ul>
+</li>
+<li><a href="https://github.com/compsoc-edinburgh/constitution/pull/33">https://github.com/compsoc-edinburgh/constitution/pull/33</a>
+<ul>
+<li>Add three EUSA compliance clauses, related to legal status, a zero tolerance policy for sexual harassment, and the definition of harassment</li>
+</ul>
+</li>
+</ol>
+<p>CompSoc &#x3C;3 You!</p>2:["$","$Lb",null,{"contentHtml":"$c","title":"AGM 2022 - Call for manifestos","modifiedAt":"$D2024-10-09T07:32:37.553Z"}]
+a:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#353535"}],["$","meta","2",{"charSet":"utf-8"}],["$","title","3",{"children":"CompSoc"}],["$","meta","4",{"name":"description","content":"CompSoc is Edinburgh University's technology society! We're Scotland's best and largest of its kind, and form one of the largest societies within the university."}],["$","link","5",{"rel":"icon","href":"https://comp-soc.com/compsoc-mini.png"}]]
+1:null

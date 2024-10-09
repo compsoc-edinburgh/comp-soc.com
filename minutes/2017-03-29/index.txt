@@ -1,0 +1,98 @@
+3:I[39275,[],""]
+5:I[61343,[],""]
+6:I[84269,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-053fe9a6e92e8011.js","173","static/chunks/173-a4fc881f158b666a.js","185","static/chunks/app/layout-ae366c9a2823a286.js"],"default"]
+7:I[35719,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-053fe9a6e92e8011.js","173","static/chunks/173-a4fc881f158b666a.js","185","static/chunks/app/layout-ae366c9a2823a286.js"],"default"]
+8:I[42452,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-053fe9a6e92e8011.js","173","static/chunks/173-a4fc881f158b666a.js","185","static/chunks/app/layout-ae366c9a2823a286.js"],"default"]
+9:I[1370,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-053fe9a6e92e8011.js","173","static/chunks/173-a4fc881f158b666a.js","185","static/chunks/app/layout-ae366c9a2823a286.js"],"default"]
+4:["slug","2017-03-29","d"]
+0:["vPVMWpVH0WFQ_kU5h23go",[[["",{"children":["minutes",{"children":[["slug","2017-03-29","d"],{"children":["__PAGE__?{\"slug\":\"2017-03-29\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["minutes",{"children":[["slug","2017-03-29","d"],{"children":["__PAGE__",{},[["$L1","$L2",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/54f9ddd098fa72b3.css","precedence":"next","crossOrigin":"$undefined"}]]],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","minutes","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","minutes","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f71b0d87201a7f32.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"relative overflow-x-clip w-screen mx-auto","children":[["$","$L6",null,{"children":["$","$L7",null,{"children":[["$","$L8",null,{}],["$","div",null,{"className":"container mx-auto max-w-screen-xl p-4 pb-32 min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}]]}]}],["$","div",null,{"className":"relative w-full bg-csred","children":[["$","div",null,{"className":"bg-csred text-white text-center p-2 pointer-events-none select-none","children":"CompSoc ❤️ You!"}],["$","$L9",null,{}],["$","footer",null,{"className":"absolute top-0 text-white","children":["$","div",null,{"className":"flex flex-row gap-2 m-12 pointer-events-none user-select-none"}]}]]}]]}]}]],null],null],["$La",null]]]]
+b:I[95423,["820","static/chunks/app/minutes/%5Bslug%5D/page-425ab24c8d07c42f.js"],"default"]
+c:Tbf6,<p>This week’s meeting covers the handover from the 2016/17 committee to the 2017/18 committee, chaired by the new President.</p>
+<p><strong>Present</strong></p>
+<p>Qais Patankar, Angus Shaw, Elena Lapinskaitė, Simon Vahr, Viktorija Lukošiūtė, Aw Young Qingzhuo, Joshua Green, Harry Reeder, Craig Snowden</p>
+<p><strong>Committee Handover</strong></p>
+<ul>
+<li>Introductions</li>
+<li>Explanations of old committee roles (President, Vice-President, Secretary) to new committee</li>
+<li>Should members get two votes if they have both a CompSoc and EUSA position?</li>
+<li>Should Informatics year reps get votes, considering they outnumber the committee?</li>
+<li>Important contacts:
+<ul>
+<li>Suzanne Perry</li>
+<li>Neil Heatley</li>
+<li>Heather Walker: closer to Hoppers</li>
+<li>Hack the Burgh contacts: updated in April</li>
+</ul>
+</li>
+<li>Transfer of mailing, finance accounts etc</li>
+<li>Clarification of HackSec duties and discussion of future candidate suitability</li>
+<li>TechSecs to bring each other up to speed in their own time</li>
+</ul>
+<p><strong>Upcoming</strong></p>
+<ul>
+<li>Catering for/entertaining the ≈80 Dutch students
+<ul>
+<li>Last time we took them to Arthur’s Seat then the pub</li>
+<li>Collaboration with other societies within/outside the university</li>
+</ul>
+</li>
+</ul>
+<p><strong>Agenda</strong></p>
+<ul>
+<li>
+<p>Tech companies in Edinburgh and potential for sponsorship/talks</p>
+</li>
+<li>
+<p>STMU talks</p>
+<ul>
+<li>Need to be informative, not recruitment pitches</li>
+<li>Companies typically secretive about content</li>
+<li>Suggestion for greater variety</li>
+<li>October/November is sponsor season</li>
+<li>Important to enforce time limit</li>
+<li>Essential for pizza, which is a key part of STMUs</li>
+</ul>
+</li>
+<li>
+<p>What is being a CompSoc member worth, and why should people sponsor us?</p>
+<ul>
+<li>Ability to run or vote for committee positions</li>
+<li>£4 is relatively insignificant. Could it just be free?</li>
+<li>MathSoc charge for events - society cards give discounts on entry and drinks</li>
+</ul>
+</li>
+<li>
+<p>Socials</p>
+<ul>
+<li>Both drinking &#x26; non-drinking recommended
+<ul>
+<li>Evening of Games</li>
+<li>Easier in Appleton Tower. Forrest Hill has just classrooms, Appleton Tower has open areas.</li>
+<li>Plenty of walls to project to</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>How to draw in non-Informatics students</p>
+<ul>
+<li>Everything is advertised publicly yet there is little engagement with non-Informatics students</li>
+<li>Posters - perhaps useful</li>
+<li>Potentially using entire Informatics mailing list for some emails - careful not to spam too much though</li>
+</ul>
+</li>
+<li>
+<p>CompSoc Facebook presence</p>
+<ul>
+<li>Should the group be made public?
+<ul>
+<li>Make the group modded/have each post need admin approval? Will this discourage discussion?</li>
+</ul>
+</li>
+<li>Different uses of page and group (some are more professional, others more communal)</li>
+<li>Making CompSoc Offers more visible: shoutouts (STMUs), put at the bottom of newsletter</li>
+</ul>
+</li>
+</ul>2:["$","$Lb",null,{"contentHtml":"$c","title":"2017-03-29","modifiedAt":"$D2024-10-09T07:32:37.547Z"}]
+a:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#353535"}],["$","meta","2",{"charSet":"utf-8"}],["$","title","3",{"children":"CompSoc"}],["$","meta","4",{"name":"description","content":"CompSoc is Edinburgh University's technology society! We're Scotland's best and largest of its kind, and form one of the largest societies within the university."}],["$","link","5",{"rel":"icon","href":"https://comp-soc.com/compsoc-mini.png"}]]
+1:null

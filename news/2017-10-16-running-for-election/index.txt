@@ -1,0 +1,43 @@
+3:I[39275,[],""]
+5:I[61343,[],""]
+6:I[84269,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-053fe9a6e92e8011.js","173","static/chunks/173-a4fc881f158b666a.js","185","static/chunks/app/layout-ae366c9a2823a286.js"],"default"]
+7:I[35719,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-053fe9a6e92e8011.js","173","static/chunks/173-a4fc881f158b666a.js","185","static/chunks/app/layout-ae366c9a2823a286.js"],"default"]
+8:I[42452,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-053fe9a6e92e8011.js","173","static/chunks/173-a4fc881f158b666a.js","185","static/chunks/app/layout-ae366c9a2823a286.js"],"default"]
+9:I[1370,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-053fe9a6e92e8011.js","173","static/chunks/173-a4fc881f158b666a.js","185","static/chunks/app/layout-ae366c9a2823a286.js"],"default"]
+4:["slug","2017-10-16-running-for-election","d"]
+0:["vPVMWpVH0WFQ_kU5h23go",[[["",{"children":["news",{"children":[["slug","2017-10-16-running-for-election","d"],{"children":["__PAGE__?{\"slug\":\"2017-10-16-running-for-election\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["news",{"children":[["slug","2017-10-16-running-for-election","d"],{"children":["__PAGE__",{},[["$L1","$L2",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/54f9ddd098fa72b3.css","precedence":"next","crossOrigin":"$undefined"}]]],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","news","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","news","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f71b0d87201a7f32.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"relative overflow-x-clip w-screen mx-auto","children":[["$","$L6",null,{"children":["$","$L7",null,{"children":[["$","$L8",null,{}],["$","div",null,{"className":"container mx-auto max-w-screen-xl p-4 pb-32 min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}]]}]}],["$","div",null,{"className":"relative w-full bg-csred","children":[["$","div",null,{"className":"bg-csred text-white text-center p-2 pointer-events-none select-none","children":"CompSoc ❤️ You!"}],["$","$L9",null,{}],["$","footer",null,{"className":"absolute top-0 text-white","children":["$","div",null,{"className":"flex flex-row gap-2 m-12 pointer-events-none user-select-none"}]}]]}]]}]}]],null],null],["$La",null]]]]
+b:I[71386,["329","static/chunks/app/news/%5Bslug%5D/page-7dedc0e2336c275c.js"],"default"]
+c:Tb26,<p>Here's who's running for election at our October EGM.
+More information about the EGM can be found [here]({{ site.baseurl }}{% post_url 2017-10-04-egm %}).</p>
+<hr>
+<h4>Dylan Oshima — running for 1st year rep</h4>
+&#x3C;blockquote class="blockquote" style="font-size: initial">
+&#x3C;p>
+I have three objectives by becoming the year one rep:
+&#x3C;/p>
+&#x3C;ul>
+&#x3C;li>Get closer to my fellow classmates and learn more about everyone.&#x3C;/li>
+&#x3C;li>Support my fellow classmates by: providing resources for school and research, helping to organize cool activities, providing prep for job interviews, and being friendly to whoever needs or wants help.&#x3C;/li>
+&#x3C;li>Provide top notch pizza for everyone.&#x3C;/li>
+&#x3C;/ul>
+&#x3C;/blockquote>
+<h4>Ege Elgun — running for 1st year rep</h4>
+&#x3C;blockquote class="blockquote" style="font-size: initial">
+&#x3C;p>Champions of CompSoc&#x3C;/p>
+&#x3C;p>“To those who can hear me I say: do not despair! The misery that is now upon us is but the passing of greed.” We will reach to the promised land, with unlimited supply of free pizzas and coffee, eventually. I’m willing to sacrifice my precious WoW hours (which worths £0.014 per hour. Gosh darnit Blizzard.) for our common cause.&#x3C;/p>
+&#x3C;p>Previously, I have devoted myself to organize 3 different Model United Nations conferences as a member of academic, and sponsorship teams. Moreover, I have founded the one and only programming club in my high school. During those distant times I would organize competitions, and arrange field trips to local tech companies while teaching newbs some Hax0r skillz.&#x3C;/p>
+&#x3C;p>As a community, I believe that I am adept to the culture of CompSoc enough for me to reflect and enhance the experience.&#x3C;/p>
+&#x3C;p>Sincerely,&#x3C;/p>
+&#x3C;p>Ege Elgun.&#x3C;/p>
+&#x3C;p>This message is brought to you by electrons (representing 1s and 0s)...&#x3C;/p>
+&#x3C;/blockquote>
+#### Elspeth Smith — running for 1st year rep
+&#x3C;blockquote class="blockquote" style="font-size: initial">
+&#x3C;p>I feel I would be suitable for the role of first year class rep due to a number of reasons. First of all I am enthusiastic about tech and computer science and am already actively involved with comp soc through cascaders evenings. In addition I am approachable and friendly and all set to get started in the role.&#x3C;/p>
+&#x3C;p>As 1st year rep I would be active in pursuing issues which matter to inf1 students (such a a microwave for AT4 or lobbying to increase the use of the word set in computation and logic lectures) and of course taking the concerns of students into account to improve our 1st year experience and comp soc as a whole.&#x3C;/p>
+&#x3C;/blockquote>
+<hr>
+<p>Some applied for the other year rep roles, but did not provide a manifesto.</p>
+<p>Best of luck to everyone!</p>2:["$","$Lb",null,{"contentHtml":"$c","title":"Who's running for election?","modifiedAt":"$D2024-10-09T07:32:37.552Z"}]
+a:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#353535"}],["$","meta","2",{"charSet":"utf-8"}],["$","title","3",{"children":"CompSoc"}],["$","meta","4",{"name":"description","content":"CompSoc is Edinburgh University's technology society! We're Scotland's best and largest of its kind, and form one of the largest societies within the university."}],["$","link","5",{"rel":"icon","href":"https://comp-soc.com/compsoc-mini.png"}]]
+1:null
