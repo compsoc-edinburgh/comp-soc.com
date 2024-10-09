@@ -15,7 +15,7 @@ import {
 const Logo = () => (
   <Link href={`${prefix}/`}>
     <Image
-      src={`${prefix}/compsoc-mini.png`}
+      src={`${prefix}/compsoc-mini.svg`}
       alt="Wide CompSoc logo"
       width={24}
       height={24}
