@@ -8,7 +8,7 @@ const nextConfig = {
     path: '',
     unoptimized: true,
   },
-
+  trailingSlash: true,
 }
 
 export default nextConfig
