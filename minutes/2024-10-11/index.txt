@@ -1,0 +1,101 @@
+3:I[39275,[],""]
+5:I[61343,[],""]
+6:I[84269,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-053fe9a6e92e8011.js","173","static/chunks/173-a4fc881f158b666a.js","185","static/chunks/app/layout-af61c068532161c8.js"],"default"]
+7:I[35719,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-053fe9a6e92e8011.js","173","static/chunks/173-a4fc881f158b666a.js","185","static/chunks/app/layout-af61c068532161c8.js"],"default"]
+8:I[42452,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-053fe9a6e92e8011.js","173","static/chunks/173-a4fc881f158b666a.js","185","static/chunks/app/layout-af61c068532161c8.js"],"default"]
+9:I[1370,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-053fe9a6e92e8011.js","173","static/chunks/173-a4fc881f158b666a.js","185","static/chunks/app/layout-af61c068532161c8.js"],"default"]
+4:["slug","2024-10-11","d"]
+0:["luYQNCZJfEMzFHsU22ljy",[[["",{"children":["minutes",{"children":[["slug","2024-10-11","d"],{"children":["__PAGE__?{\"slug\":\"2024-10-11\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["minutes",{"children":[["slug","2024-10-11","d"],{"children":["__PAGE__",{},[["$L1","$L2",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/54f9ddd098fa72b3.css","precedence":"next","crossOrigin":"$undefined"}]]],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","minutes","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","minutes","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f71b0d87201a7f32.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"relative overflow-x-clip w-screen mx-auto","children":[["$","$L6",null,{"children":["$","$L7",null,{"children":[["$","$L8",null,{}],["$","div",null,{"className":"container mx-auto max-w-screen-xl p-4 pb-32 min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}]]}]}],["$","div",null,{"className":"relative w-full bg-csred","children":[["$","div",null,{"className":"bg-csred text-white text-center p-2 pointer-events-none select-none","children":"CompSoc ❤️ You!"}],["$","$L9",null,{}],["$","footer",null,{"className":"absolute top-0 text-white","children":["$","div",null,{"className":"flex flex-row gap-2 m-12 pointer-events-none user-select-none"}]}]]}]]}]}]],null],null],["$La",null]]]]
+b:I[95423,["820","static/chunks/app/minutes/%5Bslug%5D/page-425ab24c8d07c42f.js"],"default"]
+c:Tc7d,<h2><strong>Attendees:</strong></h2>
+<ul>
+<li>Vincent</li>
+<li>Godfrey</li>
+<li>Elisa</li>
+<li>Marton</li>
+<li>Agam</li>
+<li>Anastasia</li>
+<li>Cat</li>
+<li>Lucas</li>
+<li>Fergus</li>
+<li>Pierre</li>
+<li>Stan</li>
+<li>Chris</li>
+<li>Tomas</li>
+<li>Lewis</li>
+</ul>
+<h2>1. <strong>Promotions This Weekend</strong></h2>
+<ul>
+<li>Scheduled to be released on sunday</li>
+<li>Deadline is end of today to be added to the post</li>
+<li>The media used will be Discord and Instagram</li>
+<li>We would like to humanities student for the future social media team</li>
+</ul>
+<h2>2. <strong>Sponsor Update</strong></h2>
+<ul>
+<li>We have the following sponsors:
+<ul>
+<li>Optiver (Gold)</li>
+<li>Qube Research and Technologies (Gold)</li>
+<li>LLoyds (Silver)</li>
+<li>G-Research (Silver)</li>
+<li>Viridien (Silver)</li>
+<li>Jane Street (Bronze)</li>
+<li>Addepar (Silver not signed)</li>
+<li>BlackRock (Silver not signed)</li>
+<li>Neuphonic (Still talking)</li>
+</ul>
+</li>
+<li>In summary, 2 Gold and 5 Silver so far</li>
+</ul>
+<h2>3. <strong>InfBall</strong></h2>
+<ul>
+<li>Will be held in April, same time as last year</li>
+<li>Pierre and Stan have volunteered to lead InfBall, with Marton and the first year rep as well</li>
+<li>They will talk to the previous organisers for discussion</li>
+<li>We do not want to use The Caves again, since it was hard for the Ceilidh</li>
+<li>Balmoral is preferred and larger, and Neil would help to book it through him</li>
+<li>Balmoral is expensive so price and budget is very important</li>
+<li>There is the possibility to increase the price of tickets</li>
+</ul>
+<h2>4. <strong>Banking</strong></h2>
+<ul>
+<li>We are currently switching bank accounts from Santander to Bank of Scotland</li>
+<li>This is still in process</li>
+<li>We will get 3 debit cards from Bank of Scotland</li>
+<li>Currently we still have a PayPal card</li>
+<li>Idea to use sub accounts for each SIG once switched to Bank of Scotland</li>
+</ul>
+<h2>5. <strong>PhysSoc Halloween Party</strong></h2>
+<ul>
+<li>PhysSoc have not replied to Anastasia about the event</li>
+<li>Event will be on the 29th of October</li>
+<li>Desired attendance is 50</li>
+<li>We will promote it as soon as possible especially since it is a ticketed event</li>
+</ul>
+<h2>6. <strong>AdaHack Discussion</strong></h2>
+<ul>
+<li>£30 Amazon gift vouchers per person as prizes</li>
+<li>We need 1/2 people throughout the event, and 2/3 people for judging at the end</li>
+<li>Fergus, Tomas and Elisa volunteered</li>
+</ul>
+<h2>7. <strong>Hoppers</strong></h2>
+<ul>
+<li>Hoppers expressed an interest to collaborate more with CompSoc</li>
+<li>Hoppers and CompSoc combined hava a lot of reach</li>
+<li>They want 2 events, one social and one technical workshop</li>
+<li>We can both advertise these events to maximise attendance</li>
+</ul>
+<h2>8. <strong>Neuphonic</strong></h2>
+<ul>
+<li>They do not get an STMU or HTB</li>
+<li>They are not interested in the Expo</li>
+<li>They woul like to run a Conversational AI themed Hackathon</li>
+<li>They will handle the challenges, prizes and such, but would like CompSoc to do logistics</li>
+</ul>
+<h2>10. <strong>Action items</strong></h2>
+<ul>
+<li>Find someone to run the Neuphonic event</li>
+</ul>2:["$","$Lb",null,{"contentHtml":"$c","title":"2024-10-11","modifiedAt":"$D2024-10-11T21:31:13.006Z"}]
+a:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#353535"}],["$","meta","2",{"charSet":"utf-8"}],["$","title","3",{"children":"CompSoc"}],["$","meta","4",{"name":"description","content":"CompSoc is Edinburgh University's technology society! We're Scotland's best and largest of its kind, and form one of the largest societies within the university."}],["$","link","5",{"rel":"icon","href":"https://comp-soc.com/compsoc-mini.svg"}]]
+1:null
