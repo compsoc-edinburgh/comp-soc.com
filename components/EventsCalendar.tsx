@@ -8,7 +8,9 @@ import Modal from '@mui/material/Modal'
 import Box from '@mui/material/Box'
 import { prefix } from '@/utils/prefix'
 import Image from 'next/image'
-import { MapPin } from 'iconoir-react'
+import { Calendar, MapPin } from 'iconoir-react'
+import { IconButton } from '@mui/material'
+import ical from 'ical-generator'
 
 const EventsCalendar: React.FC = () => {
   const { events, loading, error } = useCalendarEvents()
@@ -26,6 +28,29 @@ const EventsCalendar: React.FC = () => {
 
   const handleClose = () => {
     setOpen(false)
+  }
+
+  const handleDownloadIcsFile = () => {
+    console.log(event)
+    const calendar = ical({
+      prodId: '//comp-soc.com//2024//EN',
+      events: [
+        {
+          start: event.extendedProps.start_,
+          end: event.extendedProps.end_,
+          summary: event.title,
+          description: event.extendedProps.description,
+          location: event.extendedProps.location,
+        },
+      ],
+    })
+    const icsData = calendar.toString()
+    const blob = new Blob([icsData], { type: 'text/calendar' })
+    const url = URL.createObjectURL(blob)
+    const link = document.createElement('a')
+    link.download = 'test.ics'
+    link.href = url
+    link.click()
   }
 
   const style = {
@@ -160,19 +185,30 @@ const EventsCalendar: React.FC = () => {
           <div className="p-4 flex items-center">
             {event && (
               <>
-                <div>
-                  <div className="font-bold flex items-center">
-                    <Image
-                      width={40}
-                      height={40}
-                      src={`${prefix}/SIGs/${event.extendedProps.sig.icon.src}`}
-                      alt={event.extendedProps.sig.icon.alt}
-                      className={`h-full ${
-                        event.extendedProps.sig.icon.rounded
-                      } mr-2`}
-                    />
-                    <div className="text-xl">{event.title}</div>
-                  </div>
+                <div className="w-full">
+                  <Box
+                    sx={{ display: 'flex', justifyContent: 'space-between' }}
+                  >
+                    <div className="font-bold flex items-center">
+                      <Image
+                        width={40}
+                        height={40}
+                        src={`${prefix}/SIGs/${event.extendedProps.sig.icon.src}`}
+                        alt={event.extendedProps.sig.icon.alt}
+                        className={`h-full ${
+                          event.extendedProps.sig.icon.rounded
+                        } mr-2`}
+                      />
+                      <div className="text-xl">{event.title}</div>
+                    </div>
+                    <IconButton
+                      aria-label="download ics file"
+                      title="Download .ics file"
+                      onClick={handleDownloadIcsFile}
+                    >
+                      <Calendar className="text-base text-blue-400" />
+                    </IconButton>
+                  </Box>
                   <div className="mt-2">
                     {' '}
                     {event.extendedProps.formattedDate}
