@@ -11,6 +11,7 @@ import Image from 'next/image'
 import { CalendarPlus, MapPin } from 'iconoir-react'
 import { IconButton } from '@mui/material'
 import ical from 'ical-generator'
+import slugify from '@/utils/slugify'
 
 const EventsCalendar: React.FC = () => {
   const { events, loading, error } = useCalendarEvents()
@@ -47,7 +48,8 @@ const EventsCalendar: React.FC = () => {
     const blob = new Blob([icsData], { type: 'text/calendar' })
     const url = URL.createObjectURL(blob)
     const link = document.createElement('a')
-    link.download = 'test.ics'
+    link.download =
+      slugify(`${event.title}-${event.extendedProps.formattedDate}`) + '.ics'
     link.href = url
     link.click()
   }
