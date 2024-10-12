@@ -8,7 +8,7 @@ import Modal from '@mui/material/Modal'
 import Box from '@mui/material/Box'
 import { prefix } from '@/utils/prefix'
 import Image from 'next/image'
-import { Calendar, MapPin } from 'iconoir-react'
+import { CalendarPlus, MapPin } from 'iconoir-react'
 import { IconButton } from '@mui/material'
 import ical from 'ical-generator'
 
@@ -31,7 +31,6 @@ const EventsCalendar: React.FC = () => {
   }
 
   const handleDownloadIcsFile = () => {
-    console.log(event)
     const calendar = ical({
       prodId: '//comp-soc.com//2024//EN',
       events: [
@@ -206,7 +205,7 @@ const EventsCalendar: React.FC = () => {
                       title="Download .ics file"
                       onClick={handleDownloadIcsFile}
                     >
-                      <Calendar className="text-base text-blue-400" />
+                      <CalendarPlus className="text-base text-blue-400" />
                     </IconButton>
                   </Box>
                   <div className="mt-2">
