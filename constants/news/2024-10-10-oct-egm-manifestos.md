@@ -5,7 +5,8 @@ excerpt_separator: '<!--See More-->'
 roles:
   - title: Vice-President
     people:
-      - name: No one has run for this position yet
+      - name: Marton Nemeth
+        url: https://drive.google.com/file/d/1rV4ZqVyTL2Vh2lzdlKtXtarCV0XH_fNE/view?usp=sharing
   - title: Junior Treasurer
     people:
       - name: No one has run for this position yet
@@ -26,7 +27,7 @@ _The views expressed on the following manifestos are the candidates' own and do 
 
 | Role                     | Name                   | Manifesto Link                                                                                       |
 | ------------------------ | ---------------------- | ---------------------------------------------------------------------------------------------------- |
-| **Vice-President**       | No one has run for this position yet          |  |
+| **Vice-President**       | Marton Nemeth          | [Link](https://drive.google.com/file/d/1rV4ZqVyTL2Vh2lzdlKtXtarCV0XH_fNE/view?usp=sharing) |
 | **Junior Treasurer**     | No one has run for this position yet       |  |
 | **1st Year Rep**         | No one has run for this position yet       |  |
 
