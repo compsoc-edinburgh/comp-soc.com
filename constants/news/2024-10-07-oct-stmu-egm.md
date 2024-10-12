@@ -14,6 +14,7 @@ Following the talk, we will have **3 elections** for the roles of Vice President
 
 ### Manifestos
 
+Manifestos for the two positions are now live! [Click here to view them.](https://comp-soc.com/news/2024-10-10-oct-egm-manifestos/)  
 Please read on to find out how to add your own, if you are interested.
 
 ### EGM
