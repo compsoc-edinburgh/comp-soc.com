@@ -12,7 +12,8 @@ roles:
       - name: No one has run for this position yet
   - title: 1st Year Rep
     people:
-      - name: No one has run for this position yet
+      - name: Kacper Szymanski
+        url: https://drive.google.com/file/d/1xMs7pPZf1Seaf1XnQxRVRvfjqA0b_qVw/view?usp=sharing
 ---
 
 ## Election Details
@@ -29,7 +30,7 @@ _The views expressed on the following manifestos are the candidates' own and do 
 | ------------------------ | ---------------------- | ---------------------------------------------------------------------------------------------------- |
 | **Vice-President**       | Marton Nemeth          | [Link](https://drive.google.com/file/d/1rV4ZqVyTL2Vh2lzdlKtXtarCV0XH_fNE/view?usp=sharing) |
 | **Junior Treasurer**     | No one has run for this position yet       |  |
-| **1st Year Rep**         | No one has run for this position yet       |  |
+| **1st Year Rep**         | Kacper Szymanski       | [Link](https://drive.google.com/file/d/1xMs7pPZf1Seaf1XnQxRVRvfjqA0b_qVw/view?usp=sharing) |
 
 We hope you think carefully about who you choose to elect tonight — please vote based on manifestos and speeches! Note that you may also vote for RON (reopen nominations) for all positions. You also need EUSA CompSoc membership.
 
