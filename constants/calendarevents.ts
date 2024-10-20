@@ -139,6 +139,8 @@ function transformEvents(
       title: event.summary,
       start: event.start.dateTime || event.start.date,
       end: event.end.dateTime || event.end.date,
+      start_: event.start.dateTime || event.start.date,
+      end_: event.end.dateTime || event.end.date,
       color: sig.backgroundColor,
       textColor: sig.textColor,
       sig: sig,
