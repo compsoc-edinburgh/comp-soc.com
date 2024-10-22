@@ -15,6 +15,8 @@ roles:
         url: https://drive.google.com/file/d/1J9AvYlDat4ho4sm3YYDXsUmWyYSnsNzy/view?usp=sharing
       - name: Arthur Sokolov
         url: https://drive.google.com/file/d/10D-MQ6mfkrBGjA-KWImWgnmZo0Wi_zlD/view?usp=sharing
+      - name: Eileen Garip
+        url: https://drive.google.com/file/d/1ye1jEofYcIXIq8yL71IEOXBgGKbRxHJP/view?usp=sharing
   - title: 1st Year Rep
     people:
       - name: Kacper Szymanski
@@ -43,6 +45,7 @@ _The views expressed on the following manifestos are the candidates' own and do 
 | **Junior Treasurer**     | Weng Kin Chan       | [Link](https://drive.google.com/file/d/1s0vENluG5VjjZch7q1RvYpePvDSYqkCL/view?usp=sharing) |
 |      | Anna Kandyba       | [Link](https://drive.google.com/file/d/1J9AvYlDat4ho4sm3YYDXsUmWyYSnsNzy/view?usp=sharing) |
 |      | Arthur Sokolov       | [Link](https://drive.google.com/file/d/10D-MQ6mfkrBGjA-KWImWgnmZo0Wi_zlD/view?usp=sharing) |
+|      | Eileen Garip       | [Link](https://drive.google.com/file/d/1ye1jEofYcIXIq8yL71IEOXBgGKbRxHJP/view?usp=sharing) |
 | **1st Year Rep**         | Kacper Szymanski       | [Link](https://drive.google.com/file/d/1xMs7pPZf1Seaf1XnQxRVRvfjqA0b_qVw/view?usp=sharing) |
 |                          | Hyunseo Lee       | [Link](https://drive.google.com/file/d/1FcF5N7XPJako5veWNXTQ9cs7Q9UUKPlf/view?usp=sharing) |
 |                          | Shlok Gupta       | [Link](https://drive.google.com/file/d/1YU16mNMtOKzlRgkH1D5L8d8yy-I3klSA/view?usp=sharing) |
