@@ -11,6 +11,8 @@ roles:
     people:
       - name: Weng Kin Chan
         url: https://drive.google.com/file/d/1s0vENluG5VjjZch7q1RvYpePvDSYqkCL/view?usp=sharing
+      - name: Anna Kandyba
+        url: https://drive.google.com/file/d/1J9AvYlDat4ho4sm3YYDXsUmWyYSnsNzy/view?usp=sharing
   - title: 1st Year Rep
     people:
       - name: Kacper Szymanski
@@ -37,6 +39,7 @@ _The views expressed on the following manifestos are the candidates' own and do 
 | ------------------------ | ---------------------- | ---------------------------------------------------------------------------------------------------- |
 | **Vice-President**       | Marton Nemeth          | [Link](https://drive.google.com/file/d/1rV4ZqVyTL2Vh2lzdlKtXtarCV0XH_fNE/view?usp=sharing) |
 | **Junior Treasurer**     | Weng Kin Chan       | [Link](https://drive.google.com/file/d/1s0vENluG5VjjZch7q1RvYpePvDSYqkCL/view?usp=sharing) |
+|      | Anna Kandyba       | [Link](https://drive.google.com/file/d/1J9AvYlDat4ho4sm3YYDXsUmWyYSnsNzy/view?usp=sharing) |
 | **1st Year Rep**         | Kacper Szymanski       | [Link](https://drive.google.com/file/d/1xMs7pPZf1Seaf1XnQxRVRvfjqA0b_qVw/view?usp=sharing) |
 |                          | Hyunseo Lee       | [Link](https://drive.google.com/file/d/1FcF5N7XPJako5veWNXTQ9cs7Q9UUKPlf/view?usp=sharing) |
 |                          | Shlok Gupta       | [Link](https://drive.google.com/file/d/1YU16mNMtOKzlRgkH1D5L8d8yy-I3klSA/view?usp=sharing) |
