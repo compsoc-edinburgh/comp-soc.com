@@ -34,9 +34,9 @@ const SearchPosts = ({
 
   return (
     <div className="relative flex flex-1 md:w-1/3">
-      <Search className="absolute left-2 top-1/2 transform -translate-y-5  text-gray-500" />
+      <Search className="absolute left-2 top-1/2 transform -translate-y-5  text-neutral-500" />
       <input
-        className="peer block w-full rounded-sm border border-border py-[9px] pl-10 text-sm outline-2 placeholder:text-gray-500 bg-foreground mb-4"
+        className="peer block w-full rounded-sm border border-border py-[9px] pl-10 text-sm outline-2 placeholder:text-neutral-500 bg-foreground mb-4"
         placeholder={placeholder}
         onChange={(e) => handleSearch(e.target.value)}
         value={searchTerm}
