@@ -52,6 +52,22 @@ export const team2024: Committee[] = [
     ],
   },
   {
+    name: 'Kameran',
+    surname: 'Russell',
+    role: Role.JUNIOR_TREASURER,
+    image: 'kameran-1.png',
+    links: [
+      {
+        type: LinkType.LINKEDIN,
+        url: 'https://www.linkedin.com/in/kameran-russell-238712203/',
+      },
+      {
+        type: LinkType.INSTAGRAM,
+        url: 'https://www.instagram.com/oddly_spelt_kam/',
+      },
+    ],
+  },
+  {
     name: 'Godfrey',
     surname: 'Antomarlin',
     role: Role.SECRETARY,
@@ -116,6 +132,18 @@ export const team2024: Committee[] = [
       {
         type: LinkType.LINKEDIN,
         url: 'https://www.linkedin.com/in/lewis-simpson-05a983302/',
+      },
+    ],
+  },
+  {
+    name: 'Kacper',
+    surname: 'Szymanski',
+    role: Role.FIRST_YEAR_REP,
+    image: 'kacper-1.png',
+    links: [
+      {
+        type: LinkType.LINKEDIN,
+        url: 'https://www.linkedin.com/in/kacper-szymanski-0812432b9/',
       },
     ],
   },

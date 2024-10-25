@@ -4,6 +4,7 @@ export enum Role {
   VICE_PRESIDENT = 'Vice President',
   SIG_PRESIDENT = 'SIG President',
   TREASURER = 'Treasurer',
+  JUNIOR_TREASURER = 'Junior Treasurer',
   SECRETARY = 'Secretary',
   HACKATHON_SECRETARY = 'Hackathon Secretary',
   TECHNICAL_SECRETARY = 'Technical Secretary',
