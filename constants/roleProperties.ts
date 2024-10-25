@@ -12,6 +12,7 @@ export const roleProperties: Record<Role, RoleProperties> = {
   [Role.HACKATHON_SECRETARY]: { shortName: 'Hack Sec', isCoreCommittee: true },
   [Role.SIG_PRESIDENT]: { shortName: 'SIG Pres', isCoreCommittee: false },
   [Role.TREASURER]: { shortName: 'Treas', isCoreCommittee: true },
+  [Role.JUNIOR_TREASURER]: { shortName: 'Jr Treas', isCoreCommittee: true },
   [Role.TECHNICAL_SECRETARY]: { shortName: 'Tech Sec', isCoreCommittee: true },
   [Role.SOCIAL_SECRETARY]: { shortName: 'Soc Sec', isCoreCommittee: true },
   [Role.SOCIAL_MEDIA_OFFICER]: { shortName: 'SMO', isCoreCommittee: false },

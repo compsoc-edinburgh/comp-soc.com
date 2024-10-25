@@ -26,6 +26,7 @@ const roleEmails: Partial<{ [key in Role]: string }> = {
   [Role.PRESIDENT]: 'president@comp-soc.com',
   [Role.VICE_PRESIDENT]: 'vicepresident@comp-soc.com',
   [Role.TREASURER]: 'treasurer@comp-soc.com',
+  [Role.JUNIOR_TREASURER]: 'jrtreasurer@comp-soc.com',
   [Role.SECRETARY]: 'secretary@comp-soc.com',
   [Role.TECHNICAL_SECRETARY]: 'techsec@comp-soc.com',
   [Role.SOCIAL_SECRETARY]: 'socialsec@comp-soc.com',
