@@ -23,7 +23,12 @@ const NewsPage = ({
           style={{ width: 'calc(100% + 1rem)' }}
         >
           <p className="text-md text-zinc-400">
-            Last modified {modifiedAt.toLocaleDateString()}
+            Last modified{' '}
+            {modifiedAt.toLocaleDateString('en-GB', {
+              day: '2-digit',
+              month: '2-digit',
+              year: 'numeric',
+            })}
           </p>
           {/* <button
             className="flex items-center gap-2 hover:bg-background p-2 rounded-sm"
