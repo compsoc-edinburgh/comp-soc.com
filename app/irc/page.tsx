@@ -16,7 +16,7 @@ const IRC = () => {
       </p>
 
       <p className="mb-4">
-        The full list of "channels" we may want to join include:
+        The full list of &quot;channels&quot; we may want to join include:
       </p>
 
       <ul className="list-disc pl-6 mb-6 space-y-2">
@@ -54,11 +54,11 @@ const IRC = () => {
           <code>#minecraft</code> - we have a Minecraft server!
         </li>
         <li>
-          <code>#tardis</code> is a student research project: let's do cool
+          <code>#tardis</code> is a student research project: let&apos;s do cool
           server stuff!
         </li>
         <li>
-          <code>#random</code> we aren't sure what goes on here either
+          <code>#random</code> we aren&apos;t sure what goes on here either
         </li>
         <li>
           Extra: <code>#cricket</code>, <code>#cooking</code>
@@ -131,9 +131,10 @@ const IRC = () => {
       </p>
 
       <p className="mb-6">
-        Be patient, with IRC you won't see any messages prior to the time you{' '}
-        <em className="font-semibold">connect</em>. Since Discord is bridged,
-        you'll be able to see the chat history prior to your registration!
+        Be patient, with IRC you won&apos;t see any messages prior to the time
+        you <em className="font-semibold">connect</em>. Since Discord is
+        bridged, you&apos;ll be able to see the chat history prior to your
+        registration!
       </p>
 
       <h2 id="server-details-particulars" className="text-2xl font-bold mb-4">
