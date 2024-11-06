@@ -6,6 +6,7 @@ import SponsorSection from '@/components/sponsorsection/SponsorSection'
 import SigSection from '@/components/SIGCards/SigSection'
 import WelcomeSection from '@/components/welcomesection/WelcomeSection'
 import IntroSection from '@/components/introsection/IntroSection'
+import MoreResourcesSection from '@/components/moreResourcesSection/moreResourcesSection'
 
 export default function Home() {
   return (
@@ -20,11 +21,11 @@ export default function Home() {
 
       <EventSection></EventSection>
 
+      <MoreResourcesSection></MoreResourcesSection>
+
       <FAQSection></FAQSection>
 
       <SponsorSection></SponsorSection>
-
-
     </main>
   )
 }

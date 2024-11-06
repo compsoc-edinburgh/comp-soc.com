@@ -121,7 +121,7 @@ const NavBar = () => {
               label={link.label}
               isActive={pathname === link.href}
               onClick={toggleMenu}
-              className="text-xl bg-border rounded-md p-2 text-white"
+              className="text-xl bg-border rounded-sm p-2 text-white"
             />
           ))}
         </div>
