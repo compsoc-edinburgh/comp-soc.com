@@ -7,7 +7,7 @@ import SigSection from '@/components/SIGCards/SigSection'
 import WelcomeSection from '@/components/welcomesection/WelcomeSection'
 import IntroSection from '@/components/introsection/IntroSection'
 import MoreResourcesSection from '@/components/moreResourcesSection/moreResourcesSection'
-import SocialSection from '@/components/socialsection/SocialSection'
+// import SocialSection from '@/components/socialsection/SocialSection'
 
 export default function Home() {
   return (
