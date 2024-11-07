@@ -10,7 +10,7 @@ import { Discord, Instagram, Linkedin, Menu, Xmark } from 'iconoir-react'
 import {
   DISCORD_INVITE_URL,
   INSTAGRAM_URL,
-  LINKEIDN_URL,
+  LINKEDIN_URL,
 } from '@/constants/socials'
 
 const Logo = () => (
@@ -77,7 +77,7 @@ const NavBar = () => {
           </a>
 
           <a
-            href={LINKEIDN_URL}
+            href={LINKEDIN_URL}
             target="_blank"
             className="opacity-50 hover:opacity-100"
           >

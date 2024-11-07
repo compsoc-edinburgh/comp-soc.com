@@ -32,6 +32,7 @@ const config: Config = {
         'space-mono-light': '300',
         'space-mono-regular': '400',
         'space-mono-bold': '700',
+        'tomorrow-light': '600',
         'tomorrow-bold': '700',
       },
     },

@@ -37,6 +37,13 @@ const historicalTeam: Record<string, Committee[]> = {
   2008: team2008,
 }
 
+const LatestTeam: Committee[] =
+  historicalTeam[Object.keys(historicalTeam).sort().reverse()[0]]
+
+export const sponsorContacts = LatestTeam.filter(
+  (person) => person.sponsorContact
+)
+
 // adds CompSoc official email to committee members of the last committee
 // TODO: I really hate this, but I don't have a better solution right now
 // this script should probably be somewhere else

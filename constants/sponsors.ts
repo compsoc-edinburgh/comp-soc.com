@@ -1,30 +1,103 @@
-export const sponsors = [
+import { link } from 'fs'
+import { Sponsor } from '@/types/sponsor'
+
+export const sponsors: Sponsor[] = [
+  // {
+  //   name: 'Addepar',
+  //   img: 'addepar-logo.svg',
+  //   tier: 'Silver',
+  //   description: 'Addepar is a wealth management platform that specializes in data aggregation, analytics, and reporting.',
+  //   link: 'https://addepar.com/',
+  // },
   {
-    name: 'Addepar',
-    img: 'addepar-logo.svg',
+    name: 'G-Research',
+    img: 'gresearch-logo.png',
+    tier: 'platinum',
+    description:
+      'G-Research is a leading quantitative research and technology company.',
+    link: 'https://www.gresearch.com/',
   },
   {
-    name: 'Bloomberg',
-    img: 'bloomberg-logo.png',
+    name: 'Qube Research & Technologies',
+    img: 'qube-logo.svg',
+    tier: 'gold',
+    description:
+      'Qube Research & Technologies is a global multi strategy investment manager.',
+    link: 'https://www.qube-rt.com/',
   },
+  // {
+  //   name: 'Lloyds',
+  //   img: 'lloyds-logo.png',
+  //   tier: 'silver',
+  //   description: 'Lloyds is a British retail and commercial bank.',
+  //   link: 'https://www.lloydsbank.com/',
+  // },
   {
-    name: 'Meta',
-    img: 'meta-logo.png',
+    name: 'Viridien',
+    img: 'viridien-logo.png',
+    tier: 'silver',
+    description:
+      'Viridien is an advanced technology, digitial and earth data company.',
+    link: 'https://www.viridiengroup.com/',
   },
-  {
-    name: 'Google',
-    img: 'google-logo.png',
-  },
+
+  // {
+  //   name: 'Bloomberg',
+  //   img: 'bloomberg-logo.png',
+  //   tier: 'Bronze',
+  //   description: 'Bloomberg is a financial software, data, and media company.',
+  //   link: 'https://www.bloomberg.com/',
+  // },
+  // {
+  //   name: 'Meta',
+  //   img: 'meta-logo.png',
+  //   tier: 'bronze',
+  //   description: 'Meta builds technologies that help people connect, find communities and grow businesses.',
+  //   link: 'https://meta.com/',
+  // },
+  // {
+  //   name: 'Google',
+  //   img: 'google-logo.png',
+  //   tier: 'Gold',
+  // },
   {
     name: 'Jane Street',
     img: 'janestreet-logo.png',
+    tier: 'bronze',
+    description: 'Jane Street is a research-driven trading firm.',
+    link: 'https://www.janestreet.com/',
   },
-  {
-    name: 'Marshall Wace',
-    img: 'marshallwace-logo.gif',
-  },
+
+  // {
+  //   name: 'School of Informatics',
+  //   img: 'inf-logo.png',
+  //   tier: 'platinum',
+  //   description: 'The School of Informatics is the largest institution of this kind in the UK and one of the largest in Europe.',
+  //   link: 'https://informatics.ed.ac.uk/',
+
+  // },
+
+  // {
+  //   name: 'Marshall Wace',
+  //   img: 'marshallwace-logo.gif',
+  //   tier: 'platinum',
+  //   description: 'Marshall Wace is a global alternative asset management company.',
+  //   link: 'https://www.mwam.com/',
+  // },
   {
     name: 'Optiver',
     img: 'optiver-logo.png',
+    tier: 'gold',
+    description: 'Optiver is a global market maker.',
+    link: 'https://www.optiver.com/',
+  },
+
+  {
+    name: 'Neuphonic',
+    img: 'neuphonic-logo.png',
+    tier: 'silver',
+    description:
+      'Neuphonic is an AI startup focusing on low-latency text to speech.',
+    link: 'https://neuphonic.com/',
   },
 ]

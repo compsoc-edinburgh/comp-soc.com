@@ -7,7 +7,7 @@ export enum Role {
   JUNIOR_TREASURER = 'Junior Treasurer',
   SECRETARY = 'Secretary',
   HACKATHON_SECRETARY = 'Hackathon Secretary',
-  TECHNICAL_SECRETARY = 'Technical Secretary',
+  TECHNICAL_SECRETARY = 'Tech Secretary',
   SOCIAL_SECRETARY = 'Social Secretary',
   SOCIAL_MEDIA_OFFICER = 'Social Media Officer',
   GRAPHIC_DESIGNER = 'Graphic Designer',
@@ -64,4 +64,6 @@ export type Committee = {
   role: Role
   image?: string
   links?: Link[]
+  sponsorContact?: boolean
+  sponsorEmail?: string
 }

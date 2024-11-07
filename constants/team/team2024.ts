@@ -8,6 +8,8 @@ export const team2024: Committee[] = [
     surname: 'Danys',
     role: Role.PRESIDENT,
     image: 'vincentas-1.jpg',
+    sponsorContact: true,
+    sponsorEmail: 'vincent@comp-soc.com',
     links: [
       {
         type: LinkType.LINKEDIN,
@@ -84,10 +86,12 @@ export const team2024: Committee[] = [
     ],
   },
   {
-    name: 'Cat',
+    name: 'Caterina',
     surname: 'M',
     role: Role.TECHNICAL_SECRETARY,
     image: 'cat-1.png',
+    sponsorContact: true,
+    sponsorEmail: 'cat@comp-soc.com',
     links: [
       {
         type: LinkType.LINKEDIN,

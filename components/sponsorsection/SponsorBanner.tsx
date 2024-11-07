@@ -32,14 +32,18 @@ const SponsorBanner: FC<SponsorListProps> = ({
           }
         >
           {images.map(({ id, img }) => (
-            <div className="image" key={id}>
-              <Image
-                height={100}
-                width={225}
-                className="bannerimg"
-                src={`${prefix}/sponsors/${img}`}
-                alt={id}
-              />
+            <div
+              className="image flex items-center justify-center px-8"
+              key={id}
+            >
+              <div className="relative w-32 h-16">
+                <Image
+                  fill
+                  className="bannerimg object-contain"
+                  src={`${prefix}/sponsors/${img}`}
+                  alt={id}
+                />
+              </div>
             </div>
           ))}
         </section>
@@ -52,14 +56,18 @@ const SponsorBanner: FC<SponsorListProps> = ({
           }
         >
           {images.map(({ id, img }) => (
-            <div className="image" key={id}>
-              <Image
-                height={100}
-                width={225}
-                className="bannerimg"
-                src={`${prefix}/sponsors/${img}`}
-                alt={id}
-              />
+            <div
+              className="image flex items-center justify-center px-8"
+              key={id}
+            >
+              <div className="relative w-32 h-16">
+                <Image
+                  fill
+                  className="bannerimg object-contain"
+                  src={`${prefix}/sponsors/${img}`}
+                  alt={id}
+                />
+              </div>
             </div>
           ))}
         </section>
@@ -72,14 +80,18 @@ const SponsorBanner: FC<SponsorListProps> = ({
           }
         >
           {images.map(({ id, img }) => (
-            <div className="image" key={id}>
-              <Image
-                height={100}
-                width={225}
-                className="bannerimg"
-                src={`${prefix}/sponsors/${img}`}
-                alt={id}
-              />
+            <div
+              className="image flex items-center justify-center px-8"
+              key={id}
+            >
+              <div className="relative w-32 h-16">
+                <Image
+                  fill
+                  className="bannerimg object-contain"
+                  src={`${prefix}/sponsors/${img}`}
+                  alt={id}
+                />
+              </div>
             </div>
           ))}
         </section>

@@ -6,6 +6,8 @@ import { sponsors } from '@/constants/sponsors'
 import HoverGif from './HoverGif'
 import VariableBackgroundSwitcher from '../VariableBackgroundSwitcher'
 import { MdArrowForward } from 'react-icons/md'
+import Link from 'next/link'
+import { prefix } from '@/utils/prefix'
 
 const SponsorSection = () => {
   const [speed, setSpeed] = useState(60000)
@@ -32,7 +34,7 @@ const SponsorSection = () => {
             just send us a message!
           </p>
           <br />
-          <p>Meet our 2023-2024 sponsors:</p>
+          <p>Meet our 2024-2025 sponsors:</p>
         </div>
         <div className="mt-12 flex flex-col justify-center gap-12">
           <SponsorBanner
@@ -48,11 +50,11 @@ const SponsorSection = () => {
         </div>
         {/* <button className="bg-csred font-space-mono rounded-lg py-2 px-4 text-white">Get in touch</button> */}
         <div className="flex items-center">
-          <a href="mailto:partners@comp-soc.com">
-            <button className="bg-red-600 font-space-mono rounded-lg py-2 px-4 text-white inline-flex items-center mt-2">
-              Get in Touch <MdArrowForward className="ml-2" />
+          <Link href={`${prefix}/sponsors/`}>
+            <button className="bg-red-600 font-space-mono rounded-lg py-2 px-4 text-white inline-flex items-center mt-16">
+              Find out more <MdArrowForward className="ml-2" />
             </button>
-          </a>
+          </Link>
         </div>
       </VariableBackgroundSwitcher>
     </div>
