@@ -5,9 +5,9 @@ const IRC = () => {
     <div className="lg:w-4/5 mx-auto pt-12">
       <Heading title="Internet Relay Chat" />
       <p className="my-4 text-lg">
-        We have more than just a Facebook group–to keep in touch online, we use
-        IRC and Discord. Both are <em className="font-semibold">bridged</em> to
-        each other, so feel free to join one rather than the other, or both!
+        To keep in touch online, we use IRC and Discord. Both are{' '}
+        <em className="font-semibold">bridged</em> to each other, so feel free
+        to join one rather than the other, or both!
       </p>
 
       <p className="mb-4">
@@ -24,29 +24,52 @@ const IRC = () => {
           <code>#compsoc</code>
         </li>
         <li>
-          <code>#inf1</code>, <code>#inf2</code>, <code>#inf3</code>, or{' '}
-          <code>#inf4</code> (depending on your academic year)
+          <code>#inf1</code>, <code>#inf2</code>, <code>#inf3</code>,{' '}
+          <code>#inf4</code>, or <code>#inf5</code> (depending on your academic
+          year)
         </li>
         <li>
-          For our Special Interest Groups:
+          For some of our Special Interest Groups and hobbies:
           <ul className="list-circle pl-6 mt-2 space-y-1">
             <li>
               <code>#cs-sigint</code>
             </li>
             <li>
-              <code>#networking</code>
-            </li>
-            <li>
-              <code>#hacksig</code>
-            </li>
-            <li>
               <code>#sigweb</code>
             </li>
             <li>
-              <code>#lawtech</code>
+              <code>#tardis</code> - let&apos;s do cool server stuff!
             </li>
             <li>
-              <code>#sigcoin</code>
+              <code>#books</code>
+            </li>
+            <li>
+              <code>#☕</code>
+            </li>
+            <li>
+              <code>#music</code>
+            </li>
+            <li>
+              <code>#cooking</code>
+            </li>
+            <li>
+              <code>#fitness</code>
+            </li>
+            <li>
+              <code>#houseplants</code>
+            </li>
+            <li>
+              <code>#networking</code> - bridged to <code>#homelab</code> on
+              Discord
+            </li>
+            <li>
+              <code>#keebsig</code>
+            </li>
+            <li>
+              <code>#petssss</code>
+            </li>
+            <li>
+              <code>#television</code>
             </li>
           </ul>
         </li>
@@ -54,27 +77,26 @@ const IRC = () => {
           <code>#minecraft</code> - we have a Minecraft server!
         </li>
         <li>
-          <code>#tardis</code> is a student research project: let&apos;s do cool
-          server stuff!
+          <code>#careers</code>
+        </li>
+        <li>
+          <code>#coding-help</code>
         </li>
         <li>
           <code>#random</code> we aren&apos;t sure what goes on here either
-        </li>
-        <li>
-          Extra: <code>#cricket</code>, <code>#cooking</code>
         </li>
       </ul>
 
       <h2 id="joining-irc-" className="text-2xl font-bold mb-4">
         Joining IRC{' '}
         <a
-          href="https://web.archive.org/web/20240422021725/https://www.irccloud.com/invite?channel=%23sigweb&amp;hostname=irc.imaginarynet.uk&amp;port=6697&amp;ssl=1"
+          href="https://www.irccloud.com/invite?channel=%23sigweb&amp;hostname=irc.imaginarynet.uk&amp;port=6697&amp;ssl=1"
           target="_blank"
           rel="noopener noreferrer"
           className="inline-block align-middle"
         >
           <img
-            src="https://web.archive.org/web/20240422021725im_/https://www.irccloud.com/invite-svg?channel=%23sigweb&amp;hostname=irc.imaginarynet.uk&amp;port=6697&amp;ssl=1"
+            src="https://www.irccloud.com/invite-svg?channel=%23sigweb&amp;hostname=irc.imaginarynet.uk&amp;port=6697&amp;ssl=1"
             height="18"
             alt="IRC Cloud Invite"
             className="ml-2"
@@ -86,7 +108,7 @@ const IRC = () => {
         Clients are needed to connect to an IRC server, but you do not need to
         create an account —&nbsp;these clients can be online (e.g, KiwiIRC, or{' '}
         <a
-          href="https://web.archive.org/web/20240422021725/https://irccloud.com/"
+          href="https://irccloud.com/"
           className="text-blue-600 hover:underline"
         >
           IRCCloud
@@ -95,39 +117,14 @@ const IRC = () => {
       </p>
 
       <p className="mb-4">
+        If you already have an IRC client installed on your device, just{' '}
         <a
-          href="https://web.archive.org/web/20240422021725/https://kiwiirc.com/client/irc.imaginarynet.uk:+6697#compsoc"
-          className="text-blue-600 hover:underline"
-        >
-          You can pop in right away using KiwiIRC
-        </a>
-        , but if you already have an IRC client installed on your device, just{' '}
-        <a
-          href="https://web.archive.org/web/20240422021725/ircs://irc.imaginarynet.uk/#compsoc"
+          href="ircs://irc.imaginarynet.uk/#compsoc"
           className="text-blue-600 hover:underline"
         >
           click here
         </a>{' '}
         to join the server.
-      </p>
-
-      <p className="mb-4">
-        The folks over at the{' '}
-        <a
-          href="https://web.archive.org/web/20240422021725/https://tardis.ed.ac.uk/"
-          className="text-blue-600 hover:underline"
-        >
-          TARDIS project
-        </a>{' '}
-        also host a web client for you to use, called The Lounge (formerly{' '}
-        <em>Shout</em>).{' '}
-        <a
-          href="https://web.archive.org/web/20240422021725/https://shout.tardis.ed.ac.uk/"
-          className="text-blue-600 hover:underline"
-        >
-          You can login or register on this server here
-        </a>
-        .
       </p>
 
       <p className="mb-6">
@@ -156,9 +153,7 @@ const IRC = () => {
         <li>
           Port: <code>6697</code>
         </li>
-        <li>
-          Channel: <code>#compsoc,#networking,#sigint,#tardis</code>
-        </li>
+        <li>Channel: as listed above</li>
       </ul>
     </div>
   )
