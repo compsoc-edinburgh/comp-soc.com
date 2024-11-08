@@ -16,6 +16,7 @@ export const sponsors: Sponsor[] = [
     description:
       'G-Research is a leading quantitative research and technology company.',
     link: 'https://www.gresearch.com/',
+    shortlink: 'https://shorturl.at/SNYSj',
   },
   {
     name: 'Qube Research & Technologies',
@@ -24,6 +25,7 @@ export const sponsors: Sponsor[] = [
     description:
       'Qube Research & Technologies is a global multi strategy investment manager.',
     link: 'https://www.qube-rt.com/',
+    shortlink: 'https://shorturl.at/MCubc',
   },
   // {
   //   name: 'Lloyds',
@@ -39,6 +41,7 @@ export const sponsors: Sponsor[] = [
     description:
       'Viridien is an advanced technology, digitial and earth data company.',
     link: 'https://www.viridiengroup.com/',
+    shortlink: 'https://shorturl.at/Lq0C9',
   },
 
   // {
@@ -66,6 +69,7 @@ export const sponsors: Sponsor[] = [
     tier: 'bronze',
     description: 'Jane Street is a research-driven trading firm.',
     link: 'https://www.janestreet.com/',
+    shortlink: 'https://www.janestreet.com/',
   },
 
   // {
@@ -90,6 +94,7 @@ export const sponsors: Sponsor[] = [
     tier: 'gold',
     description: 'Optiver is a global market maker.',
     link: 'https://www.optiver.com/',
+    shortlink: 'https://shorturl.at/4KRoS',
   },
 
   {
@@ -99,5 +104,6 @@ export const sponsors: Sponsor[] = [
     description:
       'Neuphonic is an AI startup focusing on low-latency text to speech.',
     link: 'https://neuphonic.com/',
+    shortlink: 'https://shorturl.at/cVkQq',
   },
 ]

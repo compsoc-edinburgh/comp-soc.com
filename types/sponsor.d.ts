@@ -4,4 +4,5 @@ export type Sponsor = {
   tier: 'platinum' | 'gold' | 'silver' | 'bronze'
   description: string
   link?: string
+  shortlink?: string
 }

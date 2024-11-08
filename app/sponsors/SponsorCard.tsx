@@ -296,8 +296,8 @@ const CardBack: React.FC<CardProps> = ({
         {sponsor.description}
       </p>
 
-      {sponsor.link && (
-        <a href={sponsor.link} target="_blank" rel="noopener noreferrer">
+      {sponsor.shortlink && (
+        <a href={sponsor.shortlink} target="_blank" rel="noopener noreferrer">
           <motion.a
             onClick={handleLinkClick}
             onMouseEnter={handleButtonMouseEnter}
