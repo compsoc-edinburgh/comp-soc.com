@@ -6,7 +6,7 @@ import { ArrowRight } from 'iconoir-react'
 
 const TeamCardLong = ({ person }: { person: Committee }) => {
   return (
-    <div className="bg-foreground p-4 rounded-sm shadow-lg flex flex-row gap-6 border-border border-2">
+    <div className="bg-foreground p-6 rounded-sm shadow-lg flex flex-row items-center gap-6 border-border border-2">
       <div className="w-[150px] h-[150px] relative overflow-hidden justify-center items-center">
         {person.image ? (
           <Image
@@ -27,7 +27,7 @@ const TeamCardLong = ({ person }: { person: Committee }) => {
 
         <div className="w-full">
           <div className="flex flex-wrap items-center gap-2">
-            <span className="whitespace-nowrap">
+            <span className="whitespace-nowrap text-lg">
               {person.name} {person.surname}
             </span>
             {person.links && (
