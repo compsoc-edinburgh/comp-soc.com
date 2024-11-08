@@ -51,7 +51,7 @@ const SponsorSection = () => {
         {/* <button className="bg-csred font-space-mono rounded-lg py-2 px-4 text-white">Get in touch</button> */}
         <div className="flex items-center">
           <Link href={`${prefix}/sponsors/`}>
-            <button className="bg-red-600 font-space-mono rounded-lg py-2 px-4 text-white inline-flex items-center mt-16">
+            <button className="bg-red-600 font-space-mono rounded-lg py-2 px-4 text-white inline-flex items-center mt-12">
               Find out more <MdArrowForward className="ml-2" />
             </button>
           </Link>
