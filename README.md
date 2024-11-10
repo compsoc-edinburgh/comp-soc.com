@@ -15,7 +15,6 @@ Welcome! CompSoc is the University of Edinburgh's tech society. Over 25 years, w
 ## Installation
 
 ### Installing Node
----
 
 1. **Download Node.js**: Go to the [Node.js website](https://nodejs.org/) and download the latest stable version for your operating system.
 
@@ -35,7 +34,6 @@ Welcome! CompSoc is the University of Edinburgh's tech society. Over 25 years, w
 
 
 ### Cloning the Project
----
 
 1. **Fork the Repository**: Click on the "Fork" button at the top of the repository page.
 
@@ -51,7 +49,6 @@ Welcome! CompSoc is the University of Edinburgh's tech society. Over 25 years, w
 
 
 ### Running the Project
----
 
 1. **Install Dependencies**: Install the necessary packages using npm:
    ```bash
