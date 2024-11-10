@@ -55,3 +55,37 @@ description
    npm install
    ```
    
+2. **Start the project**:
+    ```bash
+    npm run dev
+    ```
+
+3. **Open in browser**: 
+    Usually, the project will be running at ```http://localhost:3000```. You can open it in your browser to view.
+
+---
+
+## Contribution
+
+We welcome contributions! Here's a simple guide to get started:
+
+1. **Create a New Branch**:
+    ```bash
+    git checkout -b feature/feature-name
+    ```
+
+2. **Make your Changes:
+    write your code and commit with a clear message:
+    ```bash
+    git commit -m "Detailed message"
+    ```
+
+3. **Push to your Forked Repository**:
+    ```bash
+    git push orgin feature/feature-name
+    ```
+4. **Open a Pull Request**:
+    Go to your fork on GitHub, and you'll see a prompt to open a pull request
+
+--- 
+
