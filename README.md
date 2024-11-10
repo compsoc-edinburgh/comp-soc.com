@@ -15,6 +15,7 @@ Welcome! CompSoc is the University of Edinburgh's tech society. Over 25 years, w
 ## Installation
 
 ### Installing Node
+---
 
 1. **Download Node.js**: Go to the [Node.js website](https://nodejs.org/) and download the latest stable version for your operating system.
 
@@ -33,13 +34,15 @@ Welcome! CompSoc is the University of Edinburgh's tech society. Over 25 years, w
    ```
 
 
-## Cloning the Project
+### Cloning the Project
+---
 
 1. **Fork the Repository**: Click on the "Fork" button at the top of the repository page.
 
 2. **Clone Your Fork**: Clone the project to your local machine:
    ```bash
    git clone https://github.com/YOUR_USERNAME/comp-soc.com.git
+   ```
 
 3. **Navigate to the Project Directory**:
    ```bash
@@ -47,7 +50,8 @@ Welcome! CompSoc is the University of Edinburgh's tech society. Over 25 years, w
    ```
 
 
-## Running the Project
+### Running the Project
+---
 
 1. **Install Dependencies**: Install the necessary packages using npm:
    ```bash
@@ -63,7 +67,7 @@ Welcome! CompSoc is the University of Edinburgh's tech society. Over 25 years, w
     Usually, the project will be running at ```http://localhost:3000```. You can open it in your browser to view.
 
 
-## Contribution
+## Contributing
 
 We welcome contributions! Here's a simple guide to get started:
 
@@ -82,8 +86,19 @@ We welcome contributions! Here's a simple guide to get started:
     ```bash
     git push orgin feature/feature-name
     ```
-4. **Open a Pull Request**:
-    Go to your fork on GitHub, and you'll see a prompt to open a pull request
 
+4. **Open a Pull Request**:
+    Go to your fork on GitHub, and you'll see a prompt to open a pull request.
+
+
+## Adding Meeting Minutes and News Posts
+
+1. Go to the folder ```/constants```.
+
+2. There are two folders ```minutes``` and ```news```, Both of this hold ```.md``` files.
+
+3. You can add your ```.md``` file to the corresponding folder.
+
+4. Open a Pull Request to get the changes on CampSoc.
 
 
