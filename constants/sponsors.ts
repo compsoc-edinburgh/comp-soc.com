@@ -72,7 +72,7 @@ export const sponsors: Sponsor[] = [
     tier: 'bronze',
     description: 'Jane Street is a research-driven trading firm.',
     link: 'https://www.janestreet.com/',
-    shortlink: 'https://www.janestreet.com/',
+    shortlink: 'https://shorturl.at/uYhHB',
   },
 
   // {
