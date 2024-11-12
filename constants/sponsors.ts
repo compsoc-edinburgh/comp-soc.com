@@ -10,6 +10,15 @@ export const sponsors: Sponsor[] = [
   //   link: 'https://addepar.com/',
   // },
   {
+    name: 'Meta',
+    img: 'meta-logo.png',
+    tier: 'bronze',
+    description:
+      'Meta builds technologies that help people connect, find communities and grow businesses.',
+    link: 'https://meta.com/',
+    shortlink: 'https://shorturl.at/e0aop',
+  },
+  {
     name: 'G-Research',
     img: 'gresearch-logo.png',
     tier: 'platinum',
@@ -51,13 +60,7 @@ export const sponsors: Sponsor[] = [
   //   description: 'Bloomberg is a financial software, data, and media company.',
   //   link: 'https://www.bloomberg.com/',
   // },
-  // {
-  //   name: 'Meta',
-  //   img: 'meta-logo.png',
-  //   tier: 'bronze',
-  //   description: 'Meta builds technologies that help people connect, find communities and grow businesses.',
-  //   link: 'https://meta.com/',
-  // },
+
   // {
   //   name: 'Google',
   //   img: 'google-logo.png',
