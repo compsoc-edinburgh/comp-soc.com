@@ -21,12 +21,6 @@ const BigLinks = async () => {
         title="CompSoc constitution"
         description="Become a society insider"
       />
-      <BigLink
-        href={`${prefix}/news`}
-        icon={<BookStack width={32} height={32} />}
-        title="CompSoc News"
-        description={`${numberOfNews} posts`}
-      />
     </div>
   )
 }
