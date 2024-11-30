@@ -33,9 +33,9 @@ const TeamCardLong = ({ person }: { person: Committee }) => {
             {person.links && (
               <div className="flex flex-wrap gap-2">
                 {person.links.map((link, index) => (
-                  <span key={index} className="shrink-0">
+                  <a key={index} href={link.url} className="shrink-0">
                     {linkIcons[link.type]}
-                  </span>
+                  </a>
                 ))}
               </div>
             )}
