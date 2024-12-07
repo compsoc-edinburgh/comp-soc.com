@@ -7,6 +7,8 @@ const FooterCanvas = () => {
   const scene = useRef<HTMLDivElement>(null)
   const engine = useRef(Matter.Engine.create())
   const render = useRef<Matter.Render | null>(null)
+  const isDragging = useRef(false)
+  const selectedBody = useRef<Matter.Body | null>(null)
   const lastMousePosition = useRef({ x: 0, y: 0 })
 
   useEffect(() => {
@@ -128,7 +130,6 @@ const FooterCanvas = () => {
       ...bodies,
     ])
 
-    const mouse = Matter.Mouse.create(render.current.canvas)
     const handleMouseMove = (event: MouseEvent | TouchEvent) => {
       if (!render.current) return
       const canvasRect = render.current.canvas.getBoundingClientRect()
@@ -141,32 +142,61 @@ const FooterCanvas = () => {
           canvasRect.top,
       }
 
-      const mouseVelocity = {
-        x: mousePosition.x - lastMousePosition.current.x,
-        y: mousePosition.y - lastMousePosition.current.y,
+      const hoveredBody = Matter.Query.point(bodies, mousePosition)[0]
+      if (hoveredBody) {
+        render.current.canvas.style.cursor = isDragging.current
+          ? 'grabbing'
+          : 'grab'
+      } else {
+        render.current.canvas.style.cursor = 'default'
+      }
+
+      if (isDragging.current && selectedBody.current) {
+        const mouseVelocity = {
+          x: (mousePosition.x - lastMousePosition.current.x) / 2,
+          y: (mousePosition.y - lastMousePosition.current.y) / 2,
+        }
+
+        Matter.Body.setVelocity(selectedBody.current, mouseVelocity)
       }
 
       lastMousePosition.current = mousePosition
+    }
 
-      bodies.forEach((body) => {
-        const distance = Matter.Vector.magnitude(
-          Matter.Vector.sub(body.position, mousePosition)
-        )
-        const maxDistance = 100 // Distance threshold for interaction
+    const handleMouseDown = (event: MouseEvent | TouchEvent) => {
+      if (!render.current) return
+      const canvasRect = render.current.canvas.getBoundingClientRect()
+      const mousePosition = {
+        x:
+          ('clientX' in event ? event.clientX : event.touches[0].clientX) -
+          canvasRect.left,
+        y:
+          ('clientY' in event ? event.clientY : event.touches[0].clientY) -
+          canvasRect.top,
+      }
 
-        if (distance < maxDistance) {
-          const forceMagnitude = (maxDistance - distance) * 0.0015 // Adjust force magnitude as needed
-          const force = Matter.Vector.mult(
-            Matter.Vector.normalise(mouseVelocity),
-            forceMagnitude
-          )
-          Matter.Body.applyForce(body, body.position, force)
-        }
-      })
+      const clickedBody = Matter.Query.point(bodies, mousePosition)[0]
+      if (clickedBody) {
+        isDragging.current = true
+        selectedBody.current = clickedBody
+        render.current.canvas.style.cursor = 'grabbing'
+      }
+    }
+
+    const handleMouseUp = () => {
+      isDragging.current = false
+      selectedBody.current = null
+      if (render.current) {
+        render.current.canvas.style.cursor = 'default'
+      }
     }
 
     render.current.canvas.addEventListener('mousemove', handleMouseMove)
     render.current.canvas.addEventListener('touchmove', handleMouseMove)
+    render.current.canvas.addEventListener('mousedown', handleMouseDown)
+    render.current.canvas.addEventListener('touchstart', handleMouseDown)
+    render.current.canvas.addEventListener('mouseup', handleMouseUp)
+    render.current.canvas.addEventListener('touchend', handleMouseUp)
 
     Matter.Runner.run(engine.current)
     Matter.Render.run(render.current)
@@ -184,11 +214,15 @@ const FooterCanvas = () => {
         window.removeEventListener('resize', updateCanvasSize)
         render.current.canvas.removeEventListener('mousemove', handleMouseMove)
         render.current.canvas.removeEventListener('touchmove', handleMouseMove)
+        render.current.canvas.removeEventListener('mousedown', handleMouseDown)
+        render.current.canvas.removeEventListener('touchstart', handleMouseDown)
+        render.current.canvas.removeEventListener('mouseup', handleMouseUp)
+        render.current.canvas.removeEventListener('touchend', handleMouseUp)
       }
     }
   }, [])
 
-  return <div className="relative w-full h-96 bg-csred" ref={scene} />
+  return <div className="relative w-full h-96" ref={scene} />
 }
 
 export default FooterCanvas

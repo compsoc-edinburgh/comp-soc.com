@@ -1,50 +1,81 @@
+'use client'
+import { motion, AnimatePresence } from 'framer-motion'
+import { useState, useEffect } from 'react'
 import React from 'react'
-import { prefix } from '@/utils/prefix'
-import Image from 'next/image'
 import FooterCanvas from './FooterCanvas'
+
+const text = [
+  <>CompSoc ❤️ You!</>,
+  <>
+    Illustrations by{' '}
+    <a
+      href="https://robertaposiunaite.com/"
+      target="_blank"
+      rel="noreferrer"
+      className="underline"
+    >
+      Roberta Posiunaite
+    </a>
+  </>,
+  <>
+    Code by{' '}
+    <a
+      href="https://www.linkedin.com/in/caterina-m"
+      target="_blank"
+      rel="noreferrer"
+      className="underline"
+    >
+      Caterina M
+    </a>
+    {' and '}
+    <a
+      href="https://tomasmaillo.com/"
+      target="_blank"
+      rel="noreferrer"
+      className="underline"
+    >
+      Tomas Maillo
+    </a>
+  </>,
+]
+
+const CreditsCarousel = () => {
+  const [currentIndex, setCurrentIndex] = useState(0)
+
+  useEffect(() => {
+    const timer = setInterval(() => {
+      setCurrentIndex((prev) => (prev + 1) % text.length)
+    }, 3000)
+
+    return () => clearInterval(timer)
+  }, [])
+
+  return (
+    <div className="flex justify-center overflow-hidden py-2 perspective-[100000px]">
+      <AnimatePresence mode="wait">
+        <motion.div
+          key={currentIndex}
+          initial={{ opacity: 0, y: 10, rotateX: 40 }}
+          animate={{ opacity: 1, y: 0, rotateX: 0 }}
+          exit={{ opacity: 0, y: -10, rotateX: -40 }}
+          transition={{
+            duration: 0.3,
+            rotateX: { type: 'spring', stiffness: 50 },
+          }}
+          className="text-white text-center"
+        >
+          {text[currentIndex]}
+        </motion.div>
+      </AnimatePresence>
+    </div>
+  )
+}
 
 const Footer = () => {
   return (
     <div className="relative w-full bg-csred">
-      <div className="bg-csred text-white text-center p-2 pointer-events-none select-none">
-        CompSoc ❤️ You!
-      </div>
-
+      <CreditsCarousel />
       <FooterCanvas />
-      <footer className="absolute top-0 text-white">
-        <div className="flex flex-row gap-2 m-12 pointer-events-none user-select-none">
-          {/* <Image
-            src={`${prefix}/compsoc-short.png`}
-            alt="CompSoc Logo"
-            width={100}
-            height={20}
-            className='drop-shadow-[0_0_10px_rgba(0,0,0,0.5)]'
-          />
-          <Image
-            src={`${prefix}/heart-static.png`}
-            alt="Heart"
-            width={100}
-            height={100}
-          />
-          <h1 className="text-5xl">You</h1> */}
-          {/* <p>Remember, CompSoc ❤️ You!</p>
-          <NextImage
-            src={`${prefix}/compsoc-mini.png`}
-            alt="CompSoc Logo"
-            width={100}
-            height={100}
-          />
-          <a href="/about" className="hover:underline">
-            About
-          </a>
-          <a href="/legal" className="hover:underline">
-            Legal
-          </a>
-          <a href="/contact" className="hover:underline">
-            Contact
-          </a> */}
-        </div>
-      </footer>
     </div>
   )
 }
