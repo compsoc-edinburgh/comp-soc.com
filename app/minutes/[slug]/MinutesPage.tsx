@@ -7,10 +7,14 @@ const MinutesPage = ({
   contentHtml,
   title,
   modifiedAt,
+  prevSlug,
+  nextSlug,
 }: {
   contentHtml: string
   title: string
   modifiedAt: Date
+  prevSlug?: string
+  nextSlug?: string
 }) => {
   return (
     <>
@@ -45,6 +49,24 @@ const MinutesPage = ({
           dangerouslySetInnerHTML={{ __html: contentHtml }}
           className="minutes prose prose-invert"
         />
+        <nav className="navigation">
+          {prevSlug && (
+            <a
+              className="text-primary font-space-mono bg-foreground px-3 py-2 rounded-sm m-auto block border border-border my-4"
+              href={`/minutes/${prevSlug}`}
+            >
+              Previous
+            </a>
+          )}
+          {nextSlug && (
+            <a
+              className="text-primary font-space-mono bg-foreground px-3 py-2 rounded-sm m-auto block border border-border my-4"
+              href={`/minutes/${nextSlug}`}
+            >
+              Next
+            </a>
+          )}
+        </nav>
       </div>
     </>
   )
