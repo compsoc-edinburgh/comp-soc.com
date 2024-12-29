@@ -20,12 +20,12 @@ const text = [
   <>
     Code by{' '}
     <a
-      href="https://www.linkedin.com/in/caterina-m"
+      href="https://caterina.codes"
       target="_blank"
       rel="noreferrer"
       className="underline"
     >
-      Caterina M
+      Caterina Mammola
     </a>
     {' and '}
     <a
