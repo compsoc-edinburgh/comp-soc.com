@@ -5,6 +5,7 @@ import { prefix } from '@/utils/prefix'
 import PixelBackground from '@/components/PixelBackground'
 import VariableBackground from '@/components/VariableBackground'
 import Footer from '@/components/footer/Footer'
+import AnnouncementBar from '@/components/AnnouncementBar'
 
 export const metadata: Metadata = {
   title: 'CompSoc',
@@ -27,6 +28,9 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className="relative overflow-x-clip w-screen mx-auto">
+        <AnnouncementBar href="https://infball.comp-soc.com">
+          🪩 InfBall 2025 tickets are now on sale! <u>infball.comp-soc.com</u>
+        </AnnouncementBar>
         <VariableBackground>
           <PixelBackground>
             <Navbar />
