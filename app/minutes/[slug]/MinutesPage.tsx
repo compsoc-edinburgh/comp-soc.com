@@ -7,19 +7,42 @@ const MinutesPage = ({
   contentHtml,
   title,
   modifiedAt,
+  prevSlug,
+  nextSlug,
 }: {
   contentHtml: string
   title: string
   modifiedAt: Date
+  prevSlug?: string
+  nextSlug?: string
 }) => {
   return (
     <>
-      <div className="max-w-3xl mx-auto pt-24">
+      <div className="max-w-3xl mx-auto pt-0">
         <p className="text-sm text-zinc-400">Meeting minutes</p>
-        <h1 className="font-tomorrow text-3xl text-left">{title}</h1>
-
+        <div className="flex items-center justify-between">
+          <h1 className="font-tomorrow text-3xl">{title}</h1>
+          <div className="flex gap-2">
+            {prevSlug && (
+              <a
+                className="text-primary font-space-mono bg-foreground px-5 py-2 rounded-sm border border-border"
+                href={`/minutes/${prevSlug}`}
+              >
+                &#8592;
+              </a>
+            )}
+            {nextSlug && (
+              <a
+                className="text-primary font-space-mono bg-foreground px-5 py-2 rounded-sm border border-border"
+                href={`/minutes/${nextSlug}`}
+              >
+                &#8594;
+              </a>
+            )}
+          </div>
+        </div>
         <div
-          className="flex items-center justify-between bg-foreground border-border border-2 px-4 py-2 rounded-sm -mx-4 my-4"
+          className="flex items-center justify-between bg-foreground border-border border-2 px-7 py-2 rounded-sm -mx-4 my-4"
           style={{ width: 'calc(100% + 1rem)' }}
         >
           <p className="text-md text-zinc-400">
@@ -45,6 +68,24 @@ const MinutesPage = ({
           dangerouslySetInnerHTML={{ __html: contentHtml }}
           className="minutes prose prose-invert"
         />
+        <nav className="navigation">
+          {prevSlug && (
+            <a
+              className="text-primary font-space-mono bg-foreground px-3 py-2 rounded-sm m-auto block border border-border my-4"
+              href={`/minutes/${prevSlug}`}
+            >
+              Previous
+            </a>
+          )}
+          {nextSlug && (
+            <a
+              className="text-primary font-space-mono bg-foreground px-3 py-2 rounded-sm m-auto block border border-border my-4"
+              href={`/minutes/${nextSlug}`}
+            >
+              Next
+            </a>
+          )}
+        </nav>
       </div>
     </>
   )
