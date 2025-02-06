@@ -1,0 +1,71 @@
+3:I[39275,[],""]
+5:I[61343,[],""]
+6:I[231,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","367","static/chunks/367-3ce6c42dbbc0126f.js","231","static/chunks/231-a271b418106f24d7.js","565","static/chunks/565-353b08b248c1ba4c.js","169","static/chunks/169-88c94bf7b73b5529.js","185","static/chunks/app/layout-930712e82cc0aff9.js"],""]
+7:I[84269,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","367","static/chunks/367-3ce6c42dbbc0126f.js","231","static/chunks/231-a271b418106f24d7.js","565","static/chunks/565-353b08b248c1ba4c.js","169","static/chunks/169-88c94bf7b73b5529.js","185","static/chunks/app/layout-930712e82cc0aff9.js"],"default"]
+8:I[35719,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","367","static/chunks/367-3ce6c42dbbc0126f.js","231","static/chunks/231-a271b418106f24d7.js","565","static/chunks/565-353b08b248c1ba4c.js","169","static/chunks/169-88c94bf7b73b5529.js","185","static/chunks/app/layout-930712e82cc0aff9.js"],"default"]
+9:I[42452,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","367","static/chunks/367-3ce6c42dbbc0126f.js","231","static/chunks/231-a271b418106f24d7.js","565","static/chunks/565-353b08b248c1ba4c.js","169","static/chunks/169-88c94bf7b73b5529.js","185","static/chunks/app/layout-930712e82cc0aff9.js"],"default"]
+a:I[92056,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","367","static/chunks/367-3ce6c42dbbc0126f.js","231","static/chunks/231-a271b418106f24d7.js","565","static/chunks/565-353b08b248c1ba4c.js","169","static/chunks/169-88c94bf7b73b5529.js","185","static/chunks/app/layout-930712e82cc0aff9.js"],"default"]
+4:["slug","2025-02-03","d"]
+0:["BPL128QqoqtR1EE0xUin5",[[["",{"children":["minutes",{"children":[["slug","2025-02-03","d"],{"children":["__PAGE__?{\"slug\":\"2025-02-03\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["minutes",{"children":[["slug","2025-02-03","d"],{"children":["__PAGE__",{},[["$L1","$L2",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/54f9ddd098fa72b3.css","precedence":"next","crossOrigin":"$undefined"}]]],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","minutes","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","minutes","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/9a1f21590047f1a7.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"relative overflow-x-clip w-screen mx-auto","children":[["$","$L6",null,{"href":"https://infball.comp-soc.com","children":["$","div",null,{"className":"w-full bg-blue-600 text-white text-center py-2","children":["🪩 InfBall 2025 tickets are now on sale! ",["$","u",null,{"children":"infball.comp-soc.com"}]]}]}],["$","$L7",null,{"children":["$","$L8",null,{"children":[["$","$L9",null,{}],["$","div",null,{"className":"container mx-auto max-w-screen-xl p-4 pb-32 min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}]]}]}],["$","$La",null,{}]]}]}]],null],null],["$Lb",null]]]]
+c:I[95423,["820","static/chunks/app/minutes/%5Bslug%5D/page-fc39e537d3126782.js"],"default"]
+d:Tb1d,<h2>1. <strong>Sponsors Update</strong></h2>
+<ul>
+<li>We attended the industry advisory board meeting.</li>
+<li>Rockstar, Amazon, Google, Huawei were all there.</li>
+<li>Potential to reach out to a few of them for sponsorship.</li>
+</ul>
+<h2>2. <strong>HackTheBurgh Update</strong></h2>
+<ul>
+<li>HTB has reached over 210 applicants.</li>
+<li>The number is expected to increase closer to the deadline.</li>
+</ul>
+<h2>3. <strong>InfBall Update</strong></h2>
+<ul>
+<li>Plans are set to release tickets and location this week.</li>
+<li>No committee discount this year, but early access.</li>
+<li>Staff have been invited separately.</li>
+<li>No initial release for final year, however there are plenty of tickets so it is not a problem.</li>
+<li>339 tickets sold in less than a week, making it the biggest in CompSoc history.</li>
+<li>Breakdown: 49/130 ceilidh-only tickets sold, 46/100 ceilidh and dinner tickets sold.</li>
+<li>Zero fees on ePay, saving £600.</li>
+<li>Significant spike in views following poster release and Instagram promotion.</li>
+<li>STMU announcement did not significantly increase sales.</li>
+<li>240 advance tickets sold immediately; could have sold 46 at £95.</li>
+<li>Total revenue of £23,000.</li>
+<li>£95 tickets are refundable until March 1st.</li>
+<li>1/5 of ticket buyers came from Instagram, mostly accessed via mobile.</li>
+<li>Ideas for a charity raffle are being considered.</li>
+</ul>
+<h2>4. <strong>Events &#x26; Socials</strong></h2>
+<ul>
+<li>CompSoc x Hoppers Date Night on Wednesday.
+<ul>
+<li>Games with chocolates, matching-style games.</li>
+</ul>
+</li>
+<li>Idea for a "What is Research?" workshop by a lecturer.</li>
+<li>Another pub quiz.</li>
+<li>Board games event during Flexible Learning Week.</li>
+</ul>
+<h2>5. <strong>ICHack Recap</strong></h2>
+<ul>
+<li>Cat spoke to Marshall Wace; outcome was not positive.</li>
+<li>Many first-years unable to participate, opting to volunteer instead.</li>
+<li>Alumni help with organization and are paid.</li>
+<li>ICHack treats sponsors very well; however, Marshall Wace felt they were not treated well in the past by us.</li>
+<li>Lots of merchandise; sponsors are featured in a booklet.</li>
+<li>ICHack is well-received and considered a strong event.</li>
+</ul>
+<h2>6. <strong>Leonardo Aerospace/Engineering Talk</strong></h2>
+<ul>
+<li>Leonardo (defense company) interested in giving a talk on building rockets and related topics.</li>
+<li>Potential workshop on the process.</li>
+<li>Kacper is against the idea.</li>
+<li>Concerns raised due to past controversy—Hoppers’ event with Palantir was raided.</li>
+<li>Financial sponsorship is a key factor.</li>
+<li>Direct collaboration with ESA might be preferable.</li>
+<li>Stan suggests focusing on public perception.</li>
+<li>CompSoc has only worked with defense companies in the past for SIGINT (BAE).</li>
+</ul>2:["$","$Lc",null,{"contentHtml":"$d","title":"2025-02-03","modifiedAt":"$D2025-02-06T20:38:43.995Z"}]
+b:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#353535"}],["$","meta","2",{"charSet":"utf-8"}],["$","title","3",{"children":"CompSoc"}],["$","meta","4",{"name":"description","content":"CompSoc is Edinburgh University's technology society! We're Scotland's best and largest of its kind, and form one of the largest societies within the university."}],["$","link","5",{"rel":"icon","href":"https://comp-soc.com/compsoc-mini.svg"}]]
+1:null
