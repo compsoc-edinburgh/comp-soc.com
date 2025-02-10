@@ -42,6 +42,7 @@ export const sponsors: Sponsor[] = [
     tier: 'silver',
     description: 'Lloyds is a British retail and commercial bank.',
     link: 'https://www.lloydsbank.com/',
+    shortlink: 'https://shorturl.at/rvFLd',
   },
   {
     name: 'Viridien',
