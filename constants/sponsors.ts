@@ -36,13 +36,13 @@ export const sponsors: Sponsor[] = [
     link: 'https://www.qube-rt.com/',
     shortlink: 'https://shorturl.at/MCubc',
   },
-  // {
-  //   name: 'Lloyds',
-  //   img: 'lloyds-logo.png',
-  //   tier: 'silver',
-  //   description: 'Lloyds is a British retail and commercial bank.',
-  //   link: 'https://www.lloydsbank.com/',
-  // },
+  {
+    name: 'Lloyds',
+    img: 'lloyds-logo.png',
+    tier: 'silver',
+    description: 'Lloyds is a British retail and commercial bank.',
+    link: 'https://www.lloydsbank.com/',
+  },
   {
     name: 'Viridien',
     img: 'viridien-logo.png',
