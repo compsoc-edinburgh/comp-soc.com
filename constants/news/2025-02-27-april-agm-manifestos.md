@@ -87,8 +87,6 @@ We hope you think carefully about who you choose to elect tonight — please vot
 
 Election candidates - please remember that if you are running for President, Secretary, or Treasurer, your speech may be up to 2 minutes. Other roles have up to 1 minute. If you haven't gotten membership yet, **do that now**!
 
-## Constitutional Amendments
-
 
 See you on April 2nd,
 
