@@ -1,0 +1,99 @@
+3:I[39275,[],""]
+5:I[61343,[],""]
+6:I[231,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","367","static/chunks/367-3ce6c42dbbc0126f.js","231","static/chunks/231-a271b418106f24d7.js","565","static/chunks/565-353b08b248c1ba4c.js","169","static/chunks/169-88c94bf7b73b5529.js","185","static/chunks/app/layout-930712e82cc0aff9.js"],""]
+7:I[84269,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","367","static/chunks/367-3ce6c42dbbc0126f.js","231","static/chunks/231-a271b418106f24d7.js","565","static/chunks/565-353b08b248c1ba4c.js","169","static/chunks/169-88c94bf7b73b5529.js","185","static/chunks/app/layout-930712e82cc0aff9.js"],"default"]
+8:I[35719,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","367","static/chunks/367-3ce6c42dbbc0126f.js","231","static/chunks/231-a271b418106f24d7.js","565","static/chunks/565-353b08b248c1ba4c.js","169","static/chunks/169-88c94bf7b73b5529.js","185","static/chunks/app/layout-930712e82cc0aff9.js"],"default"]
+9:I[42452,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","367","static/chunks/367-3ce6c42dbbc0126f.js","231","static/chunks/231-a271b418106f24d7.js","565","static/chunks/565-353b08b248c1ba4c.js","169","static/chunks/169-88c94bf7b73b5529.js","185","static/chunks/app/layout-930712e82cc0aff9.js"],"default"]
+a:I[92056,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","367","static/chunks/367-3ce6c42dbbc0126f.js","231","static/chunks/231-a271b418106f24d7.js","565","static/chunks/565-353b08b248c1ba4c.js","169","static/chunks/169-88c94bf7b73b5529.js","185","static/chunks/app/layout-930712e82cc0aff9.js"],"default"]
+4:["slug","2025-02-27-april-agm","d"]
+0:["8ftZls4Lnp02ccoAPVuSE",[[["",{"children":["news",{"children":[["slug","2025-02-27-april-agm","d"],{"children":["__PAGE__?{\"slug\":\"2025-02-27-april-agm\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["news",{"children":[["slug","2025-02-27-april-agm","d"],{"children":["__PAGE__",{},[["$L1","$L2",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/54f9ddd098fa72b3.css","precedence":"next","crossOrigin":"$undefined"}]]],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","news","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","news","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/9a1f21590047f1a7.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"relative overflow-x-clip w-screen mx-auto","children":[["$","$L6",null,{"href":"https://infball.comp-soc.com","children":["$","div",null,{"className":"w-full bg-blue-600 text-white text-center py-2","children":["🪩 InfBall 2025 tickets are now on sale! ",["$","u",null,{"children":"infball.comp-soc.com"}]]}]}],["$","$L7",null,{"children":["$","$L8",null,{"children":[["$","$L9",null,{}],["$","div",null,{"className":"container mx-auto max-w-screen-xl p-4 pb-32 min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}]]}]}],["$","$La",null,{}]]}]}]],null],null],["$Lb",null]]]]
+c:I[71386,["329","static/chunks/app/news/%5Bslug%5D/page-d3cc5a17b32fa0f3.js"],"default"]
+d:Tdba,<p>At our next STMU 18:00, 2nd of April, we will be holding our AGM where we vote for our new committee.</p>
+<p>The positions available are: President, Vice-President, Secretary, Treasurer, Technical Secretary, Social Secretary, Social Media Officer, Graphics Designer, 2nd Year Representative, 3rd Year Representative, 4th Year Representative, Old Person Representative, and EDI Rep.</p>
+<p>You can view the submitted manifestos for all roles <a href="https://comp-soc.com/news/2025-02-27-april-agm-manifestos/">here</a>
+See the following for descriptions of each position.</p>
+<ul>
+<li>
+<p><strong>President</strong>:</p>
+<ul>
+<li>Responsible for the overall conduct of the society.</li>
+<li>Responsible for facilitating communication between CompSoc and our sponsors.</li>
+<li>Willing to dedicate a lot of time.</li>
+</ul>
+</li>
+<li>
+<p><strong>Vice-President</strong>:</p>
+<ul>
+<li>Organises monthly STMUs and other miscellaneous events with our sponsors.</li>
+<li>Oversees working with our SIGs (Special Interest Groups).</li>
+</ul>
+</li>
+<li>
+<p><strong>Secretary</strong>:</p>
+<ul>
+<li>Responsible for the administration of the society</li>
+<li>Publicising events by newsletters, social media etc</li>
+<li>Writing minutes &#x26; preparing agendas for AGM, EGM, and weekly meetings</li>
+<li>Society merch</li>
+</ul>
+</li>
+<li>
+<p><strong>Treasurer</strong>:</p>
+<ul>
+<li>Accountable to the committee and members for the finances of the society</li>
+<li>Reimburses society members for expenses</li>
+<li>Writing annual financial report</li>
+<li>(Note that Junior Tresurer is elected at our EGM in October.)</li>
+</ul>
+</li>
+<li>
+<p><strong>2nd year, 3rd year, 4th year, and Old Person representatives</strong></p>
+<ul>
+<li>Responsible for communication between their years and the Society, and promotes events to their year.</li>
+<li>Year reps are also responsible for any projects they take up throughout the year.</li>
+<li>(Note that 1st year rep is elected at our EGM in October.)</li>
+</ul>
+</li>
+<li>
+<p><strong>Technical Secretary</strong>:</p>
+<ul>
+<li>Maintains technical services and in charge of technical setup for events.</li>
+<li>Experience with server management is recommended.</li>
+</ul>
+</li>
+<li>
+<p><strong>Social Secretary</strong>:</p>
+<ul>
+<li>Plans and organises our social events i.e. our pub nights, bowling, etc.</li>
+</ul>
+</li>
+<li>
+<p><strong>Social Media Officer</strong></p>
+<ul>
+<li>In charge of social media accounts!</li>
+<li>Responsible for promotion of promotion of events on all social media platforms</li>
+</ul>
+</li>
+<li>
+<p><strong>Graphic Designer</strong>:</p>
+<ul>
+<li>Responsible for the creation of art, logos, and other designs required by the society for events, merchandise, and other promotional material.</li>
+</ul>
+</li>
+<li>
+<p><strong>EDI Rep</strong></p>
+<ul>
+<li>Implements initiatives to broaden inclusivity at CompSoc</li>
+<li>Ensures communication and events at CompSoc are inclusive</li>
+<li>Act as a confidential point-of-contact for EDI-related issues</li>
+</ul>
+</li>
+</ul>
+<h3>Want to run for a position?</h3>
+<ul>
+<li>Send <a href="mailto:committee@comp-soc.com">committee@comp-soc.com</a> your manifesto (PDF of max 200 words) <strong>by 8:00 PM Tuesday, 1st April 2025</strong> specifying your full name and the role in the title.</li>
+<li>Prepare a speech. Length is 2 minutes for executive roles (President, Secretary, Treasurer) and 1 minute for the other roles. You may get asked questions afterwards.</li>
+</ul>
+<p>CompSoc &#x3C;3 You!</p>2:["$","$Lc",null,{"contentHtml":"$d","title":"AGM 2025 - Call for manifestos","modifiedAt":"$D2025-02-27T22:28:45.083Z"}]
+b:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#353535"}],["$","meta","2",{"charSet":"utf-8"}],["$","title","3",{"children":"CompSoc"}],["$","meta","4",{"name":"description","content":"CompSoc is Edinburgh University's technology society! We're Scotland's best and largest of its kind, and form one of the largest societies within the university."}],["$","link","5",{"rel":"icon","href":"https://comp-soc.com/compsoc-mini.svg"}]]
+1:null
