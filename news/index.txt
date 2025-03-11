@@ -5,7 +5,7 @@
 7:I[35719,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","367","static/chunks/367-3ce6c42dbbc0126f.js","231","static/chunks/231-a271b418106f24d7.js","565","static/chunks/565-353b08b248c1ba4c.js","169","static/chunks/169-88c94bf7b73b5529.js","185","static/chunks/app/layout-930712e82cc0aff9.js"],"default"]
 8:I[42452,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","367","static/chunks/367-3ce6c42dbbc0126f.js","231","static/chunks/231-a271b418106f24d7.js","565","static/chunks/565-353b08b248c1ba4c.js","169","static/chunks/169-88c94bf7b73b5529.js","185","static/chunks/app/layout-930712e82cc0aff9.js"],"default"]
 9:I[92056,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","367","static/chunks/367-3ce6c42dbbc0126f.js","231","static/chunks/231-a271b418106f24d7.js","565","static/chunks/565-353b08b248c1ba4c.js","169","static/chunks/169-88c94bf7b73b5529.js","185","static/chunks/app/layout-930712e82cc0aff9.js"],"default"]
-0:["8ftZls4Lnp02ccoAPVuSE",[[["",{"children":["news",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",{"children":["news",{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","news","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/9a1f21590047f1a7.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"relative overflow-x-clip w-screen mx-auto","children":[["$","$L5",null,{"href":"https://infball.comp-soc.com","children":["$","div",null,{"className":"w-full bg-blue-600 text-white text-center py-2","children":["🪩 InfBall 2025 tickets are now on sale! ",["$","u",null,{"children":"infball.comp-soc.com"}]]}]}],["$","$L6",null,{"children":["$","$L7",null,{"children":[["$","$L8",null,{}],["$","div",null,{"className":"container mx-auto max-w-screen-xl p-4 pb-32 min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}]]}]}],["$","$L9",null,{}]]}]}]],null],null],["$La",null]]]]
+0:["3RYW_0xOhJOrLLGSgXVDL",[[["",{"children":["news",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",{"children":["news",{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","news","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/9a1f21590047f1a7.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"relative overflow-x-clip w-screen mx-auto","children":[["$","$L5",null,{"href":"https://infball.comp-soc.com","children":["$","div",null,{"className":"w-full bg-blue-600 text-white text-center py-2","children":["🪩 InfBall 2025 tickets are now on sale! ",["$","u",null,{"children":"infball.comp-soc.com"}]]}]}],["$","$L6",null,{"children":["$","$L7",null,{"children":[["$","$L8",null,{}],["$","div",null,{"className":"container mx-auto max-w-screen-xl p-4 pb-32 min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}]]}]}],["$","$L9",null,{}]]}]}]],null],null],["$La",null]]]]
 b:"$Sreact.suspense"
 c:I[25387,["367","static/chunks/367-3ce6c42dbbc0126f.js","231","static/chunks/231-a271b418106f24d7.js","834","static/chunks/app/news/page-867943dafee1002b.js"],"default"]
 d:Tc62,---
@@ -101,7 +101,7 @@ Election candidates - please remember that if you are running for President, Sec
 See you on April 2nd,
 
 CompSoc <3 You!
-e:Tb98,---
+e:Tc37,---
 title: 'AGM 2025 - Call for manifestos'
 author: Marton
 excerpt_separator: '<!--See More-->'
@@ -109,9 +109,19 @@ excerpt_separator: '<!--See More-->'
 
 At our next STMU 18:00, 2nd of April, we will be holding our AGM where we vote for our new committee.
 
+We invite you to run for a position or come vote! There will be free pizza and drinks for everyone.
+
 The positions available are: President, Vice-President, Secretary, Treasurer, Technical Secretary, Social Secretary, Social Media Officer, Graphics Designer, 2nd Year Representative, 3rd Year Representative, 4th Year Representative, Old Person Representative, and EDI Rep.
 
+### Want to run for a position?
+
+- (*Optional*) Send committee@comp-soc.com your manifesto (PDF of max 200 words) **by 8:00 PM Tuesday, 1st April 2025** specifying your full name and the role in the title (not included in word count).
+- Prepare a speech. Length is 2 minutes for executive roles (President, Secretary, Treasurer) and 1 minute for the other roles. You may get asked questions afterwards.
+
 You can view the submitted manifestos for all roles [here](https://comp-soc.com/news/2025-02-27-april-agm-manifestos/)
+
+### Positions
+
 See the following for descriptions of each position.
 
 - **President**:
@@ -167,11 +177,6 @@ See the following for descriptions of each position.
   - Implements initiatives to broaden inclusivity at CompSoc
   - Ensures communication and events at CompSoc are inclusive
   - Act as a confidential point-of-contact for EDI-related issues
-
-### Want to run for a position?
-
-- Send committee@comp-soc.com your manifesto (PDF of max 200 words) **by 8:00 PM Tuesday, 1st April 2025** specifying your full name and the role in the title.
-- Prepare a speech. Length is 2 minutes for executive roles (President, Secretary, Treasurer) and 1 minute for the other roles. You may get asked questions afterwards.
 
 CompSoc <3 You!
 f:T603,---
