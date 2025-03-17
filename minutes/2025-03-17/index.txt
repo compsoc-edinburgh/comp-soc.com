@@ -1,0 +1,69 @@
+3:I[39275,[],""]
+5:I[61343,[],""]
+6:I[231,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","367","static/chunks/367-3ce6c42dbbc0126f.js","231","static/chunks/231-a271b418106f24d7.js","565","static/chunks/565-353b08b248c1ba4c.js","169","static/chunks/169-88c94bf7b73b5529.js","185","static/chunks/app/layout-930712e82cc0aff9.js"],""]
+7:I[84269,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","367","static/chunks/367-3ce6c42dbbc0126f.js","231","static/chunks/231-a271b418106f24d7.js","565","static/chunks/565-353b08b248c1ba4c.js","169","static/chunks/169-88c94bf7b73b5529.js","185","static/chunks/app/layout-930712e82cc0aff9.js"],"default"]
+8:I[35719,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","367","static/chunks/367-3ce6c42dbbc0126f.js","231","static/chunks/231-a271b418106f24d7.js","565","static/chunks/565-353b08b248c1ba4c.js","169","static/chunks/169-88c94bf7b73b5529.js","185","static/chunks/app/layout-930712e82cc0aff9.js"],"default"]
+9:I[42452,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","367","static/chunks/367-3ce6c42dbbc0126f.js","231","static/chunks/231-a271b418106f24d7.js","565","static/chunks/565-353b08b248c1ba4c.js","169","static/chunks/169-88c94bf7b73b5529.js","185","static/chunks/app/layout-930712e82cc0aff9.js"],"default"]
+a:I[92056,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","367","static/chunks/367-3ce6c42dbbc0126f.js","231","static/chunks/231-a271b418106f24d7.js","565","static/chunks/565-353b08b248c1ba4c.js","169","static/chunks/169-88c94bf7b73b5529.js","185","static/chunks/app/layout-930712e82cc0aff9.js"],"default"]
+4:["slug","2025-03-17","d"]
+0:["1iu3tHOLRunBkauaXBs98",[[["",{"children":["minutes",{"children":[["slug","2025-03-17","d"],{"children":["__PAGE__?{\"slug\":\"2025-03-17\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["minutes",{"children":[["slug","2025-03-17","d"],{"children":["__PAGE__",{},[["$L1","$L2",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/54f9ddd098fa72b3.css","precedence":"next","crossOrigin":"$undefined"}]]],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","minutes","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","minutes","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/9a1f21590047f1a7.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"relative overflow-x-clip w-screen mx-auto","children":[["$","$L6",null,{"href":"https://infball.comp-soc.com","children":["$","div",null,{"className":"w-full bg-blue-600 text-white text-center py-2","children":["🪩 InfBall 2025 tickets are now on sale! ",["$","u",null,{"children":"infball.comp-soc.com"}]]}]}],["$","$L7",null,{"children":["$","$L8",null,{"children":[["$","$L9",null,{}],["$","div",null,{"className":"container mx-auto max-w-screen-xl p-4 pb-32 min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}]]}]}],["$","$La",null,{}]]}]}]],null],null],["$Lb",null]]]]
+c:I[95423,["820","static/chunks/app/minutes/%5Bslug%5D/page-fc39e537d3126782.js"],"default"]
+d:T8c8,<p><strong>Attendees:</strong></p>
+<ul>
+<li>Vincent</li>
+<li>Godfrey</li>
+<li>Elisa</li>
+<li>Agam</li>
+<li>Marton</li>
+<li>Kacper</li>
+<li>Lucas</li>
+<li>Anastasia</li>
+<li>Cat</li>
+<li>Kam</li>
+<li>Merlin</li>
+<li>Tomas</li>
+</ul>
+<h2>1. <strong>Updates on Socials</strong></h2>
+<ul>
+<li>On this week, we have the Academic families event.</li>
+<li>No emails will be sent to the first years due to parents informing them.</li>
+<li>Pub quiz on Thursday might be rescheduled due to communication issues between Hoppers and Bar 50.</li>
+<li>Reschuling might be tricky due to other events around that time.</li>
+<li>Arthur's Seat hike has been planned, however weather is a concern.</li>
+<li>We will also need first aiders for the hike.</li>
+<li>There will also be a social for painting pottery.</li>
+</ul>
+<h2>2. <strong>AGM Promotion Update</strong></h2>
+<ul>
+<li>Everything is going well do far.</li>
+<li>Posters have been delayed.</li>
+<li>Slides are being presented in lectures this week.</li>
+<li>There will be a post tomorrow, however only 9 committee members filled it out.</li>
+<li>Committee will be tagged in this post and may be asked questions about it.</li>
+<li>Committee should send videos for the committee reel ASAP.</li>
+</ul>
+<h2>3. <strong>School x CompSoc Competition</strong></h2>
+<ul>
+<li>Pavlos from the School wants to make a competition that leverages Gen AI for teaching purposes.</li>
+<li>Examples include marking, teaching and study guides.</li>
+<li>The School will provide prizes and handle all logistics.</li>
+<li>CompSoc will promote the event and provide a judge.</li>
+</ul>
+<h2>4. <strong>Handover</strong></h2>
+<ul>
+<li>All committee should fill out the internal wiki prior to the AGM ideally, April 10th at the latest.</li>
+</ul>
+<h2>5. <strong>Budget</strong></h2>
+<ul>
+<li>InfBall sales are over. More tickets were sold than expected.</li>
+<li>We were underbudget for InfBall by £3000.</li>
+<li>Ideas to either use this money for merch or for next year.</li>
+</ul>
+<h2>6. <strong>Instagram Ideas</strong></h2>
+<ul>
+<li>There is an idea to create a close friends list for the Instagram stories.</li>
+<li>People could be added through various events.</li>
+<li>Informal behind the scenes of CompSoc events.</li>
+</ul>2:["$","$Lc",null,{"contentHtml":"$d","title":"2025-03-17","modifiedAt":"$D2025-03-17T17:56:30.587Z"}]
+b:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#353535"}],["$","meta","2",{"charSet":"utf-8"}],["$","title","3",{"children":"CompSoc"}],["$","meta","4",{"name":"description","content":"CompSoc is Edinburgh University's technology society! We're Scotland's best and largest of its kind, and form one of the largest societies within the university."}],["$","link","5",{"rel":"icon","href":"https://comp-soc.com/compsoc-mini.svg"}]]
+1:null
