@@ -5,8 +5,8 @@ excerpt_separator: '<!--See More-->'
 roles:
   - title: President
     people:
-      - name:
-        url: 
+      - name: Kacper Szymanski
+        url: https://drive.google.com/file/d/1SvhclULogysVGBtYkwj_nOBJfKHwWlsP/view?usp=sharing
   - title: Vice-President
     people:
       - name: 
@@ -69,7 +69,7 @@ _The views expressed on the following manifestos are the candidates' own and do 
 
 | Role                     | Name                   | Manifesto Link                                                                                       |
 | ------------------------ | ---------------------- | ---------------------------------------------------------------------------------------------------- |
-| **President**            | Nobody has run for this position yet! |  |
+| **President**            | Kacper Szymanski  | [Link](https://drive.google.com/file/d/1SvhclULogysVGBtYkwj_nOBJfKHwWlsP/view?usp=sharing) |
 | **Vice-President**       | Nobody has run for this position yet! |  |
 | **Secretary**            | Nobody has run for this position yet! |  |
 | **Treasurer**            | Nobody has run for this position yet! |  |
