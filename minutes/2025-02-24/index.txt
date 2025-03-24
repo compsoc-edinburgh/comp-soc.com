@@ -1,0 +1,72 @@
+3:I[39275,[],""]
+5:I[61343,[],""]
+6:I[231,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","367","static/chunks/367-3ce6c42dbbc0126f.js","231","static/chunks/231-a271b418106f24d7.js","565","static/chunks/565-353b08b248c1ba4c.js","169","static/chunks/169-88c94bf7b73b5529.js","185","static/chunks/app/layout-930712e82cc0aff9.js"],""]
+7:I[84269,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","367","static/chunks/367-3ce6c42dbbc0126f.js","231","static/chunks/231-a271b418106f24d7.js","565","static/chunks/565-353b08b248c1ba4c.js","169","static/chunks/169-88c94bf7b73b5529.js","185","static/chunks/app/layout-930712e82cc0aff9.js"],"default"]
+8:I[35719,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","367","static/chunks/367-3ce6c42dbbc0126f.js","231","static/chunks/231-a271b418106f24d7.js","565","static/chunks/565-353b08b248c1ba4c.js","169","static/chunks/169-88c94bf7b73b5529.js","185","static/chunks/app/layout-930712e82cc0aff9.js"],"default"]
+9:I[42452,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","367","static/chunks/367-3ce6c42dbbc0126f.js","231","static/chunks/231-a271b418106f24d7.js","565","static/chunks/565-353b08b248c1ba4c.js","169","static/chunks/169-88c94bf7b73b5529.js","185","static/chunks/app/layout-930712e82cc0aff9.js"],"default"]
+a:I[92056,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","367","static/chunks/367-3ce6c42dbbc0126f.js","231","static/chunks/231-a271b418106f24d7.js","565","static/chunks/565-353b08b248c1ba4c.js","169","static/chunks/169-88c94bf7b73b5529.js","185","static/chunks/app/layout-930712e82cc0aff9.js"],"default"]
+4:["slug","2025-02-24","d"]
+0:["baOYPPBhMTJKeiNfmHUQ7",[[["",{"children":["minutes",{"children":[["slug","2025-02-24","d"],{"children":["__PAGE__?{\"slug\":\"2025-02-24\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["minutes",{"children":[["slug","2025-02-24","d"],{"children":["__PAGE__",{},[["$L1","$L2",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/54f9ddd098fa72b3.css","precedence":"next","crossOrigin":"$undefined"}]]],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","minutes","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","minutes","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/9a1f21590047f1a7.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"relative overflow-x-clip w-screen mx-auto","children":[["$","$L6",null,{"href":"https://infball.comp-soc.com","children":["$","div",null,{"className":"w-full bg-blue-600 text-white text-center py-2","children":["🪩 InfBall 2025 tickets are now on sale! ",["$","u",null,{"children":"infball.comp-soc.com"}]]}]}],["$","$L7",null,{"children":["$","$L8",null,{"children":[["$","$L9",null,{}],["$","div",null,{"className":"container mx-auto max-w-screen-xl p-4 pb-32 min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}]]}]}],["$","$La",null,{}]]}]}]],null],null],["$Lb",null]]]]
+c:I[95423,["820","static/chunks/app/minutes/%5Bslug%5D/page-fc39e537d3126782.js"],"default"]
+d:Tbce,<h1>CompSoc Committee Meeting 2024-02-24</h1>
+<p>Minutes taken by Charlotte Ausel, EDI Rep.</p>
+<p>Attendees: Anastasia, Agam, Godfrey (online), Cat (online), Leo, Vojtech, Charlotte, Ol, Merlin,
+Vincent, Kacper, Kameran, Marton, Lucas, Eugene, Tomas (online), Elisa</p>
+<p>Apologies: Lewis</p>
+<h2>Questions for Edinburgh Venture Point (EVP)</h2>
+<ol>
+<li>
+<p>Are you paying someone for the website or why is it equiv. 4 h of an hourly wage? It's a standard
+WordPress subscription; they didn't have the tech expertise to create this at a cheaper cost.</p>
+</li>
+<li>
+<p>Why is CompSoc doing this? CompSoc has a great atmosphere for creating things and has great
+potential to produce successful startups. Some committee members responded with the fact that
+this isn't really something that CompSoc does, since other SIGs are directly technology related,
+whereas EVP would only tangentially be related to tech. CompSoc will also be the first group to
+get the chance to support EVP should it go successfully.</p>
+</li>
+<li>
+<p>Did CompSoc members turn up to their first event, if not, then isn't it unlikely that CompSoc
+members will enjoy it? Some CompSoc members did indeed show up, and it was suggested that EVP
+joining CompSoc as a SIG could help boost their numbers too. On a technical note, they already
+have the minimum required support of 10 members and a leader for creation of a SIG.</p>
+</li>
+</ol>
+<h2>Other points</h2>
+<p>It was mentioned that the startup fund of 500 GBP was pathetically low should it be spread amongst
+several groups. Overall, the finances, though better than last time, were still a bit
+questionable. Still, it's realistic enough to consider supporting.</p>
+<p>After the EVP presenters left the room, the committee decided that — since the school technically
+supported CompSoc financially under the premise that a pitching-style event would happen, as well as
+the fact that Edinburgh AI received a lot of funds for their AI Expo shortly after their
+establishment — it was feasible to support them with some amount of money.</p>
+<p>Some committee members objected outright to supporting EVP without them becoming a SIG. So we
+decided to vote on the following questions:</p>
+<ol>
+<li>
+<p>Should EVP become a SIG?</p>
+</li>
+<li>
+<p>If yes, should we support them with £1k?</p>
+</li>
+<li>
+<p>If no, should we support them with £500?</p>
+</li>
+</ol>
+<h2>Vote</h2>
+<p>Results:
+SIG? Yes 12, No 4, Abstain 1
+Money 1k: Yes 11, No 6, Abstain 1</p>
+<p>Vincent will now initiate the process for EVP to become a SIG and the committee will give them £1k
+in the future for their events.</p>
+<h3>Voting record</h3>
+<p>SIG No: Charlotte, Godfrey, Tomas, Cat</p>
+<p>SIG Yes: Anastasia, Agam, Leo, Vojtech, Tardis rep (Ol/Merlin), Vincent, Kacper, Kameran, Marton,
+Lucas, Eugene, Elisa</p>
+<p>SIG Abstain: Lewis</p>
+<p>Money No: Charlotte, Godfrey, Tomas, Cat, Kasper, Tardis</p>
+<p>Money Yes: Anastasia, Agam, Leo, Vojtech, Vincent, Kameran, Marton, Lucas, Eugene, Elisa</p>
+<p>Money Abstain: Lewis</p>2:["$","$Lc",null,{"contentHtml":"$d","title":"2025-02-24","modifiedAt":"$D2025-03-24T19:03:36.906Z"}]
+b:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#353535"}],["$","meta","2",{"charSet":"utf-8"}],["$","title","3",{"children":"CompSoc"}],["$","meta","4",{"name":"description","content":"CompSoc is Edinburgh University's technology society! We're Scotland's best and largest of its kind, and form one of the largest societies within the university."}],["$","link","5",{"rel":"icon","href":"https://comp-soc.com/compsoc-mini.svg"}]]
+1:null
