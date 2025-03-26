@@ -1,4 +1,4 @@
-export const displayAnnouncement = true
+export const displayAnnouncement = false
 
 export const announcement = (
   <>
