@@ -13,8 +13,8 @@ roles:
         url: 
   - title: Secretary
     people:
-      - name: 
-        url: 
+      - name: Alex Davis
+        url: https://drive.google.com/file/d/1rBtUwqCPqgiC-iZm9TmqefJytnHfF4ho/view?usp=sharing
   - title: Treasurer
     people:
       - name: 
@@ -71,7 +71,7 @@ _The views expressed on the following manifestos are the candidates' own and do 
 | ------------------------ | ---------------------- | ---------------------------------------------------------------------------------------------------- |
 | **President**            | Kacper Szymanski  | [Link](https://drive.google.com/file/d/1SvhclULogysVGBtYkwj_nOBJfKHwWlsP/view?usp=sharing) |
 | **Vice-President**       | Nobody has run for this position yet! |  |
-| **Secretary**            | Nobody has run for this position yet! |  |
+| **Secretary**            | Alex Davis | [Link](https://drive.google.com/file/d/1rBtUwqCPqgiC-iZm9TmqefJytnHfF4ho/view?usp=sharing) |
 | **Treasurer**            | Nobody has run for this position yet! |  |
 | **Graphic Designer**     | Nobody has run for this position yet! |  |
 | **TechSec**              | Nobody has run for this position yet! |  |
