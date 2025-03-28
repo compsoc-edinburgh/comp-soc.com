@@ -24,9 +24,9 @@ roles:
       - name: 
         url: 
   - title: TechSec
-    people:
-      - name: 
-        url: 
+    people: 
+      - name: Carl Kaziboni
+        url: https://drive.google.com/file/d/10i7vu7yKILaWcFx0m-eIz0xzz5NJYkdX/view?usp=sharing
   - title: SocialSec
     people:
       - name: 
@@ -74,7 +74,7 @@ _The views expressed on the following manifestos are the candidates' own and do 
 | **Secretary**            | Alex Davis | [Link](https://drive.google.com/file/d/1rBtUwqCPqgiC-iZm9TmqefJytnHfF4ho/view?usp=sharing) |
 | **Treasurer**            | Nobody has run for this position yet! |  |
 | **Graphic Designer**     | Nobody has run for this position yet! |  |
-| **TechSec**              | Nobody has run for this position yet! |  |
+| **TechSec**              | Carl Kaziboni | [Link](https://drive.google.com/file/d/10i7vu7yKILaWcFx0m-eIz0xzz5NJYkdX/view?usp=sharing) |
 | **SocialSec**            | Nobody has run for this position yet! |  |
 | **Social Media Officer** | Nobody has run for this position yet! |  |
 | **2nd Year Rep**         | Nobody has run for this position yet! |  |
