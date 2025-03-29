@@ -9,8 +9,8 @@ roles:
         url: https://drive.google.com/file/d/1SvhclULogysVGBtYkwj_nOBJfKHwWlsP/view?usp=sharing
   - title: Vice-President
     people:
-      - name: 
-        url: 
+      - name: Archie Spiller
+        url: https://drive.google.com/file/d/1Qvb4Q77zTW30mmTjkivl33BkQ5cZJnHK/view?usp=sharing
   - title: Secretary
     people:
       - name: Alex Davis
@@ -70,7 +70,7 @@ _The views expressed on the following manifestos are the candidates' own and do 
 | Role                     | Name                   | Manifesto Link                                                                                       |
 | ------------------------ | ---------------------- | ---------------------------------------------------------------------------------------------------- |
 | **President**            | Kacper Szymanski  | [Link](https://drive.google.com/file/d/1SvhclULogysVGBtYkwj_nOBJfKHwWlsP/view?usp=sharing) |
-| **Vice-President**       | Nobody has run for this position yet! |  |
+| **Vice-President**       | Archie Spiller | [Link](https://drive.google.com/file/d/1Qvb4Q77zTW30mmTjkivl33BkQ5cZJnHK/view?usp=sharing) |
 | **Secretary**            | Alex Davis | [Link](https://drive.google.com/file/d/1rBtUwqCPqgiC-iZm9TmqefJytnHfF4ho/view?usp=sharing) |
 | **Treasurer**            | Nobody has run for this position yet! |  |
 | **Graphic Designer**     | Nobody has run for this position yet! |  |
