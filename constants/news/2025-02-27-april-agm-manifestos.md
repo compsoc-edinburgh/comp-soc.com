@@ -11,6 +11,8 @@ roles:
     people:
       - name: Archie Spiller
         url: https://drive.google.com/file/d/1Qvb4Q77zTW30mmTjkivl33BkQ5cZJnHK/view?usp=sharing
+      - name: Anna Petrusenko
+        url: https://drive.google.com/file/d/1rVzdTyd4QsPl1UAYncYMmBdp-q9NbSnJ/view?usp=sharing
   - title: Secretary
     people:
       - name: Alex Davis
@@ -73,9 +75,11 @@ _The views expressed on the following manifestos are the candidates' own and do 
 | ------------------------ | ---------------------- | ---------------------------------------------------------------------------------------------------- |
 | **President**            | Kacper Szymanski  | [Link](https://drive.google.com/file/d/1SvhclULogysVGBtYkwj_nOBJfKHwWlsP/view?usp=sharing) |
 | **Vice-President**       | Archie Spiller | [Link](https://drive.google.com/file/d/1Qvb4Q77zTW30mmTjkivl33BkQ5cZJnHK/view?usp=sharing) |
+|                          | Anna Petrusenko| [Link](https://drive.google.com/file/d/1rVzdTyd4QsPl1UAYncYMmBdp-q9NbSnJ/view?usp=sharing) |
 | **Secretary**            | Alex Davis | [Link](https://drive.google.com/file/d/1rBtUwqCPqgiC-iZm9TmqefJytnHfF4ho/view?usp=sharing) |
+|                          | Manthan Chugh | [Link](https://drive.google.com/file/d/1hjvLylNfRiJKuFtLbJmSmhqSVE85ozWG/view?usp=sharing) |
 | **Treasurer**            | Nobody has run for this position yet! |  |
-| **Graphic Designer**     | Nobody has run for this position yet! |  |
+| **Graphic Designer**     | Hyunseo Lee | [Link](https://drive.google.com/file/d/1kd9jhvbxWfJyguR8QWRD86xGT7tQlkMd/view?usp=sharing) |
 | **TechSec**              | Carl Kaziboni | [Link](https://drive.google.com/file/d/10i7vu7yKILaWcFx0m-eIz0xzz5NJYkdX/view?usp=sharing) |
 | **SocialSec**            | Nobody has run for this position yet! |  |
 | **Social Media Officer** | Nobody has run for this position yet! |  |
