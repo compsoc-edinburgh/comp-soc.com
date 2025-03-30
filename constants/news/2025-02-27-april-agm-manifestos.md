@@ -15,14 +15,16 @@ roles:
     people:
       - name: Alex Davis
         url: https://drive.google.com/file/d/1rBtUwqCPqgiC-iZm9TmqefJytnHfF4ho/view?usp=sharing
+      - name: Manthan Chugh
+        url: https://drive.google.com/file/d/1hjvLylNfRiJKuFtLbJmSmhqSVE85ozWG/view?usp=sharing
   - title: Treasurer
     people:
       - name: 
         url: 
   - title: Graphic Designer
     people:
-      - name: 
-        url: 
+      - name: Hyunseo Lee
+        url: https://drive.google.com/file/d/1kd9jhvbxWfJyguR8QWRD86xGT7tQlkMd/view?usp=sharing
   - title: TechSec
     people: 
       - name: Carl Kaziboni
