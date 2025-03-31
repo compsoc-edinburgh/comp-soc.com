@@ -28,8 +28,11 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className="relative overflow-x-clip w-screen mx-auto">
-        <AnnouncementBar href="https://infball.comp-soc.com">
-          🪩 InfBall 2025 tickets are now on sale! <u>infball.comp-soc.com</u>
+        <AnnouncementBar
+          className="bg-red-600"
+          href="/news/2025-02-27-april-agm-manifestos/"
+        >
+          🗳️ AGM is happening on the 2nd of April! <u>See manifestos</u>
         </AnnouncementBar>
         <VariableBackground>
           <PixelBackground>

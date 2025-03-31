@@ -4,15 +4,18 @@ import Link from 'next/link'
 interface AnnouncementBarProps {
   children: ReactNode
   href: string
+  className?: string
 }
 
-const AnnouncementBar = ({ children, href }: AnnouncementBarProps) => {
+const AnnouncementBar = ({
+  className,
+  children,
+  href,
+}: AnnouncementBarProps) => {
   return (
-    <Link href={href}>
-      <div className="w-full bg-blue-600 text-white text-center py-2">
-        {children}
-      </div>
-    </Link>
+    <div className={`bg-blue-600 text-white text-center py-2 ${className}`}>
+      <Link href={href}>{children}</Link>
+    </div>
   )
 }
 
