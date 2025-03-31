@@ -21,8 +21,8 @@ roles:
         url: https://drive.google.com/file/d/1hjvLylNfRiJKuFtLbJmSmhqSVE85ozWG/view?usp=sharing
   - title: Treasurer
     people:
-      - name: 
-        url: 
+      - name: Yurii Ilnytskyi
+        url: https://drive.google.com/file/d/1gIAfP4KRKUiS6XhEZigB9ktIWrZVfi-Y/view?usp=sharing
   - title: Graphic Designer
     people:
       - name: Hyunseo Lee
@@ -78,7 +78,7 @@ _The views expressed on the following manifestos are the candidates' own and do 
 |                          | Anna Petrusenko| [Link](https://drive.google.com/file/d/1rVzdTyd4QsPl1UAYncYMmBdp-q9NbSnJ/view?usp=sharing) |
 | **Secretary**            | Alex Davis | [Link](https://drive.google.com/file/d/1rBtUwqCPqgiC-iZm9TmqefJytnHfF4ho/view?usp=sharing) |
 |                          | Manthan Chugh | [Link](https://drive.google.com/file/d/1hjvLylNfRiJKuFtLbJmSmhqSVE85ozWG/view?usp=sharing) |
-| **Treasurer**            | Nobody has run for this position yet! |  |
+| **Treasurer**            | Yurii Ilnytksyi | [Link](https://drive.google.com/file/d/1gIAfP4KRKUiS6XhEZigB9ktIWrZVfi-Y/view?usp=sharing) |
 | **Graphic Designer**     | Hyunseo Lee | [Link](https://drive.google.com/file/d/1kd9jhvbxWfJyguR8QWRD86xGT7tQlkMd/view?usp=sharing) |
 | **TechSec**              | Carl Kaziboni | [Link](https://drive.google.com/file/d/10i7vu7yKILaWcFx0m-eIz0xzz5NJYkdX/view?usp=sharing) |
 | **SocialSec**            | Nobody has run for this position yet! |  |
