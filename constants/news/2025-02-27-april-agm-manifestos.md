@@ -43,6 +43,8 @@ roles:
     people:
       - name: Danyil Butov
         url: https://drive.google.com/file/d/19LSw2WWHvzIsrfKPIrPJP0meXdxJMFce/view?usp=sharing
+      - name: Eileen Garip
+      - url: https://drive.google.com/file/d/11D6c-t8WNKHt7kvsYbwB-cHfz9aQh9tm/view?usp=sharing
   - title: 3rd Year Rep
     people:
       - name: 
@@ -84,6 +86,7 @@ _The views expressed on the following manifestos are the candidates' own and do 
 | **SocialSec**            | Nobody has run for this position yet! |  |
 | **Social Media Officer** | Nobody has run for this position yet! |  |
 | **2nd Year Rep**         | Danyil Butov | [Link](https://drive.google.com/file/d/19LSw2WWHvzIsrfKPIrPJP0meXdxJMFce/view?usp=sharing) |
+|                          | Eileen Garip | [Link](https://drive.google.com/file/d/11D6c-t8WNKHt7kvsYbwB-cHfz9aQh9tm/view?usp=sharing) |
 | **3rd Year Rep**         | Nobody has run for this position yet! |  |
 | **4th Year Rep**         | Nobody has run for this position yet! |  |
 | **Old Person Rep**       | Nobody has run for this position yet! |  |
