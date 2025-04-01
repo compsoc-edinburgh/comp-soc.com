@@ -5,10 +5,10 @@
 7:I[35719,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","367","static/chunks/367-3ce6c42dbbc0126f.js","231","static/chunks/231-a271b418106f24d7.js","565","static/chunks/565-353b08b248c1ba4c.js","169","static/chunks/169-88c94bf7b73b5529.js","185","static/chunks/app/layout-b312be67f8a06214.js"],"default"]
 8:I[42452,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","367","static/chunks/367-3ce6c42dbbc0126f.js","231","static/chunks/231-a271b418106f24d7.js","565","static/chunks/565-353b08b248c1ba4c.js","169","static/chunks/169-88c94bf7b73b5529.js","185","static/chunks/app/layout-b312be67f8a06214.js"],"default"]
 9:I[92056,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","367","static/chunks/367-3ce6c42dbbc0126f.js","231","static/chunks/231-a271b418106f24d7.js","565","static/chunks/565-353b08b248c1ba4c.js","169","static/chunks/169-88c94bf7b73b5529.js","185","static/chunks/app/layout-b312be67f8a06214.js"],"default"]
-0:["RO2Lw5rNDN5lRj4UwF-tj",[[["",{"children":["news",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",{"children":["news",{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","news","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/9a1f21590047f1a7.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"relative overflow-x-clip w-screen mx-auto","children":[["$","div",null,{"className":"bg-blue-600 text-white text-center py-2 bg-red-600","children":["$","$L5",null,{"href":"/news/2025-02-27-april-agm-manifestos/","children":["🗳️ AGM is happening on the 2nd of April! ",["$","u",null,{"children":"See manifestos"}]]}]}],["$","$L6",null,{"children":["$","$L7",null,{"children":[["$","$L8",null,{}],["$","div",null,{"className":"container mx-auto max-w-screen-xl p-4 pb-32 min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}]]}]}],["$","$L9",null,{}]]}]}]],null],null],["$La",null]]]]
+0:["zLbTj3t5HrqkXQEefMRps",[[["",{"children":["news",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",{"children":["news",{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","news","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/9a1f21590047f1a7.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"relative overflow-x-clip w-screen mx-auto","children":[["$","div",null,{"className":"bg-blue-600 text-white text-center py-2 bg-red-600","children":["$","$L5",null,{"href":"/news/2025-02-27-april-agm-manifestos/","children":["🗳️ AGM is happening on the 2nd of April! ",["$","u",null,{"children":"See manifestos"}]]}]}],["$","$L6",null,{"children":["$","$L7",null,{"children":[["$","$L8",null,{}],["$","div",null,{"className":"container mx-auto max-w-screen-xl p-4 pb-32 min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}]]}]}],["$","$L9",null,{}]]}]}]],null],null],["$La",null]]]]
 b:"$Sreact.suspense"
 c:I[25387,["367","static/chunks/367-3ce6c42dbbc0126f.js","231","static/chunks/231-a271b418106f24d7.js","834","static/chunks/app/news/page-867943dafee1002b.js"],"default"]
-d:T13df,---
+d:T176e,---
 title: 'Manifestos for 2025 April AGM'
 author: Marton
 excerpt_separator: '<!--See More-->'
@@ -17,6 +17,8 @@ roles:
     people:
       - name: Kacper Szymanski
         url: https://drive.google.com/file/d/1SvhclULogysVGBtYkwj_nOBJfKHwWlsP/view?usp=sharing
+      - name: Kian Hampson-Bahia
+      - url: https://drive.google.com/file/d/1UOklQJU07hdZxdh-saTbhFaff1emDK9i/view?usp=sharing
   - title: Vice-President
     people:
       - name: Archie Spiller
@@ -69,8 +71,8 @@ roles:
         url: 
   - title: EDI Rep
     people:
-      - name: 
-        url: 
+      - name: Uyi Lavrentieva
+        url: https://drive.google.com/file/d/1aoGVdI0_ATkifQnOo5NOGBlWPTjBcH3K/view?usp=sharing
 ---
 
 ## Election Details
@@ -86,21 +88,25 @@ _The views expressed on the following manifestos are the candidates' own and do 
 | Role                     | Name                   | Manifesto Link                                                                                       |
 | ------------------------ | ---------------------- | ---------------------------------------------------------------------------------------------------- |
 | **President**            | Kacper Szymanski  | [Link](https://drive.google.com/file/d/1SvhclULogysVGBtYkwj_nOBJfKHwWlsP/view?usp=sharing) |
+|                          | Kian Hampson-Bahia| [Link](https://drive.google.com/file/d/1UOklQJU07hdZxdh-saTbhFaff1emDK9i/view?usp=sharing) |
 | **Vice-President**       | Archie Spiller | [Link](https://drive.google.com/file/d/1Qvb4Q77zTW30mmTjkivl33BkQ5cZJnHK/view?usp=sharing) |
 |                          | Anna Petrusenko| [Link](https://drive.google.com/file/d/1rVzdTyd4QsPl1UAYncYMmBdp-q9NbSnJ/view?usp=sharing) |
 | **Secretary**            | Alex Davis | [Link](https://drive.google.com/file/d/1rBtUwqCPqgiC-iZm9TmqefJytnHfF4ho/view?usp=sharing) |
 |                          | Manthan Chugh | [Link](https://drive.google.com/file/d/1hjvLylNfRiJKuFtLbJmSmhqSVE85ozWG/view?usp=sharing) |
 | **Treasurer**            | Yurii Ilnytksyi | [Link](https://drive.google.com/file/d/1gIAfP4KRKUiS6XhEZigB9ktIWrZVfi-Y/view?usp=sharing) |
 | **Graphic Designer**     | Hyunseo Lee | [Link](https://drive.google.com/file/d/1kd9jhvbxWfJyguR8QWRD86xGT7tQlkMd/view?usp=sharing) |
+|                          | Kay         | [Link](https://drive.google.com/file/d/1GKcUs92ABqKCjLRIkOjhj516cB_eXk3d/view?usp=sharing) |
 | **TechSec**              | Carl Kaziboni | [Link](https://drive.google.com/file/d/10i7vu7yKILaWcFx0m-eIz0xzz5NJYkdX/view?usp=sharing) |
+|                          | Weng Kin Chan | [Link(https://drive.google.com/file/d/11JW56x6ZSRXTQkdaxXJ37pNfmzWLpZZe/view?usp=sharing) |
 | **SocialSec**            | Nobody has run for this position yet! |  |
 | **Social Media Officer** | Nobody has run for this position yet! |  |
 | **2nd Year Rep**         | Danyil Butov | [Link](https://drive.google.com/file/d/19LSw2WWHvzIsrfKPIrPJP0meXdxJMFce/view?usp=sharing) |
 |                          | Eileen Garip | [Link](https://drive.google.com/file/d/11D6c-t8WNKHt7kvsYbwB-cHfz9aQh9tm/view?usp=sharing) |
+|                          | Abdulwahid | [Link](https://drive.google.com/file/d/1obA-RzZ8MVmY7TfHdAZG1aaqogBrGu_o/view?usp=sharing) |
 | **3rd Year Rep**         | Nobody has run for this position yet! |  |
 | **4th Year Rep**         | Nobody has run for this position yet! |  |
-| **Old Person Rep**       | Nobody has run for this position yet! |  |
-| **EDI Rep**              | Nobody has run for this position yet! |  |
+| **Old Person Rep**       | Uyi Lavrentieva | [Link](https://drive.google.com/file/d/1aoGVdI0_ATkifQnOo5NOGBlWPTjBcH3K/view?usp=sharing) |
+| **EDI Rep**              | Sorana Ionescu | [Link](https://drive.google.com/file/d/1pZOQFZNWwVR2JjX7hIvWvdj-pGG0ydbd/view?usp=sharing) |
 
 We hope you think carefully about who you choose to elect tonight — please vote based on manifestos and speeches! Note that you may also vote for RON (reopen nominations) for all positions. You also need EUSA CompSoc membership.
 
