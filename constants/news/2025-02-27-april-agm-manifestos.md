@@ -15,6 +15,8 @@ roles:
         url: https://drive.google.com/file/d/1Qvb4Q77zTW30mmTjkivl33BkQ5cZJnHK/view?usp=sharing
       - name: Anna Petrusenko
         url: https://drive.google.com/file/d/1rVzdTyd4QsPl1UAYncYMmBdp-q9NbSnJ/view?usp=sharing
+      - name: Param Mansukhani
+        url: https://drive.google.com/file/d/1JBuoHQZBCb0uRgozl2A9GPCfeayJZFzG/view?usp=sharing
   - title: Secretary
     people:
       - name: Alex Davis
@@ -31,10 +33,14 @@ roles:
     people:
       - name: Hyunseo Lee
         url: https://drive.google.com/file/d/1kd9jhvbxWfJyguR8QWRD86xGT7tQlkMd/view?usp=sharing
+      - name: Kay
+        url: https://drive.google.com/file/d/1GKcUs92ABqKCjLRIkOjhj516cB_eXk3d/view?usp=sharing
   - title: TechSec
     people: 
       - name: Carl Kaziboni
         url: https://drive.google.com/file/d/10i7vu7yKILaWcFx0m-eIz0xzz5NJYkdX/view?usp=sharing
+      - name: Weng Kin Chan
+        url: https://drive.google.com/file/d/11JW56x6ZSRXTQkdaxXJ37pNfmzWLpZZe/view?usp=sharing
   - title: SocialSec
     people:
       - name: 
@@ -48,7 +54,9 @@ roles:
       - name: Danyil Butov
         url: https://drive.google.com/file/d/19LSw2WWHvzIsrfKPIrPJP0meXdxJMFce/view?usp=sharing
       - name: Eileen Garip
-      - url: https://drive.google.com/file/d/11D6c-t8WNKHt7kvsYbwB-cHfz9aQh9tm/view?usp=sharing
+        url: https://drive.google.com/file/d/11D6c-t8WNKHt7kvsYbwB-cHfz9aQh9tm/view?usp=sharing
+      - name: Abdulwahid
+        url: https://drive.google.com/file/d/1obA-RzZ8MVmY7TfHdAZG1aaqogBrGu_o/view?usp=sharing
   - title: 3rd Year Rep
     people:
       - name: 
@@ -59,12 +67,12 @@ roles:
         url: 
   - title: Old Person Rep
     people:
-      - name: 
-        url: 
-  - title: EDI Rep
-    people:
       - name: Uyi Lavrentieva
         url: https://drive.google.com/file/d/1aoGVdI0_ATkifQnOo5NOGBlWPTjBcH3K/view?usp=sharing
+  - title: EDI Rep
+    people:
+      - name: Sorana Ionescu
+        url: https://drive.google.com/file/d/1pZOQFZNWwVR2JjX7hIvWvdj-pGG0ydbd/view?usp=sharing
 ---
 
 ## Election Details
