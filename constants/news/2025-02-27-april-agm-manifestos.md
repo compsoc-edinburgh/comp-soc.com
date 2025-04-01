@@ -25,6 +25,8 @@ roles:
     people:
       - name: Yurii Ilnytskyi
         url: https://drive.google.com/file/d/1gIAfP4KRKUiS6XhEZigB9ktIWrZVfi-Y/view?usp=sharing
+      - name: Kameran Russell
+      - url: https://drive.google.com/file/d/1Lc3GW1aYURNByRh5T4J-Z27EIXGNm30j/view?usp=sharing
   - title: Graphic Designer
     people:
       - name: Hyunseo Lee
@@ -81,9 +83,11 @@ _The views expressed on the following manifestos are the candidates' own and do 
 |                          | Kian Hampson-Bahia| [Link](https://drive.google.com/file/d/1UOklQJU07hdZxdh-saTbhFaff1emDK9i/view?usp=sharing) |
 | **Vice-President**       | Archie Spiller | [Link](https://drive.google.com/file/d/1Qvb4Q77zTW30mmTjkivl33BkQ5cZJnHK/view?usp=sharing) |
 |                          | Anna Petrusenko| [Link](https://drive.google.com/file/d/1rVzdTyd4QsPl1UAYncYMmBdp-q9NbSnJ/view?usp=sharing) |
+|                          | Param Mansukhani | [Link](https://drive.google.com/file/d/1JBuoHQZBCb0uRgozl2A9GPCfeayJZFzG/view?usp=sharing) |
 | **Secretary**            | Alex Davis | [Link](https://drive.google.com/file/d/1rBtUwqCPqgiC-iZm9TmqefJytnHfF4ho/view?usp=sharing) |
 |                          | Manthan Chugh | [Link](https://drive.google.com/file/d/1hjvLylNfRiJKuFtLbJmSmhqSVE85ozWG/view?usp=sharing) |
 | **Treasurer**            | Yurii Ilnytksyi | [Link](https://drive.google.com/file/d/1gIAfP4KRKUiS6XhEZigB9ktIWrZVfi-Y/view?usp=sharing) |
+|                          | Kameran Russell | [Link](https://drive.google.com/file/d/1Lc3GW1aYURNByRh5T4J-Z27EIXGNm30j/view?usp=sharing) |
 | **Graphic Designer**     | Hyunseo Lee | [Link](https://drive.google.com/file/d/1kd9jhvbxWfJyguR8QWRD86xGT7tQlkMd/view?usp=sharing) |
 |                          | Kay         | [Link](https://drive.google.com/file/d/1GKcUs92ABqKCjLRIkOjhj516cB_eXk3d/view?usp=sharing) |
 | **TechSec**              | Carl Kaziboni | [Link](https://drive.google.com/file/d/10i7vu7yKILaWcFx0m-eIz0xzz5NJYkdX/view?usp=sharing) |
