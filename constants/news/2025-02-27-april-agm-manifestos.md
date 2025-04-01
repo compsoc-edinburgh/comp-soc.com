@@ -87,7 +87,7 @@ _The views expressed on the following manifestos are the candidates' own and do 
 | **Graphic Designer**     | Hyunseo Lee | [Link](https://drive.google.com/file/d/1kd9jhvbxWfJyguR8QWRD86xGT7tQlkMd/view?usp=sharing) |
 |                          | Kay         | [Link](https://drive.google.com/file/d/1GKcUs92ABqKCjLRIkOjhj516cB_eXk3d/view?usp=sharing) |
 | **TechSec**              | Carl Kaziboni | [Link](https://drive.google.com/file/d/10i7vu7yKILaWcFx0m-eIz0xzz5NJYkdX/view?usp=sharing) |
-|                          | Weng Kin Chan | [Link(https://drive.google.com/file/d/11JW56x6ZSRXTQkdaxXJ37pNfmzWLpZZe/view?usp=sharing) |
+|                          | Weng Kin Chan | [Link](https://drive.google.com/file/d/11JW56x6ZSRXTQkdaxXJ37pNfmzWLpZZe/view?usp=sharing) |
 | **SocialSec**            | Nobody has run for this position yet! |  |
 | **Social Media Officer** | Nobody has run for this position yet! |  |
 | **2nd Year Rep**         | Danyil Butov | [Link](https://drive.google.com/file/d/19LSw2WWHvzIsrfKPIrPJP0meXdxJMFce/view?usp=sharing) |
