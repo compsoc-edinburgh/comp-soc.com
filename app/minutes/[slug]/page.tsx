@@ -24,12 +24,31 @@ export async function generateStaticParams() {
   }))
 }
 
-// Multiple versions of this page will be statically generated
 export default async function Page({ params }: { params: { slug: string } }) {
   const { slug } = params
-  // Read markdown file as string
-  const postDirectory = path.join(__dirname, '../../../../../constants/minutes')
-  const filePath = path.join(postDirectory, `${slug}.md`)
+
+  // Read markdown files
+  const postsDirectory = path.join(
+    __dirname,
+    '../../../../../constants/minutes'
+  )
+  const fileNames = fs
+    .readdirSync(postsDirectory)
+    .map((file) => file.replace(/\.md$/, ''))
+
+  // Sort filenames alphabetically
+  fileNames.sort()
+
+  // Determine previous and next slugs
+  const currentIndex = fileNames.indexOf(slug)
+  const prevSlug = currentIndex > 0 ? fileNames[currentIndex - 1] : undefined
+  const nextSlug =
+    currentIndex < fileNames.length - 1
+      ? fileNames[currentIndex + 1]
+      : undefined
+
+  // Read current markdown file
+  const filePath = path.join(postsDirectory, `${slug}.md`)
   const fileContents = fs.readFileSync(filePath, 'utf8')
 
   const fileStats = fs.statSync(filePath)
@@ -52,6 +71,8 @@ export default async function Page({ params }: { params: { slug: string } }) {
       contentHtml={contentHtml}
       title={slug}
       modifiedAt={modifiedAt}
+      prevSlug={prevSlug}
+      nextSlug={nextSlug}
     />
   )
 }
