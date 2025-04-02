@@ -34,7 +34,6 @@ export const team2022: Committee[] = [
     name: 'Jacob',
     surname: 'Walters',
     role: Role.TECHNICAL_SECRETARY,
-    image: 'greg-1.png',
     links: [{ type: LinkType.WEBSITE, url: 'https://jacobwalte.rs' }],
   },
   {
