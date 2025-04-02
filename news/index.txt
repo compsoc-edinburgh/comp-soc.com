@@ -1,14 +1,13 @@
 3:I[39275,[],""]
 4:I[61343,[],""]
-5:I[231,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","367","static/chunks/367-3ce6c42dbbc0126f.js","231","static/chunks/231-a271b418106f24d7.js","565","static/chunks/565-353b08b248c1ba4c.js","169","static/chunks/169-88c94bf7b73b5529.js","185","static/chunks/app/layout-b312be67f8a06214.js"],""]
-6:I[84269,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","367","static/chunks/367-3ce6c42dbbc0126f.js","231","static/chunks/231-a271b418106f24d7.js","565","static/chunks/565-353b08b248c1ba4c.js","169","static/chunks/169-88c94bf7b73b5529.js","185","static/chunks/app/layout-b312be67f8a06214.js"],"default"]
-7:I[35719,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","367","static/chunks/367-3ce6c42dbbc0126f.js","231","static/chunks/231-a271b418106f24d7.js","565","static/chunks/565-353b08b248c1ba4c.js","169","static/chunks/169-88c94bf7b73b5529.js","185","static/chunks/app/layout-b312be67f8a06214.js"],"default"]
-8:I[42452,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","367","static/chunks/367-3ce6c42dbbc0126f.js","231","static/chunks/231-a271b418106f24d7.js","565","static/chunks/565-353b08b248c1ba4c.js","169","static/chunks/169-88c94bf7b73b5529.js","185","static/chunks/app/layout-b312be67f8a06214.js"],"default"]
-9:I[92056,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","367","static/chunks/367-3ce6c42dbbc0126f.js","231","static/chunks/231-a271b418106f24d7.js","565","static/chunks/565-353b08b248c1ba4c.js","169","static/chunks/169-88c94bf7b73b5529.js","185","static/chunks/app/layout-b312be67f8a06214.js"],"default"]
-0:["d_VoTmKRPcvOGFNpCt0hP",[[["",{"children":["news",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",{"children":["news",{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","news","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/9a1f21590047f1a7.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"relative overflow-x-clip w-screen mx-auto","children":[["$","div",null,{"className":"bg-blue-600 text-white text-center py-2 bg-red-600","children":["$","$L5",null,{"href":"/news/2025-02-27-april-agm-manifestos/","children":["🗳️ AGM is happening on the 2nd of April! ",["$","u",null,{"children":"See manifestos"}]]}]}],["$","$L6",null,{"children":["$","$L7",null,{"children":[["$","$L8",null,{}],["$","div",null,{"className":"container mx-auto max-w-screen-xl p-4 pb-32 min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}]]}]}],["$","$L9",null,{}]]}]}]],null],null],["$La",null]]]]
-b:"$Sreact.suspense"
-c:I[25387,["367","static/chunks/367-3ce6c42dbbc0126f.js","231","static/chunks/231-a271b418106f24d7.js","834","static/chunks/app/news/page-867943dafee1002b.js"],"default"]
-d:T1b4c,---
+5:I[84269,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","367","static/chunks/367-3ce6c42dbbc0126f.js","231","static/chunks/231-a271b418106f24d7.js","565","static/chunks/565-353b08b248c1ba4c.js","169","static/chunks/169-88c94bf7b73b5529.js","185","static/chunks/app/layout-13291c88d296570a.js"],"default"]
+6:I[35719,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","367","static/chunks/367-3ce6c42dbbc0126f.js","231","static/chunks/231-a271b418106f24d7.js","565","static/chunks/565-353b08b248c1ba4c.js","169","static/chunks/169-88c94bf7b73b5529.js","185","static/chunks/app/layout-13291c88d296570a.js"],"default"]
+7:I[42452,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","367","static/chunks/367-3ce6c42dbbc0126f.js","231","static/chunks/231-a271b418106f24d7.js","565","static/chunks/565-353b08b248c1ba4c.js","169","static/chunks/169-88c94bf7b73b5529.js","185","static/chunks/app/layout-13291c88d296570a.js"],"default"]
+8:I[92056,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","367","static/chunks/367-3ce6c42dbbc0126f.js","231","static/chunks/231-a271b418106f24d7.js","565","static/chunks/565-353b08b248c1ba4c.js","169","static/chunks/169-88c94bf7b73b5529.js","185","static/chunks/app/layout-13291c88d296570a.js"],"default"]
+0:["mupR9QNlO68AUyGS__dwJ",[[["",{"children":["news",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",{"children":["news",{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","news","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/9a1f21590047f1a7.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"relative overflow-x-clip w-screen mx-auto","children":[["$","$L5",null,{"children":["$","$L6",null,{"children":[["$","$L7",null,{}],["$","div",null,{"className":"container mx-auto max-w-screen-xl p-4 pb-32 min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}]]}]}],["$","$L8",null,{}]]}]}]],null],null],["$L9",null]]]]
+a:"$Sreact.suspense"
+b:I[25387,["367","static/chunks/367-3ce6c42dbbc0126f.js","231","static/chunks/231-a271b418106f24d7.js","834","static/chunks/app/news/page-867943dafee1002b.js"],"default"]
+c:T1b4c,---
 title: 'Manifestos for 2025 April AGM'
 author: Marton
 excerpt_separator: '<!--See More-->'
@@ -128,7 +127,7 @@ Election candidates - please remember that if you are running for President, Sec
 See you on April 2nd,
 
 CompSoc <3 You!
-e:Tc37,---
+d:Tc37,---
 title: 'AGM 2025 - Call for manifestos'
 author: Marton
 excerpt_separator: '<!--See More-->'
@@ -206,7 +205,7 @@ See the following for descriptions of each position.
   - Act as a confidential point-of-contact for EDI-related issues
 
 CompSoc <3 You!
-f:T603,---
+e:T603,---
 title: 'Manifestos for 2025 January EGM'
 author: mcn
 excerpt_separator: '<!--See More-->'
@@ -237,7 +236,7 @@ Election candidates - please remember that your speech should be 1 minute at a m
 
 See you on Wednesday,
 
-CompSoc <3 You!10:T100f,---
+CompSoc <3 You!f:T100f,---
 title: 'Manifestos for 2024 October EGM'
 author: mcn
 excerpt_separator: '<!--See More-->'
@@ -300,7 +299,7 @@ Election candidates - please remember that all speeches for the roles being elec
 See you on Wednesday,
 
 CompSoc <3 You!
-11:Tdc0,---
+10:Tdc0,---
 title: 'October 2024 STMU/EGM'
 author: martoncnemeth
 ---
@@ -360,7 +359,7 @@ Join us for a deep dive into how this interdisciplinary project is tackling the 
 Finally, we will, as always, have free pizza and drinks for you too.
 
 CompSoc <3 You!
-12:T1e81,---
+11:T1e81,---
 title: 'Manifestos for 2024 April AGM'
 author: VinceKaj
 excerpt_separator: '<!--See More-->'
@@ -479,7 +478,7 @@ We also have the constitutional amendment to vote on:
 See you on Wednesday,
 
 CompSoc <3 You!
-13:Td83,---
+12:Td83,---
 title: 'AGM 2024 - Call for manifestos'
 author: VinceKaj
 excerpt_separator: '<!--See More-->'
@@ -573,7 +572,7 @@ Highlights:
 - Added society dissolution guidelines
 
 CompSoc <3 You!
-14:T6eb,---
+13:T6eb,---
 title: 'February 2024 STMU'
 author: ali205412
 ---
@@ -588,7 +587,7 @@ This month, we have the privilege of hosting two remarkable speakers:
 Enjoy some delicious pizza and drinks on us. We can't wait to see you all there!
 
 As always, CompSoc <3 You!
-15:Tbf3,---
+14:Tbf3,---
 title: 'Manifestos for January 2024 EGM'
 author: VinceKaj
 roles:
@@ -639,7 +638,7 @@ We also have the following constitutional amendment to vote on:
 See you on the night,
 
 CompSoc ❤️ You!
-16:Tb3f,---
+15:Tb3f,---
 title: 'January 2024 STMU/EGM'
 author: VinceKaj
 ---
@@ -692,7 +691,7 @@ We will be voting on an constitutional amendment, which is on our GitHub, see:
 - [Change the EDI rep to an elected position](https://github.com/compsoc-edinburgh/constitution/pull/41/)
 
 CompSoc <3 You!
-17:T94a,---
+16:T94a,---
 title: 'Manifestos for October 2023 EGM'
 author: charlotteausel
 excerpt_separator: '<!--See More-->'
@@ -730,7 +729,7 @@ We also have the following constitutional amendment to vote on:
 See you on the night,
 
 CompSoc <3 You!
-18:Ta0b,---
+17:Ta0b,---
 title: 'October 2023 STMU/EGM'
 author: charlotteausel
 ---
@@ -776,7 +775,7 @@ We will be voting on an constitutional amendment, which is on our GitHub, see:
 - [Update the SIG member minimum to 10](https://github.com/compsoc-edinburgh/constitution/pull/40)
 
 CompSoc <3 You!
-19:T1640,---
+18:T1640,---
 title: 'Manifestos for 2023 March AGM'
 author: greg
 excerpt_separator: '<!--See More-->'
@@ -866,7 +865,7 @@ We also have the following constitutional amendment to vote on:
 See you tonight,
 
 CompSoc <3 You!
-1a:T1bac,---
+19:T1bac,---
 title: 'AGM 2023 - Call for manifestos'
 author: greg
 excerpt_separator: '<!--See More-->'
@@ -969,7 +968,7 @@ We have one amendment that we'll be voting on:
 - LawTech have asked to secede from CompSoc as a SIG, so a vote is needed to remove them from the constitution. Voting for/against this does NOT constitute a vote for LawTech remaining/leaving CompSoc, only for updating our constitution.
 
 CompSoc <3 You!
-1b:T9c8,---
+1a:T9c8,---
 title: 'Manifestos for 2022 October EGM'
 author: greg
 excerpt_separator: '<!--See More-->'
@@ -997,7 +996,7 @@ Election candidates - please remember that if you are running for President, VP,
 See you tomorrow,
 
 CompSoc ❤️ You!
-1c:T765,---
+1b:T765,---
 title: 'EGM Oct 2023 - Call for manifestos'
 author: greg
 excerpt_separator: '<!--See More-->'
@@ -1033,7 +1032,7 @@ Send your manifesto (PDF of max 200 words) to `committee@comp-soc.com` by midnig
 You should also prepare a speech. The length is 2 minutes for executive roles (Secretary) and 1 minute for the other roles. You may get asked questions afterwards.
 
 CompSoc <3 You!
-1d:T4a9,---
+1c:T4a9,---
 title: 'AGM 2022 - Results & Slides'
 author: tcmal
 ---
@@ -1061,7 +1060,7 @@ We also had a great talk from Dietmar Kuhl on QuickSort - You can get the slides
 You can also rewatch the talk on our [YouTube channel](https://www.youtube.com/watch?v=qx5whfg-Tps).
 
 CompSoc &lt;3 You!
-1e:T1b32,---
+1d:T1b32,---
 title: 'Manifestos for 2022 March AGM'
 author: tcmal
 excerpt_separator: '<!--See More-->'
@@ -1126,7 +1125,7 @@ We also have the following constitutional amendments to vote on:
 See you tomorrow,
 
 CompSoc ❤ You!
-1f:T154b,---
+1e:T154b,---
 title: 'AGM 2022 - Call for manifestos'
 author: yutotakano
 excerpt_separator: '<!--See More-->'
@@ -1209,7 +1208,7 @@ We have three sets of amendments that we'll be voting on:
    - Add three EUSA compliance clauses, related to legal status, a zero tolerance policy for sexual harassment, and the definition of harassment
 
 CompSoc <3 You!
-20:Te7f,---
+1f:Te7f,---
 title: 'February STMU — Research Showcase with Dr Petros Papapanagiotou and Prof Sethu Vijayakumar'
 author: yutotakano
 excerpt_separator: '<!--See More-->'
@@ -1240,7 +1239,7 @@ excerpt_separator: '<!--See More-->'
 <p>See you then!</p>
 
 <p>CompSoc &lt;3 You!</p>
-21:T96e,---
+20:T96e,---
 title: 'November STMU — Security Talks with AND Digital and Wiktor Kaluza'
 author: yutotakano
 excerpt_separator: '<!--See More-->'
@@ -1271,7 +1270,7 @@ excerpt_separator: '<!--See More-->'
 <p>See you then!</p>
 
 <p>CompSoc &lt;3 You!</p>
-22:Tef3,---
+21:Tef3,---
 title: 'Manifestos and Details for Oct EGM'
 author: yutotakano
 excerpt_separator: '<!--See More-->'
@@ -1325,7 +1324,7 @@ We hope you think carefully about who you choose to elect — please vote based 
 See you then!
 
 CompSoc <3 You!
-23:T62d,---
+22:T62d,---
 title: 'October EGM'
 author: yutotakano
 ---
@@ -1359,7 +1358,7 @@ During this year's first Student Tech Meet-up (29th October 2021 at 6PM BST), we
 See you soon,
 
 CompSoc <3 You!
-24:Tdcf,---
+23:Tdcf,---
 title: 'April AGM Manifestos'
 author: tudorfinaru
 ---
@@ -1394,7 +1393,7 @@ Election candidates - please remember that if you are running for President, VP,
 See you then!
 
 CompSoc ❤ You!
-25:T95d,---
+24:T95d,---
 title: 'April AGM 2021'
 author: tudorfinaru
 ---
@@ -1442,7 +1441,7 @@ The positions available are as follows:
 There might also be votes for constitutional amendments. Visit the [GitHub Repository for the constitution](https://github.com/compsoc-edinburgh/constitution/pulls) to propose or to see proposed changes.
 
 CompSoc <3 You!
-26:T476,---
+25:T476,---
 title: 'EGM Manifestos'
 author: Tudor Finaru
 ---
@@ -1470,7 +1469,7 @@ We hope you think carefully about who you choose to elect — please vote based 
 See you then!
 
 CompSoc ❤️ You!
-27:T43a,---
+26:T43a,---
 title: 'EGM 2020'
 author: Tudor Finaru
 ---
@@ -1495,7 +1494,7 @@ Running for a position?
 There will also be votes for any proposed constitutional amendments.
 
 CompSoc ❤️ You
-28:Td12,---
+27:Td12,---
 title: 'March AGM Manifestos'
 author: rokasg
 ---
@@ -1528,7 +1527,7 @@ Election candidates - please remember that if you are running for President, VP,
 See you then!
 
 CompSoc <3 You!
-29:T9a1,---
+28:T9a1,---
 title: 'March AGM 2020'
 author: chefyeum
 ---
@@ -1575,7 +1574,7 @@ The positions available are as follows:
 There will also be votes for any constitutional amendments required by EUSA. Visit the [GitHub Repository for the constitution](https://github.com/compsoc-edinburgh/constitution/pulls) to propose or to see proposed changes
 
 CompSoc <3 You!
-2a:T5df,﻿---
+29:T5df,﻿---
 title: 'G-Research Event!'
 author: Lars
 ---
@@ -1591,7 +1590,7 @@ After two hours of hard work in problem-solving, the competition was over and th
 One of our committee members said “Despite it being my first coding challenge, I felt I really contributed to the team and solved a couple of problems myself! This sparked my interest in programming competitions as a whole and helped me improve important skills that I’ll carry forward in university and beyond.”
 
 We would like to thank our sponsor, G-Research for the lovely merchandise and for helping us host the event!
-2b:T8ae,---
+2a:T8ae,---
 title: 'EGM 2019'
 author: Dee Yeum
 ---
@@ -1624,7 +1623,7 @@ Running for a position?
 There will also be votes for any constitutional amendments required by EUSA, including the new position of Graphic Designer, can be found [here](https://github.com/compsoc-edinburgh/constitution/pulls).
 
 CompSoc <3 You
-2c:T1234,---
+2b:T1234,---
 title: 'March AGM Manifestos'
 author: rokasg
 ---
@@ -1663,7 +1662,7 @@ Election candidates - please remember that if you are running for President, VP,
 See you then!
 
 CompSoc ❤️ You!
-2d:Ta33,---
+2c:Ta33,---
 title: 'March AGM'
 author: rokasg
 ---
@@ -1717,7 +1716,7 @@ There are also constitutional amendments, some required by EUSA, which can be fo
 See you soon,
 
 CompSoc <3 You!
-2e:Ta87,---
+2d:Ta87,---
 author: mojavad
 title: 'Local Hack Day 2018'
 ---
@@ -1764,7 +1763,7 @@ Finally, after going through countless bags of crisps, litres of Irn Bru and a d
 <img src="https://compsoc-edinburgh.github.io/uploads/2018-12-01-LHD/websiteWinners.jpeg" alt="Best Website Redesign" class="img-fluid">
 
 **Team It's Easy**
-2f:T492,---
+2e:T492,---
 author: himmelmaus
 title: 'EGM Results!'
 ---
@@ -1803,7 +1802,7 @@ As requested by one of the candidates, here are the breakdowns of votes for each
   - Lorenzo Baldini: 18
 
 For all of the votes Ron was an option (reopen nominations), however he sadly did not win any positions and didn't even get any votes for Secretary or Tech Sec. There were 2 bad votes, one for social secretary where the number was unrecognisable and another where it was unclear which position the slip was for.
-30:T1054,---
+2f:T1054,---
 author: himmelmaus
 title: 'Manifestos for October EGM'
 ---
@@ -1835,7 +1834,7 @@ If you want to vote in the EGM or stand for a position you need to [make sure th
 Make sure to take time to read these manifestos, but keep an open mind! Vote based on manifestos and speeches for who you think would be best for the job! As always, you are also able to vote for Ron - reopen nominations.
 
 See you all on Wednesday, and remember, CompSoc ❤️ You!
-31:T69c,---
+30:T69c,---
 title: October EGM + STMU
 author: himmelmaus
 ---
@@ -1870,7 +1869,7 @@ During [this month's stmu](https://www.facebook.com/events/2191698291111220/) (6
 ### What to do if you aren't standing:
 
 - If you wish to vote in the EGM you must also be a member, you can [join here](https://www.eusa.ed.ac.uk/activities/societies/society/compsoc/)
-32:T114f,---
+31:T114f,---
 title: 'Manifestos for March AGM'
 author: qaisjp
 ---
@@ -1910,7 +1909,7 @@ Election candidates - please remember that if you are running for President, VP,
 See you tomorrow,
 
 CompSoc ❤️ You!
-33:T9dc,---
+32:T9dc,---
 title: 'March STMU + AGM'
 author: qaisjp
 ---
@@ -1964,7 +1963,7 @@ There are also constitutional amendments, some required by EUSA, which can be fo
 See you soon,
 
 CompSoc <3 You!
-34:Taaa,---
+33:Taaa,---
 title: Who's running for election?
 author: compsoc
 ---
@@ -2017,7 +2016,7 @@ I have three objectives by becoming the year one rep:
 Some applied for the other year rep roles, but did not provide a manifesto.
 
 Best of luck to everyone!
-35:T634,---
+34:T634,---
 title: The October EGM
 author: elenalape
 ---
@@ -2044,7 +2043,7 @@ Please submit your manifesto as we'll be publishing these on the 16th of October
 We'll also be voting on some constitutional changes, you can find these changes [here](https://github.com/compsoc-edinburgh/constitution/milestone/1).
 
 CompSoc <3s You!
-36:T41d,---
+35:T41d,---
 title: The new website
 author: qaisjp
 ---
@@ -2068,6 +2067,6 @@ create one. Feel free to make a post on [our Facebook group](/community) if that
 ---
 
 Hope all you lovely CompSoc-ers are having a great summer, whichever part of the world you're in. See you soon!
-2:["$","$b",null,{"children":["$","$Lc",null,{"posts":[{"slug":"2025-02-27-april-agm-manifestos","content":"$d","title":"Manifestos for 2025 April AGM","date":"2025-02-27"},{"slug":"2025-02-27-april-agm","content":"$e","title":"AGM 2025 - Call for manifestos","date":"2025-02-27"},{"slug":"2025-01-26-jan-stmu-egm","content":"---\r\ntitle: 'January 2025 STMU/EGM - Call for manifestos'\r\nauthor: mcn\r\nexcerpt_separator: '<!--See More-->'\r\n---\r\n\r\n### Manifestos\r\n\r\nManifestos for the position are now live! [Click here to view them.](https://comp-soc.com/news/2025-01-26-jan-egm-manifestos/)  \r\nPlease read on to find out how to add your own, if you are interested.\r\n\r\nIn the second half of our next STMU on the 29th of January 18:00-21:00, we will be holding an EGM to fill the role of Third Year Representative.\r\n\r\nThe **Third Year Representative** is:\r\n\r\n  - Responsible for communication between their years and the Society, and promotes events to their year.\r\n  - Also responsible for any projects they take up throughout the year.\r\n\r\n\r\n### Want to run for the position?\r\n\r\n- Send committee@comp-soc.com your manifesto (PDF of max 200 words) **by Tuesday, 28th January 2025, 6:00 PM** specifying your full name.\r\n- Prepare a speech. Length is 1 minutes for the role of Third Year Rep. You may get asked questions afterwards.\r\n\r\nCompSoc <3 You!","title":"January 2025 STMU/EGM - Call for manifestos","date":"2025-01-26"},{"slug":"2025-01-26-jan-egm-manifestos","content":"$f","title":"Manifestos for 2025 January EGM","date":"2025-01-26"},{"slug":"2024-10-10-oct-egm-manifestos","content":"$10","title":"Manifestos for 2024 October EGM","date":"2024-10-10"},{"slug":"2024-10-07-oct-stmu-egm","content":"$11","title":"October 2024 STMU/EGM","date":"2024-10-07"},{"slug":"2024-03-21-2024-agm-manifestos","content":"$12","title":"Manifestos for 2024 April AGM","date":"2024-03-21"},{"slug":"2024-03-20-april-agm","content":"$13","title":"AGM 2024 - Call for manifestos","date":"2024-03-20"},{"slug":"2024-02-22-february-stmu","content":"$14","title":"February 2024 STMU","date":"2024-02-22"},{"slug":"2024-01-31-egm-results","content":"---\ntitle: 'EGM Jan 2024 - Results'\nauthor: ali205412\n---\n\nThank you to everyone who came to our EGM+STMU, hopefully you enjoyed it as much as we did!\nWe're proud to announce our the newest additions to the committee!\n\n- **Technical Secretary** - Cat M\n- **Treasurer** - Elisa Fraticelli\n\nThanks to everyone who voted and to everyone who ran!\n\nIf you ran and didn't get a position, don't worry - there will be plenty of opportunities in the future, and we're still happy to have you as part of our community.\n\nIf you enjoyed Liam's talk, please join the [TypeSig Discord server](https://discord.gg/SGbJHxH8KY) where you can find more details about joining the Domain Theory lecture series! You can also message [Charlotte](https://discord.com/users/686140944491479045) directly\n\nAs always CompSoc &lt;3 You!\n","title":"EGM Jan 2024 - Results","date":"2024-01-31"},{"slug":"2024-01-23-january-egm-manifestos","content":"$15","title":"Manifestos for January 2024 EGM","date":"2024-01-23"},{"slug":"2024-01-23-january-egm","content":"$16","title":"January 2024 STMU/EGM","date":"2024-01-23"},{"slug":"2023-10-18-egm-2023-manifestos","content":"$17","title":"Manifestos for October 2023 EGM","date":"2023-10-18"},{"slug":"2023-10-18-egm-2023","content":"$18","title":"October 2023 STMU/EGM","date":"2023-10-18"},{"slug":"2023-04-03-2023-agm-manifestos","content":"$19","title":"Manifestos for 2023 March AGM","date":"2023-04-03"},{"slug":"2023-03-27-april-agm","content":"$1a","title":"AGM 2023 - Call for manifestos","date":"2023-03-27"},{"slug":"2022-10-24-egm-manifestos","content":"$1b","title":"Manifestos for 2022 October EGM","date":"2022-10-24"},{"slug":"2022-10-11-egm-2022-call-for-manifestos","content":"$1c","title":"EGM Oct 2023 - Call for manifestos","date":"2022-10-11"},{"slug":"2022-03-30-agm-results","content":"$1d","title":"AGM 2022 - Results & Slides","date":"2022-03-30"},{"slug":"2022-03-28-2022-agm-manifestos","content":"$1e","title":"Manifestos for 2022 March AGM","date":"2022-03-28"},{"slug":"2022-03-11-agm-2022","content":"$1f","title":"AGM 2022 - Call for manifestos","date":"2022-03-11"},{"slug":"2022-02-12-february-stmu","content":"$20","title":"February STMU — Research Showcase with Dr Petros Papapanagiotou and Prof Sethu Vijayakumar","date":"2022-02-12"},{"slug":"2021-11-12-november-stmu","content":"$21","title":"November STMU — Security Talks with AND Digital and Wiktor Kaluza","date":"2021-11-12"},{"slug":"2021-10-29-october-egm-manifestos","content":"$22","title":"Manifestos and Details for Oct EGM","date":"2021-10-29"},{"slug":"2021-10-13-october-egm","content":"$23","title":"October EGM","date":"2021-10-13"},{"slug":"2021-03-31-april-agm-manifestos","content":"$24","title":"April AGM Manifestos","date":"2021-03-31"},{"slug":"2021-03-14-april-agm","content":"$25","title":"April AGM 2021","date":"2021-03-14"},{"slug":"2020-10-22-egm-2020","content":"$26","title":"EGM Manifestos","date":"2020-10-22"},{"slug":"2020-10-08-egm-2020","content":"$27","title":"EGM 2020","date":"2020-10-08"},{"slug":"2020-03-07-march-agm-manifestos","content":"$28","title":"March AGM Manifestos","date":"2020-03-07"},{"slug":"2020-02-12-march-agm","content":"$29","title":"March AGM 2020","date":"2020-02-12"},{"slug":"2020-02-05-g-research-event","content":"$2a","title":"G-Research Event!","date":"2020-02-05"},{"slug":"2019-10-06-egm-2019","content":"$2b","title":"EGM 2019","date":"2019-10-06"},{"slug":"2019-03-18-march-agm-manifestos","content":"$2c","title":"March AGM Manifestos","date":"2019-03-18"},{"slug":"2019-03-03-march-agm","content":"$2d","title":"March AGM","date":"2019-03-03"},{"slug":"2018-12-01-local-hack-day","content":"$2e","title":"Local Hack Day 2018","date":"2018-12-01"},{"slug":"2018-10-18-october-egm-results","content":"$2f","title":"EGM Results!","date":"2018-10-18"},{"slug":"2018-10-13-october-egm-manifestos","content":"$30","title":"Manifestos for October EGM","date":"2018-10-13"},{"slug":"2018-10-05-october-egm","content":"$31","title":"October EGM + STMU","date":"2018-10-05"},{"slug":"2018-03-20-march-agm-manifestos","content":"$32","title":"Manifestos for March AGM","date":"2018-03-20"},{"slug":"2018-03-07-march-agm","content":"$33","title":"March STMU + AGM","date":"2018-03-07"},{"slug":"2018-02-25-ilw-is-over-2018","content":"---\ntitle: 'ILW is over!'\nauthor: compsoc\nredirect: 'https://mailchi.mp/e03cc667a332/ilw-is-over-2018'\n---\n\nILW is over. Welcome back to university.\n","title":"ILW is over!","date":"2018-02-25"},{"slug":"2017-11-30-sigint-challenge-winners","content":"---\ntitle: SIGINT wins the Scottish University Cyber Challenge again!\nauthor: compsoc\n---\n\nWell done to our team from SIGINT for winning the\n[Scottish University Cyber Challenge](https://www.cybersecuritychallenge.org.uk/) again!\n\n[Learn more about their achievement...](https://www.ed.ac.uk/informatics/news-events/stories/team-wins-national-cyber-security-challenge)\n","title":"SIGINT wins the Scottish University Cyber Challenge again!","date":"2017-11-30"},{"slug":"2017-10-16-running-for-election","content":"$34","title":"Who's running for election?","date":"2017-10-16"},{"slug":"2017-10-04-egm","content":"$35","title":"The October EGM","date":"2017-10-04"},{"slug":"2017-09-25-september-newsletter","content":"---\ntitle: September newsletter\nauthor: compsoc\nredirect: 'http://mailchi.mp/63bcd97d40e8/welcome-to-compsoc'\n---\n\nAn update of what we've been up to, and what we've got planned.\n","title":"September newsletter","date":"2017-09-25"},{"slug":"2017-08-01-website2017","content":"$36","title":"The new website","date":"2017-08-01"}]}]}]
-a:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#353535"}],["$","meta","2",{"charSet":"utf-8"}],["$","title","3",{"children":"CompSoc"}],["$","meta","4",{"name":"description","content":"CompSoc is Edinburgh University's technology society! We're Scotland's best and largest of its kind, and form one of the largest societies within the university."}],["$","link","5",{"rel":"icon","href":"https://comp-soc.com/compsoc-mini.svg"}]]
+2:["$","$a",null,{"children":["$","$Lb",null,{"posts":[{"slug":"2025-02-27-april-agm-manifestos","content":"$c","title":"Manifestos for 2025 April AGM","date":"2025-02-27"},{"slug":"2025-02-27-april-agm","content":"$d","title":"AGM 2025 - Call for manifestos","date":"2025-02-27"},{"slug":"2025-01-26-jan-stmu-egm","content":"---\r\ntitle: 'January 2025 STMU/EGM - Call for manifestos'\r\nauthor: mcn\r\nexcerpt_separator: '<!--See More-->'\r\n---\r\n\r\n### Manifestos\r\n\r\nManifestos for the position are now live! [Click here to view them.](https://comp-soc.com/news/2025-01-26-jan-egm-manifestos/)  \r\nPlease read on to find out how to add your own, if you are interested.\r\n\r\nIn the second half of our next STMU on the 29th of January 18:00-21:00, we will be holding an EGM to fill the role of Third Year Representative.\r\n\r\nThe **Third Year Representative** is:\r\n\r\n  - Responsible for communication between their years and the Society, and promotes events to their year.\r\n  - Also responsible for any projects they take up throughout the year.\r\n\r\n\r\n### Want to run for the position?\r\n\r\n- Send committee@comp-soc.com your manifesto (PDF of max 200 words) **by Tuesday, 28th January 2025, 6:00 PM** specifying your full name.\r\n- Prepare a speech. Length is 1 minutes for the role of Third Year Rep. You may get asked questions afterwards.\r\n\r\nCompSoc <3 You!","title":"January 2025 STMU/EGM - Call for manifestos","date":"2025-01-26"},{"slug":"2025-01-26-jan-egm-manifestos","content":"$e","title":"Manifestos for 2025 January EGM","date":"2025-01-26"},{"slug":"2024-10-10-oct-egm-manifestos","content":"$f","title":"Manifestos for 2024 October EGM","date":"2024-10-10"},{"slug":"2024-10-07-oct-stmu-egm","content":"$10","title":"October 2024 STMU/EGM","date":"2024-10-07"},{"slug":"2024-03-21-2024-agm-manifestos","content":"$11","title":"Manifestos for 2024 April AGM","date":"2024-03-21"},{"slug":"2024-03-20-april-agm","content":"$12","title":"AGM 2024 - Call for manifestos","date":"2024-03-20"},{"slug":"2024-02-22-february-stmu","content":"$13","title":"February 2024 STMU","date":"2024-02-22"},{"slug":"2024-01-31-egm-results","content":"---\ntitle: 'EGM Jan 2024 - Results'\nauthor: ali205412\n---\n\nThank you to everyone who came to our EGM+STMU, hopefully you enjoyed it as much as we did!\nWe're proud to announce our the newest additions to the committee!\n\n- **Technical Secretary** - Cat M\n- **Treasurer** - Elisa Fraticelli\n\nThanks to everyone who voted and to everyone who ran!\n\nIf you ran and didn't get a position, don't worry - there will be plenty of opportunities in the future, and we're still happy to have you as part of our community.\n\nIf you enjoyed Liam's talk, please join the [TypeSig Discord server](https://discord.gg/SGbJHxH8KY) where you can find more details about joining the Domain Theory lecture series! You can also message [Charlotte](https://discord.com/users/686140944491479045) directly\n\nAs always CompSoc &lt;3 You!\n","title":"EGM Jan 2024 - Results","date":"2024-01-31"},{"slug":"2024-01-23-january-egm-manifestos","content":"$14","title":"Manifestos for January 2024 EGM","date":"2024-01-23"},{"slug":"2024-01-23-january-egm","content":"$15","title":"January 2024 STMU/EGM","date":"2024-01-23"},{"slug":"2023-10-18-egm-2023-manifestos","content":"$16","title":"Manifestos for October 2023 EGM","date":"2023-10-18"},{"slug":"2023-10-18-egm-2023","content":"$17","title":"October 2023 STMU/EGM","date":"2023-10-18"},{"slug":"2023-04-03-2023-agm-manifestos","content":"$18","title":"Manifestos for 2023 March AGM","date":"2023-04-03"},{"slug":"2023-03-27-april-agm","content":"$19","title":"AGM 2023 - Call for manifestos","date":"2023-03-27"},{"slug":"2022-10-24-egm-manifestos","content":"$1a","title":"Manifestos for 2022 October EGM","date":"2022-10-24"},{"slug":"2022-10-11-egm-2022-call-for-manifestos","content":"$1b","title":"EGM Oct 2023 - Call for manifestos","date":"2022-10-11"},{"slug":"2022-03-30-agm-results","content":"$1c","title":"AGM 2022 - Results & Slides","date":"2022-03-30"},{"slug":"2022-03-28-2022-agm-manifestos","content":"$1d","title":"Manifestos for 2022 March AGM","date":"2022-03-28"},{"slug":"2022-03-11-agm-2022","content":"$1e","title":"AGM 2022 - Call for manifestos","date":"2022-03-11"},{"slug":"2022-02-12-february-stmu","content":"$1f","title":"February STMU — Research Showcase with Dr Petros Papapanagiotou and Prof Sethu Vijayakumar","date":"2022-02-12"},{"slug":"2021-11-12-november-stmu","content":"$20","title":"November STMU — Security Talks with AND Digital and Wiktor Kaluza","date":"2021-11-12"},{"slug":"2021-10-29-october-egm-manifestos","content":"$21","title":"Manifestos and Details for Oct EGM","date":"2021-10-29"},{"slug":"2021-10-13-october-egm","content":"$22","title":"October EGM","date":"2021-10-13"},{"slug":"2021-03-31-april-agm-manifestos","content":"$23","title":"April AGM Manifestos","date":"2021-03-31"},{"slug":"2021-03-14-april-agm","content":"$24","title":"April AGM 2021","date":"2021-03-14"},{"slug":"2020-10-22-egm-2020","content":"$25","title":"EGM Manifestos","date":"2020-10-22"},{"slug":"2020-10-08-egm-2020","content":"$26","title":"EGM 2020","date":"2020-10-08"},{"slug":"2020-03-07-march-agm-manifestos","content":"$27","title":"March AGM Manifestos","date":"2020-03-07"},{"slug":"2020-02-12-march-agm","content":"$28","title":"March AGM 2020","date":"2020-02-12"},{"slug":"2020-02-05-g-research-event","content":"$29","title":"G-Research Event!","date":"2020-02-05"},{"slug":"2019-10-06-egm-2019","content":"$2a","title":"EGM 2019","date":"2019-10-06"},{"slug":"2019-03-18-march-agm-manifestos","content":"$2b","title":"March AGM Manifestos","date":"2019-03-18"},{"slug":"2019-03-03-march-agm","content":"$2c","title":"March AGM","date":"2019-03-03"},{"slug":"2018-12-01-local-hack-day","content":"$2d","title":"Local Hack Day 2018","date":"2018-12-01"},{"slug":"2018-10-18-october-egm-results","content":"$2e","title":"EGM Results!","date":"2018-10-18"},{"slug":"2018-10-13-october-egm-manifestos","content":"$2f","title":"Manifestos for October EGM","date":"2018-10-13"},{"slug":"2018-10-05-october-egm","content":"$30","title":"October EGM + STMU","date":"2018-10-05"},{"slug":"2018-03-20-march-agm-manifestos","content":"$31","title":"Manifestos for March AGM","date":"2018-03-20"},{"slug":"2018-03-07-march-agm","content":"$32","title":"March STMU + AGM","date":"2018-03-07"},{"slug":"2018-02-25-ilw-is-over-2018","content":"---\ntitle: 'ILW is over!'\nauthor: compsoc\nredirect: 'https://mailchi.mp/e03cc667a332/ilw-is-over-2018'\n---\n\nILW is over. Welcome back to university.\n","title":"ILW is over!","date":"2018-02-25"},{"slug":"2017-11-30-sigint-challenge-winners","content":"---\ntitle: SIGINT wins the Scottish University Cyber Challenge again!\nauthor: compsoc\n---\n\nWell done to our team from SIGINT for winning the\n[Scottish University Cyber Challenge](https://www.cybersecuritychallenge.org.uk/) again!\n\n[Learn more about their achievement...](https://www.ed.ac.uk/informatics/news-events/stories/team-wins-national-cyber-security-challenge)\n","title":"SIGINT wins the Scottish University Cyber Challenge again!","date":"2017-11-30"},{"slug":"2017-10-16-running-for-election","content":"$33","title":"Who's running for election?","date":"2017-10-16"},{"slug":"2017-10-04-egm","content":"$34","title":"The October EGM","date":"2017-10-04"},{"slug":"2017-09-25-september-newsletter","content":"---\ntitle: September newsletter\nauthor: compsoc\nredirect: 'http://mailchi.mp/63bcd97d40e8/welcome-to-compsoc'\n---\n\nAn update of what we've been up to, and what we've got planned.\n","title":"September newsletter","date":"2017-09-25"},{"slug":"2017-08-01-website2017","content":"$35","title":"The new website","date":"2017-08-01"}]}]}]
+9:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#353535"}],["$","meta","2",{"charSet":"utf-8"}],["$","title","3",{"children":"CompSoc"}],["$","meta","4",{"name":"description","content":"CompSoc is Edinburgh University's technology society! We're Scotland's best and largest of its kind, and form one of the largest societies within the university."}],["$","link","5",{"rel":"icon","href":"https://comp-soc.com/compsoc-mini.svg"}]]
 1:null
