@@ -5,7 +5,6 @@ import { prefix } from '@/utils/prefix'
 import PixelBackground from '@/components/PixelBackground'
 import VariableBackground from '@/components/VariableBackground'
 import Footer from '@/components/footer/Footer'
-import AnnouncementBar from '@/components/AnnouncementBar'
 
 export const metadata: Metadata = {
   title: 'CompSoc',
@@ -28,12 +27,6 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className="relative overflow-x-clip w-screen mx-auto">
-        <AnnouncementBar
-          className="bg-red-600"
-          href="/news/2025-02-27-april-agm-manifestos/"
-        >
-          🗳️ AGM is happening on the 2nd of April! <u>See manifestos</u>
-        </AnnouncementBar>
         <VariableBackground>
           <PixelBackground>
             <Navbar />
