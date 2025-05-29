@@ -24,6 +24,7 @@
     "date-fns": "^3.6.0",
     "framer-motion": "^11.3.24",
     "gray-matter": "^4.0.3",
+    "ical-generator": "^8.0.0",
     "iconoir-react": "^7.7.0",
     "matter-js": "^0.19.0",
     "mui": "^0.0.1",
