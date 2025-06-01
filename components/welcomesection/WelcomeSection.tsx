@@ -5,7 +5,7 @@ import VariableBackgroundSwitcher from '../VariableBackgroundSwitcher'
 
 const WelcomeSection = () => {
   return (
-    <div className="flex flex-col">
+    <div id="welcome" className="flex flex-col">
       <div className="hidden mb-20 md:block">
         <TerminalTyping text="CompSoc Welcomes You.  "></TerminalTyping>
       </div>

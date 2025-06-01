@@ -4,7 +4,7 @@ import { INSTAGRAM_URL } from '@/constants/socials'
 
 const FAQSection = () => {
   return (
-    <div className="mt-20">
+    <div id="faqs" className="mt-20">
       <Heading title="FAQ's"></Heading>
       <div className="mt-8">
         <FAQList />

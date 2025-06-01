@@ -19,7 +19,10 @@ const EventSection = () => {
 
   return (
     <>
-      <div className="flex flex-col lg:flex-row justify-between mt-8 w-full">
+      <div
+        id="events"
+        className="flex flex-col lg:flex-row justify-between mt-8 w-full"
+      >
         <Heading title="Explore our events" />
         <div className="flex items-center text-blue-500 cursor-pointer mt-4 lg:mt-0 lg:ml-auto">
           <Link href={`${prefix}${'/events'}`}>
