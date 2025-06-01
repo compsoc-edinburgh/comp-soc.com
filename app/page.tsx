@@ -8,23 +8,10 @@ import WelcomeSection from '@/components/welcomesection/WelcomeSection'
 import IntroSection from '@/components/introsection/IntroSection'
 import MoreResourcesSection from '@/components/moreResourcesSection/moreResourcesSection'
 // import SocialSection from '@/components/socialsection/SocialSection'
-import { useEffect } from 'react'
-import { scrollToAnchor } from '@/utils/scrollToAnchor'
+import { useHashScroll } from '@/utils/hashScroll'
 
 export default function Home() {
-  useEffect(() => {
-    const handleScrollToHash = () => {
-      const hash = window.location.hash.replace('#', '')
-      if (hash) {
-        scrollToAnchor(hash)
-      }
-    }
-    handleScrollToHash()
-    window.addEventListener('hashchange', handleScrollToHash)
-    return () => {
-      window.removeEventListener('hashchange', handleScrollToHash)
-    }
-  }, [])
+  useHashScroll()
 
   return (
     <main className="flex items-center justify-center min-h-screen flex-col max-w-5xl mx-auto pt-32">
