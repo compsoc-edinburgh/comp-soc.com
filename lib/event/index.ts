@@ -1,4 +1,4 @@
-export type { Event, GoogleCalendarEvent, Flagship } from './types'
+export type { Event, GoogleCalendarEvent, Flagship } from './models'
 
 export {
   GOOGLE_CALENDAR_API_KEY,

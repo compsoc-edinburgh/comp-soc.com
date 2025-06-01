@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react'
 import { CALENDAR_API_CONFIG } from './constants'
-import type { GoogleCalendarEvent, Event } from './types'
+import type { GoogleCalendarEvent, Event } from './models'
 import {
   GOOGLE_CALENDAR_API_KEY,
   MAIN_CALENDAR_ID,
@@ -95,14 +95,14 @@ export async function fetchCalendarEvents(): Promise<GoogleCalendarEvent[]> {
   const twoMonthsLater = new Date(now)
   twoMonthsLater.setMonth(now.getMonth() + 2)
 
-  const getDate = (item: GoogleCalendarEvent): Date | null =>
+  const getDate = (item: GoogleCalendarEvent): Nullable<Date> =>
     item.start.dateTime
       ? new Date(item.start.dateTime)
       : item.start.date
         ? new Date(item.start.date)
         : null
 
-  const getEndDate = (item: GoogleCalendarEvent): Date | null =>
+  const getEndDate = (item: GoogleCalendarEvent): Nullable<Date> =>
     item.end.dateTime
       ? new Date(item.end.dateTime)
       : item.end.date
@@ -167,7 +167,7 @@ export async function fetchCalendarEvents(): Promise<GoogleCalendarEvent[]> {
 export const useEvents = () => {
   const [events, setEvents] = useState<Event[]>([])
   const [loading, setLoading] = useState(true)
-  const [error, setError] = useState<string | null>(null)
+  const [error, setError] = useState<Nullable<string>>(null)
 
   useEffect(() => {
     const loadEvents = async () => {

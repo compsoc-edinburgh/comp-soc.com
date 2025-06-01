@@ -1,6 +1,6 @@
 import { COMMITTEES_BY_YEAR } from '@constants/team'
 import { Role, LinkType, ROLE_EMAILS } from './constants'
-import type { Committee } from './types'
+import type { Committee } from './models'
 
 export const LATEST_YEAR = (() => {
   const years = Object.keys(COMMITTEES_BY_YEAR).map(Number)

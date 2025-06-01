@@ -6,7 +6,7 @@ import {
   DEFAULT_CALENDAR_ID,
   CALENDAR_API_CONFIG,
 } from './constants'
-import type { GoogleCalendarEvent, CalendarEvent } from './types'
+import type { GoogleCalendarEvent, CalendarEvent } from './models'
 import { buildFormattedDate } from '@/utils/calendarUtils'
 
 export function transformCalendarEvents(
@@ -62,7 +62,7 @@ export async function fetchCalendarEvents(
 export const useCalendarEvents = () => {
   const [events, setEvents] = useState<CalendarEvent[]>([])
   const [loading, setLoading] = useState(true)
-  const [error, setError] = useState<string | null>(null)
+  const [error, setError] = useState<Nullable<string>>(null)
 
   useEffect(() => {
     const loadEvents = async () => {
