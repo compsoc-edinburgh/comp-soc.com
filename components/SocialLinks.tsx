@@ -67,6 +67,8 @@ const Particles: FC = () => {
   const ref = useRef(null)
 
   useEffect(() => {
+    if (prefersReducedMotion()) return
+
     const observer = new IntersectionObserver(
       ([entry]) => {
         setIsInView(entry.isIntersecting)
@@ -84,8 +86,6 @@ const Particles: FC = () => {
       }
     }
   }, [])
-
-  if (prefersReducedMotion()) return null
 
   return (
     <div className="absolute" ref={ref}>
