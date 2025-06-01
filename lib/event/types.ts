@@ -1,5 +1,3 @@
-import { SIG } from '@/types/SIG'
-
 export interface Event {
   title: string
   description: string
@@ -50,23 +48,12 @@ export interface GoogleCalendarEvent {
   eventType: string
 }
 
-export interface CalendarEvent {
-  title: string
-  start: string
-  end: string
-  color: string
+export interface Flagship {
+  name: string
   description: string
-  location: string
-  sig: SIG
-  formattedDate: string
-}
-
-export interface Sponsor {
-  name: string
-  img: string
-}
-
-export interface C {
-  name: string
-  img: string
+  long_description: string
+  image: string
+  roughDate: string
+  link?: string
+  facts: Array<{ number: string; text: string }>
 }

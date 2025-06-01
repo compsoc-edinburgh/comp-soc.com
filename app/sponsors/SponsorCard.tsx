@@ -2,7 +2,6 @@
 
 import Image from 'next/image'
 import { prefix } from '@/utils/prefix'
-import { Sponsor } from '@/types/sponsor'
 import React, { useRef, useState, useEffect } from 'react'
 import { ArrowUpRight } from 'iconoir-react'
 import {
@@ -14,7 +13,7 @@ import {
   useAnimation,
   MotionValue,
 } from 'framer-motion'
-import Link from 'next/link'
+import { Sponsor } from '@/lib/sponsor'
 
 interface SponsorCardProps {
   sponsor: Sponsor

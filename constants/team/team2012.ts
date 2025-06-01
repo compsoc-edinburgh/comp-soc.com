@@ -1,4 +1,4 @@
-import { Committee, Role, LinkType } from '@/types/team'
+import { Committee, LinkType, Role } from '@/lib/committee'
 
 export const team2012: Committee[] = [
   {
@@ -9,9 +9,9 @@ export const team2012: Committee[] = [
     links: [
       {
         type: LinkType.TWITTER,
-        url: 'http://www.twitter.com/IainBrown210'
-      }
-    ]
+        url: 'http://www.twitter.com/IainBrown210',
+      },
+    ],
   },
   {
     name: 'Craig Ross',
@@ -21,9 +21,9 @@ export const team2012: Committee[] = [
     links: [
       {
         type: LinkType.TWITTER,
-        url: 'http://www.twitter.com/ThePressCorpse_'
-      }
-    ]
+        url: 'http://www.twitter.com/ThePressCorpse_',
+      },
+    ],
   },
   {
     name: 'Ieva',

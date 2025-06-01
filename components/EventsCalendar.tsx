@@ -3,12 +3,12 @@ import FullCalendar from '@fullcalendar/react'
 import timeGridPlugin from '@fullcalendar/timegrid'
 import dayGridPlugin from '@fullcalendar/daygrid'
 import interactionPlugin from '@fullcalendar/interaction'
-import { useCalendarEvents } from '@/constants/calendarevents'
 import Modal from '@mui/material/Modal'
 import Box from '@mui/material/Box'
 import { prefix } from '@/utils/prefix'
 import Image from 'next/image'
 import { MapPin } from 'iconoir-react'
+import { useCalendarEvents } from '@/lib/calendar'
 
 const EventsCalendar: React.FC = () => {
   const { events, loading, error } = useCalendarEvents()

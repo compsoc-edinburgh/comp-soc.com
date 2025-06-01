@@ -1,6 +1,6 @@
-import { link } from 'fs'
+import { Flagship } from '@/lib/event'
 
-export const flagships = [
+export const flagships: Flagship[] = [
   {
     name: 'Hack The Burgh',
     description:
