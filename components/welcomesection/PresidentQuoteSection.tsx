@@ -1,11 +1,10 @@
 import PRESIDENT_QUOTE from '@/constants/presidentsQuote'
-import { TEAM } from '@/constants/team'
+import { latestYear, TEAM } from '@/constants/team'
 import { prefix } from '@/utils/prefix'
 import Image from 'next/image'
 import VariableBackgroundSwitcher from '../VariableBackgroundSwitcher'
 
 const PresidentQuoteSection = () => {
-  const latestYear = Object.keys(TEAM).sort().reverse()[0]
   const president = TEAM[latestYear].find(
     (person) => person.role === 'President'
   )

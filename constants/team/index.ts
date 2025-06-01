@@ -1,4 +1,4 @@
-import { Committee, LinkType, getEmailForRole } from '@/types/team'
+import { Committee, Role, LinkType } from '@/types/team'
 import { team2024 } from './team2024'
 import { team2023 } from './team2023'
 import { team2022 } from './team2022'
@@ -17,7 +17,7 @@ import { team2010 } from './team2010'
 import { team2009 } from './team2009'
 import { team2008 } from './team2008'
 
-const historicalTeam: Record<string, Committee[]> = {
+const committeesByYear: Record<string, Committee[]> = {
   2024: team2024,
   2023: team2023,
   2022: team2022,
@@ -37,35 +37,39 @@ const historicalTeam: Record<string, Committee[]> = {
   2008: team2008,
 }
 
-const LatestTeam: Committee[] =
-  historicalTeam[Object.keys(historicalTeam).sort().reverse()[0]]
+export const latestYear = (() => {
+  const years = Object.keys(committeesByYear).map(Number)
+  return Math.max(...years)
+})()
 
-export const sponsorContacts = LatestTeam.filter(
+export const sponsorContacts = committeesByYear[latestYear].filter(
   (person) => person.sponsorContact
 )
 
 // adds CompSoc official email to committee members of the last committee
-// TODO: I really hate this, but I don't have a better solution right now
+// TODO: It should not be here for sure. maybe create a new file structure to solve this?
 // this script should probably be somewhere else
-const addEmailToLatestYear = (
+export function addEmailsToLatestYear(
   teams: Record<string, Committee[]>
-): Record<string, Committee[]> => {
-  const lastYear = Object.keys(teams).sort().reverse()[0]
-  const updatedTeam = teams[lastYear].map((person) => {
-    const email = getEmailForRole(person.role)
+): Record<string, Committee[]> {
+  const committee = teams[latestYear]
+
+  const updatedCommittee = committee.map((person) => {
+    const email = Role.getEmailByRole(person.role)
+
     return {
       ...person,
       links: [
-        ...(email ? [{ type: LinkType.EMAIL, url: `mailto:${email}` }] : []),
-        ...(person.links || []),
+        { type: LinkType.EMAIL, url: `mailto:${email}` },
+        ...(person.links ?? []),
       ],
     }
   })
 
   return {
     ...teams,
-    [lastYear]: updatedTeam,
+    [latestYear]: updatedCommittee,
   }
 }
 
-export const TEAM = addEmailToLatestYear(historicalTeam)
+export const TEAM = addEmailsToLatestYear(committeesByYear)

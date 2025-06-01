@@ -5,5 +5,5 @@ export const NAV_LINKS = [
   { href: '/events/', label: 'Events' },
   { href: '/sponsors', label: 'Sponsors' },
   // { href: '/about', label: 'About' },
-  { href: '/families/', label: 'Families' },
+  // { href: '/families/', label: 'Families' },
 ]

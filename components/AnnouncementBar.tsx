@@ -5,9 +5,14 @@ import { announcementBarColourClassName } from '@/constants/announcement'
 interface AnnouncementBarProps {
   children: ReactNode
   href: string
+  className?: string
 }
 
-const AnnouncementBar = ({ children, href }: AnnouncementBarProps) => {
+const AnnouncementBar = ({
+  className,
+  children,
+  href,
+}: AnnouncementBarProps) => {
   return (
     <Link href={href}>
       <div

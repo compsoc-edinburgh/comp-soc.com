@@ -110,4 +110,13 @@ export const sponsors: Sponsor[] = [
     link: 'https://neuphonic.com/',
     shortlink: 'https://shorturl.at/cVkQq',
   },
+
+  {
+    name: 'TPP',
+    img: 'tpp-logo.png',
+    tier: 'bronze',
+    description: 'TPP is a leading global provider of healthcare technology.',
+    link: 'https://tpp-careers.com/',
+    shortlink: 'https://shorturl.at/8q3LK',
+  },
 ]
