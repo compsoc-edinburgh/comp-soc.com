@@ -1,6 +1,5 @@
 import React, { ReactNode } from 'react'
 import Link from 'next/link'
-import { announcementBarColourClassName } from '@/constants/announcement'
 
 interface AnnouncementBarProps {
   children: ReactNode
@@ -15,9 +14,7 @@ const AnnouncementBar = ({
 }: AnnouncementBarProps) => {
   return (
     <Link href={href}>
-      <div
-        className={`w-full ${announcementBarColourClassName} text-white text-center py-2`}
-      >
+      <div className={`w-full text-white text-center py-2 ${className}`}>
         {children}
       </div>
     </Link>

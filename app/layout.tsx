@@ -10,6 +10,7 @@ import {
   displayAnnouncement,
   announcement,
   announcementUrl,
+  announcementClassName,
 } from '@/constants/announcement'
 
 export const metadata: Metadata = {
@@ -34,7 +35,10 @@ export default function RootLayout({
     <html lang="en">
       <body className="relative overflow-x-clip w-screen mx-auto">
         {displayAnnouncement && (
-          <AnnouncementBar href={announcementUrl}>
+          <AnnouncementBar
+            className={announcementClassName}
+            href={announcementUrl}
+          >
             {announcement}
           </AnnouncementBar>
         )}

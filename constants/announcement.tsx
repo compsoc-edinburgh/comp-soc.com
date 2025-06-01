@@ -9,4 +9,4 @@ export const announcement = (
 export const announcementUrl = 'https://infball.comp-soc.com'
 
 // Tailwind CSS class name, see https://tailwindcss.com/docs/background-color
-export const announcementBarColourClassName = 'bg-blue-600'
+export const announcementClassName = 'bg-blue-600'
