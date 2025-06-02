@@ -11,7 +11,7 @@ const useScrollTriggeredCountUp = (
 ): number => {
   const [count, setCount] = useState(0)
   const isCounting = useRef(false)
-  const observer = useRef<IntersectionObserver | null>(null)
+  const observer = useRef<Nullable<IntersectionObserver>>(null)
   const frameRate = 1000 / 60
   const totalFrames = Math.round(duration / frameRate)
 

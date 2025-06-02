@@ -1,4 +1,4 @@
-export type SIG = {
+export interface SIG {
   name: string // used as ID! must be unique
   description: string
   websiteURL?: string
@@ -10,7 +10,7 @@ export type SIG = {
   showCard: boolean
 }
 
-export type SIGIcon = {
+export interface SIGIcon {
   src: string
   alt: string
   rounded: string

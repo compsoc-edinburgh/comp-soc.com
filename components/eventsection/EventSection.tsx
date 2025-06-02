@@ -1,10 +1,9 @@
-import { CalendarEvent, Event } from '@/app/types'
 import { MdArrowForward } from 'react-icons/md'
 import EventGrid from './EventGrid'
-import { useEvents } from '@/constants/events'
 import Heading from '@/components/heading'
 import Link from 'next/link'
 import { prefix } from '@/utils/prefix'
+import { useEvents } from '@/lib/event'
 
 const EventSection = () => {
   const { events, loading, error } = useEvents()

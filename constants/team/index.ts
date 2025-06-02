@@ -1,4 +1,3 @@
-import { Committee, Role, LinkType } from '@/types/team'
 import { team2024 } from './team2024'
 import { team2023 } from './team2023'
 import { team2022 } from './team2022'
@@ -16,8 +15,9 @@ import { team2011 } from './team2011'
 import { team2010 } from './team2010'
 import { team2009 } from './team2009'
 import { team2008 } from './team2008'
+import { Committee } from '@/lib/committee'
 
-const committeesByYear: Record<string, Committee[]> = {
+export const COMMITTEES_BY_YEAR: Record<string, Committee[]> = {
   2024: team2024,
   2023: team2023,
   2022: team2022,
@@ -36,40 +36,3 @@ const committeesByYear: Record<string, Committee[]> = {
   2009: team2009,
   2008: team2008,
 }
-
-export const latestYear = (() => {
-  const years = Object.keys(committeesByYear).map(Number)
-  return Math.max(...years)
-})()
-
-export const sponsorContacts = committeesByYear[latestYear].filter(
-  (person) => person.sponsorContact
-)
-
-// adds CompSoc official email to committee members of the last committee
-// TODO: It should not be here for sure. maybe create a new file structure to solve this?
-// this script should probably be somewhere else
-export function addEmailsToLatestYear(
-  teams: Record<string, Committee[]>
-): Record<string, Committee[]> {
-  const committee = teams[latestYear]
-
-  const updatedCommittee = committee.map((person) => {
-    const email = Role.getEmailByRole(person.role)
-
-    return {
-      ...person,
-      links: [
-        { type: LinkType.EMAIL, url: `mailto:${email}` },
-        ...(person.links ?? []),
-      ],
-    }
-  })
-
-  return {
-    ...teams,
-    [latestYear]: updatedCommittee,
-  }
-}
-
-export const TEAM = addEmailsToLatestYear(committeesByYear)

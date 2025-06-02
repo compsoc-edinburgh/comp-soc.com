@@ -1,5 +1,4 @@
-import { link } from 'fs'
-import { Sponsor } from '@/types/sponsor'
+import { Sponsor } from '@/lib/sponsor'
 
 export const sponsors: Sponsor[] = [
   // {
@@ -9,6 +8,7 @@ export const sponsors: Sponsor[] = [
   //   description: 'Addepar is a wealth management platform that specializes in data aggregation, analytics, and reporting.',
   //   link: 'https://addepar.com/',
   // },
+
   {
     name: 'Meta',
     img: 'meta-logo.png',
@@ -18,6 +18,7 @@ export const sponsors: Sponsor[] = [
     link: 'https://meta.com/',
     shortlink: 'https://shorturl.at/e0aop',
   },
+
   {
     name: 'G-Research',
     img: 'gresearch-logo.png',
@@ -27,6 +28,7 @@ export const sponsors: Sponsor[] = [
     link: 'https://www.gresearch.com/',
     shortlink: 'https://shorturl.at/SNYSj',
   },
+
   {
     name: 'Qube Research & Technologies',
     img: 'qube-logo.svg',
@@ -36,6 +38,7 @@ export const sponsors: Sponsor[] = [
     link: 'https://www.qube-rt.com/',
     shortlink: 'https://shorturl.at/MCubc',
   },
+
   {
     name: 'Lloyds',
     img: 'lloyds-logo.png',
@@ -44,6 +47,7 @@ export const sponsors: Sponsor[] = [
     link: 'https://www.lloydsbank.com/',
     shortlink: 'https://shorturl.at/rvFLd',
   },
+
   {
     name: 'Viridien',
     img: 'viridien-logo.png',
@@ -67,6 +71,7 @@ export const sponsors: Sponsor[] = [
   //   img: 'google-logo.png',
   //   tier: 'Gold',
   // },
+
   {
     name: 'Jane Street',
     img: 'janestreet-logo.png',
@@ -92,6 +97,7 @@ export const sponsors: Sponsor[] = [
   //   description: 'Marshall Wace is a global alternative asset management company.',
   //   link: 'https://www.mwam.com/',
   // },
+
   {
     name: 'Optiver',
     img: 'optiver-logo.png',

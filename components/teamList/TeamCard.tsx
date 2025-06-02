@@ -1,7 +1,6 @@
-import { linkIcons } from '@/constants/linkIcons'
-import { Committee } from '@/types/team'
 import { prefix } from '@/utils/prefix'
 import Image from 'next/image'
+import { Committee, ICONS_MAPPER } from '@/lib/committee'
 
 const TeamCard = ({ person }: { person: Committee }) => {
   return (
@@ -35,7 +34,7 @@ const TeamCard = ({ person }: { person: Committee }) => {
                 href={link.url}
                 className="opacity-50 hover:opacity-100 inline-block"
               >
-                {linkIcons[link.type]}
+                {ICONS_MAPPER[link.type]}
               </a>
             ))}
         </div>

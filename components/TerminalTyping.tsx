@@ -5,7 +5,7 @@ interface TerminalTypingProps {
 }
 
 const TerminalTyping: React.FC<TerminalTypingProps> = ({ text }) => {
-  const elementRef = useRef<HTMLSpanElement | null>(null)
+  const elementRef = useRef<Nullable<HTMLSpanElement>>(null)
 
   useEffect(() => {
     const element = elementRef.current

@@ -1,8 +1,7 @@
-import { linkIcons } from '@/constants/linkIcons'
-import { Committee } from '@/types/team'
 import { prefix } from '@/utils/prefix'
 import Image from 'next/image'
 import { ArrowRight } from 'iconoir-react'
+import { Committee, ICONS_MAPPER } from '@/lib/committee'
 
 const TeamCardLong = ({ person }: { person: Committee }) => {
   return (
@@ -34,7 +33,7 @@ const TeamCardLong = ({ person }: { person: Committee }) => {
               <div className="flex flex-wrap gap-2">
                 {person.links.map((link, index) => (
                   <a key={index} href={link.url} className="shrink-0">
-                    {linkIcons[link.type]}
+                    {ICONS_MAPPER[link.type]}
                   </a>
                 ))}
               </div>

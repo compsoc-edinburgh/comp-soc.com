@@ -1,4 +1,4 @@
-import { Sponsor } from '@/app/types'
+import { Sponsor } from '@/lib/sponsor'
 import { FC } from 'react'
 import { prefix } from '@/utils/prefix'
 import Image from 'next/image'

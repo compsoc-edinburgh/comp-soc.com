@@ -1,10 +1,10 @@
 import React from 'react'
 import SparklesText from './SparklesText'
-import { sponsorContacts } from '@/constants/team'
 import TeamCardLong from '@/components/teamList/TeamCardLong'
 import Heading from '@/components/heading'
 import { sponsors } from '@/constants/sponsors'
 import SponsorCard from './SponsorCard'
+import { SPONSOR_CONTACTS } from '@/lib/committee'
 
 export default function Sponsors() {
   function capitalizeFirstLetter(str: string): string {
@@ -62,7 +62,7 @@ export default function Sponsors() {
         company&apos;s needs, just send us a message!
       </p>
       <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 sm:min-h-[200px]">
-        {sponsorContacts.map((person) => (
+        {SPONSOR_CONTACTS.map((person) => (
           <TeamCardLong key={person.name} person={person} />
         ))}
       </div>

@@ -1,6 +1,4 @@
-import { Committee } from '@/types/team'
-import { Role } from '@/types/team'
-import { LinkType } from '@/types/team'
+import { Committee, LinkType, Role } from '@/lib/committee'
 
 export const team2024: Committee[] = [
   {

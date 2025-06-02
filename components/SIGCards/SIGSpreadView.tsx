@@ -1,10 +1,9 @@
 import { useEffect, useRef, useState } from 'react'
 import { motion } from 'framer-motion'
 import { SIGs } from '@/constants/SIGs'
-import { SIG } from '@/types/SIG'
+import { SIG } from '@/lib/sig'
 
 import SIGCard from './SIGCard'
-import SIGSwipeView from './SIGSwipeView'
 
 const SIGSpreadView = () => {
   // Constants could be changed for different vibes and looks

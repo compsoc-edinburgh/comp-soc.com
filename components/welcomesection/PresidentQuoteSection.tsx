@@ -1,12 +1,12 @@
-import PRESIDENT_QUOTE from '@/constants/presidentsQuote'
-import { latestYear, TEAM } from '@/constants/team'
+import PRESIDENT_QUOTE from '@constants/presidentQuote'
 import { prefix } from '@/utils/prefix'
 import Image from 'next/image'
 import VariableBackgroundSwitcher from '../VariableBackgroundSwitcher'
+import { LATEST_YEAR, Role, TEAM } from '@/lib/committee'
 
 const PresidentQuoteSection = () => {
-  const president = TEAM[latestYear].find(
-    (person) => person.role === 'President'
+  const president = TEAM[LATEST_YEAR].find(
+    (person) => person.role === Role.PRESIDENT
   )
   if (!president) return null
   return (

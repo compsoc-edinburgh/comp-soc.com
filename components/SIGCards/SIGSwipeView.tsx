@@ -3,7 +3,7 @@ import { useEffect, useState } from 'react'
 import SIGCard from './SIGCard' // Assume SIGCard is a component you have
 import { SIGs } from '@/constants/SIGs'
 import { Refresh } from 'iconoir-react'
-import { SIG } from '@/types/SIG'
+import { SIG } from '@/lib/sig'
 
 const SIGSwipeView = () => {
   const filteredSIGs = SIGs.filter((sig) => sig.showCard)
