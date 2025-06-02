@@ -7,12 +7,8 @@ import SigSection from '@/components/SIGCards/SigSection'
 import WelcomeSection from '@/components/welcomesection/WelcomeSection'
 import IntroSection from '@/components/introsection/IntroSection'
 import MoreResourcesSection from '@/components/moreResourcesSection/moreResourcesSection'
-// import SocialSection from '@/components/socialsection/SocialSection'
-import { useHashScroll } from '@/utils/hashScroll'
 
 export default function Home() {
-  useHashScroll()
-
   return (
     <main className="flex items-center justify-center min-h-screen flex-col max-w-5xl mx-auto pt-32">
       <div style={{ height: 'calc(100vh - 8rem)' }}>
@@ -21,17 +17,15 @@ export default function Home() {
 
       <WelcomeSection />
 
-      <SigSection></SigSection>
+      <SigSection />
 
-      <EventSection></EventSection>
+      <EventSection />
 
-      <FAQSection></FAQSection>
+      <FAQSection />
 
-      <MoreResourcesSection></MoreResourcesSection>
+      <MoreResourcesSection />
 
-      <SponsorSection></SponsorSection>
-
-      {/* <SocialSection></SocialSection> */}
+      <SponsorSection />
     </main>
   )
 }

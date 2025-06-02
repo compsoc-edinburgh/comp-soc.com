@@ -36,7 +36,7 @@ const ResourceBox = ({
 
 const MoreResourcesSection = () => {
   return (
-    <div id="moreResources" className="mt-20">
+    <div id="more-resources" className="mt-20">
       <Heading title="More Resources" />
       <div className="gap-6 grid grid-cols-1 md:grid-cols-3 lg:grid-cols-3 mt-8">
         <ResourceBox
