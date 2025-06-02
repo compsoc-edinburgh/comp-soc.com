@@ -1,8 +1,8 @@
 export enum LinkType {
-  WEBSITE = 'website',
-  TWITTER = 'twitter',
-  GITHUB = 'github',
-  LINKEDIN = 'linkedin',
-  EMAIL = 'email',
-  INSTAGRAM = 'instagram',
+  INSTAGRAM = 'Instagram',
+  TWITTER = 'Twitter',
+  GITHUB = 'GitHub',
+  EMAIL = 'Email',
+  WEBSITE = 'Website',
+  LINKEDIN = 'LinkedIn',
 }

@@ -18,7 +18,7 @@ export function transformCalendarEvents(
     start: event.start.dateTime || event.start.date,
     end: event.end.dateTime || event.end.date,
     color: sig.backgroundColor,
-    textColor: sig.textColor || '#000000',
+    textColor: sig.textColor || '#ffffff',
     sig,
     description: event.description,
     location: event.location,
