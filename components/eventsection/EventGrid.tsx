@@ -1,9 +1,7 @@
-import { Event } from '@/app/types'
 import { FC } from 'react'
+import { Event } from '@/lib/event'
 import EventTileBig from './EventTileBig'
 import EventTileSmall from './EventTileSmall'
-import { prefix } from '@/utils/prefix'
-import Image from 'next/image'
 import ImageCarousel from './ImageCarousel'
 
 interface EventListProps {

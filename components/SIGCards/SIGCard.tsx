@@ -1,4 +1,4 @@
-import { SIG } from '@/types/SIG'
+import { SIG } from '@/lib/sig'
 import { prefix } from '@/utils/prefix'
 import { ArrowUpRight } from 'iconoir-react'
 import Image from 'next/image'

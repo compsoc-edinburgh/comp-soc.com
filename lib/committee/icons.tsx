@@ -1,6 +1,4 @@
-import { LinkType } from '@/types/team'
 import {
-  Facebook,
   GithubCircle,
   Instagram,
   Internet,
@@ -8,8 +6,9 @@ import {
   Mail,
   Twitter,
 } from 'iconoir-react'
+import { LinkType } from '@/lib/committee'
 
-export const linkIcons: Record<LinkType, React.ReactNode> = {
+export const ICONS_MAPPER: Record<LinkType, React.ReactNode> = {
   [LinkType.INSTAGRAM]: <Instagram width={18} />,
   [LinkType.LINKEDIN]: <Linkedin width={18} />,
   [LinkType.GITHUB]: <GithubCircle width={18} />,

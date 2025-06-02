@@ -1,7 +1,7 @@
 import TeamCard from './TeamCard'
 import { Fragment } from 'react'
-import { TEAM } from '@constants/team'
 import { sortRecordKeysDesc } from '@utils/utils'
+import { TEAM } from '@/lib/committee'
 
 const TeamList = () => {
   return sortRecordKeysDesc(TEAM).map(([year, people]) => (

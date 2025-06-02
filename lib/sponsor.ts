@@ -1,4 +1,4 @@
-export type Sponsor = {
+export interface Sponsor {
   name: string
   img: string
   tier: 'platinum' | 'gold' | 'silver' | 'bronze'

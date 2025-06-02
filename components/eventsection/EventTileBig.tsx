@@ -1,4 +1,4 @@
-import { Event } from '@/app/types'
+import { Event } from '@/lib/event'
 import { useState, useEffect, useRef } from 'react'
 import { IoIosArrowRoundForward } from 'react-icons/io'
 import Link from 'next/link'
@@ -7,7 +7,6 @@ import { prefix } from '@/utils/prefix'
 const EventTileBig = ({
   title,
   description,
-  eventURL,
   location,
   date,
   upcoming,

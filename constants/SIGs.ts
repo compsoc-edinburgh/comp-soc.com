@@ -1,7 +1,7 @@
-import { SIG } from '@/types/SIG'
-
 // Rounded property can be 'rounded-full', 'rounded-lg', 'rounded-none'...
 // For other rounded corners, google "tailwindcss rounded corners" and find the class you want
+
+import { SIG } from '@/lib/sig'
 
 export const SIGs: SIG[] = [
   {
