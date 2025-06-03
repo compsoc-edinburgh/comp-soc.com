@@ -7,3 +7,24 @@
   font-size: 1.5em;
   margin-top: 24px;
 }
+
+.navigation {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.navigation a {
+  flex: 1;
+  text-align: center;
+  margin: 0 0.5rem;
+}
+
+.navigation a:first-child {
+  margin-left: 0; /* Remove margin on the left for the first button */
+}
+
+.navigation a:last-child {
+  margin-right: 0; /* Remove margin on the right for the last button */
+}
