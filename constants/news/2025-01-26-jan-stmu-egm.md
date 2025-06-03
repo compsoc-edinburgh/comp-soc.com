@@ -13,9 +13,8 @@ In the second half of our next STMU on the 29th of January 18:00-21:00, we will 
 
 The **Third Year Representative** is:
 
-  - Responsible for communication between their years and the Society, and promotes events to their year.
-  - Also responsible for any projects they take up throughout the year.
-
+- Responsible for communication between their years and the Society, and promotes events to their year.
+- Also responsible for any projects they take up throughout the year.
 
 ### Want to run for the position?
 

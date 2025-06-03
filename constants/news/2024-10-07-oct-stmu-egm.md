@@ -25,7 +25,7 @@ The positions we're electing are:
 
   - Organises monthly STMUs and other miscellaneous events with our sponsors.
   - Oversees working with our SIGs (Special Interest Groups).
-  
+
 - **Junior Treasurer**
 
   - Manage daily financial operations - including making reimbursements, maintaining budgets, and tracking transactions.
@@ -37,7 +37,6 @@ The positions we're electing are:
   - Responsible for communication between their year and the Society, and promotes events to their year.
   - Responsible for organising some of CompSoc's large projects and events, such as InfBall, HackTheBurgh or pwnedEd.
   - Gain an insight into the day-to-day of running CompSoc, and valuable experience in organising large scale society events.
-  
 
 If you are interested in applying for any of these positions, you need to:
 
@@ -49,7 +48,7 @@ Although it is possible to run impromptu on the day, submitting a manifesto will
 
 ### Student Tech Meet-Up
 
-[Shiu Ka Heng](https://shiukaheng.com/), a graduate from Edinburgh will take us through "The Lost Metropolis: Immortalizing Hong Kong's Changing Landscapes in Virtual Reality."  
+[Shiu Ka Heng](https://shiukaheng.com/), a graduate from Edinburgh will take us through "The Lost Metropolis: Immortalizing Hong Kong's Changing Landscapes in Virtual Reality."
 
 Join us for a deep dive into how this interdisciplinary project is tackling the challenge of digitally preserving Hong Kong's urban spaces threatened by redevelopment. Discover the art and science behind large-scale 3D reconstruction, from robotics development for autonomous 3D capture to employing advanced techniques like Gaussian splatting. Heng will share insights into the project's journey, the hurdles overcome, and the latest in 3D reconstruction technology.
 

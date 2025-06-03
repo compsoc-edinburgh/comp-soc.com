@@ -1,9 +1,201 @@
-.minutes li {
-  margin-left: 12px;
-  list-style-type: circle;
+.news {
+  font-family:
+    ui-sans-serif,
+    system-ui,
+    -apple-system,
+    BlinkMacSystemFont,
+    'Segoe UI',
+    Roboto,
+    'Helvetica Neue',
+    Arial,
+    'Noto Sans',
+    sans-serif;
+  line-height: 1.7;
 }
 
-.minutes h2 {
-  font-size: 1.5em;
-  margin-top: 24px;
+.news h1 {
+  font-size: 2.25rem;
+  font-weight: 700;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  color: #ffffff;
+  border-bottom: 2px solid #484848;
+  padding-bottom: 0.75rem;
+}
+
+.news h2 {
+  font-size: 1.875rem;
+  font-weight: 600;
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+  color: #ffffff;
+  border-bottom: 1px solid #484848;
+  padding-bottom: 0.5rem;
+}
+
+.news h3 {
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
+  color: #ffffff;
+}
+
+.news h4,
+.news h5,
+.news h6 {
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
+  color: #ffffff;
+}
+
+.news p {
+  margin-bottom: 1.25rem;
+  color: #d4d4d8;
+  font-size: 1rem;
+}
+
+.news ul,
+.news ol {
+  margin-bottom: 1.5rem;
+  padding-left: 1.5rem;
+}
+
+.news li {
+  margin-bottom: 0.75rem;
+  color: #d4d4d8;
+  line-height: 1.7;
+  list-style-type: disc;
+}
+
+.news ol li {
+  list-style-type: decimal;
+}
+
+.news li::marker {
+  color: #ce3234;
+}
+
+.news strong,
+.news b {
+  font-weight: 700;
+  color: #ffffff;
+}
+
+.news em,
+.news i {
+  font-style: italic;
+  color: #e4e4e7;
+}
+
+.news code {
+  background-color: rgba(72, 72, 72, 0.5);
+  color: #ce3234;
+  padding: 0.25rem 0.5rem;
+  border-radius: 0.375rem;
+  font-size: 0.875rem;
+  font-family: ui-monospace, SFMono-Regular, 'SF Mono', Consolas,
+    'Liberation Mono', Menlo, monospace;
+}
+
+.news pre {
+  background-color: #353535;
+  border: 1px solid #484848;
+  border-radius: 0.5rem;
+  padding: 1rem;
+  margin: 1.5rem 0;
+  overflow-x: auto;
+}
+
+.news pre code {
+  background-color: transparent;
+  color: #d4d4d8;
+  padding: 0;
+}
+
+.news blockquote {
+  border-left: 4px solid #ce3234;
+  background-color: rgba(72, 72, 72, 0.2);
+  padding: 1rem;
+  margin: 1.5rem 0;
+  border-radius: 0 0.5rem 0.5rem 0;
+  font-style: normal;
+}
+
+.news blockquote p {
+  margin-bottom: 0;
+  color: #e4e4e7;
+}
+
+.news a {
+  color: #ce3234;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.news a:hover {
+  color: rgba(206, 50, 52, 0.8);
+  text-decoration: underline;
+}
+
+.news hr {
+  border: none;
+  height: 1px;
+  background-color: rgba(72, 72, 72, 0.5);
+  margin: 2rem 0;
+}
+
+.news table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+  border: 1px solid #484848;
+  border-radius: 0.5rem;
+  overflow: hidden;
+}
+
+.news th,
+.news td {
+  padding: 0.75rem;
+  text-align: left;
+  border-bottom: 1px solid #484848;
+}
+
+.news th {
+  background-color: #353535;
+  font-weight: 600;
+  color: #ffffff;
+}
+
+.news td {
+  color: #d4d4d8;
+}
+
+.news tbody tr:hover {
+  background-color: rgba(72, 72, 72, 0.2);
+}
+
+.news ul ul {
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.news ul ul li {
+  list-style-type: circle;
+  margin-bottom: 0.5rem;
+}
+
+.news ul ul ul li {
+  list-style-type: square;
+  margin-bottom: 0.25rem;
+}
+
+.news li p {
+  margin-bottom: 0.5rem;
+}
+
+.news li:last-child {
+  margin-bottom: 0;
 }
