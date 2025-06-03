@@ -5,7 +5,10 @@ import CompSocTitle from '../CompSocTitle'
 const IntroSection = () => {
   return (
     <>
-      <div className="flex flex-col justify-between items-center gap-32">
+      <div
+        id="intro"
+        className="flex flex-col justify-between items-center gap-32"
+      >
         <CompSocTitle />
         <SocialLinks />
       </div>

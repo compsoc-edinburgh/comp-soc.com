@@ -7,7 +7,6 @@ import SigSection from '@/components/SIGCards/SigSection'
 import WelcomeSection from '@/components/welcomesection/WelcomeSection'
 import IntroSection from '@/components/introsection/IntroSection'
 import MoreResourcesSection from '@/components/moreResourcesSection/moreResourcesSection'
-// import SocialSection from '@/components/socialsection/SocialSection'
 
 export default function Home() {
   return (
@@ -18,17 +17,15 @@ export default function Home() {
 
       <WelcomeSection />
 
-      <SigSection></SigSection>
+      <SigSection />
 
-      <EventSection></EventSection>
+      <EventSection />
 
-      <FAQSection></FAQSection>
+      <FAQSection />
 
-      <MoreResourcesSection></MoreResourcesSection>
+      <MoreResourcesSection />
 
-      <SponsorSection></SponsorSection>
-
-      {/* <SocialSection></SocialSection> */}
+      <SponsorSection />
     </main>
   )
 }

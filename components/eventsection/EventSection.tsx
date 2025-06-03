@@ -17,7 +17,7 @@ const EventSection = () => {
   }
 
   return (
-    <>
+    <div id="events">
       <div className="flex flex-col lg:flex-row justify-between mt-8 w-full">
         <Heading title="Explore our events" />
         <div className="flex items-center text-blue-500 cursor-pointer mt-4 lg:mt-0 lg:ml-auto">
@@ -31,7 +31,7 @@ const EventSection = () => {
       <div className="mt-6 justify-center items-center w-full pl-4 pr-4">
         <EventGrid events={events} />
       </div>
-    </>
+    </div>
   )
 }
 

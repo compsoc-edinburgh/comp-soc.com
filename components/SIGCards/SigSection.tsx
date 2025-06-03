@@ -3,7 +3,7 @@ import SIGCards from './SIGCards'
 
 const SigSection = () => {
   return (
-    <div className="mt-40">
+    <div id="sigs" className="mt-40">
       <Heading title="Meet our SIGs" />
       <div className="w-full lg:w-4/5 mt-6 font-space-mono">
         <p>

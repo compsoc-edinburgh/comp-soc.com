@@ -20,7 +20,7 @@ const SponsorSection = () => {
   }, [])
 
   return (
-    <div className="my-24">
+    <div id="sponsors" className="my-24">
       <VariableBackgroundSwitcher activeColor="bg-black">
         <div className="flex items-center">
           <Heading customIcon={<HoverGif />} title="Partner with us" />
