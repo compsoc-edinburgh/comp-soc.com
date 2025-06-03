@@ -60,8 +60,10 @@ const MinutesList = ({
 
   return (
     <>
-      <div className="md:px-24">
-        <h1 className="font-tomorrow text-3xl mb-10">Minutes</h1>
+      <div className="max-w-5xl mx-auto">
+        <div className="mb-10 mt-4">
+          <h1 className="font-tomorrow text-3xl">Minutes</h1>
+        </div>
         <p className="text-md mb-10">
           Welcome to the CompSoc Meeting Minutes Archive. Here, you will find
           detailed records of all committee meetings dating back to 2016.

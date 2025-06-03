@@ -1,5 +1,6 @@
 'use client'
 
+import Heading from '@/components/heading'
 import SearchPosts from '@/components/SearchPosts'
 import { prefix } from '@/utils/prefix'
 import Image from 'next/image'
@@ -68,12 +69,14 @@ const NewsList = ({
         post.content.toLowerCase().includes(searchQuery.toLowerCase())
       )
     )
-  }, [searchQuery])
+  }, [posts, searchQuery])
 
   return (
     <>
-      <div className="md:px-24">
-        <h1 className="font-tomorrow text-3xl mb-10">News</h1>
+      <div className="max-w-5xl mx-auto">
+        <div className="mb-10 mt-4">
+          <Heading title="News" />
+        </div>
         <p className="text-md mb-10">
           Welcome to the CompSoc news page! Here, you&apos;ll find an archive of
           all the essential updates, including manifestos from our past AGMs and

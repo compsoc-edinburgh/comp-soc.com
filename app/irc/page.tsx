@@ -2,8 +2,10 @@ import Heading from '@/components/heading'
 
 const IRC = () => {
   return (
-    <div className="lg:w-4/5 mx-auto pt-12">
-      <Heading title="Internet Relay Chat" />
+    <div className="max-w-5xl mx-auto">
+      <div className="mb-10 mt-4">
+        <Heading title="Internet Relay Chat" />
+      </div>
       <p className="my-4 text-lg">
         To keep in touch online, we use IRC and Discord. Both are{' '}
         <em className="font-semibold">bridged</em> to each other, so feel free

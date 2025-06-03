@@ -21,9 +21,11 @@ export default function JoinPage() {
 
   return (
     <div
-      className={`max-w-xl mx-auto mt-12 flex flex-col gap-6 ${showErrorButton ? 'opacity-100' : 'opacity-0'} transition-opacity duration-250`}
+      className={`max-w-5xl mx-auto flex flex-col gap-6 ${showErrorButton ? 'opacity-100' : 'opacity-0'} transition-opacity duration-250`}
     >
-      <Heading title="Become an official member" />
+      <div className="mb-10 mt-4">
+        <Heading title="Become an official member" />
+      </div>
       <p>If you did not get redirected, please click the button below.</p>
       <a href={EUSA_MEMBERSHIP_URL}>
         <button className="bg-csred text-white px-4 py-2 rounded-md">

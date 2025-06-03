@@ -43,9 +43,9 @@ export default function Sponsors() {
   }
 
   return (
-    <div className="max-w-5xl mx-auto lg:w-4/5 ">
+    <div className="max-w-5xl mx-auto">
       <div className="mb-10 mt-4">
-        <Heading title="Sponsors"></Heading>
+        <Heading title="Sponsors" />
       </div>
 
       <p className="font-space-mono text-md mb-8">

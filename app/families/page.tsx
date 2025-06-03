@@ -6,8 +6,10 @@ import { PageEdit } from 'iconoir-react'
 
 export default function Families() {
   return (
-    <div className="lg:w-4/5 mx-auto pt-12">
-      <Heading title="CompSoc Academic Families!" />
+    <div className="max-w-5xl mx-auto">
+      <div className="mb-10 mt-4">
+        <Heading title="CompSoc Academic Families!" />
+      </div>
       <div className="grid grid-cols-1 lg:grid-cols-3 gap-6 mt-8">
         <div className="lg:col-span-1 order-first lg:order-last">
           <BigLink

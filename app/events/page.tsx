@@ -6,7 +6,7 @@ import EventCard from './EventCard'
 
 export default function Events() {
   return (
-    <div className="lg:w-4/5 mx-auto">
+    <div className="max-w-5xl mx-auto">
       <div className="pt-4">
         <Heading title="Full event calendar"></Heading>
         <div className="mt-6 font-space-mono">
