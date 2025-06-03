@@ -1,4 +1,3 @@
-import { FC } from 'react'
 import { Calendar } from 'iconoir-react'
 
 interface CalendarErrorStateProps {
@@ -6,10 +5,10 @@ interface CalendarErrorStateProps {
   onRetry?: () => void
 }
 
-const CalendarErrorState: FC<CalendarErrorStateProps> = ({
+const CalendarErrorState = ({
   message = 'Unable to load events',
   onRetry,
-}) => {
+}: CalendarErrorStateProps) => {
   return (
     <div className="bg-csgrey rounded-2xl border border-border p-8 text-center">
       <Calendar className="w-12 h-12 text-textSecondary mx-auto mb-4" />

@@ -5,7 +5,7 @@ const CalendarLoader = () => {
         <div className="flex flex-col sm:flex-row items-center justify-between gap-4">
           <div className="w-48 h-8 bg-cslightgrey rounded-lg animate-pulse"></div>
           <div className="flex gap-2">
-            {Array.from({ length: 4 }, (_, i) => (
+            {Array.from({ length: 3 }, (_, i) => (
               <div
                 key={`header-btn-${i}`}
                 className="w-16 h-8 bg-cslightgrey rounded-md animate-pulse"

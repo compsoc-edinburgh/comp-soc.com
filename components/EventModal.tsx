@@ -1,8 +1,7 @@
-import { FC } from 'react'
 import Modal from '@mui/material/Modal'
 import Box from '@mui/material/Box'
 import Image from 'next/image'
-import { MapPin, Calendar, Clock, User, Xmark } from 'iconoir-react'
+import { MapPin, Calendar, User, Xmark } from 'iconoir-react'
 import { prefix } from '@/utils/prefix'
 
 interface EventModalProps {
@@ -12,12 +11,7 @@ interface EventModalProps {
   isMobile: boolean
 }
 
-const EventModal: FC<EventModalProps> = ({
-  open,
-  onClose,
-  event,
-  isMobile,
-}) => {
+const EventModal = ({ open, onClose, event, isMobile }: EventModalProps) => {
   const createMarkup = (html: string) => {
     if (!html) return { __html: '' }
     return {
@@ -114,17 +108,6 @@ const EventModal: FC<EventModalProps> = ({
             <span className="font-space-mono">
               {event.extendedProps.formattedDate}
             </span>
-            {event.start && (
-              <>
-                <Clock className="w-4 h-4 ml-2" />
-                <span className="font-space-mono">
-                  {event.start.toLocaleTimeString([], {
-                    hour: '2-digit',
-                    minute: '2-digit',
-                  })}
-                </span>
-              </>
-            )}
           </div>
         </div>
       </div>

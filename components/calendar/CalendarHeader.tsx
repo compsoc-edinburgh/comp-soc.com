@@ -1,4 +1,4 @@
-import { FC, ReactNode } from 'react'
+import { ReactNode } from 'react'
 
 interface CalendarHeaderProps {
   title?: string
@@ -6,11 +6,11 @@ interface CalendarHeaderProps {
   children?: ReactNode
 }
 
-const CalendarHeader: FC<CalendarHeaderProps> = ({
+const CalendarHeader = ({
   title = 'Events',
   description = 'CompSoc activities and events',
   children,
-}) => {
+}: CalendarHeaderProps) => {
   return (
     <div className="calendar-header">
       <div className="flex flex-col lg:flex-row items-start lg:items-center justify-between gap-4">

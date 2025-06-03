@@ -1,4 +1,3 @@
-import { FC } from 'react'
 import { ArrowLeft, ArrowRight } from 'iconoir-react'
 
 interface CalendarNavigationProps {
@@ -10,33 +9,27 @@ interface CalendarNavigationProps {
   onViewChange: (view: string) => void
 }
 
-const CalendarNavigation: FC<CalendarNavigationProps> = ({
+const CalendarNavigation = ({
   isMobile,
   calendarView,
   onPrevious,
   onNext,
   onToday,
   onViewChange,
-}) => {
+}: CalendarNavigationProps) => {
   const navigationButtons = [
     {
       key: 'day',
       label: 'Day',
       view: 'timeGridDay',
       isActive: calendarView === 'timeGridDay',
+      showOnMobile: false,
     },
     {
       key: 'week',
       label: 'Week',
       view: 'timeGridWeek',
       isActive: calendarView === 'timeGridWeek',
-      showOnMobile: false,
-    },
-    {
-      key: 'month',
-      label: 'Month',
-      view: 'dayGridMonth',
-      isActive: calendarView === 'dayGridMonth',
       showOnMobile: false,
     },
   ]
