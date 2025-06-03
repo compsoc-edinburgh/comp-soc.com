@@ -1,209 +1,413 @@
-import React, { useEffect, useState } from 'react'
+import React, { useEffect, useState, useRef } from 'react'
 import FullCalendar from '@fullcalendar/react'
 import timeGridPlugin from '@fullcalendar/timegrid'
 import dayGridPlugin from '@fullcalendar/daygrid'
 import interactionPlugin from '@fullcalendar/interaction'
-import Modal from '@mui/material/Modal'
-import Box from '@mui/material/Box'
-import { prefix } from '@/utils/prefix'
-import Image from 'next/image'
-import { MapPin } from 'iconoir-react'
 import { useCalendarEvents } from '@/lib/calendar'
 
-const EventsCalendar: React.FC = () => {
-  const { events, loading, error } = useCalendarEvents()
+import CalendarLoader from './calendar/CalendarLoader'
+import CalendarHeader from './calendar/CalendarHeader'
+import CalendarNavigation from './calendar/CalendarNavigation'
+import EventModal from './EventModal'
+import CalendarErrorState from './calendar/CalendarErrorState'
 
-  const isMobile = typeof window !== 'undefined' && window.innerWidth <= 768
-
-  const [open, setOpen] = React.useState(false)
-  const [event, setEvent] = React.useState<any>(null)
+const useCalendarState = () => {
+  const [isMobile, setIsMobile] = useState(false)
+  const [open, setOpen] = useState(false)
+  const [selectedEvent, setSelectedEvent] = useState<any>(null)
   const [calendarView, setCalendarView] = useState('timeGridWeek')
-
-  const handleEventClick = (eventInfo: any) => {
-    setOpen(true)
-    setEvent(eventInfo)
-  }
-
-  const handleClose = () => {
-    setOpen(false)
-  }
-
-  const style = {
-    position: 'absolute',
-    top: '50%',
-    left: '50%',
-    transform: 'translate(-50%, -50%)',
-    bgcolor: '#222222',
-    boxShadow: 24,
-    p: 4,
-    color: 'white',
-    width: '90%', // Set a default width
-    maxWidth: '600px', // Set a maximum width for larger screens
-    '@media (max-width: 768px)': {
-      width: '95%', // Full width on mobile
-      left: '50%',
-      transform: 'translate(-50%, -50%)',
-    },
-  }
-
-  const createMarkup = (html: string) => {
-    if (!html) {
-      return { __html: '' }
-    }
-    return { __html: html.replace(/<a /g, '<a style="color: #1198E7;" ') }
-  }
+  const calendarRef = useRef<FullCalendar>(null)
 
   useEffect(() => {
     const updateView = () => {
-      const isMobile = window.innerWidth <= 768
-      setCalendarView(isMobile ? 'timeGridThreeDay' : 'timeGridWeek')
+      const mobile = window.innerWidth <= 768
+      setIsMobile(mobile)
+      setCalendarView(mobile ? 'timeGridDay' : 'timeGridWeek')
     }
 
     updateView()
     window.addEventListener('resize', updateView)
-
-    return () => {
-      window.removeEventListener('resize', updateView)
-    }
+    return () => window.removeEventListener('resize', updateView)
   }, [])
 
+  return {
+    isMobile,
+    open,
+    setOpen,
+    selectedEvent,
+    setSelectedEvent,
+    calendarView,
+    setCalendarView,
+    calendarRef,
+  }
+}
+
+const CALENDAR_CONFIG = {
+  slotMinTime: '08:00:00',
+  slotMaxTime: '22:00:00',
+  firstDay: 1,
+  displayEventTime: false,
+  eventDisplay: 'block' as const,
+  dayMaxEvents: false,
+  selectMirror: false,
+} as const
+
+const EventsCalendar: React.FC = () => {
+  const { events, loading, error } = useCalendarEvents()
+  const {
+    isMobile,
+    open,
+    setOpen,
+    selectedEvent,
+    setSelectedEvent,
+    calendarView,
+    setCalendarView,
+    calendarRef,
+  } = useCalendarState()
+
+  const handleEventClick = (eventInfo: any) => {
+    setSelectedEvent(eventInfo.event)
+    setOpen(true)
+  }
+
+  const handleClose = () => {
+    setOpen(false)
+    setSelectedEvent(null)
+  }
+
+  const handlePrevious = () => {
+    const calendarApi = calendarRef.current?.getApi()
+    if (calendarApi) {
+      calendarApi.prev()
+    }
+  }
+
+  const handleNext = () => {
+    const calendarApi = calendarRef.current?.getApi()
+    if (calendarApi) {
+      calendarApi.next()
+    }
+  }
+
+  const handleToday = () => {
+    const calendarApi = calendarRef.current?.getApi()
+    if (calendarApi) {
+      calendarApi.today()
+    }
+  }
+
+  const handleViewChange = (view: string) => {
+    setCalendarView(view)
+  }
+
+  if (loading) {
+    return (
+      <div className="max-w-7xl mx-auto py-8">
+        <CalendarLoader />
+      </div>
+    )
+  }
+
+  if (error) {
+    return (
+      <div className="max-w-7xl mx-auto py-8">
+        <CalendarErrorState />
+      </div>
+    )
+  }
+
   return (
-    <div className="lg:w-7/8 mx-auto mt-10">
+    <div className="max-w-7xl mx-auto py-8">
       <style>
         {`
-          .fc .fc-timegrid-slot-minor {
-            border-top: none; !important;
+          .calendar-wrapper {
+            background: #222222;
+            border: 1px solid #484848;
+            border-radius: 16px;
+            overflow: hidden;
+          }
+
+          .calendar-header {
+            padding: 20px;
+            border-bottom: 1px solid #484848;
+            background: #222222;
+          }
+
+          .calendar-title {
+            font-family: 'Tomorrow', monospace;
+            font-size: 1.25rem;
+            font-weight: 600;
+            color: #FFFFFF;
+            margin: 0;
+          }
+
+          .calendar-nav-btn {
+            background: transparent;
+            border: 1px solid #484848;
+            color: #A0A0A0;
+            padding: 6px 12px;
+            border-radius: 6px;
+            font-family: 'Space Mono', monospace;
+            font-size: 0.8rem;
+            font-weight: 400;
+            transition: all 0.2s ease;
+            cursor: pointer;
+          }
+
+          .calendar-nav-btn:hover {
+            border-color: #A0A0A0;
+            color: #FFFFFF;
+          }
+
+          .calendar-nav-btn.active {
+            border-color: #CE3234;
+            color: #CE3234;
+          }
+
+          .nav-arrow-btn {
+            background: transparent;
+            border: 1px solid #484848;
+            color: #A0A0A0;
+            padding: 8px;
+            border-radius: 6px;
+            transition: all 0.2s ease;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+          }
+
+          .nav-arrow-btn:hover {
+            border-color: #A0A0A0;
+            color: #FFFFFF;
+          }
+
+          .fc {
+            background: transparent;
+            font-family: 'Space Mono', monospace;
           }
 
           .fc-header-toolbar {
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: space-between;
+            display: none !important;
           }
 
-          .fc-header-toolbar .fc-toolbar-chunk {
-            margin-bottom: 5px;
+          .fc-theme-standard td,
+          .fc-theme-standard th {
+            border-color: #484848;
           }
 
-          @media (max-width: 768px) {
-            .fc-header-toolbar {
-              flex-direction: column;
-              align-items: center;
-            }
+          .fc-scrollgrid {
+            border: none !important;
+          }
 
-            .fc-header-toolbar .fc-toolbar-chunk {
-              width: 100%;
-              text-align: center;
-              margin-bottom: 10px;
-            }
+          .fc-col-header {
+            background: #353535;
+            border-bottom: 1px solid #484848;
+          }
 
-            .fc-header-toolbar .fc-toolbar-chunk:first-child {
-              order: 3;
-            }
+          .fc-col-header-cell {
+            padding: 8px 4px;
+            border-right: 1px solid #484848;
+          }
 
-            .fc-header-toolbar .fc-toolbar-chunk:nth-child(2) {
-              order: 1;
-            }
+          .fc-col-header-cell:last-child {
+            border-right: none;
+          }
 
-            .fc-header-toolbar .fc-toolbar-chunk:nth-child(3) {
-              order: 2;
-            }
+          .fc-col-header-cell-cushion {
+            color: #A0A0A0;
+            font-weight: 400;
+            font-size: 0.75rem;
+            text-transform: lowercase;
+            font-family: 'Space Mono', monospace;
+          }
 
-            .fc-toolbar-title {
-              font-size: 1.2rem;
-            }
+          .fc-timegrid-axis-cushion {
+            color: #A0A0A0;
+            font-size: 0.7rem;
+            font-family: 'Space Mono', monospace;
+            padding: 2px 4px;
+          }
+
+          .fc-timegrid-slot {
+            border-color: #383838;
+            height: 2.5rem;
+          }
+
+          .fc-timegrid-slot-minor {
+            border-top: none !important;
+          }
+
+          .fc-timegrid-col-bg {
+            background: #222222;
+          }
+
+          .fc-day-today {
+            background: rgba(206, 50, 52, 0.03) !important;
+          }
+
+          .fc-timegrid-col.fc-day-today {
+            background: rgba(206, 50, 52, 0.03) !important;
           }
 
           .fc-event {
-            cursor: pointer;
+            border: none !important;
+            border-radius: 4px !important;
+            padding: 2px 6px !important;
+            margin: 1px !important;
+            cursor: pointer !important;
+            transition: opacity 0.2s ease !important;
+          }
+
+          .fc-event:hover {
+            opacity: 0.8 !important;
+          }
+
+          .fc-event-title {
+            font-weight: 400 !important;
+            font-size: 0.75rem !important;
+            font-family: 'Space Mono', monospace !important;
+            line-height: 1.1 !important;
+          }
+
+          .fc-event-time {
+            display: none !important;
+          }
+
+          @media (max-width: 768px) {
+            .calendar-header {
+              padding: 16px;
+            }
+
+            .calendar-title {
+              font-size: 1.1rem;
+            }
+
+            .calendar-nav-btn {
+              padding: 5px 10px;
+              font-size: 0.75rem;
+            }
+
+            .nav-arrow-btn {
+              padding: 6px;
+            }
+
+            .fc-timegrid-axis {
+              width: 35px !important;
+            }
+
+            .fc-timegrid-axis-cushion {
+              font-size: 0.65rem;
+              padding: 1px 2px;
+            }
+
+            .fc-col-header-cell {
+              padding: 6px 2px;
+            }
+
+            .fc-col-header-cell-cushion {
+              font-size: 0.7rem;
+            }
+
+            .mobile-nav-container {
+              width: 100%;
+              display: flex;
+              flex-direction: column;
+              gap: 12px;
+              align-items: center;
+            }
+
+            .mobile-nav-top {
+              display: flex;
+              justify-content: center;
+              gap: 8px;
+              width: 100%;
+            }
+
+            .mobile-view-controls {
+              display: flex;
+              gap: 6px;
+            }
+
+            .desktop-view-controls {
+              display: none;
+            }
+          }
+
+          @media (min-width: 769px) {
+            .mobile-nav-container {
+              display: none;
+            }
+
+            .desktop-nav-container {
+              display: flex;
+              align-items: center;
+              gap: 5;
+            }
+          }
+
+          .fc-scroller::-webkit-scrollbar {
+            width: 3px;
+          }
+
+          .fc-scroller::-webkit-scrollbar-track {
+            background: transparent;
+          }
+
+          .fc-scroller::-webkit-scrollbar-thumb {
+            background: #484848;
+            border-radius: 2px;
           }
         `}
       </style>
-      <FullCalendar
-        key={calendarView} // Add key to force re-render
-        plugins={[dayGridPlugin, timeGridPlugin, interactionPlugin]}
-        headerToolbar={{
-          left: 'prev,next today',
-          center: 'title',
-          right: isMobile
-            ? 'timeGridDay,timeGridThreeDay,dayGridMonth'
-            : 'timeGridDay,timeGridWeek,dayGridMonth',
-        }}
-        firstDay={1}
-        contentHeight={800}
-        initialView={calendarView}
-        views={{
-          timeGridThreeDay: {
-            type: 'timeGrid',
-            duration: { days: 3 },
-            buttonText: '3 day',
-          },
-        }}
-        selectMirror={true}
-        dayMaxEvents={true}
-        slotMinTime={'08:00:00'}
-        slotMaxTime={'24:00:00'}
-        events={events}
-        displayEventTime={false}
-        eventClick={function (info) {
-          handleEventClick(info.event)
-        }}
-      />
 
-      <Modal
+      <div className="calendar-wrapper">
+        <CalendarHeader>
+          <CalendarNavigation
+            isMobile={isMobile}
+            calendarView={calendarView}
+            onPrevious={handlePrevious}
+            onNext={handleNext}
+            onToday={handleToday}
+            onViewChange={handleViewChange}
+          />
+        </CalendarHeader>
+
+        <div className="p-4">
+          <FullCalendar
+            ref={calendarRef}
+            key={calendarView}
+            plugins={[dayGridPlugin, timeGridPlugin, interactionPlugin]}
+            initialView={calendarView}
+            views={{
+              timeGridThreeDay: {
+                type: 'timeGrid',
+                duration: { days: 3 },
+              },
+              timeGridWeek: {
+                type: 'timeGrid',
+                duration: { weeks: 1 },
+              },
+              dayGridMonth: {
+                type: 'dayGrid',
+                duration: { months: 1 },
+              },
+            }}
+            height="auto"
+            contentHeight={isMobile ? 400 : 500}
+            events={events}
+            eventClick={handleEventClick}
+            {...CALENDAR_CONFIG}
+          />
+        </div>
+      </div>
+
+      <EventModal
         open={open}
         onClose={handleClose}
-        aria-labelledby="modal-modal-title"
-        aria-describedby="modal-modal-description"
-      >
-        <Box sx={style} className="rounded-md">
-          <div className="p-4 flex items-center">
-            {event && (
-              <>
-                <div>
-                  <div className="font-bold flex items-center">
-                    <Image
-                      width={40}
-                      height={40}
-                      src={`${prefix}/SIGs/${event.extendedProps.sig.icon.src}`}
-                      alt={event.extendedProps.sig.icon.alt}
-                      className={`h-full ${
-                        event.extendedProps.sig.icon.rounded
-                      } mr-2`}
-                    />
-                    <div className="text-xl">{event.title}</div>
-                  </div>
-                  <div className="mt-2">
-                    {' '}
-                    {event.extendedProps.formattedDate}
-                  </div>
-
-                  {event.extendedProps.location && (
-                    <div className="mt-2 flex items-center">
-                      <MapPin className="mr-2 text-blue-400" />
-                      <div>{event.extendedProps.location}</div>
-                    </div>
-                  )}
-
-                  <div
-                    className="mt-4"
-                    dangerouslySetInnerHTML={
-                      createMarkup(event.extendedProps.description) || {
-                        __html: '',
-                      }
-                    }
-                  />
-                </div>
-                <style jsx>{`
-                  .description a {
-                    color: blue;
-                  }
-                `}</style>
-              </>
-            )}
-          </div>
-        </Box>
-      </Modal>
+        event={selectedEvent}
+        isMobile={isMobile}
+      />
     </div>
   )
 }
