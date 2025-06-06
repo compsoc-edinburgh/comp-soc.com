@@ -21,17 +21,14 @@ export async function generateStaticParams() {
   }))
 }
 
-// Multiple versions of this page will be statically generated
 export default async function Page({ params }: { params: { slug: string } }) {
   const { slug } = params
-  // Read markdown file as string
   const postDirectory = path.join(__dirname, '../../../../../constants/news')
   const filePath = path.join(postDirectory, `${slug}.md`)
   const fileContents = fs.readFileSync(filePath, 'utf8')
 
-  // Extract front matter and content using gray-matter
   const { data, content } = matter(fileContents)
-  const title = data.title as string // Extract the title from the front matter
+  const title = data.title as string
 
   const fileStats = fs.statSync(filePath)
   const modifiedAt = new Date(fileStats.mtime)
