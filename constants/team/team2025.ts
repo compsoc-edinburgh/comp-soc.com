@@ -199,7 +199,7 @@ export const team2025: Committee[] = [
   },
   {
     name: 'Sorana',
-    surname: 'Inescu',
+    surname: 'Ionescu',
     role: Role.EDI_REP,
     image: 'sorana-1.jpg',
     links: [
