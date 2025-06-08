@@ -47,7 +47,7 @@ const NewsPage = ({
                 Back to News
               </Link>
               <span className="text-zinc-600">/</span>
-              <span className="text-zinc-400 font-space-mono text-sm">
+              <span className="text-zinc-400 font-space-mono text-sm truncate max-w-[200px]">
                 {title}
               </span>
             </div>
