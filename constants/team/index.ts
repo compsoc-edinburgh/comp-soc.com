@@ -1,3 +1,4 @@
+import { team2025 } from './team2025'
 import { team2024 } from './team2024'
 import { team2023 } from './team2023'
 import { team2022 } from './team2022'
@@ -18,6 +19,7 @@ import { team2008 } from './team2008'
 import { Committee } from '@/lib/committee'
 
 export const COMMITTEES_BY_YEAR: Record<string, Committee[]> = {
+  2025: team2025,
   2024: team2024,
   2023: team2023,
   2022: team2022,
