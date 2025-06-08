@@ -184,6 +184,14 @@ export const team2025: Committee[] = [
         type: LinkType.LINKEDIN,
         url: 'https://www.linkedin.com/in/vjanovec/',
       },
+      {
+        type: LinkType.GITHUB,
+        url: 'https://github.com/vjanovec',
+      },
+      {
+        type: LinkType.INSTAGRAM,
+        url: 'https://www.instagram.com/vojtech.janovec/',
+      },
     ],
   },
   {
