@@ -178,7 +178,7 @@ export const team2025: Committee[] = [
     name: 'Vojtech',
     surname: 'Janovec',
     role: Role.FOURTH_YEAR_REP,
-    image: 'vojtech-1.jpg',
+    image: 'vojtech-2.png',
     links: [
       {
         type: LinkType.LINKEDIN,
