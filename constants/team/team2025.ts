@@ -131,6 +131,14 @@ export const team2025: Committee[] = [
         type: LinkType.WEBSITE,
         url: 'https://itskay.co',
       },
+      {
+        type: LinkType.INSTAGRAM,
+        url: 'https://www.instagram.com/banbury_cheese/',
+      },
+      {
+        type: LinkType.TWITTER,
+        url: 'https://x.com/banbury_cheese',
+      },
     ],
   },
   {
