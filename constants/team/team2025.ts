@@ -35,7 +35,7 @@ export const team2025: Committee[] = [
     name: 'Kameran',
     surname: 'Russell',
     role: Role.TREASURER,
-    image: 'kameran-1.png',
+    image: 'kameran-2.jpg',
     links: [
       {
         type: LinkType.LINKEDIN,
@@ -94,6 +94,14 @@ export const team2025: Committee[] = [
       {
         type: LinkType.LINKEDIN,
         url: 'https://www.linkedin.com/in/param-mans/',
+      },
+      {
+        type: LinkType.INSTAGRAM,
+        url: 'https://www.instagram.com/param_mans',
+      },
+      {
+        type: LinkType.GITHUB,
+        url: 'https://github.com/param-mans',
       },
     ],
   },
