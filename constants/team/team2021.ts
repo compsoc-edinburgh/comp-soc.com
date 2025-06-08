@@ -5,7 +5,7 @@ export const team2021: Committee[] = [
     name: 'Artemis',
     surname: 'Livingstone',
     role: Role.PRESIDENT,
-    image: 'artemis-1.jpeg',
+    image: 'saph-1.jpg',
     links: [
       { type: LinkType.GITHUB, url: 'https://github.com/social-anthrax' },
     ],
