@@ -19,6 +19,7 @@ export const team2025: Committee[] = [
     name: 'Anna',
     surname: 'Petrusenko',
     role: Role.VICE_PRESIDENT,
+    sponsorContact: true,
     image: 'anna-1.jpg',
     links: [
       {
