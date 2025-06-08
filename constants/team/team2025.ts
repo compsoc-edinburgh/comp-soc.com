@@ -107,10 +107,10 @@ export const team2025: Committee[] = [
     ],
   },
   {
-    name: 'Tim',
+    name: 'Tim', // Muffin
     surname: 'Chan',
     role: Role.SOCIAL_MEDIA_OFFICER,
-    image: 'tim-1.jpg',
+    image: 'tim-3.jpg',
     links: [
       {
         type: LinkType.LINKEDIN,
