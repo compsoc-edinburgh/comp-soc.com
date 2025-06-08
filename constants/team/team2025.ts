@@ -121,11 +121,15 @@ export const team2025: Committee[] = [
     name: 'Kay',
     surname: '',
     role: Role.GRAPHIC_DESIGNER,
-    image: 'kay-1.jpg',
+    image: 'kay-2.jpg',
     links: [
       {
         type: LinkType.LINKEDIN,
         url: 'https://www.linkedin.com/in/banburycheese/',
+      },
+      {
+        type: LinkType.WEBSITE,
+        url: 'https://itskay.co',
       },
     ],
   },
