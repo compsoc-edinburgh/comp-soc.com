@@ -160,6 +160,10 @@ export const team2025: Committee[] = [
         type: LinkType.INSTAGRAM,
         url: 'https://www.instagram.com/danyil.butov',
       },
+      {
+        type: LinkType.WEBSITE,
+        url: 'https://danyilbutov.com',
+      },
     ],
   },
   {
