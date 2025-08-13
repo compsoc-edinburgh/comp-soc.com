@@ -199,15 +199,10 @@ export const team2025: Committee[] = [
     ],
   },
   {
-    name: 'Uyi',
+    name: 'Pa\'uk',
     surname: '',
     role: Role.OLD_PERSON_REP,
-    links: [
-      {
-        type: LinkType.LINKEDIN,
-        url: 'https://www.linkedin.com/in/elisaveta-l-b3225a252/',
-      },
-    ],
+    links: [],
   },
   {
     name: 'Sorana',
