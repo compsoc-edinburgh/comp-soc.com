@@ -1,8 +1,8 @@
-import React, { useRef } from 'react'
+import React from 'react'
 import { flagships } from '@/constants/flagships'
 import Image from 'next/image'
 import { prefix } from '@/utils/prefix'
-import { Link } from 'iconoir-react'
+import { Link as LinkIcon, Calendar } from 'iconoir-react'
 import FactCard from './FactCard'
 
 const EventCard: React.FC = () => {
@@ -11,43 +11,53 @@ const EventCard: React.FC = () => {
       {flagships.map((flagship) => (
         <div
           key={flagship.name}
-          className="flex flex-col lg:flex-row p-8 justify-center rounded-lg text-white mb-8"
-          style={{ backgroundColor: '#3B3B3B', border: '1px solid #7F7F7F' }}
+          className="group mt-4 border border-border bg-foreground hover:bg-border/30 transition-all duration-200 hover:scale-[1.01] cursor-pointer"
+          onClick={() => flagship.link && window.open(flagship.link, '_blank')}
         >
-          <div className="lg:pr-8 lg:mb-0 mb-4 h-full">
-            <div className="flex flex-col lg:flex-row lg:justify-between lg:items-center mb-4">
-              <div className="flex items-center">
-                <h2 className="text-2xl underline mb-2 lg:mb-0 mr-2 ">
-                  {flagship.name}
-                </h2>
-                {flagship.link && (
-                  <a href={flagship.link}>
-                    <Link width={24} />
-                  </a>
+          <div className="p-6 flex flex-col lg:flex-row gap-6 h-full">
+            <div className="flex-1 flex flex-col justify-between">
+              <div>
+                <div className="mb-6">
+                  <h3 className="text-xl font-tomorrow text-white group-hover:text-csred transition-colors flex items-center gap-2 mb-3">
+                    {flagship.name}
+                    {flagship.link && (
+                      <LinkIcon className="w-5 h-5 text-white group-hover:text-csred transition-colors" />
+                    )}
+                  </h3>
+                  <div className="flex items-center gap-2">
+                    <Calendar className="w-4 h-4 text-zinc-400" />
+                    <span className="text-sm text-zinc-400 font-space-mono">
+                      {flagship.roughDate}
+                    </span>
+                  </div>
+                </div>
+
+                <div className="mb-6">
+                  <p className="text-base leading-relaxed text-zinc-300">
+                    {flagship.long_description}
+                  </p>
+                </div>
+              </div>
+
+              <div className="mt-auto pt-4 border-t border-border/30">
+                {flagship.facts && flagship.facts.length > 0 ? (
+                  <div className="flex flex-wrap gap-3">
+                    {flagship.facts.map((fact, i) => (
+                      <FactCard text={fact.text} number={fact.number} key={i} />
+                    ))}
+                  </div>
+                ) : (
+                  <div className="h-6"></div>
                 )}
               </div>
-              {/* <h2 className="text-left">{flagship.roughDate}</h2> */}
             </div>
-            <p className="mt-4">{flagship.long_description}</p>
-            {flagship.facts && (
-              <div
-                className="flex space-x-4 mt-4 lg:justify-start md:justify-start justify-center"
-                key={flagship.name}
-              >
-                {flagship.facts.map((fact, i) => (
-                  <FactCard text={fact.text} number={fact.number} key={i} />
-                ))}
-              </div>
-            )}
-          </div>
-          <div className="flex justify-center md:justify-end lg:justify-end h-full">
-            <div className="lg:w-[400px] h-full object-cover">
+            <div className="lg:w-[300px] h-48 lg:h-56 shrink-0">
               <Image
                 src={`${prefix}/${flagship.image}`}
                 alt={flagship.name}
-                width={100}
-                height={100}
-                className="object-cover w-full h-full"
+                width={300}
+                height={224}
+                className="object-cover w-full h-full rounded-lg border border-border/30"
               />
             </div>
           </div>
