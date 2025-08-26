@@ -20,7 +20,7 @@ const FAQItem: React.FC<{ question: string; answer: string }> = ({
         </span>
       </button>
       <div
-        className={`overflow-hidden transition-all duration-500 ease-in-out`}
+        className={`overflow-hidden transition-all duration-300 ease-in-out`}
         style={{
           maxHeight: isOpen ? `${contentRef.current?.scrollHeight}px` : '0',
         }}

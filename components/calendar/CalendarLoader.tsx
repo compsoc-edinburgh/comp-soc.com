@@ -1,6 +1,6 @@
 const CalendarLoader = () => {
   return (
-    <div className="bg-csgrey rounded-lg border border-border overflow-hidden">
+    <div className="bg-csgrey border border-border overflow-hidden">
       <div className="p-6 border-b border-border">
         <div className="flex flex-col sm:flex-row items-center justify-between gap-4">
           <div className="w-48 h-8 bg-cslightgrey rounded-lg animate-pulse"></div>
@@ -8,7 +8,7 @@ const CalendarLoader = () => {
             {Array.from({ length: 3 }, (_, i) => (
               <div
                 key={`header-btn-${i}`}
-                className="w-16 h-8 bg-cslightgrey rounded-md animate-pulse"
+                className="w-16 h-12 bg-cslightgrey rounded-md animate-pulse"
               ></div>
             ))}
           </div>

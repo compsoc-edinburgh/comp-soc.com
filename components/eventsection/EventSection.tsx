@@ -20,15 +20,15 @@ const EventSection = () => {
     <div id="events">
       <div className="flex flex-col lg:flex-row justify-between mt-8 w-full">
         <Heading title="Explore our events" />
-        <div className="flex items-center text-blue-500 cursor-pointer mt-4 lg:mt-0 lg:ml-auto">
+        <div className="flex items-center cursor-pointer mt-4 lg:mt-0 lg:ml-auto">
           <Link href={`${prefix}${'/events'}`}>
-            <span className="flex items-center text-white hover:text-csred hover:border-csred transition duration-200 ease-in-out text-xl font-space-mono border-b-2">
+            <span className="flex items-center gap-2 text-white hover:text-csred hover:border-csred transition duration-150 ease-in-out text-xl font-space-mono">
               ALL EVENTS <MdArrowForward />
             </span>
           </Link>
         </div>
       </div>
-      <div className="mt-6 justify-center items-center w-full pl-4 pr-4">
+      <div className="mt-6 justify-center items-center w-full">
         <EventGrid events={events} />
       </div>
     </div>

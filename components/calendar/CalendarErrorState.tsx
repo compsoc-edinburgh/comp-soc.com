@@ -10,7 +10,7 @@ const CalendarErrorState = ({
   onRetry,
 }: CalendarErrorStateProps) => {
   return (
-    <div className="bg-csgrey rounded-2xl border border-border p-8 text-center">
+    <div className="bg-csgrey border border-border p-8 text-center">
       <Calendar className="w-12 h-12 text-textSecondary mx-auto mb-4" />
       <h3 className="text-xl font-tomorrow text-textPrimary mb-2">{message}</h3>
       <p className="text-textSecondary font-space-mono mb-4">

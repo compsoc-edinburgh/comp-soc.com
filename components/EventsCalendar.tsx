@@ -123,7 +123,6 @@ const EventsCalendar: React.FC = () => {
           .calendar-wrapper {
             background: #222222;
             border: 1px solid #484848;
-            border-radius: 8px;
             overflow: hidden;
           }
 
