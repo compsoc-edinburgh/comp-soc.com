@@ -29,7 +29,6 @@ const PresidentQuoteSection = () => {
                       height={160}
                       className="object-cover w-32 h-32 md:w-40 md:h-40"
                     />
-                    <div className="absolute top-1 right-1 w-3 h-3 border-t-2 border-r-2 border-csred"></div>
                   </div>
                 </div>
 
@@ -52,7 +51,7 @@ const PresidentQuoteSection = () => {
                     &ldquo;
                   </div>
 
-                  <div className="relative bg-background/40 border-l-4 border-csred pl-6 md:pl-8 py-4">
+                  <div className="relative">
                     <p className="font-space-mono text-sm text-textPrimary leading-relaxed">
                       {PRESIDENT_QUOTE}
                     </p>
