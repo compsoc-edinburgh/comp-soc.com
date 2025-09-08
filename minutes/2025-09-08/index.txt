@@ -1,0 +1,180 @@
+3:I[39275,[],""]
+5:I[61343,[],""]
+6:I[84269,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-27299e249fa17905.js","173","static/chunks/173-a4fc881f158b666a.js","250","static/chunks/250-f46a353d0d67b303.js","185","static/chunks/app/layout-3e525d04e98d2664.js"],"default"]
+7:I[35719,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-27299e249fa17905.js","173","static/chunks/173-a4fc881f158b666a.js","250","static/chunks/250-f46a353d0d67b303.js","185","static/chunks/app/layout-3e525d04e98d2664.js"],"default"]
+8:I[42452,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-27299e249fa17905.js","173","static/chunks/173-a4fc881f158b666a.js","250","static/chunks/250-f46a353d0d67b303.js","185","static/chunks/app/layout-3e525d04e98d2664.js"],"default"]
+9:I[92056,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-27299e249fa17905.js","173","static/chunks/173-a4fc881f158b666a.js","250","static/chunks/250-f46a353d0d67b303.js","185","static/chunks/app/layout-3e525d04e98d2664.js"],"default"]
+4:["slug","2025-09-08","d"]
+0:["F7K52Lkl0i_QWIJMR8wvl",[[["",{"children":["minutes",{"children":[["slug","2025-09-08","d"],{"children":["__PAGE__?{\"slug\":\"2025-09-08\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["minutes",{"children":[["slug","2025-09-08","d"],{"children":["__PAGE__",{},[["$L1","$L2",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5071fba01565cfd4.css","precedence":"next","crossOrigin":"$undefined"}]]],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","minutes","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","minutes","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5178bbe67b729794.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"relative overflow-x-clip w-screen mx-auto","children":[["$","$L6",null,{"children":["$","$L7",null,{"children":[["$","$L8",null,{}],["$","div",null,{"className":"container mx-auto max-w-screen-xl p-4 pb-32 min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}]]}]}],["$","$L9",null,{}]]}]}]],null],null],["$La",null]]]]
+b:I[95423,["90","static/chunks/90-27299e249fa17905.js","820","static/chunks/app/minutes/%5Bslug%5D/page-c3c38c8a089db779.js"],"default"]
+c:Te74,<h1>CompSoc Meeting Minutes 2025-09-08</h1>
+<h2>Attendees</h2>
+<h3>Committee</h3>
+<ul>
+<li>President - <strong>Kacper</strong></li>
+<li>Secretary - <strong>Alex</strong></li>
+<li>Treasurer - <strong>Kameran</strong></li>
+<li>Vice President - <strong>Anna</strong></li>
+<li>TechSec - <strong>Emily</strong></li>
+<li>Graphic Designer - <strong>Kay</strong></li>
+<li>Social Media Officer - <strong>Tim</strong></li>
+<li>2nd Year Rep - <strong>Danyil</strong></li>
+<li>Social Sec - <strong>Param</strong></li>
+<li>3rd Year Rep - <strong>Anya</strong></li>
+</ul>
+<h3>SIG Reps</h3>
+<ul>
+<li>SIGINT - <strong>Archie</strong></li>
+<li>QuantSIG - <strong>Micheal</strong></li>
+</ul>
+<h2>Items</h2>
+<h3>Welcome Week</h3>
+<ul>
+<li>Sig Events are running fine</li>
+<li>Karaoke night all looks good</li>
+<li>Informatics fair on Tuesday
+<ul>
+<li>Starts 11, setup at 10
+<ul>
+<li>Kacper+Alex bringing cupboard stuff + sweets (flag, posters, etc)</li>
+<li>Need to</li>
+</ul>
+</li>
+<li>Need people for stalls</li>
+<li>11-4
+<ul>
+<li>Kacper 11-1</li>
+<li>Anna - until 1:30, back at 3</li>
+<li>Tim 10-2</li>
+<li>Emily 2-4</li>
+<li>Alex 10-2</li>
+</ul>
+</li>
+<li>Sigs should be there for ten
+<ul>
+<li>But limited space for tables</li>
+</ul>
+</li>
+<li>Games Section
+<ul>
+<li>SoI request</li>
+<li>Use switch to play mario kart tournament</li>
+<li>Take student numbers, write down time</li>
+<li>Anna looking after</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Gaming night on Tuesday
+<ul>
+<li>Largely running itself</li>
+<li>Tardis Minecraft server (Alex to setup)</li>
+<li>Pizza and drinks</li>
+</ul>
+</li>
+<li>Pub crawl
+<ul>
+<li>Emily - blue team</li>
+<li>Archie - red team</li>
+</ul>
+</li>
+<li>Arthur's seat hike
+<ul>
+<li>12-3</li>
+<li>Alex</li>
+<li>Archie</li>
+<li>Still need more people</li>
+</ul>
+</li>
+<li>Activities' fair
+<ul>
+<li>Setup 9, opens 10, ends at 4</li>
+<li>Emily</li>
+<li>Param</li>
+<li>Kacper</li>
+<li>Alex in morning</li>
+</ul>
+</li>
+<li>Photo Scavenger hunt
+<ul>
+<li>Quantsig people running it</li>
+</ul>
+</li>
+</ul>
+<h3>Future meetings</h3>
+<ul>
+<li>Will wait for tutorials to come out</li>
+</ul>
+<h3>September STMU</h3>
+<ul>
+<li>Run on 22nd to avoid ACFAM clash</li>
+<li>Trying to do one talk from academics one talk from sponsors</li>
+<li>Sponsor -> Pizza -> Academic</li>
+</ul>
+<h3>Huawei Event</h3>
+<ul>
+<li>w/c 29th</li>
+<li>Have most things setup (posters etc)
+<ul>
+<li>Keep advertising</li>
+</ul>
+</li>
+<li>In person events monday and friday</li>
+<li>People helping
+<ul>
+<li>Anna</li>
+<li>Kacper</li>
+<li>Uyi</li>
+</ul>
+</li>
+<li>Tech support on day
+<ul>
+<li>Giving access to VMs</li>
+<li>Add CompSoc github user to their private repos</li>
+</ul>
+</li>
+<li>Remote tech setup
+<ul>
+<li>Alex</li>
+<li>Emily</li>
+</ul>
+</li>
+<li>Catering to be sorted out</li>
+</ul>
+<h3>Informatics Teachathon</h3>
+<ul>
+<li>Take home assignment where groups create proposal about how AI can work better with education</li>
+<li>w/c 29th</li>
+<li>CompSoc is helping with advertising and advisory</li>
+<li>Also wants student speakers</li>
+<li>Graphics already made</li>
+</ul>
+<h2>Misc.</h2>
+<ul>
+<li>CompSoc Birthday event in January (25th birthday)
+<ul>
+<li>Start to need ideas</li>
+</ul>
+</li>
+<li>What need for STMUs
+<ul>
+<li>3 Tables for pizza, 1 for merch</li>
+<li>3 mics</li>
+<li>We provide livestreaming tech</li>
+</ul>
+</li>
+</ul>
+<h2>Actions</h2>
+<ul>
+<li>Announce EVP as a sig</li>
+<li>Order pizza for gaming night</li>
+<li>Find more people for arthur's seat</li>
+<li>Ask about tardis minecraft server</li>
+<li>Correct arthurs seat info on eusa</li>
+<li>When2meet for first meetings</li>
+<li>Catering for Huawei Event</li>
+<li>eusa change scav hunt to AT cafeteria start</li>
+<li>Setup good recordings of STMUs</li>
+</ul>2:["$","$Lb",null,{"contentHtml":"$c","title":"2025-09-08","modifiedAt":"$D2025-09-08T12:56:01.606Z"}]
+a:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#353535"}],["$","meta","2",{"charSet":"utf-8"}],["$","title","3",{"children":"CompSoc"}],["$","meta","4",{"name":"description","content":"CompSoc is Edinburgh University's technology society! We're Scotland's best and largest of its kind, and form one of the largest societies within the university."}],["$","link","5",{"rel":"icon","href":"https://comp-soc.com/compsoc-mini.svg"}]]
+1:null
