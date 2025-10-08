@@ -129,7 +129,7 @@ export const sponsors: Sponsor[] = [
 
   {
     name: 'Huawei',
-    img: 'huawei.png',
+    img: 'huawei.webp',
     tier: 'platinum',
     description: 'Huawei is a leading global provider of information and communications technology (ICT) infrastructure and smart devices.',
     link: 'https://www.huawei.com/',
