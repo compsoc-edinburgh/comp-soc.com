@@ -8,7 +8,7 @@ export const sponsors: Sponsor[] = [
   //   description: 'Addepar is a wealth management platform that specializes in data aggregation, analytics, and reporting.',
   //   link: 'https://addepar.com/',
   // },
-
+/*
   {
     name: 'Meta',
     img: 'meta-logo.png',
@@ -18,7 +18,7 @@ export const sponsors: Sponsor[] = [
     link: 'https://meta.com/',
     shortlink: 'https://shorturl.at/e0aop',
   },
-
+*/
   {
     name: 'G-Research',
     img: 'gresearch-logo.png',
@@ -38,7 +38,7 @@ export const sponsors: Sponsor[] = [
     link: 'https://www.qube-rt.com/',
     shortlink: 'https://shorturl.at/MCubc',
   },
-
+/*
   {
     name: 'Lloyds',
     img: 'lloyds-logo.png',
@@ -47,7 +47,8 @@ export const sponsors: Sponsor[] = [
     link: 'https://www.lloydsbank.com/',
     shortlink: 'https://shorturl.at/rvFLd',
   },
-
+*/
+/*
   {
     name: 'Viridien',
     img: 'viridien-logo.png',
@@ -57,7 +58,7 @@ export const sponsors: Sponsor[] = [
     link: 'https://www.viridiengroup.com/',
     shortlink: 'https://shorturl.at/Lq0C9',
   },
-
+*/
   // {
   //   name: 'Bloomberg',
   //   img: 'bloomberg-logo.png',
@@ -106,7 +107,7 @@ export const sponsors: Sponsor[] = [
     link: 'https://www.optiver.com/',
     shortlink: 'https://shorturl.at/4KRoS',
   },
-
+/*
   {
     name: 'Neuphonic',
     img: 'neuphonic-logo.png',
@@ -116,7 +117,7 @@ export const sponsors: Sponsor[] = [
     link: 'https://neuphonic.com/',
     shortlink: 'https://shorturl.at/cVkQq',
   },
-
+*/
   {
     name: 'TPP',
     img: 'tpp-logo.png',
@@ -125,4 +126,24 @@ export const sponsors: Sponsor[] = [
     link: 'https://tpp-careers.com/',
     shortlink: 'https://shorturl.at/8q3LK',
   },
+
+  {
+    name: 'Huawei',
+    img: 'huawei.png',
+    tier: 'platinum',
+    description: 'Huawei is a leading global provider of information and communications technology (ICT) infrastructure and smart devices.',
+    link: 'https://www.huawei.com/',
+    shortlink: 'https://shorturl.at/x08YH',
+  },
+
+  {
+    name: 'Bending Spoons',
+    img: 'bending-spoons.png',
+    tier: 'silver',
+    description: 'Impossible. Maybe. Bending spoons is a technology market leader serving nearly a billion accross the globe.',
+    link: 'https://bendingspoons.com',
+    shortlink: 'https://shorturl.at/ahcgX',
+
+  },
+
 ]
