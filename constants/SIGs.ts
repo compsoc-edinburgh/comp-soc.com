@@ -95,17 +95,17 @@ export const SIGs: SIG[] = [
     showCard: true,
   },
   {
-    name: 'quantsig',
+    name: 'QuantSIG',
     description:
       'Anything and everything to do with quantitative finance and algorithmic trading',
     icon: {
-      src: 'quantsig.png',
-      alt: 'QuantSig logo',
+      src: 'quantsig.svg',
+      alt: 'QuantSIG logo',
       rounded: 'rounded-full',
     },
-    backgroundColor: '#fffcf4',
-    borderColor: '#fba308',
-    textColor: '#843414',
+    backgroundColor: '#0A192F',
+    borderColor: '#F4E4BC',
+    textColor: '#FFFFFF',
     websiteURL: 'https://quantsig.org/',
     calendarURL:
       'c_629efcdcd3e1a5acec8b709303206758c5b588654bd6ec95acffed9597bc6161@group.calendar.google.com',
