@@ -140,7 +140,7 @@ export const sponsors: Sponsor[] = [
     name: 'Bending Spoons',
     img: 'bending-spoons.png',
     tier: 'silver',
-    description: 'Impossible. Maybe. Bending spoons is a technology market leader serving nearly a billion accross the globe.',
+    description: 'Impossible. Maybe. Bending spoons is a technology market leader serving nearly a billion across the globe.',
     link: 'https://bendingspoons.com',
     shortlink: 'https://shorturl.at/ahcgX',
 
