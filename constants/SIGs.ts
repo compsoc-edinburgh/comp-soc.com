@@ -190,4 +190,20 @@ export const SIGs: SIG[] = [
       'comp-soc.com_1k2f1gda8js9nav1ilr5g5h6vk@group.calendar.google.com',
     showCard: false,
   },
+  {
+    name: 'Edinburgh Venture Point',
+    description: 'Edinburgh VenturePoint is the launchpad for the University of Edinburgh’s boldest student founders and innovators.',
+    icon: {
+      src: 'evp.png',
+      alt: 'the compsoc logo',
+      rounded: 'rounded-none',
+    },
+    backgroundColor: '#3333f5',
+    textColor: '#ffffff',
+    websiteURL: '',
+    borderColor: '',
+    calendarURL:
+      '',
+    showCard: true,
+  },
 ]
