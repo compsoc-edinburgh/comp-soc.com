@@ -1,0 +1,183 @@
+3:I[39275,[],""]
+5:I[61343,[],""]
+6:I[84269,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-27299e249fa17905.js","173","static/chunks/173-a4fc881f158b666a.js","250","static/chunks/250-f46a353d0d67b303.js","185","static/chunks/app/layout-3e525d04e98d2664.js"],"default"]
+7:I[35719,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-27299e249fa17905.js","173","static/chunks/173-a4fc881f158b666a.js","250","static/chunks/250-f46a353d0d67b303.js","185","static/chunks/app/layout-3e525d04e98d2664.js"],"default"]
+8:I[42452,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-27299e249fa17905.js","173","static/chunks/173-a4fc881f158b666a.js","250","static/chunks/250-f46a353d0d67b303.js","185","static/chunks/app/layout-3e525d04e98d2664.js"],"default"]
+9:I[92056,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-27299e249fa17905.js","173","static/chunks/173-a4fc881f158b666a.js","250","static/chunks/250-f46a353d0d67b303.js","185","static/chunks/app/layout-3e525d04e98d2664.js"],"default"]
+4:["slug","2025-10-13","d"]
+0:["70JTfnZvRqkD_fQhesXZ1",[[["",{"children":["minutes",{"children":[["slug","2025-10-13","d"],{"children":["__PAGE__?{\"slug\":\"2025-10-13\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["minutes",{"children":[["slug","2025-10-13","d"],{"children":["__PAGE__",{},[["$L1","$L2",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5071fba01565cfd4.css","precedence":"next","crossOrigin":"$undefined"}]]],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","minutes","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","minutes","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5178bbe67b729794.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"relative overflow-x-clip w-screen mx-auto","children":[["$","$L6",null,{"children":["$","$L7",null,{"children":[["$","$L8",null,{}],["$","div",null,{"className":"container mx-auto max-w-screen-xl p-4 pb-32 min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}]]}]}],["$","$L9",null,{}]]}]}]],null],null],["$La",null]]]]
+b:I[95423,["90","static/chunks/90-27299e249fa17905.js","820","static/chunks/app/minutes/%5Bslug%5D/page-c3c38c8a089db779.js"],"default"]
+c:Tf17,<h1>CompSoc Meeting Minutes 2025-10-13</h1>
+<h2>Attendees</h2>
+<h3>Committee</h3>
+<ul>
+<li>President - <strong>Kacper</strong></li>
+<li>Secretary - <strong>Alex</strong></li>
+<li>Vice President - <strong>Anna</strong></li>
+<li>TechSec - <strong>Emily</strong></li>
+<li>Social Secretary - <strong>Param</strong></li>
+<li>Graphic Designer - <strong>Kay</strong></li>
+<li>EDI Rep - <strong>Sorana</strong></li>
+<li>4th Year Rep - <strong>Vojtech</strong></li>
+</ul>
+<h3>SIG Reps</h3>
+<ul>
+<li>TARDIS - <strong>Merlin</strong></li>
+</ul>
+<h3>Halloween party</h3>
+<ul>
+<li>Prob. 25th</li>
+<li>Hoppers collab</li>
+<li>Interested in Golf Tavern and costume party</li>
+</ul>
+<h3>Social media team</h3>
+<ul>
+<li>Put up announcement for social media team roles</li>
+<li>Non committee</li>
+<li>Roles and social responsibilities:
+<ul>
+<li>Up to Tim to allocate roles</li>
+<li>Jobs
+<ul>
+<li>Photography</li>
+<li>Social posts</li>
+<li>Sponsor posts</li>
+<li>Someone to chase Kay about producing graphics</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>But shouldn't add work to committee - don't overlap</li>
+</ul>
+<h3>Cloudsig</h3>
+<ul>
+<li>Need to do announcement, and will need quorum next week</li>
+</ul>
+<h3>QRT Event</h3>
+<ul>
+<li>Wants to hold event Monday 10th November 6-8 ish</li>
+<li>Room: G.07 hopefully
+<ul>
+<li>Reach out to InfForum servitors tonight to book room</li>
+<li>Booking would be 5:30-9 if we can</li>
+</ul>
+</li>
+<li>Produce promotional material</li>
+<li>Panel event</li>
+</ul>
+<h3>Infball Clothes Sale</h3>
+<ul>
+<li>Going along</li>
+<li>Need 2 volunteers for Thursday 12pm - 1:30pm
+<ul>
+<li>Anya maybe?</li>
+<li>Kacper maybe?</li>
+</ul>
+</li>
+</ul>
+<h3>Welfare working group</h3>
+<ul>
+<li>Aim to review code of conduct, values</li>
+<li>Also aim to create protocols/procedures for handling complaints, safeguarding concerns</li>
+<li>Communicate to community that people can come to EDI rep (point of contact)</li>
+<li>Anonymous contact forms
+<ul>
+<li>Help</li>
+<li>Feedback</li>
+</ul>
+</li>
+<li>Members:
+<ul>
+<li>Anna</li>
+<li>Alex</li>
+<li>Sorana</li>
+<li>Kacper</li>
+</ul>
+</li>
+</ul>
+<h3>BitSig Leadership</h3>
+<ul>
+<li>Old leader happy to hand off to Marc, Omar</li>
+<li>Plans
+<ul>
+<li>Host workshops</li>
+<li>Tech talks by leaders or industry figures
+<ul>
+<li>Talking to people already</li>
+</ul>
+</li>
+<li>Open with theory talks and introductory workshops</li>
+<li>Computer in minecraft as entry event</li>
+<li>Academics</li>
+</ul>
+</li>
+<li>Sig collabs
+<ul>
+<li>Gamedev</li>
+<li>AI</li>
+<li>Sigint</li>
+</ul>
+</li>
+<li>Handover done!</li>
+</ul>
+<h3>NeuroTech Sig</h3>
+<ul>
+<li>What is your expected spending?
+<ul>
+<li>Initial workshops won't need high expenses, just use pre-recorded data</li>
+</ul>
+</li>
+<li>Numbers?
+<ul>
+<li>32 people signed up</li>
+</ul>
+</li>
+<li>Potential talks from:
+<ul>
+<li>Academics</li>
+<li>Neurotech companies in Glasgow, Strathclyde</li>
+<li>Collab/hackathon with Imperial Neurotech society</li>
+</ul>
+</li>
+<li>Events
+<ul>
+<li>Will probably be start next semesters</li>
+<li>Or maybe an intro</li>
+</ul>
+</li>
+<li>Unanimous vote to create sig O7</li>
+</ul>
+<h2>Misc.</h2>
+<ul>
+<li>Next STMU
+<ul>
+<li>Still waiting to hear back about allowed numbers</li>
+<li>Also still supposed to do fire warden training</li>
+<li>Sorana has fire steward training</li>
+</ul>
+</li>
+<li>EVP announce
+<ul>
+<li>Just need to do the Instagram post</li>
+</ul>
+</li>
+<li>Let's do names/roles/pronouns in future</li>
+<li>Sponsor site update is done</li>
+</ul>
+<h2>Actions</h2>
+<ul>
+<li>Confirm Halloween venue with Hoppers tonight - Param</li>
+<li>Reach out to servitors tonight - Anna</li>
+<li>Find volunteers for Infball clothes sale</li>
+<li>BitSig, handover discord - Emily, Omar</li>
+<li>Create NeuroTechSig
+<ul>
+<li>Announcement</li>
+<li>Add to discord roles</li>
+<li>Create channel on discord</li>
+<li>Need to create a discord</li>
+</ul>
+</li>
+</ul>2:["$","$Lb",null,{"contentHtml":"$c","title":"2025-10-13","modifiedAt":"$D2025-10-13T17:38:01.220Z"}]
+a:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#353535"}],["$","meta","2",{"charSet":"utf-8"}],["$","title","3",{"children":"CompSoc"}],["$","meta","4",{"name":"description","content":"CompSoc is Edinburgh University's technology society! We're Scotland's best and largest of its kind, and form one of the largest societies within the university."}],["$","link","5",{"rel":"icon","href":"https://comp-soc.com/compsoc-mini.svg"}]]
+1:null
