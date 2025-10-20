@@ -20,7 +20,7 @@ Compsoc <3 You!
 _The views expressed on the following manifestos are the candidates' own and do not represent those of CompSoc. They are hosted here for the purposes of facilitating EUSA elections._
 | Role                     | Name                                  | Manifesto Link                                                                             |
 | ------------------------ | ------------------------------------- | ------------------------------------------------------------------------------------------ |
-| **1st Year Rep**         | Nobody has run for this position yet! |                                                                                            |
+| **1st Year Rep**         | Daniel Zious |[Link](https://drive.google.com/file/d/1o4CIFfwt9_ZpCsi21Mtg5qbmNoFMowoi/view?usp=sharing)|
 | **4th Year Rep**         | Nobody has run for this position yet! |                                                                                            |
 | **Social Secretary**     | Nobody has run for this position yet! |                                                                                            |
-| **Junior Treasurer**     | Nobody has run for this position yet! |                                                                                            |
+| **Junior Treasurer**     | Dhyey Mehta |[Link](https://drive.google.com/file/d/16QMchsdYJwQZ8c0CoPSfandHrMhVKSHV/view?usp=sharing)|
