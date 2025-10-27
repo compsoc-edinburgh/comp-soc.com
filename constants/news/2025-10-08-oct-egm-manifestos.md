@@ -21,6 +21,8 @@ _The views expressed on the following manifestos are the candidates' own and do 
 | Role                     | Name                                  | Manifesto Link                                                                             |
 | ------------------------ | ------------------------------------- | ------------------------------------------------------------------------------------------ |
 | **1st Year Rep**         | Daniel Johnsson |[Link](https://drive.google.com/file/d/1o4CIFfwt9_ZpCsi21Mtg5qbmNoFMowoi/view?usp=sharing)|
+| | Kaiwen Wang | [Link](https://drive.google.com/file/d/1Rye4IMk4wEXO8RjyHky-dvspCb-u5_9m/view?usp=sharing) |
+| | Marcus Gupta | [Link](https://drive.google.com/file/d/198l8DgiMKaAZ3LxYjJNj_mVba-2GSGEI/view?usp=sharing) |
 | **4th Year Rep**         | Nobody has run for this position yet! |                                                                                            |
 | **Social Secretary**     | Nobody has run for this position yet! |                                                                                            |
 | **Junior Treasurer**     | Dhyey Mehta |[Link](https://drive.google.com/file/d/16QMchsdYJwQZ8c0CoPSfandHrMhVKSHV/view?usp=sharing)|
