@@ -24,5 +24,5 @@ _The views expressed on the following manifestos are the candidates' own and do 
 | | Kaiwen Wang | [Link](https://drive.google.com/file/d/1Rye4IMk4wEXO8RjyHky-dvspCb-u5_9m/view?usp=sharing) |
 | | Marcus Gupta | [Link](https://drive.google.com/file/d/198l8DgiMKaAZ3LxYjJNj_mVba-2GSGEI/view?usp=sharing) |
 | **4th Year Rep**         | Nobody has run for this position yet! |                                                                                            |
-| **Social Secretary**     | Nobody has run for this position yet! |                                                                                            |
+| **Social Secretary**     | Yaryk Bohonos |  [Link](https://drive.google.com/file/d/1ttigcMy9bFzN_TU53n3koko-XBu-_RCZ/view?usp=sharing)                                                                                          |
 | **Junior Treasurer**     | Dhyey Mehta |[Link](https://drive.google.com/file/d/16QMchsdYJwQZ8c0CoPSfandHrMhVKSHV/view?usp=sharing)|
