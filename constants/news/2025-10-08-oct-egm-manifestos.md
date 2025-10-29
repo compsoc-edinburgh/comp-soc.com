@@ -26,4 +26,5 @@ _The views expressed on the following manifestos are the candidates' own and do 
 | | Luc Wallace | [Link](https://drive.google.com/file/d/1F4GH2VCtqnxpmDg8DmzyJuFfLglMdip_/view?usp=sharing) |
 | **4th Year Rep**         | Vojtech Janovec | [Link](https://drive.google.com/file/d/1NuHOB9AAQarWIQqwmGntlNp96gByEmt_/view?usp=sharing)                                                                                            |
 | **Social Secretary**     | Yaryk Bohonos |  [Link](https://drive.google.com/file/d/1ttigcMy9bFzN_TU53n3koko-XBu-_RCZ/view?usp=sharing)                                                                                          |
+| | Saksham Rao | [Link](https://drive.google.com/file/d/1VPvpJlU0rRZ-cSfhaNKwwpBAeUidQMRl/view?usp=sharing) |
 | **Junior Treasurer**     | Dhyey Mehta |[Link](https://drive.google.com/file/d/16QMchsdYJwQZ8c0CoPSfandHrMhVKSHV/view?usp=sharing)|
