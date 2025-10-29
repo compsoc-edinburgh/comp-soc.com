@@ -1,0 +1,90 @@
+3:I[39275,[],""]
+5:I[61343,[],""]
+6:I[84269,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-27299e249fa17905.js","173","static/chunks/173-a4fc881f158b666a.js","250","static/chunks/250-f46a353d0d67b303.js","185","static/chunks/app/layout-3e525d04e98d2664.js"],"default"]
+7:I[35719,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-27299e249fa17905.js","173","static/chunks/173-a4fc881f158b666a.js","250","static/chunks/250-f46a353d0d67b303.js","185","static/chunks/app/layout-3e525d04e98d2664.js"],"default"]
+8:I[42452,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-27299e249fa17905.js","173","static/chunks/173-a4fc881f158b666a.js","250","static/chunks/250-f46a353d0d67b303.js","185","static/chunks/app/layout-3e525d04e98d2664.js"],"default"]
+9:I[92056,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-27299e249fa17905.js","173","static/chunks/173-a4fc881f158b666a.js","250","static/chunks/250-f46a353d0d67b303.js","185","static/chunks/app/layout-3e525d04e98d2664.js"],"default"]
+4:["slug","2025-10-27","d"]
+0:["TnfO1vbaKX1klTck2__9L",[[["",{"children":["news",{"children":[["slug","2025-10-27","d"],{"children":["__PAGE__?{\"slug\":\"2025-10-27\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["news",{"children":[["slug","2025-10-27","d"],{"children":["__PAGE__",{},[["$L1","$L2",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/4f73088097ff82e8.css","precedence":"next","crossOrigin":"$undefined"}]]],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","news","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","news","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5178bbe67b729794.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"relative overflow-x-clip w-screen mx-auto","children":[["$","$L6",null,{"children":["$","$L7",null,{"children":[["$","$L8",null,{}],["$","div",null,{"className":"container mx-auto max-w-screen-xl p-4 pb-32 min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}]]}]}],["$","$L9",null,{}]]}]}]],null],null],["$La",null]]]]
+b:I[71386,["90","static/chunks/90-27299e249fa17905.js","329","static/chunks/app/news/%5Bslug%5D/page-1a3758b82ab22d0d.js"],"default"]
+c:T111a,<h1><strong>CompSoc Meeting Minutes 2025-10-20</strong></h1>
+<h2><strong>Attendees</strong></h2>
+<h3><strong>Committee</strong></h3>
+<ul>
+<li>
+<p>President - <strong>Kacper</strong>  </p>
+</li>
+<li>
+<p>Vice President - <strong>Anna</strong>  </p>
+</li>
+<li>
+<p>TechSec - <strong>Emily</strong>  </p>
+</li>
+<li>
+<p>Social Secretary - <strong>Param</strong>  </p>
+</li>
+<li>
+<p>Graphic Designer - <strong>Kay</strong>  </p>
+</li>
+<li>
+<p>2nd Year Rep - <strong>Danyil</strong></p>
+</li>
+</ul>
+<h3><strong>SIG Reps</strong></h3>
+<ul>
+<li>
+<p>BitSIG - <strong>Omar</strong>  </p>
+</li>
+<li>
+<p>SIGINT - <strong>Archie</strong>  </p>
+</li>
+<li>
+<p>Tardis - Merlin  </p>
+</li>
+<li>
+<p>Cloudsig - Iretemi, Suvan, Eva</p>
+</li>
+</ul>
+<p>Guest - Isaac (taking minutes)</p>
+<h2><strong>Items</strong></h2>
+<p><strong>AI and accessibility hackathon</strong>  </p>
+<p>Anna approached by Aurora Constantin from school of informatics  </p>
+<p>Google and skyscanner as sponsors (unsure if this is actually obtained or just planned targets?)  </p>
+<p>Asking for help from compsoc  </p>
+<p>Could be promotion, making challenges, organisational advice  </p>
+<p>Planned to be in February  </p>
+<p>Kacper - Don’t want it to be like cauldron labs event, i.e. make sure compsoc doesn’t take too much of the burden</p>
+<p><strong>EGM</strong>  </p>
+<p>uni events team aware of everything going on  </p>
+<p>booked from 5-9pm  </p>
+<p>Don’t share bending spoons recordings publicly, can stop/start livestream around it, post recording privately  </p>
+<p>Kay has camera with mini-hdmi out which can be used for livestream through OBS, need to get adapter to HDMI  </p>
+<p>Emily - Need to rewrite rust code for scraping members list because uni changed auth stuff</p>
+<p>Kaiwen won’t be allowed to play video during election, unfair as not explicitly stated in rules</p>
+<p><strong>Kacper - Web3 society hackathon collab request</strong>  </p>
+<p>Originally wanted to do it in sem1, rejected because of HtB, so moved to sem2  </p>
+<p>Allegedly revolut, solana, etc. are willing to support  </p>
+<p>“Crypto HtB I guess”  </p>
+<p>AI agents, stablecoins, mini apps, DeFi  </p>
+<p>Potentially say compsoc can’t help them unless they’re a SIG  </p>
+<p>Ask if QuantSIG are interested?  </p>
+<p>Kacper will get some of the web3 people to a future committee meeting to talk more about it</p>
+<p><strong>Cloudsig</strong>  </p>
+<p>Kacper doesn’t want to vote about them today, technically they don’t need a quorum by the constitution, but practically they should need one because the SIG has been dead for 2 years so no direct line of succession  </p>
+<p>Merlin - point of quorum vote is to prevent priv-esc takeover of committee by small group of  people  </p>
+<p>They have a budget, ~£350/year, over about 7 sessions, project share is more like £20 per session for snacks and stuff, list of sponsors to cold-email, might want to check for ones which have bad reputations (BDS lists) after getting responses  </p>
+<p>Start running regular events in Sem2 to give more time for planning, start with a big intro event (AWS workshop), do regular events every 2 weeks  </p>
+<p>Smaller businesses are more amenable for speakers  </p>
+<p>Michael glienicke would be likely to be willing to do a talk - might be useful for getting more traction with non 1st years  </p>
+<p>SIGINT collab, CTF with cloud theme, e.g. misconfigured s3 buckets, …  </p>
+<p>Anna, Kacper - Important to advertise aggressively to try and get more non-1st years  </p>
+<p>Push back Sem2 event by a week or 2 because lots of people won’t get back for a bit after christmas hols  </p>
+<p>Emily - clearly are taking it seriously, have proper planning for events, concur around importance of getting non 1st-years, diversifying committee outside of just 1 friend group to make SIG more sustainable, finding people who have more expertise for teaching  </p>
+<p>Kacper wants to sign off on any announcements before they get sent  </p>
+<p>Try to get access to mailing list for advertising  </p>
+<p>Anna - vote on cloudsig quickly to make it easier to do planning, events, advertising  </p>
+<p>Don’t have enough of exec commitee for vote to take place this week  </p>
+<p>kameran’s busy with HtB so might not be able to help out  </p>
+<p>CloudSIG back for halloween - frankenstein</p>2:["$","$Lb",null,{"contentHtml":"$c","title":"$undefined","modifiedAt":"$D2025-10-29T12:53:41.026Z"}]
+a:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#353535"}],["$","meta","2",{"charSet":"utf-8"}],["$","title","3",{"children":"CompSoc"}],["$","meta","4",{"name":"description","content":"CompSoc is Edinburgh University's technology society! We're Scotland's best and largest of its kind, and form one of the largest societies within the university."}],["$","link","5",{"rel":"icon","href":"https://comp-soc.com/compsoc-mini.svg"}]]
+1:null
