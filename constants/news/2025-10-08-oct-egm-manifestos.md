@@ -23,6 +23,7 @@ _The views expressed on the following manifestos are the candidates' own and do 
 | **1st Year Rep**         | Daniel Johnsson |[Link](https://drive.google.com/file/d/1o4CIFfwt9_ZpCsi21Mtg5qbmNoFMowoi/view?usp=sharing)|
 | | Kaiwen Wang | [Link](https://drive.google.com/file/d/1Rye4IMk4wEXO8RjyHky-dvspCb-u5_9m/view?usp=sharing) |
 | | Marcus Gupta | [Link](https://drive.google.com/file/d/198l8DgiMKaAZ3LxYjJNj_mVba-2GSGEI/view?usp=sharing) |
-| **4th Year Rep**         | Nobody has run for this position yet! |                                                                                            |
+| | Luc Wallace | [Link](https://drive.google.com/file/d/1F4GH2VCtqnxpmDg8DmzyJuFfLglMdip_/view?usp=sharing) |
+| **4th Year Rep**         | Vojtech Janovec | [Link](https://drive.google.com/file/d/1NuHOB9AAQarWIQqwmGntlNp96gByEmt_/view?usp=sharing)                                                                                            |
 | **Social Secretary**     | Yaryk Bohonos |  [Link](https://drive.google.com/file/d/1ttigcMy9bFzN_TU53n3koko-XBu-_RCZ/view?usp=sharing)                                                                                          |
 | **Junior Treasurer**     | Dhyey Mehta |[Link](https://drive.google.com/file/d/16QMchsdYJwQZ8c0CoPSfandHrMhVKSHV/view?usp=sharing)|
