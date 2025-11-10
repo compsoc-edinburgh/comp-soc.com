@@ -1,0 +1,158 @@
+3:I[39275,[],""]
+5:I[61343,[],""]
+6:I[84269,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-27299e249fa17905.js","173","static/chunks/173-a4fc881f158b666a.js","250","static/chunks/250-f46a353d0d67b303.js","185","static/chunks/app/layout-3e525d04e98d2664.js"],"default"]
+7:I[35719,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-27299e249fa17905.js","173","static/chunks/173-a4fc881f158b666a.js","250","static/chunks/250-f46a353d0d67b303.js","185","static/chunks/app/layout-3e525d04e98d2664.js"],"default"]
+8:I[42452,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-27299e249fa17905.js","173","static/chunks/173-a4fc881f158b666a.js","250","static/chunks/250-f46a353d0d67b303.js","185","static/chunks/app/layout-3e525d04e98d2664.js"],"default"]
+9:I[92056,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-27299e249fa17905.js","173","static/chunks/173-a4fc881f158b666a.js","250","static/chunks/250-f46a353d0d67b303.js","185","static/chunks/app/layout-3e525d04e98d2664.js"],"default"]
+4:["slug","2025-11-10","d"]
+0:["uVmujXHJGxoXY4zxMaIcn",[[["",{"children":["minutes",{"children":[["slug","2025-11-10","d"],{"children":["__PAGE__?{\"slug\":\"2025-11-10\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["minutes",{"children":[["slug","2025-11-10","d"],{"children":["__PAGE__",{},[["$L1","$L2",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5071fba01565cfd4.css","precedence":"next","crossOrigin":"$undefined"}]]],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","minutes","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","minutes","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5178bbe67b729794.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"relative overflow-x-clip w-screen mx-auto","children":[["$","$L6",null,{"children":["$","$L7",null,{"children":[["$","$L8",null,{}],["$","div",null,{"className":"container mx-auto max-w-screen-xl p-4 pb-32 min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}]]}]}],["$","$L9",null,{}]]}]}]],null],null],["$La",null]]]]
+b:I[95423,["90","static/chunks/90-27299e249fa17905.js","820","static/chunks/app/minutes/%5Bslug%5D/page-c3c38c8a089db779.js"],"default"]
+c:Td2e,<h1>CompSoc Meeting Minutes 2025-11-10</h1>
+<h2>Attendees</h2>
+<h3>Committee</h3>
+<ul>
+<li>President - <strong>Kacper</strong></li>
+<li>Secretary - <strong>Alex</strong></li>
+<li>Treasurer - <strong>Kameran</strong></li>
+<li>Junior Treasurer - <strong>Dhyey</strong></li>
+<li>Vice President - <strong>Anna</strong></li>
+<li>TechSec - <strong>Bex</strong></li>
+<li>Social Secretary - <strong>Param</strong></li>
+<li>Graphic Designer - <strong>Kay</strong></li>
+<li>1st Year Rep - <strong>Kaiwen</strong></li>
+<li>2nd Year Rep - <strong>Danyil</strong></li>
+<li>Old Person Rep - <strong>Pa'uk</strong></li>
+</ul>
+<h3>SIG Reps</h3>
+<ul>
+<li>SIGINT - <strong>Archie</strong></li>
+<li>BitSIG - <strong>Omer</strong></li>
+</ul>
+<h3>Guests</h3>
+<ul>
+<li>Yuto</li>
+</ul>
+<h2>Items</h2>
+<h3>Next STMU</h3>
+<ul>
+<li>Huawei - just waiting on a specific speaker</li>
+<li>And found a PHD student happy to be there on the 26th</li>
+<li>Will book - worst case use lightning talk idea</li>
+</ul>
+<h3>CloudSig Vote</h3>
+<ul>
+<li>"To reinstate cloudsig as a sig with Eva, Iretemi, Sam as leaders"
+<ul>
+<li>Will be part of CompSoc</li>
+<li>Will receive £200 preliminary budget</li>
+</ul>
+</li>
+<li>Using remote voting</li>
+<li>Aye - 12 committee votes, 2 sig
+<ul>
+<li>Vote passes</li>
+</ul>
+</li>
+</ul>
+<h3>Event interest registration</h3>
+<ul>
+<li>Danyil's project to create website RSVP system</li>
+<li>Will need to consider GDPR and data collection
+<ul>
+<li>Only collecting emails and maybe delete after event</li>
+<li>Will require contact for early delete</li>
+</ul>
+</li>
+</ul>
+<h3>AoC Event</h3>
+<ul>
+<li>Yuto speaking about advent of code</li>
+<li>Advertise at November STMU</li>
+<li>Poster?</li>
+<li>Close adding points on the 22nd</li>
+<li>Organise collection in January</li>
+<li>Committee timeline
+<ul>
+<li>Decide rewards before December and advertise</li>
+<li>Buy rewards during December</li>
+<li>Organise collection in January</li>
+</ul>
+</li>
+<li>Budget
+<ul>
+<li>100-150 quid for prizes</li>
+</ul>
+</li>
+<li>Reward ideas
+<ul>
+<li>Stickers
+<ul>
+<li>Will need design</li>
+</ul>
+</li>
+<li>Keychains</li>
+<li>Ducks!</li>
+<li>Small Blahajs</li>
+<li>RPI Picos</li>
+<li>AT Lego Kits</li>
+<li>Bex suggests - custom mugs</li>
+<li>Kameran - informatics forum lego set</li>
+</ul>
+</li>
+<li>Point of contact
+<ul>
+<li>Bex</li>
+</ul>
+</li>
+</ul>
+<h3>Neurotech Sig</h3>
+<ul>
+<li>Been hunting speakers</li>
+<li>3 Speakers lined up
+<ul>
+<li>Speaker might need travel reimbursement</li>
+<li>Check EUSA reimbursement rules</li>
+</ul>
+</li>
+<li>Want to hold a launch event last week of November
+<ul>
+<li>Won't do that</li>
+<li>Will launch during SEM2</li>
+</ul>
+</li>
+<li>Will announce at STMU</li>
+</ul>
+<h3>SoI Comms Support</h3>
+<ul>
+<li>School wants someone to do comms</li>
+<li>Would be a social media manager for SoI</li>
+<li>On-off role</li>
+<li>Paid by event</li>
+<li>Speak to Anna - Param interested</li>
+</ul>
+<h3>Merch</h3>
+<ul>
+<li>Tote bags</li>
+<li>Merchandise</li>
+<li>Sort socks</li>
+</ul>
+<h2>Misc.</h2>
+<ul>
+<li>Committee christmas social
+<ul>
+<li>Secret santa - Kay</li>
+</ul>
+</li>
+<li>Some christmas social - Param</li>
+</ul>
+<h2>Actions</h2>
+<ul>
+<li>Instate cloudsig - Anna, Bex</li>
+<li>Decide AoC rewards - Bex, Yuto, overall committee</li>
+<li>Announce Neurotech Sig - Anna</li>
+<li>Merch - Alex, Kay</li>
+<li>Christmas social - Param</li>
+<li>Secret santa - Kay</li>
+</ul>2:["$","$Lb",null,{"contentHtml":"$c","title":"2025-11-10","modifiedAt":"$D2025-11-10T18:18:04.199Z"}]
+a:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#353535"}],["$","meta","2",{"charSet":"utf-8"}],["$","title","3",{"children":"CompSoc"}],["$","meta","4",{"name":"description","content":"CompSoc is Edinburgh University's technology society! We're Scotland's best and largest of its kind, and form one of the largest societies within the university."}],["$","link","5",{"rel":"icon","href":"https://comp-soc.com/compsoc-mini.svg"}]]
+1:null
