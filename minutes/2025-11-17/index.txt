@@ -1,0 +1,217 @@
+3:I[39275,[],""]
+5:I[61343,[],""]
+6:I[84269,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-27299e249fa17905.js","173","static/chunks/173-a4fc881f158b666a.js","250","static/chunks/250-f46a353d0d67b303.js","185","static/chunks/app/layout-3e525d04e98d2664.js"],"default"]
+7:I[35719,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-27299e249fa17905.js","173","static/chunks/173-a4fc881f158b666a.js","250","static/chunks/250-f46a353d0d67b303.js","185","static/chunks/app/layout-3e525d04e98d2664.js"],"default"]
+8:I[42452,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-27299e249fa17905.js","173","static/chunks/173-a4fc881f158b666a.js","250","static/chunks/250-f46a353d0d67b303.js","185","static/chunks/app/layout-3e525d04e98d2664.js"],"default"]
+9:I[92056,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-27299e249fa17905.js","173","static/chunks/173-a4fc881f158b666a.js","250","static/chunks/250-f46a353d0d67b303.js","185","static/chunks/app/layout-3e525d04e98d2664.js"],"default"]
+4:["slug","2025-11-17","d"]
+0:["XyFAK2OCAb4y7vs0xqN88",[[["",{"children":["minutes",{"children":[["slug","2025-11-17","d"],{"children":["__PAGE__?{\"slug\":\"2025-11-17\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["minutes",{"children":[["slug","2025-11-17","d"],{"children":["__PAGE__",{},[["$L1","$L2",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5071fba01565cfd4.css","precedence":"next","crossOrigin":"$undefined"}]]],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","minutes","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","minutes","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5178bbe67b729794.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"relative overflow-x-clip w-screen mx-auto","children":[["$","$L6",null,{"children":["$","$L7",null,{"children":[["$","$L8",null,{}],["$","div",null,{"className":"container mx-auto max-w-screen-xl p-4 pb-32 min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}]]}]}],["$","$L9",null,{}]]}]}]],null],null],["$La",null]]]]
+b:I[95423,["90","static/chunks/90-27299e249fa17905.js","820","static/chunks/app/minutes/%5Bslug%5D/page-c3c38c8a089db779.js"],"default"]
+c:T1198,<h1>CompSoc Meeting Minutes 2025-11-17</h1>
+<h2>Attendees</h2>
+<h3>Committee</h3>
+<ul>
+<li>President - <strong>Kacper</strong></li>
+<li>Treasurer - <strong>Kameran</strong></li>
+<li>Vice President - **Anna</li>
+<li>Graphic Designer - <strong>Kay</strong></li>
+<li>Jr. Treasurer - <strong>Dhyey</strong></li>
+<li>Social Media Officer - <strong>Tim</strong></li>
+</ul>
+<h3>SIG Reps / other</h3>
+<ul>
+<li>BitSIG - <strong>Omar</strong></li>
+<li>Ivan</li>
+<li>Tardis - <strong>Merlin</strong> (additionally taking minutes)</li>
+</ul>
+<h2>Agenda</h2>
+<ul>
+<li>STMU</li>
+<li>AoC</li>
+<li>Secret Santa</li>
+<li>Updates:
+<ul>
+<li>CloudSig</li>
+<li>NeurotechSig</li>
+</ul>
+</li>
+</ul>
+<h2>Items</h2>
+<h3>NeurotechSIG</h3>
+<ul>
+<li>Got a logo, See committee chat</li>
+<li>Should it have SIG in it?
+<ul>
+<li>Edinburgh AI, etc special case
+<ul>
+<li>Existed before joining</li>
+</ul>
+</li>
+<li>No-one minds in this case. Logo is cool.</li>
+<li>Just have SIG mentioned somewhere
+<ul>
+<li>Website etc.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Intro workshops ran in Semester 2</li>
+<li>Announce at an STMU
+<ul>
+<li>5 minutes to explain</li>
+<li>End of Huawei?
+<ul>
+<li>Before/while people are getting pizza</li>
+<li>QR code on screen</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Social media post(s) before STMU</li>
+</ul>
+<h3>STMUs</h3>
+<ul>
+<li>Huawei are in person
+<ul>
+<li>Engineer from Edinburgh</li>
+</ul>
+</li>
+<li>Rescheduled for 25th November (Tuesday)</li>
+<li>PHD student for 2nd talk might be unavailable after date change, waiting on confirmation
+<ul>
+<li>Could perhaps get Andrew in for talk if needed</li>
+<li>School also wants 2 people in for talks
+<ul>
+<li>Bonus: Might be able to get school to pay for pizza</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>We need to be actually be applying for reimbursements from the school for STMUs</li>
+<li>STMU Pizza budget £2000 for year, Used £1300
+<ul>
+<li>Last STMU we spent £800 on pizza.
+<ul>
+<li>Not sustainable</li>
+</ul>
+</li>
+<li>Increase budget a bit but also buy less</li>
+<li>General rule:
+<ul>
+<li>Everyone gets one slice</li>
+<li>if there is more remaining, free for all</li>
+</ul>
+</li>
+<li>4 STMUs left (Nov, Jan, Feb, March)</li>
+<li>Need sponsors to actually pay us</li>
+</ul>
+</li>
+<li>Sponsors want to do some STMUs in semester 2
+<ul>
+<li>Might be more than 4:
+<ul>
+<li>Optiver</li>
+<li>Gresearch</li>
+<li>QRT (previously had bespoke event)</li>
+<li>...</li>
+</ul>
+</li>
+<li>2 STMUs / Month?</li>
+<li>Don't want to turn down sponsors due to lack of STMUs</li>
+</ul>
+</li>
+</ul>
+<h3>AoC</h3>
+<ul>
+<li>Many thanks to Yuto for organising</li>
+<li>Mugs
+<ul>
+<li>Merlin has doubts on being able to dye sublimate onto a dark (black) surface</li>
+<li>Starts on the 1st December, prizes given out after Christmas</li>
+<li>We need to order prizes, but its still moving</li>
+</ul>
+</li>
+</ul>
+<h3>Committee Secret Santa</h3>
+<ul>
+<li>Kay will send out link today</li>
+<li>Needs to be before exams
+<ul>
+<li>1st/2nd December?</li>
+</ul>
+</li>
+<li>Standard secret santa rules</li>
+<li>Gift exchange + Committee social</li>
+</ul>
+<h3>Other</h3>
+<ul>
+<li>Lloyds might be signing for gold if they respond</li>
+<li>Events in semester 2
+<ul>
+<li>Good for sponsors</li>
+<li>Brainstorm later on</li>
+<li>ICS class party
+<ul>
+<li>Like £500 bar tab at Bar 50</li>
+<li>Not really a sponsor event</li>
+<li>Sponsor people would happily show up</li>
+<li>No "business value", to justify internally</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>ARM lost money
+<ul>
+<li>Uni / Neil saying this was a donation from ARM
+<ul>
+<li>Uni seeking confirmation from ARM</li>
+<li>In which case, we won't need to pay it back</li>
+</ul>
+</li>
+<li>We didn't respond to ARM, waiting on Neil</li>
+</ul>
+</li>
+<li>InfQuiz
+<ul>
+<li>30th November</li>
+<li>£5 entry</li>
+<li>Prizes from Neil</li>
+<li>Is it free for committee members?
+<ul>
+<li>Unlikely, it's a fund raising event</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>InfBall
+<ul>
+<li>in April, after AGM (as previous years)</li>
+<li>Location: Secret!! (even to non-organising committee members!)
+<ul>
+<li>Invoice paid and confirmed</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Goodluck everyone with Exams and coursework!</strong></li>
+</ul>
+<h2>APs</h2>
+<ul>
+<li>NeurotechSig
+<ul>
+<li>Communicate with Kay to make social media materials</li>
+</ul>
+</li>
+<li>Other
+<ul>
+<li>Explain announcements queue somewhere in the channel (description or pin)</li>
+</ul>
+</li>
+<li>Merlin
+<ul>
+<li>Perhaps confirm with Jakub (hacklab) or Emily about Dye sublimation on dark ceramic</li>
+</ul>
+</li>
+</ul>2:["$","$Lb",null,{"contentHtml":"$c","title":"2025-11-17","modifiedAt":"$D2025-11-20T12:37:16.854Z"}]
+a:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#353535"}],["$","meta","2",{"charSet":"utf-8"}],["$","title","3",{"children":"CompSoc"}],["$","meta","4",{"name":"description","content":"CompSoc is Edinburgh University's technology society! We're Scotland's best and largest of its kind, and form one of the largest societies within the university."}],["$","link","5",{"rel":"icon","href":"https://comp-soc.com/compsoc-mini.svg"}]]
+1:null
