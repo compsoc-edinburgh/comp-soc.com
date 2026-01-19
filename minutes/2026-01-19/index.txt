@@ -1,0 +1,152 @@
+3:I[39275,[],""]
+5:I[61343,[],""]
+6:I[84269,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-27299e249fa17905.js","173","static/chunks/173-a4fc881f158b666a.js","250","static/chunks/250-f46a353d0d67b303.js","185","static/chunks/app/layout-3e525d04e98d2664.js"],"default"]
+7:I[35719,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-27299e249fa17905.js","173","static/chunks/173-a4fc881f158b666a.js","250","static/chunks/250-f46a353d0d67b303.js","185","static/chunks/app/layout-3e525d04e98d2664.js"],"default"]
+8:I[42452,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-27299e249fa17905.js","173","static/chunks/173-a4fc881f158b666a.js","250","static/chunks/250-f46a353d0d67b303.js","185","static/chunks/app/layout-3e525d04e98d2664.js"],"default"]
+9:I[92056,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-27299e249fa17905.js","173","static/chunks/173-a4fc881f158b666a.js","250","static/chunks/250-f46a353d0d67b303.js","185","static/chunks/app/layout-3e525d04e98d2664.js"],"default"]
+4:["slug","2026-01-19","d"]
+0:["WGMnMMRPtx467ShX3P-Oo",[[["",{"children":["minutes",{"children":[["slug","2026-01-19","d"],{"children":["__PAGE__?{\"slug\":\"2026-01-19\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["minutes",{"children":[["slug","2026-01-19","d"],{"children":["__PAGE__",{},[["$L1","$L2",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5071fba01565cfd4.css","precedence":"next","crossOrigin":"$undefined"}]]],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","minutes","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","minutes","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5178bbe67b729794.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"relative overflow-x-clip w-screen mx-auto","children":[["$","$L6",null,{"children":["$","$L7",null,{"children":[["$","$L8",null,{}],["$","div",null,{"className":"container mx-auto max-w-screen-xl p-4 pb-32 min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}]]}]}],["$","$L9",null,{}]]}]}]],null],null],["$La",null]]]]
+b:I[95423,["90","static/chunks/90-27299e249fa17905.js","820","static/chunks/app/minutes/%5Bslug%5D/page-c3c38c8a089db779.js"],"default"]
+c:Tc3f,<h1>CompSoc Meeting Minutes 2026-01-19</h1>
+<h2>Attendees</h2>
+<h3>Committee</h3>
+<ul>
+<li>President - <strong>Kacper</strong></li>
+<li>Secretary - <strong>Alex</strong></li>
+<li>Treasurer - <strong>Kameran</strong></li>
+<li>Junior Treasurer - <strong>Dhyey</strong></li>
+<li>Vice President - <strong>Anna</strong></li>
+<li>TechSec - <strong>Bex</strong></li>
+<li>Social Secretary - <strong>Param</strong></li>
+<li>Graphic Designer - <strong>Kay</strong></li>
+<li>1st Year Rep - <strong>Kaiwen</strong></li>
+<li>2nd Year Rep - <strong>Danyil</strong></li>
+</ul>
+<h3>SIG Reps</h3>
+<ul>
+<li>AISig - <strong>Leo</strong></li>
+<li>TARDIS - <strong>Merlin</strong></li>
+<li>NeuroTech - <strong>Amar</strong></li>
+</ul>
+<h2>Items</h2>
+<h2>CompScotch</h2>
+<ul>
+<li>25th year of CompSoc</li>
+<li>Coordinate with company</li>
+<li>Might hold some event</li>
+<li>Lead time from distillery?
+<ul>
+<li>Ask Niel</li>
+</ul>
+</li>
+<li>Make some design</li>
+<li>Sell the drink at the birthday</li>
+</ul>
+<h2>Neurotech event</h2>
+<ul>
+<li>Going to try for G.007</li>
+<li>Have placed a EUSA room booking request</li>
+</ul>
+<h2>Next STMU</h2>
+<ul>
+<li>Struggling to get speakers</li>
+<li>Might need to move to 30th</li>
+<li>Will try to do 28th</li>
+<li>Will reach out to speakers</li>
+</ul>
+<h2>AOC rewards</h2>
+<ul>
+<li>Will have a booth at back of STMU</li>
+<li>Rewards to do
+<ul>
+<li>Mug
+<ul>
+<li>Need design ASAP</li>
+<li>Couple of days before STMU</li>
+</ul>
+</li>
+<li>Blahaj</li>
+</ul>
+</li>
+<li>Booth at back of STMU</li>
+<li>Bex sorting</li>
+<li>How many mugs? Might need to order mugs
+<ul>
+<li>~3</li>
+</ul>
+</li>
+</ul>
+<h2>Huawei Event</h2>
+<ul>
+<li>Huawei wants another event, maybe paid separately to sponsorship</li>
+<li>Another OE focused hackathon / AI</li>
+<li>Limited info</li>
+</ul>
+<h2>Board game nights</h2>
+<ul>
+<li>Merlin and Alex board game night idea</li>
+<li>Historically used own board games
+<ul>
+<li>Informatics Forum board games cupboard</li>
+<li>Or Edinburgh Board Game Library</li>
+</ul>
+</li>
+<li>Approval, volunteering
+<ul>
+<li>Support from committee</li>
+<li>Happy to look at board game library membership</li>
+</ul>
+</li>
+<li>Also when?
+<ul>
+<li>Potentially Tuesdays</li>
+</ul>
+</li>
+<li>Maybe run one and see how many board games we can get without paying</li>
+</ul>
+<h2>Welcome back social</h2>
+<ul>
+<li>People want more:
+<ul>
+<li>Tech talks</li>
+<li>Game nights</li>
+<li>Hackathons</li>
+<li>Careers events</li>
+</ul>
+</li>
+<li>Welcome back social
+<ul>
+<li>Maybe 31st</li>
+<li>Karaoke again</li>
+</ul>
+</li>
+</ul>
+<h2>Event website</h2>
+<ul>
+<li>Danyil made CompSoc events website</li>
+</ul>
+<h2>SEM2 Hackathons</h2>
+<ul>
+<li>Abdul planning AcFam hackathon</li>
+<li>Coordinating around
+<ul>
+<li>AI expo - first Friday of march</li>
+<li>PWNED - 15th March</li>
+<li>Tuples</li>
+<li>Project Share awards night towards end of semseter</li>
+</ul>
+</li>
+</ul>
+<h2>Actions</h2>
+<ul>
+<li>Bex to sort out AOC rewards
+<ul>
+<li>Kay to design AOC reward mug</li>
+</ul>
+</li>
+<li>Alex, Amar, Anna sort room booking for Neurotech (SOON)</li>
+<li>Alex, Merlin plan board game night</li>
+<li>Param to plan welcome back social</li>
+</ul>2:["$","$Lb",null,{"contentHtml":"$c","title":"2026-01-19","modifiedAt":"$D2026-01-19T17:58:11.036Z"}]
+a:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#353535"}],["$","meta","2",{"charSet":"utf-8"}],["$","title","3",{"children":"CompSoc"}],["$","meta","4",{"name":"description","content":"CompSoc is Edinburgh University's technology society! We're Scotland's best and largest of its kind, and form one of the largest societies within the university."}],["$","link","5",{"rel":"icon","href":"https://comp-soc.com/compsoc-mini.svg"}]]
+1:null
