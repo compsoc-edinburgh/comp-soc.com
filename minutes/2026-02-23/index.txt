@@ -1,0 +1,60 @@
+3:I[39275,[],""]
+5:I[61343,[],""]
+6:I[84269,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-27299e249fa17905.js","173","static/chunks/173-a4fc881f158b666a.js","250","static/chunks/250-f46a353d0d67b303.js","185","static/chunks/app/layout-3e525d04e98d2664.js"],"default"]
+7:I[35719,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-27299e249fa17905.js","173","static/chunks/173-a4fc881f158b666a.js","250","static/chunks/250-f46a353d0d67b303.js","185","static/chunks/app/layout-3e525d04e98d2664.js"],"default"]
+8:I[42452,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-27299e249fa17905.js","173","static/chunks/173-a4fc881f158b666a.js","250","static/chunks/250-f46a353d0d67b303.js","185","static/chunks/app/layout-3e525d04e98d2664.js"],"default"]
+9:I[92056,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-27299e249fa17905.js","173","static/chunks/173-a4fc881f158b666a.js","250","static/chunks/250-f46a353d0d67b303.js","185","static/chunks/app/layout-3e525d04e98d2664.js"],"default"]
+4:["slug","2026-02-23","d"]
+0:["j2aukle93-E9I9A3Xh8Nc",[[["",{"children":["minutes",{"children":[["slug","2026-02-23","d"],{"children":["__PAGE__?{\"slug\":\"2026-02-23\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["minutes",{"children":[["slug","2026-02-23","d"],{"children":["__PAGE__",{},[["$L1","$L2",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5071fba01565cfd4.css","precedence":"next","crossOrigin":"$undefined"}]]],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","minutes","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","minutes","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5178bbe67b729794.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"relative overflow-x-clip w-screen mx-auto","children":[["$","$L6",null,{"children":["$","$L7",null,{"children":[["$","$L8",null,{}],["$","div",null,{"className":"container mx-auto max-w-screen-xl p-4 pb-32 min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}]]}]}],["$","$L9",null,{}]]}]}]],null],null],["$La",null]]]]
+b:I[95423,["90","static/chunks/90-27299e249fa17905.js","820","static/chunks/app/minutes/%5Bslug%5D/page-c3c38c8a089db779.js"],"default"]
+c:Tc24,<p><strong>Indian Society Collab</strong></p>
+<ul>
+<li>4th of March - everyone is going to the Indian Society event - Param has reached out to ask if CompSoc can collab with them to help with the event's organisation.</li>
+<li>Still waiting for a response</li>
+<li>They mainly want us to help with set up and cleanup afterwards (event kinda runs itself)</li>
+<li>Holi event</li>
+<li>Param is the point of contact for that</li>
+</ul>
+<p><strong>Next STMU(s)</strong></p>
+<ul>
+<li>We have one on Wednesday 18th March - QRT Talk &#x26; Academic Talk (Bonan) (AWAITING QRT CONFIRMATION)</li>
+<li>We have another one on Monday 23rd March - Bloomberg (CONFIRMED)</li>
+<li>Let's advertise as soon as possible (ideally by end of first week of march)</li>
+<li>Let's have second half of 23rd March STMU / Talks as a Games Night to keep it chill (Switch + PS5 again?)</li>
+</ul>
+<p><strong>Ethics Debate Talk Tuesday 10th March Prep + Prizes</strong></p>
+<ul>
+<li>Events talk that School of Inf really wanted us to run</li>
+<li>We need to figure out prizes (budget of £300)</li>
+<li>CompSoc is paying for prizes + pizza, School will reimburse us</li>
+<li>Judges: Professors(?)</li>
+<li>There'll be different teams, we can advertise that teams can be made on the spot or in advance(?)</li>
+<li>There are some purposefully vague debate topics that we can announce for people to encourage people to come</li>
+<li>Prizes need to be figured out - assign some people to brainstorm these with Anna, remember the budget of £300.</li>
+</ul>
+<p><strong>International Women's Day Event Prep</strong></p>
+<p><strong>Planning/Scheduling Events ahead to avoid clashing</strong></p>
+<ul>
+<li>Please please please be aware of events that are ongoing and make sure that any events that you are running DO NOT CLASH with any current events planned.</li>
+<li>We want events that CompSoc is a part of to be communicated so we don't step on each other heels.</li>
+<li>Put events on the CompSoc Calendar / make sure it is clearly communicated when you are running your event and if unsure (or just better to do this anyway), say in committee chat when you are running your events so others can pick up on clashes</li>
+</ul>
+<p><strong>AGM Prep</strong></p>
+<ul>
+<li>Happens on the Thursday 2nd of April, just before InfBall</li>
+<li>We do not have McEwan Hall (not expected at all)</li>
+<li>Try to get G.07 secured</li>
+<li>We need to allocate a person to help advertise everything (Tim?)</li>
+<li>The way it was advertised last year: video interviews from the members, why their roles was good - basically we need someone to put an interview video like that together just the same way we had it last year.</li>
+<li>We need some fun post in general to encourage people to show up</li>
+<li>Should advertise ASAP, mid march at latest hopefully</li>
+<li>Should advertise on Instagram, emails, discord, in lectures (1st years targeted)</li>
+</ul>
+<p><strong>Islam Soc Event for end of Ramadan</strong></p>
+<ul>
+<li>
+<p>We could definitely help out, would be good for us to assist Islam Soc -- Faarhan point of contact for them?</p>
+</li>
+</ul>2:["$","$Lb",null,{"contentHtml":"$c","title":"2026-02-23","modifiedAt":"$D2026-03-02T17:12:47.278Z"}]
+a:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#353535"}],["$","meta","2",{"charSet":"utf-8"}],["$","title","3",{"children":"CompSoc"}],["$","meta","4",{"name":"description","content":"CompSoc is Edinburgh University's technology society! We're Scotland's best and largest of its kind, and form one of the largest societies within the university."}],["$","link","5",{"rel":"icon","href":"https://comp-soc.com/compsoc-mini.svg"}]]
+1:null
