@@ -192,7 +192,8 @@ export const SIGs: SIG[] = [
   },
   {
     name: 'Edinburgh Venture Point',
-    description: 'Edinburgh VenturePoint is the launchpad for the University of Edinburgh’s boldest student founders and innovators.',
+    description:
+      'Edinburgh VenturePoint is the launchpad for the University of Edinburgh’s boldest student founders and innovators.',
     icon: {
       src: 'evp.png',
       alt: 'the compsoc logo',
@@ -202,8 +203,23 @@ export const SIGs: SIG[] = [
     textColor: '#ffffff',
     websiteURL: 'https://edinburghventurepoint.com',
     borderColor: '',
+    calendarURL: '',
+    showCard: true,
+  },
+  {
+    name: 'Edinburgh Neurotech',
+    description: 'At the intersection of neuroscience and technology',
+    icon: {
+      src: 'edneurotech.png',
+      alt: 'Edinburgh Neurotech logo',
+      rounded: 'rounded-none',
+    },
+    backgroundColor: '#191919',
+    textColor: '#ffffff',
+    websiteURL: 'https://edneurotech.co.uk',
+    borderColor: '#000000',
     calendarURL:
-      '',
+      'c_4fb46afb6317b412b773b8eed061d961d689d4829c1140a4fb922d76580bbf97@group.calendar.google.com',
     showCard: true,
   },
 ]
