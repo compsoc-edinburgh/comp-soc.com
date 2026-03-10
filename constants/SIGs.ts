@@ -152,7 +152,7 @@ export const SIGs: SIG[] = [
     },
     backgroundColor: '#FFFFFF',
     textColor: '#eb1516',
-    websiteURL: 'https://discord.gg/FQuQZHnx4r',
+    websiteURL: 'https://discord.gg/zcvWwFcyZd',
     borderColor: '#eb1516',
     calendarURL:
       'c_85d2fd63d7ddc9671768fc01f813e1debac2c2dfbbe3a2903051767beb2cff0f@group.calendar.google.com',
