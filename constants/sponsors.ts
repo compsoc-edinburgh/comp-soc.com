@@ -126,7 +126,15 @@ export const sponsors: Sponsor[] = [
     link: 'https://tpp-careers.com/',
     shortlink: 'https://shorturl.at/8q3LK',
   },
-
+  
+  {
+    name: 'Jump Trading',
+    img: 'jump-trading.svg',
+    tier: 'bronze',
+    description: 'Jump Trading is a trading firm with focuses on algorithmic trading and solving market problems.',
+    link: 'Their link is https://www.jumptrading.com/',
+  },
+  
   {
     name: 'Huawei',
     img: 'huawei.webp',
