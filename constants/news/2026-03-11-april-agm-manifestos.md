@@ -1,4 +1,3 @@
-
 ---
 title: 'Manifestos for April 2026 AGM'
 author: Alex Davis
