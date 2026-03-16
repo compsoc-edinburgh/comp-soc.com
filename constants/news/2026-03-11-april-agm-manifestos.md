@@ -28,7 +28,7 @@ _The views expressed on the following manifestos are the candidates' own and do 
 | TechSec              | No manifestos yet |           |
 | Social Sec           | No manifestos yet |           |
 | Graphic Designer     | No manifestos yet |           |
-| EDI Representative   | No manifestos yet |           |
+| EDI Representative   | Bex Miller | [Link](https://drive.google.com/file/d/1es9f20-i4V2mkak2cw5UYAWuJWxf4Acm/view?usp=sharing)    |
 | Social Media Officer | No manifestos yet |           |
 | 2nd Year Rep         | No manifestos yet |           |
 | 3rd Year Rep         | No manifestos yet |           |
