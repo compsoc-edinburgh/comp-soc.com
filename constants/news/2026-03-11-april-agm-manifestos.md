@@ -24,7 +24,7 @@ _The views expressed on the following manifestos are the candidates' own and do 
 | President            | No manifestos yet |           |
 | Secretary            | No manifestos yet |           |
 | Treasurer            | No manifestos yet |           |
-| Vice President       | No manifestos yet |           |
+| Vice President       | Luc Wallace |    [Link](https://drive.google.com/file/d/1WgdTToYrUcnQ0k3oFUc4jsbSWggx6TaT/view?usp=sharing)       |
 | TechSec              | No manifestos yet |           |
 | Social Sec           | No manifestos yet |           |
 | Graphic Designer     | No manifestos yet |           |
