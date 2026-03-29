@@ -21,12 +21,13 @@ _The views expressed on the following manifestos are the candidates' own and do 
 
 | Role                 | Name              | Manifesto |
 | -------------------- | ----------------- | --------- |
-| President            | No manifestos yet |           |
-| Secretary            | No manifestos yet |           |
+| President            | Ahmed Mohieldin |   [Link](https://drive.google.com/file/d/1yoVnlEJ3HJFzR9d_bTW4gW6rEJecLBx8/view?usp=sharing)   |
+| Secretary            | Aarav Parin |   [Link](https://drive.google.com/file/d/1uoRxhNEuoNdIAtroQe0gWN2nunvzaapT/view?usp=sharing)        |
 | Treasurer            | No manifestos yet |           |
 | Vice President       | Luc Wallace |    [Link](https://drive.google.com/file/d/1WgdTToYrUcnQ0k3oFUc4jsbSWggx6TaT/view?usp=sharing)       |
-| TechSec              | No manifestos yet |           |
-| Social Sec           | No manifestos yet |           |
+| | Saumya Jain |    [Link](https://drive.google.com/file/d/1wS-dQd590dWrKbMUi8QpYDHcg2ewchiw/view?usp=sharing)       |
+| TechSec              | Skye Vasquez |  [Link](https://drive.google.com/file/d/1ZJ06uWlqNhiq6uHqSXRjUykTYq0CPzoH/view?usp=sharing)         |
+| Social Sec           | Pui Hong Freeman |    [Link](https://drive.google.com/file/d/1IRG5k3BykTemmPzE1prmLDt1nx1wfyQF/view?usp=sharing)       |
 | Graphic Designer     | No manifestos yet |           |
 | EDI Representative   | Bex Miller | [Link](https://drive.google.com/file/d/1es9f20-i4V2mkak2cw5UYAWuJWxf4Acm/view?usp=sharing)    |
 | Social Media Officer | No manifestos yet |           |
