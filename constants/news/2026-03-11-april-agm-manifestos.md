@@ -21,7 +21,8 @@ _The views expressed on the following manifestos are the candidates' own and do 
 
 | Role                 | Name              | Manifesto |
 | -------------------- | ----------------- | --------- |
-| President            | Ahmed Mohieldin |   [Link](https://drive.google.com/file/d/1yoVnlEJ3HJFzR9d_bTW4gW6rEJecLBx8/view?usp=sharing)   |
+| President            | Kaiwen Wang |   [Link](https://drive.google.com/file/d/1-nK7M159r_KhLw69eYtIDLQwB_qSgt9B/view?usp=sharing)   |
+| | Ahmed Mohieldin |   [Link](https://drive.google.com/file/d/1yoVnlEJ3HJFzR9d_bTW4gW6rEJecLBx8/view?usp=sharing)   |
 | Secretary            | Aarav Parin |   [Link](https://drive.google.com/file/d/1uoRxhNEuoNdIAtroQe0gWN2nunvzaapT/view?usp=sharing)        |
 | Treasurer            | No manifestos yet |           |
 | Vice President       | Luc Wallace |    [Link](https://drive.google.com/file/d/1WgdTToYrUcnQ0k3oFUc4jsbSWggx6TaT/view?usp=sharing)       |
