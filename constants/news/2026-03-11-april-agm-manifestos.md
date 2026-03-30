@@ -36,5 +36,4 @@ _The views expressed on the following manifestos are the candidates' own and do 
 | 2nd Year Rep         | Benedek Labancz |    [Link](https://drive.google.com/file/d/1j-vbtxIqe91U34Ye-lz0pet_LMcgMVfr/view?usp=sharing)       |
 | 3rd Year Rep         | No manifestos yet |           |
 | 4th Year Rep         | No manifestos yet |           |
-| Masters Rep          | No manifestos yet |           |
 | Old Person Rep       | No manifestos yet |           |
