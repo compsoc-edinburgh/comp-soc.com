@@ -28,10 +28,10 @@ _The views expressed on the following manifestos are the candidates' own and do 
 | Vice President       | Luc Wallace |    [Link](https://drive.google.com/file/d/1WgdTToYrUcnQ0k3oFUc4jsbSWggx6TaT/view?usp=sharing)       |
 | | Saumya Jain |    [Link](https://drive.google.com/file/d/1wS-dQd590dWrKbMUi8QpYDHcg2ewchiw/view?usp=sharing)       |
 | TechSec              | Skye Vasquez |  [Link](https://drive.google.com/file/d/1ZJ06uWlqNhiq6uHqSXRjUykTYq0CPzoH/view?usp=sharing)         |
-| Social Sec           | Pui Hong Freeman |    [Link](https://drive.google.com/file/d/1IRG5k3BykTemmPzE1prmLDt1nx1wfyQF/view?usp=sharing)       |
+| Social Sec           | No Manifestos yet |           |
 | Graphic Designer     | No manifestos yet |           |
 | EDI Representative   | Bex Miller | [Link](https://drive.google.com/file/d/1es9f20-i4V2mkak2cw5UYAWuJWxf4Acm/view?usp=sharing)    |
-| Social Media Officer | No manifestos yet |           |
+| Social Media Officer |Pui Hong Freeman  |      [Link](https://drive.google.com/file/d/1IRG5k3BykTemmPzE1prmLDt1nx1wfyQF/view?usp=sharing)     |
 | 2nd Year Rep         | No manifestos yet |           |
 | 3rd Year Rep         | No manifestos yet |           |
 | 4th Year Rep         | No manifestos yet |           |
