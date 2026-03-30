@@ -4,10 +4,10 @@
 6:I[35719,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-27299e249fa17905.js","173","static/chunks/173-a4fc881f158b666a.js","250","static/chunks/250-f46a353d0d67b303.js","185","static/chunks/app/layout-464ae03f78972616.js"],"default"]
 7:I[42452,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-27299e249fa17905.js","173","static/chunks/173-a4fc881f158b666a.js","250","static/chunks/250-f46a353d0d67b303.js","185","static/chunks/app/layout-464ae03f78972616.js"],"default"]
 8:I[92056,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-27299e249fa17905.js","173","static/chunks/173-a4fc881f158b666a.js","250","static/chunks/250-f46a353d0d67b303.js","185","static/chunks/app/layout-464ae03f78972616.js"],"default"]
-0:["0PyYo8e6XFPpKs5c9LOeb",[[["",{"children":["minutes",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",{"children":["minutes",{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","minutes","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5178bbe67b729794.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"relative overflow-x-clip w-screen mx-auto","children":[["$","$L5",null,{"children":["$","$L6",null,{"children":[["$","$L7",null,{}],["$","div",null,{"className":"container mx-auto max-w-screen-xl p-4 pb-32 min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}]]}]}],["$","$L8",null,{}]]}]}]],null],null],["$L9",null]]]]
+0:["Q97xz5OLD5bxGIDEFdH9H",[[["",{"children":["minutes",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",{"children":["minutes",{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","minutes","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5178bbe67b729794.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"relative overflow-x-clip w-screen mx-auto","children":[["$","$L5",null,{"children":["$","$L6",null,{"children":[["$","$L7",null,{}],["$","div",null,{"className":"container mx-auto max-w-screen-xl p-4 pb-32 min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}]]}]}],["$","$L8",null,{}]]}]}]],null],null],["$L9",null]]]]
 a:"$Sreact.suspense"
 b:I[38183,["90","static/chunks/90-27299e249fa17905.js","509","static/chunks/app/minutes/page-6143b409cc202f75.js"],"default"]
-c:T706,---
+c:T708,---
 date: 2026-03-16T17:07
 tags:
  - Meeting
@@ -23,7 +23,7 @@ tags:
 - Graphic Designer - **Kay**
 - EDI Rep - **Sorana**
 - 1st Year Rep - **Kaiwen**
-- Masters Rep - **Varhan** 
+- Masters Rep - **Farhaan** 
 ### SIG Reps
 ## Items
 ### AGM
@@ -85,7 +85,8 @@ tags:
 	- Eid Event (This Friday)
 	- EUWISTEM (This Friday) - might not need to make stuff ourselves
 	- STMU 23rd
-	- AGM April 2ndd:T610,---
+	- AGM April 2nd
+d:T610,---
 date: 2026-03-02T17:07
 tags:
  - Meeting
@@ -204,7 +205,7 @@ tags:
 - We could definitely help out, would be good for us to assist Islam Soc -- Faarhan point of contact for them?
 
 
- f:T5ca,---
+ f:T5c8,---
 date: 2026-02-09T17:16
 tags:
  - Meeting
@@ -219,7 +220,7 @@ tags:
 - Graphic Designer - **Kay**
 - EDI Rep - **Sorana**
 - 1st Year Rep - **Kaiwen**
-- Masters Rep - **Varhan** (?)
+- Masters Rep - **Farhaan**
 ### SIG Reps
 - CloudSIG - **Iretemi**
 - TARDIS - **Merlin**
@@ -272,7 +273,8 @@ tags:
 - Hoppers IWD 7th march
 	- Want to be involved
 	- Sorana will speak
-## Actions10:Tb66,Monday 2 Feb  
+## Actions
+10:Tb66,Monday 2 Feb  
 **Attendees**
 
 * President - **Kacper**  
