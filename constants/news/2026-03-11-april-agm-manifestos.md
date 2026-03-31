@@ -27,6 +27,7 @@ _The views expressed on the following manifestos are the candidates' own and do 
 | Treasurer            | No manifestos yet |           |
 | Vice President       | Luc Wallace |    [Link](https://drive.google.com/file/d/1WgdTToYrUcnQ0k3oFUc4jsbSWggx6TaT/view?usp=sharing)       |
 | | Saumya Jain |    [Link](https://drive.google.com/file/d/1wS-dQd590dWrKbMUi8QpYDHcg2ewchiw/view?usp=sharing)       |
+| | Deeksha Gupta |    [Link](https://drive.google.com/file/d/1fxwx0Lzsi0QI1wi2XdSM8oyVrP1I1hXT/view?usp=sharing)       |
 | TechSec              | Skye Vasquez |  [Link](https://drive.google.com/file/d/1ZJ06uWlqNhiq6uHqSXRjUykTYq0CPzoH/view?usp=sharing)         |
 | Social Sec           | Pui Hong Freeman |    [Link](https://drive.google.com/file/d/1IRG5k3BykTemmPzE1prmLDt1nx1wfyQF/view?usp=sharing)       |
 | Graphic Designer     | No manifestos yet |           |
