@@ -24,17 +24,17 @@ _The views expressed on the following manifestos are the candidates' own and do 
 | President            | Kaiwen Wang |   [Link](https://drive.google.com/file/d/1-nK7M159r_KhLw69eYtIDLQwB_qSgt9B/view?usp=sharing)   |
 | | Ahmed Mohieldin |   [Link](https://drive.google.com/file/d/1yoVnlEJ3HJFzR9d_bTW4gW6rEJecLBx8/view?usp=sharing)   |
 | Secretary            | Aarav Parin |   [Link](https://drive.google.com/file/d/1uoRxhNEuoNdIAtroQe0gWN2nunvzaapT/view?usp=sharing)        |
-| Treasurer            | No manifestos yet |           |
+| Treasurer            | Dhyey Mehta |   [Link](https://drive.google.com/file/d/11-3MQnGAxTQrYWKaTWou9CtnkgUoDioZ/view?usp=sharing)        |
 | Vice President       | Luc Wallace |    [Link](https://drive.google.com/file/d/1WgdTToYrUcnQ0k3oFUc4jsbSWggx6TaT/view?usp=sharing)       |
 | | Saumya Jain |    [Link](https://drive.google.com/file/d/1wS-dQd590dWrKbMUi8QpYDHcg2ewchiw/view?usp=sharing)       |
 | | Deeksha Gupta |    [Link](https://drive.google.com/file/d/1fxwx0Lzsi0QI1wi2XdSM8oyVrP1I1hXT/view?usp=sharing)       |
 | TechSec              | Skye Vasquez |  [Link](https://drive.google.com/file/d/1ZJ06uWlqNhiq6uHqSXRjUykTYq0CPzoH/view?usp=sharing)         |
-| Social Sec           | Pui Hong Freeman |    [Link](https://drive.google.com/file/d/1IRG5k3BykTemmPzE1prmLDt1nx1wfyQF/view?usp=sharing)       |
+| | Ivan Sowerby |  [Link](https://drive.google.com/file/d/1Wye-DpPCkP9sIn9UoZ3DW-_HsnlCiZDX/view?usp=sharing)         |
+| Social Sec           | No Manifestos yet |           |
 | Graphic Designer     | No manifestos yet |           |
 | EDI Representative   | Bex Miller | [Link](https://drive.google.com/file/d/1es9f20-i4V2mkak2cw5UYAWuJWxf4Acm/view?usp=sharing)    |
-| Social Media Officer | No manifestos yet |           |
-| 2nd Year Rep         | No manifestos yet |           |
+| Social Media Officer |Pui Hong Freeman  |      [Link](https://drive.google.com/file/d/1IRG5k3BykTemmPzE1prmLDt1nx1wfyQF/view?usp=sharing)     |
+| 2nd Year Rep         | Benedek Labancz |    [Link](https://drive.google.com/file/d/1j-vbtxIqe91U34Ye-lz0pet_LMcgMVfr/view?usp=sharing)       |
 | 3rd Year Rep         | No manifestos yet |           |
 | 4th Year Rep         | No manifestos yet |           |
-| Masters Rep          | No manifestos yet |           |
 | Old Person Rep       | No manifestos yet |           |
