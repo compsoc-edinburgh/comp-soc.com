@@ -35,6 +35,7 @@ _The views expressed on the following manifestos are the candidates' own and do 
 | EDI Representative   | Bex Miller | [Link](https://drive.google.com/file/d/1es9f20-i4V2mkak2cw5UYAWuJWxf4Acm/view?usp=sharing)    |
 | Social Media Officer |Pui Hong Freeman  |      [Link](https://drive.google.com/file/d/1IRG5k3BykTemmPzE1prmLDt1nx1wfyQF/view?usp=sharing)     |
 | 2nd Year Rep         | Benedek Labancz |    [Link](https://drive.google.com/file/d/1j-vbtxIqe91U34Ye-lz0pet_LMcgMVfr/view?usp=sharing)       |
+| 2nd Year Rep         | Aryan Ajmera |    [Link](https://drive.google.com/file/d/1zol8jmiNtns4jN2XGsoCM-RGKZMjoZfd/view?usp=sharing)       |
 | 3rd Year Rep         | No manifestos yet |           |
 | 4th Year Rep         | No manifestos yet |           |
 | Old Person Rep       | No manifestos yet |           |
