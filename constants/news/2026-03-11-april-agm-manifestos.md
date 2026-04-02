@@ -31,7 +31,7 @@ _The views expressed on the following manifestos are the candidates' own and do 
 | TechSec              | Skye Vasquez |  [Link](https://drive.google.com/file/d/1ZJ06uWlqNhiq6uHqSXRjUykTYq0CPzoH/view?usp=sharing)         |
 | | Ivan Sowerby |  [Link](https://drive.google.com/file/d/1Wye-DpPCkP9sIn9UoZ3DW-_HsnlCiZDX/view?usp=sharing)         |
 | Social Sec           | No Manifestos yet |           |
-| Graphic Designer     | No manifestos yet |           |
+| Graphic Designer     | Iretemi Ogunlaja |      [Link](https://drive.google.com/file/d/11C4Yo2cPdl5KSZCP73XHWxn0yZKBXf2D/view?usp=sharing)     |
 | EDI Representative   | Bex Miller | [Link](https://drive.google.com/file/d/1es9f20-i4V2mkak2cw5UYAWuJWxf4Acm/view?usp=sharing)    |
 | Social Media Officer |Pui Hong Freeman  |      [Link](https://drive.google.com/file/d/1IRG5k3BykTemmPzE1prmLDt1nx1wfyQF/view?usp=sharing)     |
 | 2nd Year Rep         | Benedek Labancz |    [Link](https://drive.google.com/file/d/1j-vbtxIqe91U34Ye-lz0pet_LMcgMVfr/view?usp=sharing)       |
