@@ -38,4 +38,4 @@ _The views expressed on the following manifestos are the candidates' own and do 
 |          | Aryan Ajmera |    [Link](https://drive.google.com/file/d/1zol8jmiNtns4jN2XGsoCM-RGKZMjoZfd/view?usp=sharing)       |
 | 3rd Year Rep         | No manifestos yet |           |
 | 4th Year Rep         | No manifestos yet |           |
-| Old Person Rep       | No manifestos yet |           |
+| Old Person Rep       | Pa'uk Lavrentieva |   [Link](https://drive.google.com/file/d/1kz2RP4duAH6__TVFAPi6rr--KwS9GE0d/view?usp=sharing)        |
