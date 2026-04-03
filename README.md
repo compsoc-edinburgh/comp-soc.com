@@ -86,8 +86,8 @@ We welcome contributions! Here's a simple guide to get started:
    git checkout -b feature/feature-name
    ```
 
-2. \*\*Make your Changes:
-   write your code and commit with a clear message:
+2. **Make your Changes**:
+   Write your code and commit with a clear message:
 
    ```bash
    git commit -m "Detailed message"
@@ -110,4 +110,4 @@ We welcome contributions! Here's a simple guide to get started:
 
 3. You can add your `.md` file to the corresponding folder.
 
-4. Open a Pull Request to get the changes on CampSoc.
+4. Open a Pull Request to get the changes on CompSoc.
