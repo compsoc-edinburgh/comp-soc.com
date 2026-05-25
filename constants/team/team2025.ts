@@ -199,7 +199,7 @@ export const team2025: Committee[] = [
     ],
   },
   {
-    name: "Pa'uk",
+    name: "Pa\'uk",
     surname: '',
     role: Role.OLD_PERSON_REP,
     links: [],
@@ -229,7 +229,7 @@ export const team2025: Committee[] = [
     ],
   },
   {
-    name: 'Kaiwen (Kevin)',
+    name: 'Kaiwen',
     surname: 'Wang',
     role: Role.FIRST_YEAR_REP,
     image: 'Kevin-1.webp',
