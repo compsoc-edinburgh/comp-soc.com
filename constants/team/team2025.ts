@@ -199,7 +199,7 @@ export const team2025: Committee[] = [
     ],
   },
   {
-    name: "Pa'uk",
+    name: 'Pa\'uk',
     surname: '',
     role: Role.OLD_PERSON_REP,
     links: [],
@@ -241,21 +241,6 @@ export const team2025: Committee[] = [
       {
         type: LinkType.INSTAGRAM,
         url: 'https://www.instagram.com/kaiwen.wang_',
-      },
-    ],
-  },
-  {
-    name: 'Farhaan',
-    surname: 'Mukarram',
-    role: Role.MASTERS_REP,
-    links: [
-      {
-        type: LinkType.LINKEDIN,
-        url: 'https://www.linkedin.com/in/farhaan-mukarram',
-      },
-      {
-        type: LinkType.GITHUB,
-        url: 'https://github.com/farhaan-mukarram ',
       },
     ],
   },
