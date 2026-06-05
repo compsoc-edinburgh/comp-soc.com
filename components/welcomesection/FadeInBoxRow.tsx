@@ -3,10 +3,10 @@ import FadeInBox from './FadeInBox'
 
 const FadeInBoxRow: React.FC = () => {
   const boxes = [
-    { number: '25', text: 'Years' },
-    { number: '1.5K', text: 'Members', affix: '+' },
-    { number: '50', text: 'Events', affix: '+' },
-    { number: '10', text: 'SIGs' },
+    { number: '26', text: 'Years' },
+    { number: '2.4K', text: 'Members', affix: '+' },
+    { number: '120', text: 'Events per Year', affix: '+' },
+    { number: '12', text: 'SIGs' },
   ]
   const delay = 0.2
 
