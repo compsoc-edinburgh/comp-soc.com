@@ -21,7 +21,7 @@ export const SIGs: SIG[] = [
   },
   {
     name: 'SIGINT',
-    description: 'Cyber Security',
+    description: 'Cybersecurity',
     websiteURL: 'https://sigint.mx/',
     icon: {
       src: 'sigint.webp',
@@ -36,7 +36,7 @@ export const SIGs: SIG[] = [
   },
   {
     name: 'CCSIG',
-    description: 'Competitve Programming',
+    description: 'Competitive Programming',
     websiteURL: 'https://ccsig.comp-soc.com/',
     icon: {
       src: 'ccsig.webp',
