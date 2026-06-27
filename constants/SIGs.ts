@@ -66,7 +66,7 @@ export const SIGs: SIG[] = [
   },
   {
     name: 'TypeSig',
-    description: 'Type theory and related fields',
+    description: 'Theoretical Computer Science',
     websiteURL: 'https://typesig.pl/',
     icon: {
       src: 'typesig.webp',
