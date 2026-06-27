@@ -193,7 +193,7 @@ export const SIGs: SIG[] = [
   {
     name: 'Edinburgh Venture Point',
     description:
-      'Edinburgh VenturePoint is the launchpad for the University of Edinburgh’s boldest student founders and innovators.',
+      'The launchpad for the University of Edinburgh’s boldest student founders and innovators',
     icon: {
       src: 'evp.png',
       alt: 'the compsoc logo',
