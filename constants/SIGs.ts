@@ -116,7 +116,7 @@ export const SIGs: SIG[] = [
     description: 'Game Development',
     icon: {
       src: 'gamedevsig.webp',
-      alt: 'GamedevSig logo',
+      alt: 'GameDevSIG logo',
       rounded: 'rounded-full',
     },
     backgroundColor: '#000000',
@@ -130,7 +130,7 @@ export const SIGs: SIG[] = [
     description: 'An AWS Cloud Club',
     icon: {
       src: 'CloudSIGLogo.png',
-      alt: 'CloudSig logo',
+      alt: 'CloudSIG logo',
       rounded: 'rounded-lg',
     },
     backgroundColor: '#FF9A02',
@@ -147,7 +147,7 @@ export const SIGs: SIG[] = [
       'OS, computer networks, computer architectures, parallel and distributed systems.',
     icon: {
       src: 'bitsig.png',
-      alt: 'the bitsig logo',
+      alt: 'BitSig logo',
       rounded: 'rounded-lg',
     },
     backgroundColor: '#FFFFFF',
@@ -179,7 +179,7 @@ export const SIGs: SIG[] = [
     description: '',
     icon: {
       src: 'compsoc-short.png',
-      alt: 'the compsoc logo',
+      alt: 'CompSoc logo',
       rounded: 'rounded-none',
     },
     backgroundColor: '#CE3234',
@@ -196,7 +196,7 @@ export const SIGs: SIG[] = [
       'The launchpad for the University of Edinburgh’s boldest student founders and innovators',
     icon: {
       src: 'evp.png',
-      alt: 'the compsoc logo',
+      alt: 'EVP logo',
       rounded: 'rounded-none',
     },
     backgroundColor: '#3333f5',
