@@ -136,7 +136,7 @@ export const SIGs: SIG[] = [
     backgroundColor: '#FF9A02',
     borderColor: '#F1A430',
     websiteURL:
-      'https://www.meetup.com/aws-cloud-club-the-university-of-edinburgh',
+      'https://cloudsig.uk/',
     calendarURL:
       'c_8251e2c2a6bdc88406401f582ca996f087aea223665091d56b822bf99779e5a4@group.calendar.google.com',
     showCard: true,
