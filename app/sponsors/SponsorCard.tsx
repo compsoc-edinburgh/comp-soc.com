@@ -295,27 +295,26 @@ const CardBack: React.FC<CardProps> = ({
         {sponsor.description}
       </p>
 
-      {sponsor.shortlink && (
-        <a href={sponsor.shortlink} target="_blank" rel="noopener noreferrer">
-          <motion.a
-            onClick={handleLinkClick}
-            onMouseEnter={handleButtonMouseEnter}
-            onMouseLeave={handleButtonMouseLeave}
-            whileHover={{ scale: 1.05 }}
-            whileTap={{ scale: 0.95 }}
-            className={`z-50 inline-flex items-center px-6 py-4 rounded-full text-white transition-colors duration-200 ${
-              isButtonHovered
-                ? 'bg-white bg-opacity-50'
-                : 'bg-white bg-opacity-20'
-            }`}
-          >
-            Visit website <ArrowUpRight className="ml-2" />
-          </motion.a>
-        </a>
-      )}
+      <a href={sponsor.link} target="_blank" rel="noopener noreferrer">
+        <motion.a
+          onClick={handleLinkClick}
+          onMouseEnter={handleButtonMouseEnter}
+          onMouseLeave={handleButtonMouseLeave}
+          whileHover={{ scale: 1.05 }}
+          whileTap={{ scale: 0.95 }}
+          className={`z-50 inline-flex items-center px-6 py-4 rounded-full text-white transition-colors duration-200 ${
+            isButtonHovered
+              ? 'bg-white bg-opacity-50'
+              : 'bg-white bg-opacity-20'
+          }`}
+        >
+          Visit website <ArrowUpRight className="ml-2" />
+        </motion.a>
+      </a>
     </motion.div>
   )
 }
+
 interface HolographicMeshProps {
   tier: 'platinum' | 'gold'
   isHovered: boolean
