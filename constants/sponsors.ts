@@ -33,8 +33,7 @@ export const sponsors: Sponsor[] = [
     tier: 'gold',
     description:
       'G-Research is a leading quantitative research and technology company.',
-    link: 'https://www.gresearch.com/',
-    shortlink: 'https://shorturl.at/SNYSj',
+    link: 'https://www.gresearch.com/'
   },
 
   {
@@ -43,8 +42,7 @@ export const sponsors: Sponsor[] = [
     tier: 'gold',
     description:
       'Qube Research & Technologies is a global multi strategy investment manager.',
-    link: 'https://www.qube-rt.com/',
-    shortlink: 'https://shorturl.at/MCubc',
+    link: 'https://www.qube-rt.com/'
   },
 /*
   {
@@ -52,8 +50,7 @@ export const sponsors: Sponsor[] = [
     img: 'lloyds-logo.png',
     tier: 'silver',
     description: 'Lloyds is a British retail and commercial bank.',
-    link: 'https://www.lloydsbank.com/',
-    shortlink: 'https://shorturl.at/rvFLd',
+    link: 'https://www.lloydsbank.com/'
   },
 */
 /*
@@ -63,8 +60,7 @@ export const sponsors: Sponsor[] = [
     tier: 'silver',
     description:
       'Viridien is an advanced technology, digitial and earth data company.',
-    link: 'https://www.viridiengroup.com/',
-    shortlink: 'https://shorturl.at/Lq0C9',
+    link: 'https://www.viridiengroup.com/'
   },
 */
   {
@@ -72,8 +68,7 @@ export const sponsors: Sponsor[] = [
     img: 'bloomberg-logo.png',
     tier: 'silver',
     description: 'Bloomberg is a financial software, data and media company.',
-    link: 'https://www.bloomberg.com/',
-    shortlink: 'https://shorturl.at/XcJAI'
+    link: 'https://www.bloomberg.com/'
   },
 
   // {
@@ -87,8 +82,7 @@ export const sponsors: Sponsor[] = [
     img: 'janestreet-logo.png',
     tier: 'bronze',
     description: 'Jane Street is a research-driven trading firm.',
-    link: 'https://www.janestreet.com/',
-    shortlink: 'https://shorturl.at/uYhHB',
+    link: 'https://www.janestreet.com/'
   },
 
   // {
@@ -104,8 +98,7 @@ export const sponsors: Sponsor[] = [
     img: 'optiver-logo.png',
     tier: 'gold',
     description: 'Optiver is a global market maker.',
-    link: 'https://www.optiver.com/',
-    shortlink: 'https://shorturl.at/4KRoS',
+    link: 'https://www.optiver.com/'
   },
 /*
   {
@@ -123,16 +116,14 @@ export const sponsors: Sponsor[] = [
     img: 'tpp-logo.png',
     tier: 'bronze',
     description: 'TPP is a leading global provider of healthcare technology.',
-    link: 'https://tpp-careers.com/',
-    shortlink: 'https://shorturl.at/8q3LK',
+    link: 'https://tpp-careers.com/'
   },
   
   {
     name: 'Jump Trading',
     img: 'jump-trading.svg',
     tier: 'bronze',
-    description: 'Jump Trading is a trading firm with focuses on algorithmic trading and solving market problems.',
-    link: 'Their link is https://www.jumptrading.com/',
+    description: 'Jump Trading is a trading firm with focuses on algorithmic trading and solving market problems.'
   },
   
   {
@@ -140,8 +131,7 @@ export const sponsors: Sponsor[] = [
     img: 'huawei.webp',
     tier: 'platinum',
     description: 'Huawei is a leading global provider of information and communications technology (ICT) infrastructure and smart devices.',
-    link: 'https://www.huawei.com/',
-    shortlink: 'https://shorturl.at/x08YH',
+    link: 'https://www.huawei.com/'
   },
 
   {
@@ -149,9 +139,6 @@ export const sponsors: Sponsor[] = [
     img: 'bending-spoons.png',
     tier: 'silver',
     description: 'Impossible. Maybe. Bending spoons is a technology market leader serving nearly a billion across the globe.',
-    link: 'https://bendingspoons.com',
-    shortlink: 'https://shorturl.at/ahcgX',
-
+    link: 'https://bendingspoons.com'
   }
-
 ]
