@@ -20,9 +20,17 @@ export const sponsors: Sponsor[] = [
   },
 */
   {
+    name: 'School of Informatics',
+    img: 'inf-logo.png',
+    tier: 'platinum',
+    description: 'The School of Informatics is a world-leading research instutition in artificial intelligence, computer science, cognitive science, data science and robotics.',
+    link: 'https://informatics.ed.ac.uk/',
+  },
+  
+  {
     name: 'G-Research',
     img: 'gresearch-logo.png',
-    tier: 'platinum',
+    tier: 'gold',
     description:
       'G-Research is a leading quantitative research and technology company.',
     link: 'https://www.gresearch.com/',
@@ -59,13 +67,14 @@ export const sponsors: Sponsor[] = [
     shortlink: 'https://shorturl.at/Lq0C9',
   },
 */
-  // {
-  //   name: 'Bloomberg',
-  //   img: 'bloomberg-logo.png',
-  //   tier: 'Bronze',
-  //   description: 'Bloomberg is a financial software, data, and media company.',
-  //   link: 'https://www.bloomberg.com/',
-  // },
+  {
+    name: 'Bloomberg',
+    img: 'bloomberg-logo.png',
+    tier: 'Silver',
+    description: 'Bloomberg is a financial software, data and media company.',
+    link: 'https://www.bloomberg.com/',
+    shortlink: 'https://shorturl.at/XcJAI'
+  },
 
   // {
   //   name: 'Google',
@@ -81,15 +90,6 @@ export const sponsors: Sponsor[] = [
     link: 'https://www.janestreet.com/',
     shortlink: 'https://shorturl.at/uYhHB',
   },
-
-  // {
-  //   name: 'School of Informatics',
-  //   img: 'inf-logo.png',
-  //   tier: 'platinum',
-  //   description: 'The School of Informatics is the largest institution of this kind in the UK and one of the largest in Europe.',
-  //   link: 'https://informatics.ed.ac.uk/',
-
-  // },
 
   // {
   //   name: 'Marshall Wace',
@@ -152,6 +152,6 @@ export const sponsors: Sponsor[] = [
     link: 'https://bendingspoons.com',
     shortlink: 'https://shorturl.at/ahcgX',
 
-  },
+  }
 
 ]
