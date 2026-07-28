@@ -26,7 +26,7 @@ export const sponsors: Sponsor[] = [
     description: 'The School of Informatics is a world-leading research instutition in artificial intelligence, computer science, data science and more.',
     link: 'https://informatics.ed.ac.uk/'
   },
-  
+
   {
     name: 'G-Research',
     img: 'gresearch-logo.png',
@@ -44,15 +44,13 @@ export const sponsors: Sponsor[] = [
       'Qube Research & Technologies is a global multi strategy investment manager.',
     link: 'https://www.qube-rt.com/'
   },
-/*
   {
     name: 'Lloyds',
     img: 'lloyds-logo.png',
-    tier: 'silver',
+    tier: 'gold',
     description: 'Lloyds is a British retail and commercial bank.',
     link: 'https://www.lloydsbank.com/'
   },
-*/
 /*
   {
     name: 'Viridien',
@@ -141,5 +139,13 @@ export const sponsors: Sponsor[] = [
     tier: 'silver',
     description: 'Impossible. Maybe. Bending spoons is a technology market leader serving nearly a billion across the globe.',
     link: 'https://bendingspoons.com'
+  },
+
+  {
+    name: 'Hudson River Trading',
+    img: 'hrt-logo.png',
+    tier: 'platinum',
+    description: 'Hudson River Trading (HRT) is a leading quantitative trading firm at the forefront of technical innovation in global financial markets.',
+    link: 'https://www.hudsonrivertrading.com/'
   }
 ]
