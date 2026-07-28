@@ -123,7 +123,8 @@ export const sponsors: Sponsor[] = [
     name: 'Jump Trading',
     img: 'jump-trading.svg',
     tier: 'bronze',
-    description: 'Jump Trading is a trading firm with focuses on algorithmic trading and solving market problems.'
+    description: 'Jump Trading is a trading firm with focuses on algorithmic trading and solving market problems.',
+    link: 'https://www.jumptrading.com/'
   },
   
   {
