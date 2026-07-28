@@ -4,5 +4,4 @@ export interface Sponsor {
   tier: 'platinum' | 'gold' | 'silver' | 'bronze'
   description: string
   link?: string
-  shortlink?: string
 }
