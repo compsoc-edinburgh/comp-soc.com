@@ -24,7 +24,7 @@ export const sponsors: Sponsor[] = [
     img: 'inf-logo.png',
     tier: 'platinum',
     description: 'The School of Informatics is a world-leading research instutition in artificial intelligence, computer science, cognitive science, data science and robotics.',
-    link: 'https://informatics.ed.ac.uk/',
+    link: 'https://informatics.ed.ac.uk/'
   },
   
   {
@@ -70,7 +70,7 @@ export const sponsors: Sponsor[] = [
   {
     name: 'Bloomberg',
     img: 'bloomberg-logo.png',
-    tier: 'Silver',
+    tier: 'silver',
     description: 'Bloomberg is a financial software, data and media company.',
     link: 'https://www.bloomberg.com/',
     shortlink: 'https://shorturl.at/XcJAI'
