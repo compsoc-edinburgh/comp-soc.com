@@ -44,12 +44,19 @@ export const sponsors: Sponsor[] = [
       'Qube Research & Technologies is a global multi strategy investment manager.',
     link: 'https://www.qube-rt.com/'
   },
+  // {
+  //   name: 'Lloyds',
+  //   img: 'lloyds-logo.png',
+  //   tier: 'gold',
+  //   description: 'Lloyds is a British retail and commercial bank.',
+  //   link: 'https://www.lloydsbank.com/'
+  // },
   {
-    name: 'Lloyds',
-    img: 'lloyds-logo.png',
+    name: 'Bank of Scotland',
+    img: 'bankofscotland-logo.svg',
     tier: 'gold',
-    description: 'Lloyds is a British retail and commercial bank.',
-    link: 'https://www.lloydsbank.com/'
+    description: 'Bank of Scotland is part of Lloyds Banking Group, one of the UK\'s leading financial services groups.',
+    link: 'https://www.bankofscotland.co.uk/'
   },
 /*
   {
