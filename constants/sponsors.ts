@@ -101,7 +101,7 @@ export const sponsors: Sponsor[] = [
   {
     name: 'Optiver',
     img: 'optiver-logo.png',
-    tier: 'gold',
+    tier: 'bronze',
     description: 'Optiver is a global market maker.',
     link: 'https://www.optiver.com/'
   },
