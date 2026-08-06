@@ -140,13 +140,13 @@ export const sponsors: Sponsor[] = [
     link: 'https://www.huawei.com/'
   },
 
-  {
-    name: 'Bending Spoons',
-    img: 'bending-spoons.png',
-    tier: 'silver',
-    description: 'Impossible. Maybe. Bending spoons is a technology market leader serving nearly a billion across the globe.',
-    link: 'https://bendingspoons.com'
-  },
+  // {
+  //   name: 'Bending Spoons',
+  //   img: 'bending-spoons.png',
+  //   tier: 'silver',
+  //   description: 'Impossible. Maybe. Bending spoons is a technology market leader serving nearly a billion across the globe.',
+  //   link: 'https://bendingspoons.com'
+  // },
 
   {
     name: 'Hudson River Trading',
@@ -154,5 +154,13 @@ export const sponsors: Sponsor[] = [
     tier: 'platinum',
     description: 'Hudson River Trading (HRT) is a leading quantitative trading firm at the forefront of technical innovation in global financial markets.',
     link: 'https://www.hudsonrivertrading.com/'
+  },
+
+  {
+    name: 'InstaLILY',
+    img: 'instalily-logo.png',
+    tier: 'silver',
+    description: 'InstaLILY builds autonomous AI agents for the businesses that make, move and fix the physical economy.',
+    link: 'https://www.instalily.ai/'
   }
 ]
