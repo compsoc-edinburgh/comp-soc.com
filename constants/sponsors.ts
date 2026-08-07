@@ -162,5 +162,13 @@ export const sponsors: Sponsor[] = [
     tier: 'silver',
     description: 'InstaLILY builds autonomous AI agents for the businesses that make, move and fix the physical economy.',
     link: 'https://www.instalily.ai/'
+  },
+
+  {
+    name: 'Wordsmith AI',
+    img: 'wordsmithai-logo.png',
+    tier: 'silver',
+    description: 'Wordsmith AI is an Edinburgh-based company building the command centre for in-house legal teams.',
+    link: 'https://www.wordsmith.ai/'
   }
 ]
