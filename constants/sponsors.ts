@@ -26,7 +26,7 @@ export const sponsors: Sponsor[] = [
     description: 'The School of Informatics is a world-leading research instutition in artificial intelligence, computer science, data science and more.',
     link: 'https://informatics.ed.ac.uk/'
   },
-
+ 
   {
     name: 'G-Research',
     img: 'gresearch-logo.png',
