@@ -6,7 +6,11 @@ import { TEAM } from '@/lib/committee'
 const TeamList = () => {
   return sortRecordKeysDesc(TEAM).map(([year, people]) => (
     <Fragment key={year}>
-      <h1 className="font-space-mono text-3xl my-10">{year}</h1>
+      <h2 id={year} className="font-space-mono text-3xl my-10 scroll-mt-24">
+        <a href={`#${year}`} className="hover:underline">
+          {year}
+        </a>
+      </h2>
       <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-5 gap-4">
         {people.map((person) => (
           <TeamCard key={`${year}-${person.role}`} person={person} />
