@@ -44,7 +44,7 @@ const MoreResourcesSection = () => {
           url="https://edinburghhoppers.com/"
         >
           <Image
-            src={`${prefix}/hoppers-logo.png`}
+            src={`${prefix}/hoppers-logo.webp`}
             alt="Hoppers logo"
             width={100}
             height={100}
@@ -64,7 +64,7 @@ const MoreResourcesSection = () => {
           url="https://files.betterinformatics.com/"
         >
           <Image
-            src={`${prefix}/betterinformatics-logo.png`}
+            src={`${prefix}/betterinformatics-logo.webp`}
             alt="BetterInformatics logo"
             width={100}
             height={100}

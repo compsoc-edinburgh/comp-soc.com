@@ -72,7 +72,7 @@ const CompSocTitle = () => {
     <div className="flex flex-col items-center">
       <GodRays>
         <Image
-          src={`${prefix}/compsoc-short.png`}
+          src={`${prefix}/compsoc-short.webp`}
           alt="CompSoc logo"
           width={256}
           height={256}
@@ -83,7 +83,7 @@ const CompSocTitle = () => {
           }}
         />
         <Image
-          src={`${prefix}/compsoc-long.png`}
+          src={`${prefix}/compsoc-long.webp`}
           alt="CompSoc logo"
           width={516}
           height={256}

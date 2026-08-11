@@ -47,7 +47,7 @@ export const team2016: Committee[] = [
     name: 'Qais',
     surname: 'Patankar',
     role: Role.FIRST_YEAR_REP,
-    image: 'qais-1.jpg',
+    image: 'qais-1.webp',
     links: [{ type: LinkType.WEBSITE, url: 'https://qaisjp.com' }],
   },
   {
@@ -75,7 +75,7 @@ export const team2016: Committee[] = [
     name: 'Kit',
     surname: 'Barnes',
     role: Role.OLD_PERSON_REP,
-    image: 'kit-1.jpg',
+    image: 'kit-1.webp',
     // No URL provided
   },
 ]

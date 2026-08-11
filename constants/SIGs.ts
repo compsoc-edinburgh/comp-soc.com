@@ -11,7 +11,7 @@ export const SIGs: SIG[] = [
     calendarURL:
       'c_78e0084b4542572dfbd710bce8243f0e7721a211db4b5567b795d94fce574d18@group.calendar.google.com',
     icon: {
-      src: 'projectshare.png',
+      src: 'projectshare.webp',
       alt: 'ProjectShare logo',
       rounded: 'rounded-lg',
     },
@@ -129,7 +129,7 @@ export const SIGs: SIG[] = [
     name: 'CloudSIG',
     description: 'An AWS Cloud Club',
     icon: {
-      src: 'CloudSIGLogo.png',
+      src: 'CloudSIGLogo.webp',
       alt: 'CloudSIG logo',
       rounded: 'rounded-lg',
     },
@@ -146,7 +146,7 @@ export const SIGs: SIG[] = [
     description:
       'OS, computer networks, computer architectures, parallel and distributed systems.',
     icon: {
-      src: 'bitsig.png',
+      src: 'bitsig.webp',
       alt: 'BitSig logo',
       rounded: 'rounded-lg',
     },
@@ -162,7 +162,7 @@ export const SIGs: SIG[] = [
     name: 'Flagship',
     description: '',
     icon: {
-      src: 'compsoc-short.png',
+      src: 'compsoc-short.webp',
       alt: 'the compsoc logo',
       rounded: 'rounded-none',
     },
@@ -178,7 +178,7 @@ export const SIGs: SIG[] = [
     name: 'CompSoc',
     description: '',
     icon: {
-      src: 'compsoc-short.png',
+      src: 'compsoc-short.webp',
       alt: 'CompSoc logo',
       rounded: 'rounded-none',
     },
@@ -195,7 +195,7 @@ export const SIGs: SIG[] = [
     description:
       'The launchpad for the University of Edinburgh’s boldest student founders and innovators',
     icon: {
-      src: 'evp.png',
+      src: 'evp.webp',
       alt: 'EVP logo',
       rounded: 'rounded-none',
     },
@@ -210,7 +210,7 @@ export const SIGs: SIG[] = [
     name: 'Edinburgh Neurotech',
     description: 'At the intersection of neuroscience and technology',
     icon: {
-      src: 'edneurotech.png',
+      src: 'edneurotech.webp',
       alt: 'Edinburgh Neurotech logo',
       rounded: 'rounded-none',
     },

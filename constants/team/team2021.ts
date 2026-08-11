@@ -5,7 +5,7 @@ export const team2021: Committee[] = [
     name: 'Artemis',
     surname: 'Livingstone',
     role: Role.PRESIDENT,
-    image: 'saph-1.jpg',
+    image: 'saph-1.webp',
     links: [
       { type: LinkType.GITHUB, url: 'https://github.com/social-anthrax' },
     ],
@@ -14,13 +14,13 @@ export const team2021: Committee[] = [
     name: 'Aria',
     surname: 'Shrimpton',
     role: Role.VICE_PRESIDENT,
-    image: 'aria-1.png',
+    image: 'aria-1.webp',
   },
   {
     name: 'Karthik',
     surname: 'Narayanan',
     role: Role.TREASURER,
-    image: 'karthik-1.jpeg',
+    image: 'karthik-1.webp',
     links: [
       {
         type: LinkType.LINKEDIN,
@@ -32,7 +32,7 @@ export const team2021: Committee[] = [
     name: 'Alexandra',
     surname: 'Purcarea',
     role: Role.SECRETARY,
-    image: 'alexandra-1.JPEG',
+    image: 'alexandra-1.webp',
     links: [
       {
         type: LinkType.LINKEDIN,
@@ -44,7 +44,7 @@ export const team2021: Committee[] = [
     name: 'Yuto',
     surname: 'Takano',
     role: Role.TECHNICAL_SECRETARY,
-    image: 'yuto-1.jpg',
+    image: 'yuto-1.webp',
     links: [
       {
         type: LinkType.LINKEDIN,
@@ -105,7 +105,7 @@ export const team2021: Committee[] = [
     name: 'Rokas',
     surname: 'Gudavičius',
     role: Role.OLD_PERSON_REP,
-    image: 'rokas-1.jpg',
+    image: 'rokas-1.webp',
     links: [{ type: LinkType.WEBSITE, url: 'https://roxerg.github.io' }],
   },
 ]

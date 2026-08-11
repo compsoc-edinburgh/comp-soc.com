@@ -5,37 +5,37 @@ import { prefix } from '@/utils/prefix'
 const ImageCarousel: React.FC = () => {
   const images = [
     {
-      src: `${prefix}/image1.jpg`,
+      src: `${prefix}/image1.webp`,
       alt: 'People sitting in rows, some working on laptops with stickers, others conversing, in an indoor setting.',
       footer: 'Hack The Burgh',
     },
     {
-      src: `${prefix}/image2.jpg`,
+      src: `${prefix}/image2.webp`,
       alt: 'Audience of people laughing and enjoying an event in an indoor setting.',
       footer: 'STMU 2024',
     },
     {
-      src: `${prefix}/image3.jpg`,
+      src: `${prefix}/image3.webp`,
       alt: 'Group of people playing pool under green hanging lights, with some engaging in conversation and holding pool cues.',
       footer: 'Pub Crawl 2024',
     },
     {
-      src: `${prefix}/image4.jpg`,
+      src: `${prefix}/image4.webp`,
       alt: 'Group of people dancing in pairs in a dimly lit venue, dressed in formal and semi-formal attire.',
       footer: 'CompSoc InfBall 2024',
     },
     {
-      src: `${prefix}/image5.jpg`,
+      src: `${prefix}/image5.webp`,
       alt: 'Group of people working together on laptops and discussing in a well-lit indoor setting with large windows',
       footer: 'Hack The Burgh',
     },
     {
-      src: `${prefix}/image6.jpg`,
+      src: `${prefix}/image6.webp`,
       alt: 'Couples dancing in formal attire at a lively event in a brick-walled venue with string lights.',
       footer: 'CompSoc InfBall 2024',
     },
     {
-      src: `${prefix}/image7.jpg`,
+      src: `${prefix}/image7.webp`,
       alt: 'Audience members attentively watching a presentation or event in a lecture hall.',
       footer: 'Hack The Burgh Prize Announcements',
     },

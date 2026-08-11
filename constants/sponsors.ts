@@ -11,7 +11,7 @@ export const sponsors: Sponsor[] = [
 /*
   {
     name: 'Meta',
-    img: 'meta-logo.png',
+    img: 'meta-logo.webp',
     tier: 'bronze',
     description:
       'Meta builds technologies that help people connect, find communities and grow businesses.',
@@ -21,7 +21,7 @@ export const sponsors: Sponsor[] = [
 */
   {
     name: 'School of Informatics',
-    img: 'inf-logo.png',
+    img: 'inf-logo.webp',
     tier: 'platinum',
     description: 'The School of Informatics is a world-leading research instutition in artificial intelligence, computer science, data science and more.',
     link: 'https://informatics.ed.ac.uk/'
@@ -29,7 +29,7 @@ export const sponsors: Sponsor[] = [
  
   {
     name: 'G-Research',
-    img: 'gresearch-logo.png',
+    img: 'gresearch-logo.webp',
     tier: 'gold',
     description:
       'G-Research is a leading quantitative research and technology company.',
@@ -46,7 +46,7 @@ export const sponsors: Sponsor[] = [
   },
   // {
   //   name: 'Lloyds',
-  //   img: 'lloyds-logo.png',
+  //   img: 'lloyds-logo.webp',
   //   tier: 'gold',
   //   description: 'Lloyds is a British retail and commercial bank.',
   //   link: 'https://www.lloydsbank.com/'
@@ -61,7 +61,7 @@ export const sponsors: Sponsor[] = [
 /*
   {
     name: 'Viridien',
-    img: 'viridien-logo.png',
+    img: 'viridien-logo.webp',
     tier: 'silver',
     description:
       'Viridien is an advanced technology, digitial and earth data company.',
@@ -70,7 +70,7 @@ export const sponsors: Sponsor[] = [
 */
   {
     name: 'Bloomberg',
-    img: 'bloomberg-logo.png',
+    img: 'bloomberg-logo.webp',
     tier: 'silver',
     description: 'Bloomberg is a financial software, data and media company.',
     link: 'https://www.bloomberg.com/'
@@ -78,13 +78,13 @@ export const sponsors: Sponsor[] = [
 
   // {
   //   name: 'Google',
-  //   img: 'google-logo.png',
+  //   img: 'google-logo.webp',
   //   tier: 'Gold',
   // },
 
   {
     name: 'Jane Street',
-    img: 'janestreet-logo.png',
+    img: 'janestreet-logo.webp',
     tier: 'bronze',
     description: 'Jane Street is a research-driven trading firm.',
     link: 'https://www.janestreet.com/'
@@ -92,7 +92,7 @@ export const sponsors: Sponsor[] = [
 
   // {
   //   name: 'Marshall Wace',
-  //   img: 'marshallwace-logo.gif',
+  //   img: 'marshallwace-logo.webp',
   //   tier: 'platinum',
   //   description: 'Marshall Wace is a global alternative asset management company.',
   //   link: 'https://www.mwam.com/',
@@ -100,7 +100,7 @@ export const sponsors: Sponsor[] = [
 
   {
     name: 'Optiver',
-    img: 'optiver-logo.png',
+    img: 'optiver-logo.webp',
     tier: 'bronze',
     description: 'Optiver is a global market maker.',
     link: 'https://www.optiver.com/'
@@ -108,7 +108,7 @@ export const sponsors: Sponsor[] = [
 /*
   {
     name: 'Neuphonic',
-    img: 'neuphonic-logo.png',
+    img: 'neuphonic-logo.webp',
     tier: 'silver',
     description:
       'Neuphonic is an AI startup focusing on low-latency text to speech.',
@@ -118,7 +118,7 @@ export const sponsors: Sponsor[] = [
 */
   {
     name: 'TPP',
-    img: 'tpp-logo.png',
+    img: 'tpp-logo.webp',
     tier: 'bronze',
     description: 'TPP is a leading global provider of healthcare technology.',
     link: 'https://tpp-careers.com/'
@@ -142,7 +142,7 @@ export const sponsors: Sponsor[] = [
 
   // {
   //   name: 'Bending Spoons',
-  //   img: 'bending-spoons.png',
+  //   img: 'bending-spoons.webp',
   //   tier: 'silver',
   //   description: 'Impossible. Maybe. Bending spoons is a technology market leader serving nearly a billion across the globe.',
   //   link: 'https://bendingspoons.com'
@@ -150,7 +150,7 @@ export const sponsors: Sponsor[] = [
 
   {
     name: 'Hudson River Trading',
-    img: 'hrt-logo.png',
+    img: 'hrt-logo.webp',
     tier: 'platinum',
     description: 'Hudson River Trading (HRT) is a leading quantitative trading firm at the forefront of technical innovation in global financial markets.',
     link: 'https://www.hudsonrivertrading.com/'
@@ -158,7 +158,7 @@ export const sponsors: Sponsor[] = [
 
   {
     name: 'InstaLILY',
-    img: 'instalily-logo.png',
+    img: 'instalily-logo.webp',
     tier: 'silver',
     description: 'InstaLILY builds autonomous AI agents for the businesses that make, move and fix the physical economy.',
     link: 'https://www.instalily.ai/'
@@ -166,7 +166,7 @@ export const sponsors: Sponsor[] = [
 
   {
     name: 'Wordsmith AI',
-    img: 'wordsmithai-logo.png',
+    img: 'wordsmithai-logo.webp',
     tier: 'silver',
     description: 'Wordsmith AI is an Edinburgh-based company building the command centre for in-house legal teams.',
     link: 'https://www.wordsmith.ai/'

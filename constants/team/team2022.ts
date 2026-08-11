@@ -21,13 +21,13 @@ export const team2022: Committee[] = [
     name: 'Sophie',
     surname: 'Bata-Madden',
     role: Role.TREASURER,
-    image: 'sophie-1.png',
+    image: 'sophie-1.webp',
   },
   {
     name: 'Maya',
     surname: 'Copeland',
     role: Role.SECRETARY,
-    image: 'maya-1.png',
+    image: 'maya-1.webp',
     links: [{ type: LinkType.WEBSITE, url: 'https://maya.cx' }],
   },
   {
@@ -40,13 +40,13 @@ export const team2022: Committee[] = [
     name: 'Amy',
     surname: 'Yin',
     role: Role.SOCIAL_SECRETARY,
-    image: 'amy-1.jpg',
+    image: 'amy-1.webp',
   },
   {
     name: 'Margo',
     surname: 'Tsugorka',
     role: Role.GRAPHIC_DESIGNER,
-    image: 'margo-1.jpg',
+    image: 'margo-1.webp',
   },
   {
     name: 'Fergus',
@@ -57,7 +57,7 @@ export const team2022: Committee[] = [
     name: 'Charlotte',
     surname: 'Ausel',
     role: Role.SECOND_YEAR_REP,
-    image: 'charlotte-1.jpg',
+    image: 'charlotte-1.webp',
   },
   {
     name: 'Enes',
