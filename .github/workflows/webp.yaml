@@ -1,0 +1,44 @@
+# This workflow will scan the repo for images not in webp and will fail if it
+# finds any. This is to standardise the repo to one image format and hopefully
+# improve the loading time of comp-soc.com
+
+name: Confirm all images are standard format
+
+on: 
+  push:
+
+jobs:
+  check-images:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Fail for non-compliant images
+        run: |
+          if [[ -n $(find . -type f \( -iname '*.jpg' -o -iname '*.jpeg' -o -iname '*.jfif' -o -iname '*.pjpeg' -o -iname '*.pjp' -o -iname '*.png' -o -iname '*.apng' -o -iname '*.gif' -o -iname '*.bmp' -o -iname '*.tif' -o -iname '*.tiff' \) ! -name '*.norender') ]]; then
+            echo "Non-compliant image files found. Please convert them to lossless WebP (preferred) or AVIF for bitmap graphics, or SVG for vector graphics. If files are not to be rendered and are kept for posterity (or you realllllyyyy don't want to let go of your precious TIFF files) please append '.norender' to the file name."
+            exit 1
+          else
+            echo "All images appear compliant."
+          fi
+      
+      - name: Warn for ICO usage
+        run: |
+          if [[ -n $(find . -type f -iname '*.ico') ]]; then
+            echo "ICO is no longer the preferred standard for favicons, and should not be used in web content. Please see: https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/link#providing_icons_for_different_usage_contexts"
+            exit 0
+          else
+            exit 0
+          fi
+
+      - name: Warn for non-compliant image links
+        run: |
+          if grep -r --include="*.html" --include="*.md" -E 'src="[^"]*\.(jpg|jpeg|jfif|pjpeg|pjp|png|apng|gif|bmp|tif|tiff)"' . 2>/dev/null; then
+          echo "Warning: found references to non-compliant image formats in HTML/Markdown files, consider updating image links to use WebP, AVIF, or SVG instead."
+            exit 0
+          else
+            echo "No non-compliant image links found in HTML/Markdown files."
+            exit 0
+          fi
+

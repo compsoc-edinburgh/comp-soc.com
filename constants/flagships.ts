@@ -36,7 +36,7 @@ export const flagships: Flagship[] = [
       'Engage with insightful talks from academics and industry experts, and enjoy free pizza!',
     long_description:
       'CompSoc hosts many STMUs throughout the year. A Student Tech Meetup is an academic setting where speakers come to talk to students about their field of interest. Notable past speakers have included the creator of the UK’s best chess engine, the designer of Haskell, and industry experts from Meta and Spotify. The best part about it, it’s free and has free food!',
-    image: 'stmu.jpg',
+    image: 'stmu.webp',
     roughDate: 'Monthly',
     facts: [{ number: '30-70', text: 'attendees' }],
   },

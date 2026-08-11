@@ -5,7 +5,7 @@ export const team2023: Committee[] = [
     name: 'Fergus',
     surname: 'White',
     role: Role.PRESIDENT,
-    image: 'fergus-1.png',
+    image: 'fergus-1.webp',
     links: [
       {
         type: LinkType.LINKEDIN,
@@ -17,14 +17,14 @@ export const team2023: Committee[] = [
     name: 'Ali',
     surname: 'Abdelaal',
     role: Role.VICE_PRESIDENT,
-    image: 'ali-1.png',
+    image: 'ali-1.webp',
     // No URL provided
   },
   {
     name: 'Elisa',
     surname: 'Fraticelli',
     role: Role.TREASURER,
-    image: 'elisa.jpg',
+    image: 'elisa.webp',
     links: [
       {
         type: LinkType.LINKEDIN,
@@ -36,28 +36,28 @@ export const team2023: Committee[] = [
     name: 'Maya',
     surname: 'Copeland',
     role: Role.SECRETARY,
-    image: 'maya-1.png',
+    image: 'maya-1.webp',
     links: [{ type: LinkType.WEBSITE, url: 'https://maya.cx' }],
   },
   {
     name: 'Adam',
     surname: 'Calvert',
     role: Role.TECHNICAL_SECRETARY,
-    image: 'adam-1.png',
+    image: 'adam-1.webp',
     links: [{ type: LinkType.WEBSITE, url: 'https://acal17.github.io/' }],
   },
   {
     name: 'Charlotte',
     surname: 'Ausel',
     role: Role.SOCIAL_SECRETARY,
-    image: 'charlotte-1.jpg',
+    image: 'charlotte-1.webp',
     // No URL provided
   },
   {
     name: 'Yuto',
     surname: 'Takano',
     role: Role.GRAPHIC_DESIGNER,
-    image: 'yuto-1.jpg',
+    image: 'yuto-1.webp',
     links: [
       {
         type: LinkType.LINKEDIN,
@@ -69,7 +69,7 @@ export const team2023: Committee[] = [
     name: 'Vincentas',
     surname: 'Danys',
     role: Role.FIRST_YEAR_REP,
-    image: 'vincentas-1.jpg',
+    image: 'vincentas-1.webp',
     links: [
       {
         type: LinkType.LINKEDIN,
@@ -81,14 +81,14 @@ export const team2023: Committee[] = [
     name: 'Arin',
     surname: 'Mukhopadhyay',
     role: Role.SECOND_YEAR_REP,
-    image: 'arin-1.jpg',
+    image: 'arin-1.webp',
     // No URL provided
   },
   {
     name: 'Tomas',
     surname: 'Maillo',
     role: Role.THIRD_YEAR_REP,
-    image: 'tomas-1.png',
+    image: 'tomas-1.webp',
     links: [{ type: LinkType.WEBSITE, url: 'https://tomasmaillo.com/' }],
   },
   {
@@ -102,7 +102,7 @@ export const team2023: Committee[] = [
     name: 'Jinxuan',
     surname: 'Cui',
     role: Role.OLD_PERSON_REP,
-    image: 'jinxuan.jpg',
+    image: 'jinxuan.webp',
     links: [{ type: LinkType.WEBSITE, url: 'https://www.cjxol.com/' }],
   },
 ]

@@ -12,7 +12,7 @@ const HoverGif = () => {
       onMouseLeave={() => setIsHovered(false)}
     >
       <Image
-        src={`${prefix}/heart-static.png`}
+        src={`${prefix}/heart-static.webp`}
         alt="Static Icon"
         layout="fill"
         objectFit="contain"
@@ -21,7 +21,7 @@ const HoverGif = () => {
         }`}
       />
       <Image
-        src={`${prefix}/heart.gif`}
+        src={`${prefix}/heart.webp`}
         alt="GIF Icon"
         layout="fill"
         objectFit="contain"

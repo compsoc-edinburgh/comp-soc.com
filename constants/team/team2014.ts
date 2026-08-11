@@ -5,14 +5,14 @@ export const team2014: Committee[] = [
     name: 'Angus',
     surname: 'Pearson',
     role: Role.PRESIDENT,
-    image: 'angusp-1.jpg',
+    image: 'angusp-1.webp',
     links: [{ type: LinkType.WEBSITE, url: 'http://toaster.cc' }],
   },
   {
     name: 'James',
     surname: 'Friel',
     role: Role.VICE_PRESIDENT,
-    image: 'james-friel-1.jpg',
+    image: 'james-friel-1.webp',
     // No URL provided
   },
   {

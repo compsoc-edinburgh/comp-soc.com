@@ -5,7 +5,7 @@ export const team2026: Committee[] = [
         name: "Kaiwen",
         surname: "Wang",
         role: Role.PRESIDENT,
-        image: "kaiwen-2026-1.png",
+        image: "kaiwen-2026-1.webp",
         sponsorContact: true,
         sponsorEmail: "president@comp-soc.com",
         links: [
@@ -26,7 +26,7 @@ export const team2026: Committee[] = [
         surname: "Wallace",
         role: Role.VICE_PRESIDENT,
         sponsorContact: true,
-        image: "luc-2026-1.png",
+        image: "luc-2026-1.webp",
         links: [
             {
                 type: LinkType.LINKEDIN,
@@ -59,7 +59,7 @@ export const team2026: Committee[] = [
         name: "Aarav",
         surname: "Parin",
         role: Role.SECRETARY,
-        image: "aarav-2026-1.png",
+        image: "aarav-2026-1.webp",
         links: [
             {
                 type: LinkType.LINKEDIN,
@@ -85,7 +85,7 @@ export const team2026: Committee[] = [
         name: "Hugo",
         surname: "Verity-Povoas",
         role: Role.SOCIAL_SECRETARY,
-        image: "hugo-2026-1.png",
+        image: "hugo-2026-1.webp",
         links: [
             {
                 type: LinkType.LINKEDIN,
@@ -97,7 +97,7 @@ export const team2026: Committee[] = [
         name: "Pui",
         surname: "Hong Freeman Chung",
         role: Role.SOCIAL_MEDIA_OFFICER,
-        image: "pui-2026-1.png",
+        image: "pui-2026-1.webp",
         links: [
             {
                 type: LinkType.LINKEDIN,
@@ -109,7 +109,7 @@ export const team2026: Committee[] = [
         name: "Iretemi",
         surname: "Ogunlaja",
         role: Role.GRAPHIC_DESIGNER,
-        image: "iretemi-2026-1.png",
+        image: "iretemi-2026-1.webp",
         links: [
             {
                 type: LinkType.LINKEDIN,
@@ -121,7 +121,7 @@ export const team2026: Committee[] = [
         name: "Aryan",
         surname: "Ajmera",
         role: Role.SECOND_YEAR_REP,
-        image: "aryan-2026-1.png",
+        image: "aryan-2026-1.webp",
         links: [
             {
                 type: LinkType.LINKEDIN,
@@ -145,7 +145,7 @@ export const team2026: Committee[] = [
         name: "Anya",
         surname: "Krisanova",
         role: Role.FOURTH_YEAR_REP,
-        image: "anya-2026-1.png",
+        image: "anya-2026-1.webp",
         links: [
             {
                 type: LinkType.LINKEDIN,
@@ -163,7 +163,7 @@ export const team2026: Committee[] = [
         name: "Emily",
         surname: "M",
         role: Role.EDI_REP,
-        image: "emily-1.jpg",
+        image: "emily-1.webp",
         links: [
             {
                 type: LinkType.LINKEDIN,
