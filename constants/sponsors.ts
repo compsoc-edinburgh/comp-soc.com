@@ -126,7 +126,7 @@ export const sponsors: Sponsor[] = [
   
   {
     name: 'Jump Trading',
-    img: 'jump-trading.svg',
+    img: 'jumptrading-logo.svg',
     tier: 'bronze',
     description: 'Jump Trading is a trading firm with focuses on algorithmic trading and solving market problems.',
     link: 'https://www.jumptrading.com/'
@@ -134,7 +134,7 @@ export const sponsors: Sponsor[] = [
   
   {
     name: 'Huawei',
-    img: 'huawei.webp',
+    img: 'huawei-logo.png',
     tier: 'platinum',
     description: 'Huawei is a leading global provider of information and communications technology (ICT) infrastructure and smart devices.',
     link: 'https://www.huawei.com/'
