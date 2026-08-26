@@ -170,5 +170,13 @@ export const sponsors: Sponsor[] = [
     tier: 'silver',
     description: 'Wordsmith AI is an Edinburgh-based company building the command centre for in-house legal teams.',
     link: 'https://www.wordsmith.ai/'
+  },
+
+  {
+    name: 'The Robotics Company',
+    img: 'theroboticscompany-logo.png',
+    tier: 'bronze',
+    description: 'The Robotics Company is solving deployment infrastructure for robots at scale',
+    link: 'https://www.theroboticscompany.com/'
   }
 ]
