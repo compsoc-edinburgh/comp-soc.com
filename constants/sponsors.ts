@@ -92,13 +92,14 @@ export const sponsors: Sponsor[] = [
     link: 'https://www.janestreet.com/',
   },
 
-  // {
-  //   name: 'Marshall Wace',
-  //   img: 'marshallwace-logo.gif',
-  //   tier: 'platinum',
-  //   description: 'Marshall Wace is a global alternative asset management company.',
-  //   link: 'https://www.mwam.com/',
-  // },
+  {
+    name: 'Marshall Wace',
+    img: 'marshallwace-logo.svg',
+    tier: 'silver',
+    description:
+      'Marshall Wace is a leading provider of alternative investment solutions.',
+    link: 'https://www.mwam.com/',
+  },
 
   {
     name: 'Optiver',
