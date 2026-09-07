@@ -188,4 +188,12 @@ export const sponsors: Sponsor[] = [
       'The Robotics Company is solving deployment infrastructure for robots at scale.',
     link: 'https://www.theroboticscompany.com/',
   },
+  {
+    name: 'IMC Trading',
+    img: 'imgtrading-logo.svg',
+    tier: 'gold',
+    description:
+      'IMC is a global trading firm powered by a cutting-edge research environment and a world-class technology backbone.',
+    link: 'https://www.imc.com/eu',
+  },
 ]
