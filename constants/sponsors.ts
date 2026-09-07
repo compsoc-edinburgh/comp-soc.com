@@ -190,7 +190,7 @@ export const sponsors: Sponsor[] = [
   },
   {
     name: 'IMC Trading',
-    img: 'imgtrading-logo.svg',
+    img: 'imctrading-logo.svg',
     tier: 'gold',
     description:
       'IMC is a global trading firm powered by a cutting-edge research environment and a world-class technology backbone.',
