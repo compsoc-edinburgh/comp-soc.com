@@ -1,0 +1,122 @@
+3:I[39275,[],""]
+5:I[61343,[],""]
+6:I[84269,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-27299e249fa17905.js","173","static/chunks/173-a4fc881f158b666a.js","250","static/chunks/250-f46a353d0d67b303.js","185","static/chunks/app/layout-464ae03f78972616.js"],"default"]
+7:I[35719,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-27299e249fa17905.js","173","static/chunks/173-a4fc881f158b666a.js","250","static/chunks/250-f46a353d0d67b303.js","185","static/chunks/app/layout-464ae03f78972616.js"],"default"]
+8:I[42452,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-27299e249fa17905.js","173","static/chunks/173-a4fc881f158b666a.js","250","static/chunks/250-f46a353d0d67b303.js","185","static/chunks/app/layout-464ae03f78972616.js"],"default"]
+9:I[92056,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-27299e249fa17905.js","173","static/chunks/173-a4fc881f158b666a.js","250","static/chunks/250-f46a353d0d67b303.js","185","static/chunks/app/layout-464ae03f78972616.js"],"default"]
+4:["slug","2026-09-11","d"]
+0:["rIUpHbSLmSDQpcUIDcPqQ",[[["",{"children":["minutes",{"children":[["slug","2026-09-11","d"],{"children":["__PAGE__?{\"slug\":\"2026-09-11\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["minutes",{"children":[["slug","2026-09-11","d"],{"children":["__PAGE__",{},[["$L1","$L2",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5071fba01565cfd4.css","precedence":"next","crossOrigin":"$undefined"}]]],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","minutes","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","minutes","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/9d398337991569ee.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"relative overflow-x-clip w-screen mx-auto","children":[["$","$L6",null,{"children":["$","$L7",null,{"children":[["$","$L8",null,{}],["$","div",null,{"className":"container mx-auto max-w-screen-xl p-4 pb-32 min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}]]}]}],["$","$L9",null,{}]]}]}]],null],null],["$La",null]]]]
+b:I[95423,["90","static/chunks/90-27299e249fa17905.js","820","static/chunks/app/minutes/%5Bslug%5D/page-c3c38c8a089db779.js"],"default"]
+c:T1045,<h1>CompSoc Meeting Minutes 2026-09-11</h1>
+<p><strong>First Committee Meeting</strong> — Fri 11 Sept, 18:00–20:00</p>
+<h2>Attendees</h2>
+<h3>Committee</h3>
+<ul>
+<li>Kaiwen - President</li>
+<li>Aarav - Secretary</li>
+<li>Dhyey - Treasurer</li>
+<li>Luc - Vice President</li>
+<li>Hugo - Social Secretary</li>
+<li>Skye - Technical Secretary</li>
+<li>Pa'uk - Old Person Rep</li>
+</ul>
+<h3>SIG Reps</h3>
+<ul>
+<li>Rory - EVP</li>
+<li>Michael B - QuantSoc</li>
+<li>Kanish - TypeSIG</li>
+<li>Kameran, Lucas, Archie - SIGINT</li>
+<li>Archie - BetterInformatics</li>
+<li>Kacper, Archie - BitSIG</li>
+<li>Kay - Projectshare</li>
+<li>Ivan - NeuroTech</li>
+</ul>
+<h2>Items</h2>
+<h3>Welcome Week Schedule (14–20 September)</h3>
+<p><strong>Mon 14 Sept</strong></p>
+<ul>
+<li>16:00 — Tardis Intro</li>
+<li>18:30 — Tardis Pub Night</li>
+<li>20:00 — Karaoke Night</li>
+</ul>
+<p><strong>Tue 15 Sept</strong></p>
+<ul>
+<li>10:00 — Activities Fair</li>
+<li>11:00 — Meadows Picnic</li>
+<li>14:00 — Lean Intro</li>
+<li>14:00 — EVP Intro</li>
+<li>16:00 — BitSIG Intro</li>
+<li>17:00 — Gaming Night</li>
+</ul>
+<p><strong>Wed 16 Sept</strong></p>
+<ul>
+<li>12:00 — EdinburghAI Talk</li>
+<li>14:00 — Beginner CTF</li>
+<li>20:00 — Pub Crawl</li>
+</ul>
+<p><strong>Fri 18 Sept</strong></p>
+<ul>
+<li>11:00 — Informatics Welcome</li>
+<li>12:00–16:00 — Arthur's Seat Hike</li>
+<li>13:00 — Quant Workshop</li>
+<li>16:00 — EdinburghAI Workshop</li>
+<li>18:00 — Board Games</li>
+</ul>
+<p><strong>Sat 19 Sept</strong></p>
+<ul>
+<li>18:00 — Neurotech Intro</li>
+<li>20:00 — SIGINT Pub Night</li>
+</ul>
+<p><strong>Sun 20 Sept</strong></p>
+<ul>
+<li>19:00 — TypeSig Pub Night</li>
+</ul>
+<h3>Welcome Week</h3>
+<ul>
+<li>Friday 3-4 pm neurotech intro talk booked</li>
+<li>Projectshare Friday ww event (need to book) ask time? - Aarav</li>
+<li>Venues for sig ww events need to be finalized - Hugo and Aarav</li>
+<li>Meadows picnic is going to have 70 pounds budget - Dhyey</li>
+<li>Gaming night 70-30 pizza cost split b/w compsoc-gamesoc - Kaiwen</li>
+<li>Pub crawl event on 16th sep meet at teviot 8 pm plans - red vs blue</li>
+<li>Arthur seat hike - 500 pounds being sponsored by JetBrains (Kaiwen), meet at 12 pm - 4 pm, going to teviot after that (Dhyey)</li>
+<li>Inf welcome event (18th sep 11 am - 2 pm) helpers - Kanish all hrs</li>
+<li>Board games - budget 30 pounds (Dhyey), ask alex abt the venue (Aarav)</li>
+<li>No evp events during ww need to book it for sem</li>
+<li>Iretemi needs all the venues for events for graphic designs for the posters</li>
+</ul>
+<h3>Open Day</h3>
+<ul>
+<li>Undergraduate Open Day — Sat 26 Sept, Informatics Forum, shifts TBC</li>
+<li>Email SOI for more details regarding Undergrad Open Day - Kaiwen</li>
+</ul>
+<h3>STMUs</h3>
+<ul>
+<li>September STMU speaker — Elliot Fosong, VP of Research at Recuvria, talk on Metrana (ML experiment observability platform)</li>
+<li>Sep STMU (budget for pizzas - 500 pounds), all sigs seen at once together at the start (Pauk suggestion), 1-2 slides per sig w approx 3 mins per sig (needs to be decided) - Luc</li>
+<li>Other stmus - new food plans other than pizza and also suggestions invited for making stmus diff and fun. Kaiwen needs to contact IMC</li>
+<li>Htb sponsors concluding next week mid (Archie and Luc)</li>
+</ul>
+<h3>Platform &#x26; Governance</h3>
+<ul>
+<li>Compsoc events platform - needs to start working (Danyil)</li>
+<li>Conflicts of interest need to look after all that amended and finalized by egm - Aarav</li>
+</ul>
+<h3>InfBall</h3>
+<ul>
+<li>Infball volunteer hunting not much as of now (Kay and Kameran)</li>
+</ul>
+<h3>Winter Event</h3>
+<ul>
+<li>Winter event planning name? - TBD, Date - 28th nov, Location - Murrayfield stadium, 140 ppl only (25 per person and 20 for committee for the tickets as per Dhyey), Pics of the venue to be sent - Ivan</li>
+</ul>
+<h3>Mixr</h3>
+<ul>
+<li>Mixr - one qr code for whole compsoc, using this to incentivise sigs to use it to book pubs, discord announcement for explaining the whole process to compsoc in 2 business days - Dhyey</li>
+</ul>
+<h2>Misc.</h2>
+<ul>
+<li>hoppers/women in stem who exactly for bloomberg? - Kaiwen</li>
+</ul>2:["$","$Lb",null,{"contentHtml":"$c","title":"2026-09-11","modifiedAt":"$D2026-09-13T00:20:15.410Z"}]
+a:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#353535"}],["$","meta","2",{"charSet":"utf-8"}],["$","title","3",{"children":"CompSoc Edinburgh"}],["$","meta","4",{"name":"description","content":"CompSoc is Edinburgh University's technology society! We're Scotland's best and largest of its kind, and form one of the largest societies within the university."}],["$","link","5",{"rel":"icon","href":"https://comp-soc.com/compsoc-mini.svg"}]]
+1:null
