@@ -196,4 +196,12 @@ export const sponsors: Sponsor[] = [
       'IMC is a global trading firm powered by a cutting-edge research environment and a world-class technology backbone.',
     link: 'https://www.imc.com/eu',
   },
+  {
+    name: 'Metaview',
+    img: 'metaview-logo.svg',
+    tier: 'gold',
+    description:
+      'Metaview is an applied AI lab building end-to-end recruiting agents that feel like coworkers.',
+    link: 'https://www.metaview.ai/',
+  },
 ]
