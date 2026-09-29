@@ -112,15 +112,16 @@ export const SIGs: SIG[] = [
     showCard: true,
   },
   {
-    name: 'GameDevSIG',
+    name: 'GameDevSig',
     description: 'Game Development',
     icon: {
-      src: 'gamedevsig.webp',
-      alt: 'GameDevSIG logo',
-      rounded: 'rounded-full',
+      src: 'gamedevsig.svg',
+      alt: 'GameDevSig logo',
+      rounded: 'rounded-none',
     },
     backgroundColor: '#000000',
     borderColor: '#3CAB98',
+    websiteURL: 'https://gamedevsig.comp-soc.com/',
     calendarURL:
       'c_58a50415d675c87a68a110fc66e86cac5ff113d6a4e9ac4cd08501d7f949bffb@group.calendar.google.com',
     showCard: true,
