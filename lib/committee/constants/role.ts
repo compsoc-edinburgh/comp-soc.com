@@ -14,6 +14,7 @@ export enum Role {
   SECOND_YEAR_REP = '2nd Year Rep',
   THIRD_YEAR_REP = '3rd Year Rep',
   FOURTH_YEAR_REP = '4th Year Rep',
+  MASTERS_REP = `Master's Rep`,
   OLD_PERSON_REP = 'Old Person Rep',
   EDI_REP = 'EDI Rep',
   IMAGE_AND_PR = 'Image and PR',

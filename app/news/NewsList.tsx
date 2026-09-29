@@ -126,17 +126,6 @@ const ListView = ({
                 </span>
               </div>
             </div>
-            <p
-              className="text-sm opacity-70 leading-relaxed mt-2"
-              style={{
-                display: '-webkit-box',
-                WebkitLineClamp: 2,
-                WebkitBoxOrient: 'vertical',
-                overflow: 'hidden',
-              }}
-            >
-              {post.content.slice(0, 180)}...
-            </p>
           </div>
         </Link>
       ))}

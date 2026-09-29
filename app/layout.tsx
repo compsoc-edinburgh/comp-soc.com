@@ -7,7 +7,7 @@ import VariableBackground from '@/components/VariableBackground'
 import Footer from '@/components/footer/Footer'
 
 export const metadata: Metadata = {
-  title: 'CompSoc',
+  title: 'CompSoc Edinburgh',
   description:
     "CompSoc is Edinburgh University's technology society! We're Scotland's best and largest of its kind, and form one of the largest societies within the university.",
   icons: {

@@ -21,7 +21,7 @@ export const SIGs: SIG[] = [
   },
   {
     name: 'SIGINT',
-    description: 'Cyber Security',
+    description: 'Cybersecurity',
     websiteURL: 'https://sigint.mx/',
     icon: {
       src: 'sigint.webp',
@@ -36,7 +36,7 @@ export const SIGs: SIG[] = [
   },
   {
     name: 'CCSIG',
-    description: 'Competitve Programming',
+    description: 'Competitive Programming',
     websiteURL: 'https://ccsig.comp-soc.com/',
     icon: {
       src: 'ccsig.webp',
@@ -66,7 +66,7 @@ export const SIGs: SIG[] = [
   },
   {
     name: 'TypeSig',
-    description: 'Type theory and related fields',
+    description: 'Theoretical Computer Science',
     websiteURL: 'https://typesig.pl/',
     icon: {
       src: 'typesig.webp',
@@ -116,7 +116,7 @@ export const SIGs: SIG[] = [
     description: 'Game Development',
     icon: {
       src: 'gamedevsig.webp',
-      alt: 'GamedevSig logo',
+      alt: 'GameDevSIG logo',
       rounded: 'rounded-full',
     },
     backgroundColor: '#000000',
@@ -130,13 +130,13 @@ export const SIGs: SIG[] = [
     description: 'An AWS Cloud Club',
     icon: {
       src: 'CloudSIGLogo.png',
-      alt: 'CloudSig logo',
+      alt: 'CloudSIG logo',
       rounded: 'rounded-lg',
     },
     backgroundColor: '#FF9A02',
     borderColor: '#F1A430',
     websiteURL:
-      'https://www.meetup.com/aws-cloud-club-the-university-of-edinburgh',
+      'https://cloudsig.uk/',
     calendarURL:
       'c_8251e2c2a6bdc88406401f582ca996f087aea223665091d56b822bf99779e5a4@group.calendar.google.com',
     showCard: true,
@@ -147,12 +147,12 @@ export const SIGs: SIG[] = [
       'OS, computer networks, computer architectures, parallel and distributed systems.',
     icon: {
       src: 'bitsig.png',
-      alt: 'the bitsig logo',
+      alt: 'BitSig logo',
       rounded: 'rounded-lg',
     },
     backgroundColor: '#FFFFFF',
     textColor: '#eb1516',
-    websiteURL: 'https://discord.gg/FQuQZHnx4r',
+    websiteURL: 'https://discord.gg/zcvWwFcyZd',
     borderColor: '#eb1516',
     calendarURL:
       'c_85d2fd63d7ddc9671768fc01f813e1debac2c2dfbbe3a2903051767beb2cff0f@group.calendar.google.com',
@@ -179,7 +179,7 @@ export const SIGs: SIG[] = [
     description: '',
     icon: {
       src: 'compsoc-short.png',
-      alt: 'the compsoc logo',
+      alt: 'CompSoc logo',
       rounded: 'rounded-none',
     },
     backgroundColor: '#CE3234',
@@ -192,18 +192,34 @@ export const SIGs: SIG[] = [
   },
   {
     name: 'Edinburgh Venture Point',
-    description: 'Edinburgh VenturePoint is the launchpad for the University of Edinburgh’s boldest student founders and innovators.',
+    description:
+      'The launchpad for the University of Edinburgh’s boldest student founders and innovators',
     icon: {
       src: 'evp.png',
-      alt: 'the compsoc logo',
+      alt: 'EVP logo',
       rounded: 'rounded-none',
     },
     backgroundColor: '#3333f5',
     textColor: '#ffffff',
     websiteURL: 'https://edinburghventurepoint.com',
     borderColor: '',
+    calendarURL: '',
+    showCard: true,
+  },
+  {
+    name: 'Edinburgh Neurotech',
+    description: 'At the intersection of neuroscience and technology',
+    icon: {
+      src: 'edneurotech.png',
+      alt: 'Edinburgh Neurotech logo',
+      rounded: 'rounded-none',
+    },
+    backgroundColor: '#191919',
+    textColor: '#ffffff',
+    websiteURL: 'https://edneurotech.co.uk',
+    borderColor: '#000000',
     calendarURL:
-      '',
+      'c_4fb46afb6317b412b773b8eed061d961d689d4829c1140a4fb922d76580bbf97@group.calendar.google.com',
     showCard: true,
   },
 ]

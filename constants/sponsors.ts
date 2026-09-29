@@ -8,7 +8,7 @@ export const sponsors: Sponsor[] = [
   //   description: 'Addepar is a wealth management platform that specializes in data aggregation, analytics, and reporting.',
   //   link: 'https://addepar.com/',
   // },
-/*
+  /*
   {
     name: 'Meta',
     img: 'meta-logo.png',
@@ -20,13 +20,21 @@ export const sponsors: Sponsor[] = [
   },
 */
   {
+    name: 'School of Informatics',
+    img: 'inf-logo.png',
+    tier: 'platinum',
+    description:
+      'The School of Informatics is a world-leading research instutition in artificial intelligence, computer science, data science and more.',
+    link: 'https://informatics.ed.ac.uk/',
+  },
+
+  {
     name: 'G-Research',
     img: 'gresearch-logo.png',
-    tier: 'platinum',
+    tier: 'gold',
     description:
       'G-Research is a leading quantitative research and technology company.',
     link: 'https://www.gresearch.com/',
-    shortlink: 'https://shorturl.at/SNYSj',
   },
 
   {
@@ -36,36 +44,39 @@ export const sponsors: Sponsor[] = [
     description:
       'Qube Research & Technologies is a global multi strategy investment manager.',
     link: 'https://www.qube-rt.com/',
-    shortlink: 'https://shorturl.at/MCubc',
   },
-/*
+  // {
+  //   name: 'Lloyds',
+  //   img: 'lloyds-logo.png',
+  //   tier: 'gold',
+  //   description: 'Lloyds is a British retail and commercial bank.',
+  //   link: 'https://www.lloydsbank.com/'
+  // },
   {
-    name: 'Lloyds',
-    img: 'lloyds-logo.png',
-    tier: 'silver',
-    description: 'Lloyds is a British retail and commercial bank.',
-    link: 'https://www.lloydsbank.com/',
-    shortlink: 'https://shorturl.at/rvFLd',
+    name: 'Bank of Scotland',
+    img: 'bankofscotland-logo.svg',
+    tier: 'gold',
+    description:
+      "Bank of Scotland is part of Lloyds Banking Group, one of the UK's leading financial services groups.",
+    link: 'https://www.bankofscotland.co.uk/',
   },
-*/
-/*
+  /*
   {
     name: 'Viridien',
     img: 'viridien-logo.png',
     tier: 'silver',
     description:
       'Viridien is an advanced technology, digitial and earth data company.',
-    link: 'https://www.viridiengroup.com/',
-    shortlink: 'https://shorturl.at/Lq0C9',
+    link: 'https://www.viridiengroup.com/'
   },
 */
-  // {
-  //   name: 'Bloomberg',
-  //   img: 'bloomberg-logo.png',
-  //   tier: 'Bronze',
-  //   description: 'Bloomberg is a financial software, data, and media company.',
-  //   link: 'https://www.bloomberg.com/',
-  // },
+  {
+    name: 'Bloomberg',
+    img: 'bloomberg-logo.png',
+    tier: 'silver',
+    description: 'Bloomberg is a financial software, data and media company.',
+    link: 'https://www.bloomberg.com/',
+  },
 
   // {
   //   name: 'Google',
@@ -79,35 +90,25 @@ export const sponsors: Sponsor[] = [
     tier: 'bronze',
     description: 'Jane Street is a research-driven trading firm.',
     link: 'https://www.janestreet.com/',
-    shortlink: 'https://shorturl.at/uYhHB',
   },
 
-  // {
-  //   name: 'School of Informatics',
-  //   img: 'inf-logo.png',
-  //   tier: 'platinum',
-  //   description: 'The School of Informatics is the largest institution of this kind in the UK and one of the largest in Europe.',
-  //   link: 'https://informatics.ed.ac.uk/',
-
-  // },
-
-  // {
-  //   name: 'Marshall Wace',
-  //   img: 'marshallwace-logo.gif',
-  //   tier: 'platinum',
-  //   description: 'Marshall Wace is a global alternative asset management company.',
-  //   link: 'https://www.mwam.com/',
-  // },
+  {
+    name: 'Marshall Wace',
+    img: 'marshallwace-logo.svg',
+    tier: 'silver',
+    description:
+      'Marshall Wace is a leading provider of alternative investment solutions.',
+    link: 'https://www.mwam.com/',
+  },
 
   {
     name: 'Optiver',
     img: 'optiver-logo.png',
-    tier: 'gold',
+    tier: 'bronze',
     description: 'Optiver is a global market maker.',
     link: 'https://www.optiver.com/',
-    shortlink: 'https://shorturl.at/4KRoS',
   },
-/*
+  /*
   {
     name: 'Neuphonic',
     img: 'neuphonic-logo.png',
@@ -124,26 +125,83 @@ export const sponsors: Sponsor[] = [
     tier: 'bronze',
     description: 'TPP is a leading global provider of healthcare technology.',
     link: 'https://tpp-careers.com/',
-    shortlink: 'https://shorturl.at/8q3LK',
+  },
+
+  {
+    name: 'Jump Trading',
+    img: 'jumptrading-logo.svg',
+    tier: 'bronze',
+    description:
+      'Jump Trading is a trading firm with focuses on algorithmic trading and solving market problems.',
+    link: 'https://www.jumptrading.com/',
   },
 
   {
     name: 'Huawei',
-    img: 'huawei.webp',
+    img: 'huawei-logo.svg',
     tier: 'platinum',
-    description: 'Huawei is a leading global provider of information and communications technology (ICT) infrastructure and smart devices.',
+    description:
+      'Huawei is a leading global provider of information and communications technology (ICT) infrastructure and smart devices.',
     link: 'https://www.huawei.com/',
-    shortlink: 'https://shorturl.at/x08YH',
+  },
+
+  // {
+  //   name: 'Bending Spoons',
+  //   img: 'bending-spoons.png',
+  //   tier: 'silver',
+  //   description: 'Impossible. Maybe. Bending spoons is a technology market leader serving nearly a billion across the globe.',
+  //   link: 'https://bendingspoons.com'
+  // },
+
+  {
+    name: 'Hudson River Trading',
+    img: 'hrt-logo.png',
+    tier: 'platinum',
+    description:
+      'Hudson River Trading (HRT) is a leading quantitative trading firm at the forefront of technical innovation in global financial markets.',
+    link: 'https://www.hudsonrivertrading.com/',
   },
 
   {
-    name: 'Bending Spoons',
-    img: 'bending-spoons.png',
+    name: 'InstaLILY',
+    img: 'instalily-logo.png',
     tier: 'silver',
-    description: 'Impossible. Maybe. Bending spoons is a technology market leader serving nearly a billion across the globe.',
-    link: 'https://bendingspoons.com',
-    shortlink: 'https://shorturl.at/ahcgX',
-
+    description:
+      'InstaLILY builds autonomous AI agents for the businesses that make, move and fix the physical economy.',
+    link: 'https://www.instalily.ai/',
   },
 
+  {
+    name: 'Wordsmith AI',
+    img: 'wordsmithai-logo.png',
+    tier: 'silver',
+    description:
+      'Wordsmith AI is an Edinburgh-based company building the command centre for in-house legal teams.',
+    link: 'https://www.wordsmith.ai/',
+  },
+
+  {
+    name: 'The Robotics Company',
+    img: 'theroboticscompany-logo.png',
+    tier: 'bronze',
+    description:
+      'The Robotics Company is solving deployment infrastructure for robots at scale.',
+    link: 'https://www.theroboticscompany.com/',
+  },
+  {
+    name: 'IMC Trading',
+    img: 'imctrading-logo.svg',
+    tier: 'gold',
+    description:
+      'IMC is a global trading firm powered by a cutting-edge research environment and a world-class technology backbone.',
+    link: 'https://www.imc.com/eu',
+  },
+  {
+    name: 'Metaview',
+    img: 'metaview-logo.svg',
+    tier: 'gold',
+    description:
+      'Metaview is an applied AI lab building end-to-end recruiting agents that feel like coworkers.',
+    link: 'https://www.metaview.ai/',
+  },
 ]

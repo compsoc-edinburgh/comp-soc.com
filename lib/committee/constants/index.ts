@@ -20,6 +20,7 @@ export const ROLE_EMAILS: Record<Role, Nullable<string>> = {
   [Role.SECOND_YEAR_REP]: 'secondrep@comp-soc.com',
   [Role.THIRD_YEAR_REP]: 'thirdrep@comp-soc.com',
   [Role.FOURTH_YEAR_REP]: 'fourthrep@comp-soc.com',
+  [Role.MASTERS_REP]: 'mastersrep@comp-soc.com',
   [Role.OLD_PERSON_REP]: 'oldrep@comp-soc.com',
   [Role.EDI_REP]: 'edirep@comp-soc.com',
   [Role.IMAGE_AND_PR]: null,

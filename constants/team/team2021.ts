@@ -15,12 +15,6 @@ export const team2021: Committee[] = [
     surname: 'Shrimpton',
     role: Role.VICE_PRESIDENT,
     image: 'aria-1.png',
-    links: [
-      {
-        type: LinkType.LINKEDIN,
-        url: 'https://www.linkedin.com/in/oscar-shrimpton-07b62a1a5',
-      },
-    ],
   },
   {
     name: 'Karthik',

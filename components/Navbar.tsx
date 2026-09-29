@@ -32,21 +32,34 @@ const NavLink = ({
   isActive,
   onClick,
   className,
+  external,
 }: {
   href: string
   label: string
   isActive: boolean
   onClick?: () => void
   className?: string
-}) => (
-  <Link
-    href={`${prefix}${href}`}
-    className={`hover:opacity-100 ${isActive ? 'opacity-100' : 'opacity-50'} ${className}`}
-    onClick={onClick}
-  >
-    {label}
-  </Link>
-)
+  external?: boolean
+}) =>
+  external ? (
+    <a
+      href={href}
+      target="_blank"
+      rel="noopener noreferrer"
+      className={`hover:opacity-100 opacity-50 ${className}`}
+      onClick={onClick}
+    >
+      {label}
+    </a>
+  ) : (
+    <Link
+      href={`${prefix}${href}`}
+      className={`hover:opacity-100 ${isActive ? 'opacity-100' : 'opacity-50'} ${className}`}
+      onClick={onClick}
+    >
+      {label}
+    </Link>
+  )
 
 const NavBar = () => {
   const pathname = usePathname()
@@ -91,6 +104,7 @@ const NavBar = () => {
               href={link.href}
               label={link.label}
               isActive={pathname === link.href}
+              external={link.external}
             />
           ))}
         </div>

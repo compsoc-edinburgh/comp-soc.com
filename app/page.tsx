@@ -1,6 +1,5 @@
 'use client'
 
-import EventSection from '@/components/eventsection/EventSection'
 import FAQSection from '../components/faqsection/FAQSection'
 import SponsorSection from '@/components/sponsorsection/SponsorSection'
 import SigSection from '@/components/SIGCards/SigSection'
@@ -19,7 +18,7 @@ export default function Home() {
 
       <SigSection />
 
-      <EventSection />
+      {/*<EventSection />*/}
 
       <FAQSection />
 
