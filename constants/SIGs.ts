@@ -135,8 +135,7 @@ export const SIGs: SIG[] = [
     },
     backgroundColor: '#FF9A02',
     borderColor: '#F1A430',
-    websiteURL:
-      'https://cloudsig.uk/',
+    websiteURL: 'https://cloudsig.uk/',
     calendarURL:
       'c_8251e2c2a6bdc88406401f582ca996f087aea223665091d56b822bf99779e5a4@group.calendar.google.com',
     showCard: true,
@@ -152,7 +151,7 @@ export const SIGs: SIG[] = [
     },
     backgroundColor: '#FFFFFF',
     textColor: '#eb1516',
-    websiteURL: 'https://discord.gg/zcvWwFcyZd',
+    websiteURL: 'https://bitsig.dev/',
     borderColor: '#eb1516',
     calendarURL:
       'c_85d2fd63d7ddc9671768fc01f813e1debac2c2dfbbe3a2903051767beb2cff0f@group.calendar.google.com',
