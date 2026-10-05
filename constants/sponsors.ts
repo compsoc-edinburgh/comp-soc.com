@@ -1,5 +1,4 @@
 import { Sponsor } from '@/lib/sponsor'
-import { link } from 'fs'
 
 export const sponsors: Sponsor[] = [
   // {
