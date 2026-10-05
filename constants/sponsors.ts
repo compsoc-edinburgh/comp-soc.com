@@ -1,4 +1,5 @@
 import { Sponsor } from '@/lib/sponsor'
+import { link } from 'fs'
 
 export const sponsors: Sponsor[] = [
   // {
@@ -203,5 +204,13 @@ export const sponsors: Sponsor[] = [
     description:
       'Metaview is an applied AI lab building end-to-end recruiting agents that feel like coworkers.',
     link: 'https://www.metaview.ai/',
+  },
+  {
+    name: 'JetBrains',
+    img: 'jetbrains-logo.svg',
+    tier: 'silver',
+    description:
+      'JetBrains is a cutting-edge software vendor specializing in the creation of intelligent development tools and the Kotlin programming language.',
+    link: 'https://www.jetbrains.com/',
   },
 ]
