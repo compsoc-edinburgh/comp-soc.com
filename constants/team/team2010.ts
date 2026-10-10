@@ -30,8 +30,8 @@ export const team2010: Committee[] = [
     // No URL provided
   },
   {
-    name: 'John',
-    surname: 'Welch',
+    name: 'Skye',
+    surname: 'McFall',
     role: Role.TECHNICAL_SECRETARY,
     image: '',
     // No URL provided
