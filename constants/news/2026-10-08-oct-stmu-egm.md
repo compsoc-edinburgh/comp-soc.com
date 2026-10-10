@@ -30,6 +30,10 @@ Details for the STMU will be updated soon - stay tuned!
   - Gain hands-on experience in the financials of managing a £100,000+ balance sheet.
   - Obtain valuable insights into financial management and prepare for a potential future role as Treasurer.
 
+- Social Media Officer
+  - Responsible for creating engaging content for CompSoc's 2,000+ combined social media followers.
+  - Work closely with CompSoc's Executive Committee and Graphic Designer to grow CompSoc's online presence and create effective campaigns to advertise events and job opportunities.
+
 ### How do I run?
 
 To run for one of these roles:
