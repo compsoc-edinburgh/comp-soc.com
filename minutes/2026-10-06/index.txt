@@ -1,0 +1,51 @@
+3:I[39275,[],""]
+5:I[61343,[],""]
+6:I[84269,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-27299e249fa17905.js","173","static/chunks/173-a4fc881f158b666a.js","250","static/chunks/250-f46a353d0d67b303.js","185","static/chunks/app/layout-464ae03f78972616.js"],"default"]
+7:I[35719,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-27299e249fa17905.js","173","static/chunks/173-a4fc881f158b666a.js","250","static/chunks/250-f46a353d0d67b303.js","185","static/chunks/app/layout-464ae03f78972616.js"],"default"]
+8:I[42452,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-27299e249fa17905.js","173","static/chunks/173-a4fc881f158b666a.js","250","static/chunks/250-f46a353d0d67b303.js","185","static/chunks/app/layout-464ae03f78972616.js"],"default"]
+9:I[92056,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-27299e249fa17905.js","173","static/chunks/173-a4fc881f158b666a.js","250","static/chunks/250-f46a353d0d67b303.js","185","static/chunks/app/layout-464ae03f78972616.js"],"default"]
+4:["slug","2026-10-06","d"]
+0:["vI1wMbTHT9NjS4JpP0kGF",[[["",{"children":["minutes",{"children":[["slug","2026-10-06","d"],{"children":["__PAGE__?{\"slug\":\"2026-10-06\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["minutes",{"children":[["slug","2026-10-06","d"],{"children":["__PAGE__",{},[["$L1","$L2",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5071fba01565cfd4.css","precedence":"next","crossOrigin":"$undefined"}]]],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","minutes","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","minutes","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/9d398337991569ee.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"relative overflow-x-clip w-screen mx-auto","children":[["$","$L6",null,{"children":["$","$L7",null,{"children":[["$","$L8",null,{}],["$","div",null,{"className":"container mx-auto max-w-screen-xl p-4 pb-32 min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}]]}]}],["$","$L9",null,{}]]}]}]],null],null],["$La",null]]]]
+b:I[95423,["90","static/chunks/90-27299e249fa17905.js","820","static/chunks/app/minutes/%5Bslug%5D/page-c3c38c8a089db779.js"],"default"]
+c:Tad7,<h1>CompSoc Meeting Minutes 2026-10-06</h1>
+<h2>Attendees</h2>
+<h3>Committee</h3>
+<ul>
+<li>Kaiwen - President</li>
+<li>Aarav - Secretary</li>
+<li>Dhyey - Treasurer</li>
+<li>Luc - Vice President</li>
+<li>Skye - Tech Secretary</li>
+<li>Abdulwahid - 3rd Year Rep</li>
+<li>Emily - EDI Rep</li>
+</ul>
+<h3>SIG Reps</h3>
+<ul>
+<li>Izzy - TypeSig</li>
+<li>Teoh - EVP</li>
+<li>Lucas - SIGINT</li>
+<li>Micheal B - QuantSoc</li>
+<li>Kacper - BitSIG</li>
+</ul>
+<h2>Items</h2>
+<h3>QuantSoc Resolution</h3>
+<p>These listed points regarding <strong>QuantSoc</strong> are <strong>private</strong> and can be accessed by the committee members on Discord. Contact Secretary regarding more details.</p>
+<h3>Constitution</h3>
+<ul>
+<li>The EUSA has updated a new constitution template that is a requirement to be adopted by our society at an <strong>EGM or AGM</strong>. You can find a downloadable copy of the new constitution template <a href="https://assets-cdn.sums.digital/ED/Student_Ops/2026_Society_Constitution_Template_-_FINAL0210.docx">here</a>.</li>
+<li>We have skimmed through this new constitution template in this meeting. We need to divide the work amongst blocks of committee members to finalize the work on a few pointers throughout the new given template. This is to be added to the agenda for the next meeting.</li>
+<li><strong>4.6 and 4.7</strong> - Member benefits and Public benefits can be separately defined and benefits to members can be changed to benefits to students to avoid issues for sponsors.</li>
+<li><strong>6.1.2 and 6.1.4</strong> needs to be looked at before enforcing, potentially requires changes</li>
+<li><strong>7.4.4</strong> needs to be modified mainly, extreme case for reflection of the committee</li>
+<li><strong>11.1.2</strong> need an understanding of it, <strong>11.2.3</strong> fight EUSA, strip this point, ideally committee can always ban a member if the complaint against them is of serious nature</li>
+<li>SIG Handbook needs to be restricted reference <strong>11.2.8</strong></li>
+<li>Amendment in the constitution - More members in the committee in the agenda for the next meeting</li>
+</ul>
+<h3>STMU</h3>
+<ul>
+<li>Upcoming EGM to be run with <strong>Bloomberg Bpuzzle</strong> event. They are going to confirm next week for <strong>Oct 28</strong> if they would be there. Plans for the event to be structured and finalized. <strong>First year rep speech to be 2 mins long.</strong></li>
+<li>Luc gives planning for the upcoming events until November, already shared in discord. Advertising them together is gonna be a better idea. All the events for November usually are dealing with Quant which can be an attractive idea especially for all the first years.</li>
+<li><strong>JetBrains</strong> is now officially listed as a sponsor</li>
+</ul>2:["$","$Lb",null,{"contentHtml":"$c","title":"2026-10-06","modifiedAt":"$D2026-10-10T02:58:41.232Z"}]
+a:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#353535"}],["$","meta","2",{"charSet":"utf-8"}],["$","title","3",{"children":"CompSoc Edinburgh"}],["$","meta","4",{"name":"description","content":"CompSoc is Edinburgh University's technology society! We're Scotland's best and largest of its kind, and form one of the largest societies within the university."}],["$","link","5",{"rel":"icon","href":"https://comp-soc.com/compsoc-mini.svg"}]]
+1:null
