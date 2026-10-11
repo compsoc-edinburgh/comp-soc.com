@@ -73,7 +73,7 @@ export const SIGs: SIG[] = [
       alt: 'TypeSig logo',
       rounded: 'rounded-none',
     },
-    backgroundColor: '#008EE0',
+    backgroundColor: '#00619b',
     borderColor: '#8AC4E6',
     calendarURL:
       'c_efdb7e98ec82f850eccd0d988409bcaf91a80d19ebb60caec03e3ca5345863fb@group.calendar.google.com',
