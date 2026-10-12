@@ -13,9 +13,11 @@ const AnnouncementBar = ({
   href,
 }: AnnouncementBarProps) => {
   return (
-    <div className={`bg-blue-600 text-white text-center py-2 ${className}`}>
-      <Link href={href}>{children}</Link>
-    </div>
+    <Link href={href}>
+      <div className={`w-full text-white text-center py-2 ${className}`}>
+        {children}
+      </div>
+    </Link>
   )
 }
 
