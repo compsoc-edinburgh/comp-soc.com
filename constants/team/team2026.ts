@@ -215,6 +215,6 @@ export const team2026: Committee[] = [
     //             type: LinkType.GITHUB,
     //             url: "https://github.com/farhaan-mukarram",
     //         },
-        ],
+        // ],
     }
 ]
