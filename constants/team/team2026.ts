@@ -94,16 +94,11 @@ export const team2026: Committee[] = [
         ],
     },
     {
-        name: "Pui",
-        surname: "Hong Freeman Chung",
+        name: "This could be you!",
+        surname: "",
         role: Role.SOCIAL_MEDIA_OFFICER,
-        image: "pui-2026-1.png",
-        links: [
-            {
-                type: LinkType.LINKEDIN,
-                url: "https://www.linkedin.com/in/freemanchung/",
-            }
-        ],
+        // image: "",
+        links: [],
     },
     {
         name: "Iretemi",
@@ -207,19 +202,19 @@ export const team2026: Committee[] = [
     //      },
     //    ],
     //},
-    {
-        name: "Farhaan",
-        surname: "Mukarram",
-        role: Role.MASTERS_REP,
-        links: [
-            {
-                type: LinkType.LINKEDIN,
-                url: "https://www.linkedin.com/in/farhaan-mukarram",
-            },
-            {
-                type: LinkType.GITHUB,
-                url: "https://github.com/farhaan-mukarram",
-            },
+    // {
+    //     name: "Farhaan",
+    //     surname: "Mukarram",
+    //     role: Role.MASTERS_REP,
+    //     links: [
+    //         {
+    //             type: LinkType.LINKEDIN,
+    //             url: "https://www.linkedin.com/in/farhaan-mukarram",
+    //         },
+    //         {
+    //             type: LinkType.GITHUB,
+    //             url: "https://github.com/farhaan-mukarram",
+    //         },
         ],
     }
 ]
