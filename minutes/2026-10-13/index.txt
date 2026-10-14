@@ -1,0 +1,89 @@
+3:I[39275,[],""]
+5:I[61343,[],""]
+6:I[84269,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-27299e249fa17905.js","173","static/chunks/173-a4fc881f158b666a.js","250","static/chunks/250-f46a353d0d67b303.js","185","static/chunks/app/layout-464ae03f78972616.js"],"default"]
+7:I[35719,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-27299e249fa17905.js","173","static/chunks/173-a4fc881f158b666a.js","250","static/chunks/250-f46a353d0d67b303.js","185","static/chunks/app/layout-464ae03f78972616.js"],"default"]
+8:I[42452,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-27299e249fa17905.js","173","static/chunks/173-a4fc881f158b666a.js","250","static/chunks/250-f46a353d0d67b303.js","185","static/chunks/app/layout-464ae03f78972616.js"],"default"]
+9:I[92056,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-27299e249fa17905.js","173","static/chunks/173-a4fc881f158b666a.js","250","static/chunks/250-f46a353d0d67b303.js","185","static/chunks/app/layout-464ae03f78972616.js"],"default"]
+4:["slug","2026-10-13","d"]
+0:["Tx2UYwygmG4iV12MhoOM8",[[["",{"children":["minutes",{"children":[["slug","2026-10-13","d"],{"children":["__PAGE__?{\"slug\":\"2026-10-13\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["minutes",{"children":[["slug","2026-10-13","d"],{"children":["__PAGE__",{},[["$L1","$L2",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5071fba01565cfd4.css","precedence":"next","crossOrigin":"$undefined"}]]],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","minutes","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","minutes","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/9d398337991569ee.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"relative overflow-x-clip w-screen mx-auto","children":[["$","$L6",null,{"children":["$","$L7",null,{"children":[["$","$L8",null,{}],["$","div",null,{"className":"container mx-auto max-w-screen-xl p-4 pb-32 min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}]]}]}],["$","$L9",null,{}]]}]}]],null],null],["$La",null]]]]
+b:I[95423,["90","static/chunks/90-27299e249fa17905.js","820","static/chunks/app/minutes/%5Bslug%5D/page-c3c38c8a089db779.js"],"default"]
+c:Tcae,<h1>CompSoc Meeting Minutes 2026-10-13</h1>
+<h2>Attendees</h2>
+<h3>Committee</h3>
+<ul>
+<li>Kaiwen - President</li>
+<li>Aarav - Secretary</li>
+<li>Luc - Vice President</li>
+<li>Dhyey - Treasurer</li>
+<li>Aryan - 2nd Year Rep</li>
+</ul>
+<h3>SIG Reps</h3>
+<ul>
+<li>Izzy - TypeSig</li>
+<li>Archie - BitSIG</li>
+<li>Kay - ProjectShare</li>
+<li>Lucas - SIGINT</li>
+<li>Micheal B - QuantSoc</li>
+<li>Kacper - BitSIG</li>
+</ul>
+<h2>Items</h2>
+<h3>InfBall</h3>
+<ul>
+<li><strong>Kay and Kameran</strong> are organising</li>
+<li>Want to find a <strong>better venue than Dynamic Earth</strong></li>
+<li><strong>£10k</strong> to be given this year, £8k was paid last year, <strong>£80 pp</strong>, <strong>200 people</strong></li>
+<li><strong>Two venues</strong> to be finalised by the <strong>end of the month</strong></li>
+<li><strong>Band</strong> used for the caves in the past have contacted us again</li>
+<li>Give Kay, Hellen and Alice's WhatsApp</li>
+</ul>
+<h3>STMU and EGM</h3>
+<ul>
+<li><strong>6-7pm Bpuzzle</strong> event finalised by <strong>Bloomberg</strong>, try starting at <strong>5pm</strong> as we need a lot of people for the EGM</li>
+<li>Year reps to advertise in lectures (<strong>IP and CAFI</strong>), contact the tutors</li>
+<li>Mail the students of <strong>SOI</strong> via Outlook</li>
+<li><strong>IF booked till 9pm</strong></li>
+</ul>
+<h3>Events System</h3>
+<ul>
+<li>Not much to add right now</li>
+<li><strong>Danyil</strong> says it's working</li>
+<li>For the upcoming EGM, we can stick to <strong>Luma</strong></li>
+</ul>
+<h3>Constitution Blocks</h3>
+<ul>
+<li><strong>General public</strong> to be added as a designation</li>
+<li><strong>4.6, 4.7, 4.8</strong> - vote at EGM and AGM</li>
+<li><strong>5.1.10</strong> - committee should have the power in reference to the SIG handbook</li>
+<li><strong>6.1.2 and 6.1.4</strong> - remove both points</li>
+<li>Remove <strong>6.3.2</strong></li>
+<li><strong>6.4</strong> - motions are submitted and can be reviewed in the committee meeting (<strong>Black Box Concept</strong>), removed to be debated within the AGM, <strong>15 seconders</strong>, reference to the committee meetings section</li>
+<li><strong>7.6</strong> - Skye has edited as much as can be accommodated</li>
+<li><strong>8 (Finance)</strong> - 8.12 changed by Skye</li>
+</ul>
+<h3>SIG Handbook Updates</h3>
+<ul>
+<li><strong>President + 2 execs</strong> who report to CompSoc, for the SIG handbook</li>
+<li>Do not want to impose a lot of legislation on SIGs</li>
+<li><strong>8.6</strong> to be referenced to the SIG handbook</li>
+<li>Sort it out with <strong>Merlin (Tardis)</strong> and <strong>QuantSoc</strong></li>
+</ul>
+<h3>One Announcement Per Day Queue</h3>
+<ul>
+<li><strong>2 announcements</strong> consolidated per day, sent at <strong>5pm</strong></li>
+<li>Post it in the announcement queue, aggregate them and send together</li>
+<li>Order of priority (descending):
+<ul>
+<li>Sponsorship posts</li>
+<li>Flagship CompSoc events</li>
+<li>Flagship SIG events</li>
+<li>Weekly announcements</li>
+</ul>
+</li>
+<li>Weekly announcements are not necessary unless it's something new for the SIGS</li>
+</ul>
+<h3>Weekly Committee Meetings</h3>
+<ul>
+<li>Rescheduling the timings to <strong>Monday, 5-6pm</strong></li>
+</ul>2:["$","$Lb",null,{"contentHtml":"$c","title":"2026-10-13","modifiedAt":"$D2026-10-14T07:25:40.191Z"}]
+a:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#353535"}],["$","meta","2",{"charSet":"utf-8"}],["$","title","3",{"children":"CompSoc Edinburgh"}],["$","meta","4",{"name":"description","content":"CompSoc is Edinburgh University's technology society! We're Scotland's best and largest of its kind, and form one of the largest societies within the university."}],["$","link","5",{"rel":"icon","href":"https://comp-soc.com/compsoc-mini.svg"}]]
+1:null
