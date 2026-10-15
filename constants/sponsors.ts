@@ -60,22 +60,52 @@ export const sponsors: Sponsor[] = [
       "Bank of Scotland is part of Lloyds Banking Group, one of the UK's leading financial services groups.",
     link: 'https://www.bankofscotland.co.uk/',
   },
-  /*
+  {
+    name: 'JetBrains',
+    img: 'jetbrains-logo.svg',
+    tier: 'silver',
+    description:
+      'JetBrains is a cutting-edge software vendor specializing in the creation of intelligent development tools and the Kotlin programming language.',
+    link: 'https://www.jetbrains.com/',
+  },
+  {
+    name: 'InstaLILY',
+    img: 'instalily-logo.png',
+    tier: 'silver',
+    description:
+      'InstaLILY builds autonomous AI agents for the businesses that make, move and fix the physical economy.',
+    link: 'https://www.instalily.ai/',
+  },
   {
     name: 'Viridien',
     img: 'viridien-logo.png',
     tier: 'silver',
     description:
       'Viridien is an advanced technology, digitial and earth data company.',
-    link: 'https://www.viridiengroup.com/'
+    link: 'https://www.viridiengroup.com/',
   },
-*/
+  {
+    name: 'Marshall Wace',
+    img: 'marshallwace-logo.svg',
+    tier: 'silver',
+    description:
+      'Marshall Wace is a leading provider of alternative investment solutions.',
+    link: 'https://www.mwam.com/',
+  },
   {
     name: 'Bloomberg',
     img: 'bloomberg-logo.png',
     tier: 'silver',
     description: 'Bloomberg is a financial software, data and media company.',
     link: 'https://www.bloomberg.com/',
+  },
+  {
+    name: 'Wordsmith AI',
+    img: 'wordsmithai-logo.png',
+    tier: 'silver',
+    description:
+      'Wordsmith AI is an Edinburgh-based company building the command centre for in-house legal teams.',
+    link: 'https://www.wordsmith.ai/',
   },
 
   // {
@@ -91,16 +121,14 @@ export const sponsors: Sponsor[] = [
     description: 'Jane Street is a research-driven trading firm.',
     link: 'https://www.janestreet.com/',
   },
-
   {
-    name: 'Marshall Wace',
-    img: 'marshallwace-logo.svg',
-    tier: 'silver',
+    name: 'Jump Trading',
+    img: 'jumptrading-logo.svg',
+    tier: 'bronze',
     description:
-      'Marshall Wace is a leading provider of alternative investment solutions.',
-    link: 'https://www.mwam.com/',
+      'Jump Trading is a trading firm with focuses on algorithmic trading and solving market problems.',
+    link: 'https://www.jumptrading.com/',
   },
-
   {
     name: 'Optiver',
     img: 'optiver-logo.png',
@@ -126,25 +154,14 @@ export const sponsors: Sponsor[] = [
     description: 'TPP is a leading global provider of healthcare technology.',
     link: 'https://tpp-careers.com/',
   },
-
-  {
-    name: 'Jump Trading',
-    img: 'jumptrading-logo.svg',
-    tier: 'bronze',
-    description:
-      'Jump Trading is a trading firm with focuses on algorithmic trading and solving market problems.',
-    link: 'https://www.jumptrading.com/',
-  },
-
-  {
-    name: 'Huawei',
-    img: 'huawei-logo.svg',
-    tier: 'platinum',
-    description:
-      'Huawei is a leading global provider of information and communications technology (ICT) infrastructure and smart devices.',
-    link: 'https://www.huawei.com/',
-  },
-
+  // {
+  //   name: 'Huawei',
+  //   img: 'huawei-logo.svg',
+  //   tier: 'platinum',
+  //   description:
+  //     'Huawei is a leading global provider of information and communications technology (ICT) infrastructure and smart devices.',
+  //   link: 'https://www.huawei.com/',
+  // },
   // {
   //   name: 'Bending Spoons',
   //   img: 'bending-spoons.png',
@@ -160,24 +177,6 @@ export const sponsors: Sponsor[] = [
     description:
       'Hudson River Trading (HRT) is a leading quantitative trading firm at the forefront of technical innovation in global financial markets.',
     link: 'https://www.hudsonrivertrading.com/',
-  },
-
-  {
-    name: 'InstaLILY',
-    img: 'instalily-logo.png',
-    tier: 'silver',
-    description:
-      'InstaLILY builds autonomous AI agents for the businesses that make, move and fix the physical economy.',
-    link: 'https://www.instalily.ai/',
-  },
-
-  {
-    name: 'Wordsmith AI',
-    img: 'wordsmithai-logo.png',
-    tier: 'silver',
-    description:
-      'Wordsmith AI is an Edinburgh-based company building the command centre for in-house legal teams.',
-    link: 'https://www.wordsmith.ai/',
   },
 
   {
@@ -203,13 +202,5 @@ export const sponsors: Sponsor[] = [
     description:
       'Metaview is an applied AI lab building end-to-end recruiting agents that feel like coworkers.',
     link: 'https://www.metaview.ai/',
-  },
-  {
-    name: 'JetBrains',
-    img: 'jetbrains-logo.svg',
-    tier: 'silver',
-    description:
-      'JetBrains is a cutting-edge software vendor specializing in the creation of intelligent development tools and the Kotlin programming language.',
-    link: 'https://www.jetbrains.com/',
   },
 ]
