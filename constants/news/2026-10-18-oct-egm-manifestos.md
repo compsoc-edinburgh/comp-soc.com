@@ -26,6 +26,9 @@ _The views expressed on the following manifestos are the candidates' own and do 
 | **1st Year Rep**         | Stephen Ujunwa        | [Link](https://drive.google.com/file/d/14WPrnbbJ9d_4cQq1dhnVp8vqyxWl6aSr/view?usp=drive_link) |
 |                          | Senthuran Srimurugan  | [Link](https://drive.google.com/file/d/1i6o0KZnIuafjEJFdVsV4VdIeTDl2DZVu/view?usp=drive_link) |
 |                          | Michael Moroz         | [Link](https://drive.google.com/file/d/1IEX3demxyLWQe54SxlnB1VKHI34-CeUv/view?usp=drive_link) |
+|                          | Emre Dayangac         | [Link](https://drive.google.com/file/d/1pGebrzpykhsTxWdBBZ0j-6U5E5cQxchi/view?usp=drive_link) |
 | **Masters Year Rep**     | Rajesh Kumar Kona     | [Link](https://drive.google.com/file/d/1Q6HwtaZqAU0J7bbuJrYNNEda3hUjTfYJ/view?usp=drive_link) |
 | **Junior Treasurer**     | Alvaro Junoy          | [Link](https://drive.google.com/file/d/130SkO5A9mV-cAua216LxDtmJm8nOU_pF/view?usp=drive_link) |
+|                          | Tiam Patel            | [Link](https://drive.google.com/file/d/1oLqdsMpiXnGQcJ7XeVVFvVwfAJY0jX8b/view?usp=drive_link) |
 | **Social Media Officer** | Ruhaan Mahajan        | [Link](https://drive.google.com/file/d/1zTI6x_mfCvuUN-HiYpGqkbK5alR8F44l/view?usp=drive_link) |
+|                          | Jasmin Lee            | [Link](https://drive.google.com/file/d/1oKE-aG9hvVtFeNZg0wELY1V-TwN8b-YI/view?usp=drive_link) |
