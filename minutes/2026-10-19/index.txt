@@ -1,0 +1,93 @@
+3:I[39275,[],""]
+5:I[61343,[],""]
+6:I[84269,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-27299e249fa17905.js","173","static/chunks/173-a4fc881f158b666a.js","250","static/chunks/250-f46a353d0d67b303.js","185","static/chunks/app/layout-464ae03f78972616.js"],"default"]
+7:I[35719,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-27299e249fa17905.js","173","static/chunks/173-a4fc881f158b666a.js","250","static/chunks/250-f46a353d0d67b303.js","185","static/chunks/app/layout-464ae03f78972616.js"],"default"]
+8:I[42452,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-27299e249fa17905.js","173","static/chunks/173-a4fc881f158b666a.js","250","static/chunks/250-f46a353d0d67b303.js","185","static/chunks/app/layout-464ae03f78972616.js"],"default"]
+9:I[92056,["21","static/chunks/4b5b508e-898eaf5b3328333a.js","90","static/chunks/90-27299e249fa17905.js","173","static/chunks/173-a4fc881f158b666a.js","250","static/chunks/250-f46a353d0d67b303.js","185","static/chunks/app/layout-464ae03f78972616.js"],"default"]
+4:["slug","2026-10-19","d"]
+0:["W5GxjFR210NPTVFGPWF80",[[["",{"children":["minutes",{"children":[["slug","2026-10-19","d"],{"children":["__PAGE__?{\"slug\":\"2026-10-19\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["minutes",{"children":[["slug","2026-10-19","d"],{"children":["__PAGE__",{},[["$L1","$L2",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5071fba01565cfd4.css","precedence":"next","crossOrigin":"$undefined"}]]],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","minutes","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","minutes","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/9d398337991569ee.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"relative overflow-x-clip w-screen mx-auto","children":[["$","$L6",null,{"children":["$","$L7",null,{"children":[["$","$L8",null,{}],["$","div",null,{"className":"container mx-auto max-w-screen-xl p-4 pb-32 min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}]]}]}],["$","$L9",null,{}]]}]}]],null],null],["$La",null]]]]
+b:I[95423,["90","static/chunks/90-27299e249fa17905.js","820","static/chunks/app/minutes/%5Bslug%5D/page-c3c38c8a089db779.js"],"default"]
+c:T1141,<h1>CompSoc Meeting Minutes 2026-10-19</h1>
+<h2>Attendees</h2>
+<h3>Committee</h3>
+<ul>
+<li>Kaiwen - President</li>
+<li>Aarav - Secretary</li>
+<li>Dhyey - Treasurer</li>
+<li>Luc - Vice President</li>
+<li>Skye - Technical Secretary</li>
+<li>Emily - EDI Rep</li>
+</ul>
+<h3>SIG Reps and Others</h3>
+<ul>
+<li>Kacper - BitSIG</li>
+<li>Lucas - SIGINT</li>
+<li>Ivan - NeuroTech</li>
+<li>Michael - QuantSoc</li>
+<li>Merlin - Tardis</li>
+<li>Alex - Tardis</li>
+<li>Kanish - CloudSIG</li>
+<li>Danyil</li>
+</ul>
+<h2>Items</h2>
+<h3>EGM + STMU</h3>
+<ul>
+<li><strong>Bloomberg</strong> wanted <strong>3 hours</strong> for <strong>Bpuzzle</strong>, AI-assisted interview prep? System design? <strong>Kaiwen</strong> has the call with them tomorrow and it will be decided after that meeting</li>
+<li>Timings: <strong>5-7pm</strong> STMU, <strong>7-7:20pm</strong> pizza, <strong>7:20-9pm</strong> EGM, <strong>3-4 questions per candidate</strong></li>
+<li><strong>Social after the EGM</strong> - pub? Meal social? <strong>When2meet</strong> link to be given out by <strong>Aarav</strong></li>
+<li><strong>Voting web app</strong>, website hosted on <strong>Tardis</strong>
+<ul>
+<li><strong>Hard deadline</strong> for when the candidates will be in so that <strong>Emily</strong> has enough time to fill in all candidates</li>
+<li>There needs to be <strong>30 mins</strong> to add in the names on the day of the EGM</li>
+<li>Last year's mishap: name read wrong, make it <strong>more obvious on the UI</strong></li>
+</ul>
+</li>
+<li><strong>Announce EGM announcements</strong> - <strong>Aarav</strong> Kaiwen has to give him the details for that</li>
+<li><strong>Lecture announcements</strong> for the latest EGM + STMU
+<ul>
+<li><strong>IP</strong> lecture - <strong>Monday, 4:00-6:00pm</strong> (Fiona McNeill)</li>
+<li><strong>CAFI</strong> lecture - <strong>Tuesday, 1:00-2:00pm</strong> and <strong>Wednesday, 9:00-10:00am</strong> (Heather Ayorston, Bruce Worton)</li>
+<li>Find some time <strong>next week</strong> to announce</li>
+<li><strong>Aryan</strong> - do it for second years</li>
+<li><strong>Anya and Abdulwahid</strong> - discuss who will do CAFI and who will do IP</li>
+</ul>
+</li>
+</ul>
+<h3>Constitution</h3>
+<ul>
+<li>Assign <strong>who has to do what</strong> for the blocks that require changes, to drop TechSec workload - Aarav</li>
+<li><strong>Second draft</strong> is already in, Skye has been working on it</li>
+<li><strong>Staff forum</strong> chat opened regarding the constitution, where all SIG leaders are being informed about it and discussions can take place</li>
+</ul>
+<h3>Announcement Queue</h3>
+<ul>
+<li><strong>Aggregate all the messages</strong> into one and send it out around <strong>5pm</strong></li>
+<li>Order of priority (descending): sponsorship posts, flagship CompSoc events, flagship SIG events, weekly announcements</li>
+<li>Formalising the <strong>calendar post</strong></li>
+<li>Other points discussed in the last meeting</li>
+</ul>
+<h3>Events System</h3>
+<ul>
+<li><strong>Three roles</strong>: SIG execs can work on their own SIGs events only, committee members can do everything</li>
+<li>Features:
+<ul>
+<li><strong>Dynamic forms</strong> - defaults were prepared by the last committee</li>
+<li><strong>Histogram</strong> and similar features are already a part of it</li>
+<li><strong>Accept/reject</strong> people for coming to an event.</li>
+<li><strong>Weekly events</strong> can be shared with ease</li>
+<li>Future prospect: <strong>PWA / mobile</strong></li>
+</ul>
+</li>
+<li><strong>Roadmap</strong>: what has been done, how it works, features it has and should have (what <strong>Danyil</strong> wants)</li>
+<li><strong>Danyil</strong> will work on one specific thing in <strong>December</strong> and is willing to hand it to someone who can work on it</li>
+<li><strong>List of things for the repos to improve</strong> to be given to the next maintainer of the app</li>
+</ul>
+<h3>Halloween Social?</h3>
+<ul>
+<li>We are lagging behind on socials, <strong>Hugo</strong> has been busy.</li>
+<li>We have run this before - <strong>Hoppers</strong> can potentially keep this social with them</li>
+<li>Need to assign <strong>two people in the committee</strong> - <strong>Dhyey</strong> and <strong>Iretemi</strong> have taken the initiative</li>
+<li><strong>Hoppers</strong> have a committee meeting on <strong>Wednesday</strong>, so <strong>Skye</strong> can confirm on that day</li>
+</ul>2:["$","$Lb",null,{"contentHtml":"$c","title":"2026-10-19","modifiedAt":"$D2026-10-19T19:51:19.731Z"}]
+a:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#353535"}],["$","meta","2",{"charSet":"utf-8"}],["$","title","3",{"children":"CompSoc Edinburgh"}],["$","meta","4",{"name":"description","content":"CompSoc is Edinburgh University's technology society! We're Scotland's best and largest of its kind, and form one of the largest societies within the university."}],["$","link","5",{"rel":"icon","href":"https://comp-soc.com/compsoc-mini.svg"}]]
+1:null
