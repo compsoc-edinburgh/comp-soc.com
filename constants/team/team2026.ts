@@ -27,6 +27,7 @@ export const team2026: Committee[] = [
         role: Role.VICE_PRESIDENT,
         sponsorContact: true,
         image: "luc-2026-1.png",
+        sponsorEmail: "vicepresident@comp-soc.com",
         links: [
             {
                 type: LinkType.LINKEDIN,
