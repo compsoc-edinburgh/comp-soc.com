@@ -32,3 +32,4 @@ _The views expressed on the following manifestos are the candidates' own and do 
 |                          | Tiam Patel            | [Link](https://drive.google.com/file/d/1oLqdsMpiXnGQcJ7XeVVFvVwfAJY0jX8b/view?usp=drive_link) |
 | **Social Media Officer** | Ruhaan Mahajan        | [Link](https://drive.google.com/file/d/1zTI6x_mfCvuUN-HiYpGqkbK5alR8F44l/view?usp=drive_link) |
 |                          | Jasmin Lee            | [Link](https://drive.google.com/file/d/1oKE-aG9hvVtFeNZg0wELY1V-TwN8b-YI/view?usp=drive_link) |
+|                          | Rory Condict          | [Link](https://drive.google.com/file/d/1osZ93sWmgofullzfx9oZRbQwcLSGvyss/view?usp=drive_link) |
