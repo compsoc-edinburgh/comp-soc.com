@@ -31,6 +31,8 @@ _The views expressed on the following manifestos are the candidates' own and do 
 | **Masters Year Rep**     | Rajesh Kumar Kona     | [Link](https://drive.google.com/file/d/1Q6HwtaZqAU0J7bbuJrYNNEda3hUjTfYJ/view?usp=drive_link) |
 | **Junior Treasurer**     | Alvaro Junoy          | [Link](https://drive.google.com/file/d/130SkO5A9mV-cAua216LxDtmJm8nOU_pF/view?usp=drive_link) |
 |                          | Tiam Patel            | [Link](https://drive.google.com/file/d/1oLqdsMpiXnGQcJ7XeVVFvVwfAJY0jX8b/view?usp=drive_link) |
+|                          | Ishan Rohatgi         | [Link](https://drive.google.com/file/d/1EBdWk457xQ1kYEKcGCCJfQBrKsEw3S3G/view?usp=drive_link) |
+|                          | James Fenwick         | [Link](https://drive.google.com/file/d/1OnOjXTr1EaZQzg2VVmry9jhes2AKl2Bz/view?usp=drive_link) |
 | **Social Media Officer** | Ruhaan Mahajan        | [Link](https://drive.google.com/file/d/1zTI6x_mfCvuUN-HiYpGqkbK5alR8F44l/view?usp=drive_link) |
 |                          | Jasmin Lee            | [Link](https://drive.google.com/file/d/1oKE-aG9hvVtFeNZg0wELY1V-TwN8b-YI/view?usp=drive_link) |
 |                          | Rory Condict          | [Link](https://drive.google.com/file/d/1osZ93sWmgofullzfx9oZRbQwcLSGvyss/view?usp=drive_link) |
