@@ -23,7 +23,7 @@ _The views expressed on the following manifestos are the candidates' own and do 
 
 | Role                     | Name                  | Manifesto Link |
 | ------------------------ | --------------------- | -------------- |
-| **1st Year Rep**         | Stephen Ujunwa        | [Link](https://drive.google.com/file/d/14WPrnbbJ9d_4cQq1dhnVp8vqyxWl6aSr/view?usp=drive_link) |
+| **1st Year Rep**         | Stephen Ujunwa        | [Link](https://drive.google.com/file/d/18ruCUSc98i1dzornTRaj0ww9ElQ_lMux/view?usp=drive_link) |
 |                          | Senthuran Srimurugan  | [Link](https://drive.google.com/file/d/1i6o0KZnIuafjEJFdVsV4VdIeTDl2DZVu/view?usp=drive_link) |
 |                          | Michael Moroz         | [Link](https://drive.google.com/file/d/1IEX3demxyLWQe54SxlnB1VKHI34-CeUv/view?usp=drive_link) |
 |                          | Emre Dayangac         | [Link](https://drive.google.com/file/d/1pGebrzpykhsTxWdBBZ0j-6U5E5cQxchi/view?usp=drive_link) |
