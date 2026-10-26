@@ -5,7 +5,7 @@ excerpt_separator: '<!--See More-->'
 ---
 # EGM details
 
-Our EGM is happening on October 28th at 19:20 in **G.07** of the Informatics Forum, straight after our STMU (Bpuzzled, 17:00 to 19:00) and pizza.
+Our EGM is happening on October 28th at 19:20 in **G.07** of the Informatics Forum, straight after our STMU (Bloomberg interview prep workshops, 17:00 to 19:00) and pizza.
 
 If you want to vote in the EGM, you need to **[make sure you have CompSoc membership](https://www.eusa.ed.ac.uk/activities/view/compsoc)**.
 
@@ -34,6 +34,7 @@ _The views expressed on the following manifestos are the candidates' own and do 
 |                          | Tiam Patel            | [Link](https://drive.google.com/file/d/1oLqdsMpiXnGQcJ7XeVVFvVwfAJY0jX8b/view?usp=drive_link) |
 |                          | Ishan Rohatgi         | [Link](https://drive.google.com/file/d/1EBdWk457xQ1kYEKcGCCJfQBrKsEw3S3G/view?usp=drive_link) |
 |                          | James Fenwick         | [Link](https://drive.google.com/file/d/1OnOjXTr1EaZQzg2VVmry9jhes2AKl2Bz/view?usp=drive_link) |
+|                          | Fariz Malik           | [Link](https://drive.google.com/file/d/1gMvuuvfXrcmNiDm8_plK6DpTRkrWAp8M/view?usp=drive_link) |
 | **Social Media Officer** | Ruhaan Mahajan        | [Link](https://drive.google.com/file/d/1zTI6x_mfCvuUN-HiYpGqkbK5alR8F44l/view?usp=drive_link) |
 |                          | Jasmin Lee            | [Link](https://drive.google.com/file/d/1oKE-aG9hvVtFeNZg0wELY1V-TwN8b-YI/view?usp=drive_link) |
 |                          | Rory Condict          | [Link](https://drive.google.com/file/d/1osZ93sWmgofullzfx9oZRbQwcLSGvyss/view?usp=drive_link) |
