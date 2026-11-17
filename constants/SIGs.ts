@@ -223,12 +223,12 @@ export const SIGs: SIG[] = [
     showCard: true,
   },
   {
-    name: 'Pourover Leaf',
+    name: 'pouroverleaf',
     description:
       'All about coffee, research, and coffee research. Come discuss tech research and enjoy specialty coffee.',
     icon: {
       src: 'pouroverleaf.webp',
-      alt: 'Pourover Leaf logo',
+      alt: 'pouroverleaf logo',
       rounded: 'rounded-full',
     },
     backgroundColor: '#8B5A2B',
