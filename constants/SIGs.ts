@@ -222,4 +222,20 @@ export const SIGs: SIG[] = [
       'c_4fb46afb6317b412b773b8eed061d961d689d4829c1140a4fb922d76580bbf97@group.calendar.google.com',
     showCard: true,
   },
+  {
+    name: 'pouroverleaf',
+    description:
+      'All about coffee, research, and coffee research. Come discuss tech research and enjoy specialty coffee.',
+    icon: {
+      src: 'pouroverleaf.webp',
+      alt: 'pouroverleaf logo',
+      rounded: 'rounded-full',
+    },
+    backgroundColor: '#8B5A2B',
+    textColor: '#ffffff',
+    websiteURL: 'https://pouroverleaf.org/',
+    borderColor: '#C68B4E',
+    calendarURL: '',
+    showCard: true,
+  },
 ]
