@@ -44,7 +44,7 @@ export const team2026: Committee[] = [
         name: "Dhyey",
         surname: "Mehta",
         role: Role.TREASURER,
-        image: "Dhyey-1.webp",
+        image: "dhyey-2026-1.webp",
         links: [
             {
                 type: LinkType.LINKEDIN,
@@ -169,7 +169,7 @@ export const team2026: Committee[] = [
         name: "Emily",
         surname: "M",
         role: Role.EDI_REP,
-        image: "emily-1.webp",
+        image: "emily-2026-1.webp",
         links: [
             {
                 type: LinkType.LINKEDIN,
