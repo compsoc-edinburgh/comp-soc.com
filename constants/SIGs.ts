@@ -225,16 +225,16 @@ export const SIGs: SIG[] = [
   {
     name: 'pouroverleaf',
     description:
-      'All about coffee, research, and coffee research. Come discuss tech research and enjoy specialty coffee.',
+      'All about coffee, research, and coffee research. Come discuss anything you\'re working on and enjoy specialty coffee.',
     icon: {
       src: 'pouroverleaf.webp',
       alt: 'pouroverleaf logo',
       rounded: 'rounded-full',
     },
-    backgroundColor: '#8B5A2B',
+    backgroundColor: '#710318',
     textColor: '#ffffff',
     websiteURL: 'https://pouroverleaf.org/',
-    borderColor: '#C68B4E',
+    borderColor: '#241a1c',
     calendarURL: '',
     showCard: true,
   },
